@@ -1,0 +1,1084 @@
+                                      
+                                      
+                                      
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="https://www.shanson-plus.ru/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Главная</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Dancing+Script:700" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700" rel='stylesheet' type='text/css' />
+<link href="/templates/hot_flashes/css/template_css.css" rel="stylesheet" type="text/css" />
+<link href="/templates/hot_flashes/css/layout.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+<!--
+body {
+	background-color:#C0C0C0;
+    color:#666;
+}
+
+a:link, a:visited, h2:first-letter {
+	color:#000;
+}
+
+.main_container {
+    width:1000px;
+    border:1px Solid #CCCCCC;
+    background-color:#FFFFFF;
+    box-shadow:0px 15px 45px #000000;
+    -moz-box-shadow:0px 15px 45px #000000;
+    -webkit-box-shadow:0px 15px 45px #000000;
+}
+
+
+.interior_page #topmenu_pad{
+    position:relative;
+	overflow:hidden;
+	height:230px;
+}
+
+.interior_page #topmenu_pad .menu{
+    margin-top:-310px;
+}
+
+.not_interior_page .content_pad{
+   padding-top:0;
+}
+
+.content_wrap, .content_wrap_noleft, .content_wrap_noright, .content_wrap_noleft_noright, .column_left, .column_right {
+	
+}
+
+.column_left {
+	width:150px;
+}
+
+.column_right {
+	width:150px;
+}
+
+
+.content_wrap, .content_wrap_noright, .content_wrap_noleft, .content_wrap_noleft_noright {
+	width:940px;
+}
+
+h1 {
+	color:#336699;
+}
+
+h2 {
+	color:#336699;
+}
+
+.footer_content {
+	width:1000px;
+    margin:0 auto;
+}
+
+.footer_content .module_padding {
+	width:px;
+}
+
+.footer_content ul.menu a:hover {
+	border-bottom:1px dotted #666;
+}
+
+.flashes_copyright, .flashes_copyright a, .footer_content ul.menu a {
+	color:#666 !important;
+}
+
+/* flashes menu */
+
+#topmenu_pad {
+    font-style: normal;
+    font-weight: normal;
+    text-transform:uppercase;
+    letter-spacing: normal;
+    line-height: 1.45em;
+    position:relative;
+    margin:2px auto;
+    height:540px;
+    width:960px;
+    background-position:0 0;
+    background-repeat:no-repeat;
+    background-color:transparent;
+}
+
+#flashes.menu {
+    list-style:none;
+    width:960px;
+	margin: 0;
+    padding: 0;
+}
+
+#flashes.menu > li {
+    float:left;
+    height:540px;
+    border-right:1px solid #ccc;
+    background-repeat:no-repeat;
+    background-color:transparent;
+}
+
+#flashes.menu > li.last{
+    border:none;
+}
+
+#flashes.menu > li > a {
+    float:left;
+    height:50px;
+    margin-top:450px;
+    text-align:center;
+    line-height:50px;
+    color:#FFFFFF;
+    background-color:#336699;
+    letter-spacing:1px;
+    cursor:pointer;
+    text-decoration:none;
+    text-shadow:0px 0px 1px #fff;
+	font-size: 14px;
+}
+
+#flashes.menu > li > a:hover {
+    color:#000;
+	background-color:#FFFFFF;
+}
+
+#flashes.menu > li > ul {
+    list-style:none;
+    float:left;
+    margin:0;
+    margin-top:-180px; /* default will be overided in js */
+    width:100%;
+    height:110px; /* default will be overided in js */
+    padding:20px 0 0 0;
+    background-repeat:repeat-y;
+    background-color:transparent;
+	
+}
+#flashes.menu > li > ul > li {
+    display:none;
+}
+
+#flashes.menu > li > ul > li > a {
+    color:#FFFFFF;
+    text-decoration:none;
+    line-height:30px;
+    margin-left:20px;
+    text-shadow:1px 1px 1px #444;
+    font-size:11px;
+}
+
+#flashes.menu > li > ul > li {
+    display:block;
+}
+
+#flashes.menu > li > ul > li > a:hover {
+    border-bottom:1px dotted #FFFFFF;
+    color:#FFFFFF;
+}
+
+#flashes.menu > li > ul > li  ul,
+#flashes.menu .balloonedLevel {
+    display:none;
+	list-style:none;
+}
+
+.balloonedLevel {
+  padding: 10px 25px;
+  margin:0;
+}
+
+.balloonedLevel,
+#tiptip_content ul {
+  list-style:none;
+}
+
+.balloonedLevel a,
+.balloonedLevel a span,
+#flashes.menu > li > ul > li  ul a,
+#flashes.menu > li > ul > li  ul a span {
+   font-size:11px;
+   color:#FFFFFF;
+   text-decoration:none;
+   line-height:30px;
+}
+
+.balloonedLevel a:hover {
+  color: #000;
+}-->
+</style>
+
+<script type="text/javascript" src="/templates/hot_flashes/js/jquery.min.js"></script>
+<script type="text/javascript">
+     jQuery.noConflict();
+</script>
+
+
+<!-- OPERA FIX -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  if (window.opera) {
+    jQuery(".content_wrap, .content_wrap_noleft, .content_wrap_noright, .content_wrap_noleft_noright").css('margin-bottom','0');
+  }
+});
+</script>
+
+<!-- FLASHES MENU START -->
+<script type="text/javascript" src="/templates/hot_flashes/js/jquery.bgpos.js"></script>
+<script type="text/javascript" src="/templates/hot_flashes/js/jquery.balloon.min.js"></script>
+<style id="menu_flashes_stylesheet" type="text/css">
+.sub1 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/sub1.png');
+  }
+  .sub2 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/sub2.png');
+  }
+  .sub3 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/sub3.png');
+  }
+  .sub4 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/sub4.png');
+  }
+  .sub5 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/sub5.png');
+  }
+  .bg1 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/bg1.jpg');
+  }
+  .bg2 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/bg2.jpg');
+  }
+  .bg3 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/bg3.jpg');
+  }
+  .bg4 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/bg4.jpg');
+  }
+  .bg5 { 
+     background:url('http://www.shanson-plus.ru/templates/hot_flashes/images/menu/bg5.jpg');
+  }
+  </style>
+
+<script type="text/javascript">
+
+ var mnuFlshesWidth = 960;
+ var mnuFlshesSubItemsColor = "#FFFFFF";
+ var mnuFlshesRootItemsBackground = "#336699";
+ var mnuFlshesRootItemsHieght = 50;
+ var siteBaseLink = "http://www.shanson-plus.ru/";
+</script>
+<script type="text/javascript" src="/templates/hot_flashes/flashes_menu/menu.js"></script>
+<!-- FLASHES MENU END -->
+
+</head>
+<body>
+<div style="position:absolute;top:0;left:-9999px;">
+<a href="http://joomla4ever.ru/hotjoomla/1406-hot-flashes.html" title="HOT Flashes - шаблон joomla" target="_blank">HOT Flashes - шаблон joomla</a>
+<a href="http://cms-joomla.org/" title="Joomla" target="_blank">Joomla</a>
+</div>
+<div class="flashes_logo">
+
+<div class="custom"  >
+	<div id="dolkabanner" style="text-align: center;"> <img src="/forums/Themes/BlueBird/images/theme/logo.png" border="0" alt="Шансон Плюс" width="488" height="120" style="border: 0;" /></div>
+<p> </p></div>
+</div>
+<div class="main_container">
+  <div class="not_interior_page">
+            <div id="topmenu">
+            <div id="topmenu_pad">
+                
+<ul class="menu" id="flashes">
+<li class="item-132 current active"><a href="/" >Главная</a></li><li class="item-133"><a href="/index.php/2015-02-24-18-50-50" >Релизы</a></li><li class="item-134"><a href="http://shanson-plus.ru/forums/index.php" >Форум</a></li><li class="item-136"><a href="https://www.shanson-plus.ru/forums/index.php?page=page1421" title="Радио Шансон Плюс">Радио</a></li><li class="item-135"><a href="/index.php/2015-02-24-19-02-48" >Контакты</a></li></ul>
+
+            </div>
+        </div>
+        <div class="clr"></div>
+                <div class="not_main_area">
+                        <div class="content_wrap_noleft_noright">
+                <div class="content_pad">
+                                        <div class="module_user1">
+                        		<div class="moduletable">
+					
+
+<div class="custom"  >
+	<h4 style="text-align: center;"> </h4>
+<h3 style="text-align: center;">Мы рады приветствовать Вас на сайте Шансон Плюс!</h3>
+<h4 style="text-align: center;">Наш сайт посвящён музыке. Но, главное место мы отводим Русскому Шансону.<br />Но не только шансон найдёте Вы у нас! <br />Само название сайта - ”Шансон Плюс” подразумевает и другие музыкальные направления.</h4>
+<h4 style="text-align: center;">Зарегистрируйтесь на Форуме и заходите в гости! <br />Регистрация – бесплатная!</h4>
+<p> </p>
+<hr /></div>
+		</div>
+			<div class="moduletable">
+					﻿<div align=center><p><h3 style="text-align: center;">НОВИНКИ САЙТА</h3><br><table cellspacing="5px">  <tr>
+		<td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="10px"> </td>
+		</tr>
+		<tr> <td></td><td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171052.msg794054#msg794054" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="ВИА &quot;Славяне&quot; г.Рассказово 1976г." title="ВИА &quot;Славяне&quot; г.Рассказово 1976г." height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171052.msg794054#msg794054" target="_blank"> <span style="color:#215376">ВИА &quot;Славяне&quot; г.Рассказово 1976г. </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=124832 " class="bbc_link" target="_blank"> <b>Lenin Sity </b></a>  <br>  Дата: <b>12.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=351" class="bbc_link" target="_blank"> <b>Альбомы </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=350" class="bbc_link" target="_blank"> <b>Музыка улицы и радиоэфира </b> </a> <br>  Просмотров: <b>42 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171050.msg794052#msg794052" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/12/013e859e6dbeabdbca.jpg" alt="Субботина Инна - Я начинаю игру 2005 (ape)" title="Субботина Инна - Я начинаю игру 2005 (ape)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171050.msg794052#msg794052" target="_blank"> <span style="color:#215376">Субботина Инна - Я начинаю игру 2005 (ape) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>71 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171049.msg794051#msg794051" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/12/012fe52a887fc957bd.jpg" alt="Инна Субботина - Французский поцелуй 2012 (flac)" title="Инна Субботина - Французский поцелуй 2012 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171049.msg794051#msg794051" target="_blank"> <span style="color:#215376">Инна Субботина - Французский поцелуй 2012 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>71 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171048.msg794046#msg794046" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/11/01cb48ae07efa66234.jpg" alt="Вольдемар ибн Кобозя и гр.Базар-вокзал - Страна дураков 1991 (flac)" title="Вольдемар ибн Кобозя и гр.Базар-вокзал - Страна дураков 1991 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171048.msg794046#msg794046" target="_blank"> <span style="color:#215376">Вольдемар ибн Кобозя и гр.Базар-вокзал - Страна дураков 1991 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>86 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171047.msg794036#msg794036" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/11/0145406abe73335923.jpg" alt="Семён Канада - Непогашенный свет 2013 (flac)" title="Семён Канада - Непогашенный свет 2013 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171047.msg794036#msg794036" target="_blank"> <span style="color:#215376">Семён Канада - Непогашенный свет 2013 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>51 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171046.msg794035#msg794035" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/11/01792d21046303588b.jpg" alt="Семён Канада - Позови меня в гости 2007 (flac)" title="Семён Канада - Позови меня в гости 2007 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171046.msg794035#msg794035" target="_blank"> <span style="color:#215376">Семён Канада - Позови меня в гости 2007 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>55 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171045.msg794032#msg794032" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/019a2c6e720d923f42.jpg" alt="Карев Вадим - C гр.Разгуляй 1991(192)" title="Карев Вадим - C гр.Разгуляй 1991(192)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171045.msg794032#msg794032" target="_blank"> <span style="color:#215376">Карев Вадим - C гр.Разгуляй 1991(192) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>99 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171044.msg794031#msg794031" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/dsF244Ty/01.jpg" alt="Нео рай - Я проклинаю тебя, Зая 2020(320)" title="Нео рай - Я проклинаю тебя, Зая 2020(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171044.msg794031#msg794031" target="_blank"> <span style="color:#215376">Нео рай - Я проклинаю тебя, Зая 2020(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>111 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171043.msg794030#msg794030" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/02/14/015856c14acf05786e.jpg" alt="Небо гр. - Правда 2022(320)" title="Небо гр. - Правда 2022(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171043.msg794030#msg794030" target="_blank"> <span style="color:#215376">Небо гр. - Правда 2022(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>71 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171042.msg794028#msg794028" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/11/01102204f30a1b9682.jpg" alt="Картавцев Андрей - В твоих глазах 2025(320)" title="Картавцев Андрей - В твоих глазах 2025(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171042.msg794028#msg794028" target="_blank"> <span style="color:#215376">Картавцев Андрей - В твоих глазах 2025(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>61 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171037.msg794024#msg794024" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://imageup.ru/img242/4999870/front.jpg" alt="Modus – 99 Zápaliek(1981)" title="Modus – 99 Zápaliek(1981)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171037.msg794024#msg794024" target="_blank"> <span style="color:#215376">Modus – 99 Zápaliek(1981) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=558580 " class="bbc_link" target="_blank"> <b>ur7 </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=373" class="bbc_link" target="_blank"> <b>Винил Зарубежный </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>62 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171036.msg794023#msg794023" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/fyKzJsjp/08-09-2022.jpg" alt="Губин Константин (Петлюра и гр.Пацаны) - Честный разговор (программа) 08.09.2022" title="Губин Константин (Петлюра и гр.Пацаны) - Честный разговор (программа) 08.09.2022" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171036.msg794023#msg794023" target="_blank"> <span style="color:#215376">Губин Константин (Петлюра и гр.Пацаны) - Честный разговор (программа) 08.09.2022 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=133593 " class="bbc_link" target="_blank"> <b>Sam MC </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>174 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171035.msg794020#msg794020" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="ВИА &quot;Славяне&quot; г.Рассказово 1975г." title="ВИА &quot;Славяне&quot; г.Рассказово 1975г." height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171035.msg794020#msg794020" target="_blank"> <span style="color:#215376">ВИА &quot;Славяне&quot; г.Рассказово 1975г. </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=124832 " class="bbc_link" target="_blank"> <b>Lenin Sity </b></a>  <br>  Дата: <b>11.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=351" class="bbc_link" target="_blank"> <b>Альбомы </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=350" class="bbc_link" target="_blank"> <b>Музыка улицы и радиоэфира </b> </a> <br>  Просмотров: <b>180 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171034.msg794010#msg794010" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/01522e26b4acd4916d.jpg" alt="Абдрахманов Евгений - C ансамблем Братья Жемчужные 1979 (wav)" title="Абдрахманов Евгений - C ансамблем Братья Жемчужные 1979 (wav)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171034.msg794010#msg794010" target="_blank"> <span style="color:#215376">Абдрахманов Евгений - C ансамблем Братья Жемчужные 1979 (wav) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>228 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171033.msg794002#msg794002" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/2jTHmfL0/02.jpg" alt="А.П.В - Каторга 2024 (flac)" title="А.П.В - Каторга 2024 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171033.msg794002#msg794002" target="_blank"> <span style="color:#215376">А.П.В - Каторга 2024 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>211 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171031.msg793996#msg793996" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/015b2b6433b094474b.jpg" alt="Семён Канада - Родная жена 2001 (flac)" title="Семён Канада - Родная жена 2001 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171031.msg793996#msg793996" target="_blank"> <span style="color:#215376">Семён Канада - Родная жена 2001 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>71 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171030.msg793992#msg793992" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/cL9yNgRv/Front.jpg" alt="Young, Eldredge &amp; Edison - Laughin' To Keep From Cryin'. LP Verve MGV-8316(1958)" title="Young, Eldredge &amp; Edison - Laughin' To Keep From Cryin'. LP Verve MGV-8316(1958)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171030.msg793992#msg793992" target="_blank"> <span style="color:#215376">Young, Eldredge &amp; Edison - Laughin' To Keep From Cryin'. LP Verve MGV-8316(1958) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=571348 " class="bbc_link" target="_blank"> <b>alod382 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=376" class="bbc_link" target="_blank"> <b>Винил Джаз </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>63 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171029.msg793986#msg793986" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/01536776c7f1db2295.jpg" alt="Калина Виктор - Генералы дворов 2003 (flac)" title="Калина Виктор - Генералы дворов 2003 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171029.msg793986#msg793986" target="_blank"> <span style="color:#215376">Калина Виктор - Генералы дворов 2003 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>69 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171028.msg793985#msg793985" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/01a441502fcfdab389.jpg" alt="Новиков Валерий - Здравствуйте, соседи! 2025(320)" title="Новиков Валерий - Здравствуйте, соседи! 2025(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171028.msg793985#msg793985" target="_blank"> <span style="color:#215376">Новиков Валерий - Здравствуйте, соседи! 2025(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>151 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171027.msg793984#msg793984" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/wFR264d8/01.jpg" alt="Немытов Игорь и гр. Немытый оркестр - Шпильки 1997(320)" title="Немытов Игорь и гр. Немытый оркестр - Шпильки 1997(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171027.msg793984#msg793984" target="_blank"> <span style="color:#215376">Немытов Игорь и гр. Немытый оркестр - Шпильки 1997(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>136 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171026.msg793982#msg793982" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/02/14/0156072b42e9b3b201.jpg" alt="Небо гр. - Время идет 2012(320)" title="Небо гр. - Время идет 2012(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171026.msg793982#msg793982" target="_blank"> <span style="color:#215376">Небо гр. - Время идет 2012(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>96 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171024.msg793977#msg793977" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/011b5fab3f9ac91cfd.jpg" alt="Новиков Валерий - Когда со мною жизнь жестока 2023 (flac)" title="Новиков Валерий - Когда со мною жизнь жестока 2023 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171024.msg793977#msg793977" target="_blank"> <span style="color:#215376">Новиков Валерий - Когда со мною жизнь жестока 2023 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>82 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171022.msg793957#msg793957" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="Михаил Никульников &quot;Второй концерт под синтезатор&quot;" title="Михаил Никульников &quot;Второй концерт под синтезатор&quot;" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171022.msg793957#msg793957" target="_blank"> <span style="color:#215376">Михаил Никульников &quot;Второй концерт под синтезатор&quot; </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=124832 " class="bbc_link" target="_blank"> <b>Lenin Sity </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=356" class="bbc_link" target="_blank"> <b>Песни радиохулиганов </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=350" class="bbc_link" target="_blank"> <b>Музыка улицы и радиоэфира </b> </a> <br>  Просмотров: <b>140 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171021.msg793942#msg793942" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/01a441502fcfdab389.jpg" alt="Новиков Валерий - Здравствуйте, соседи! 2025 (flac)" title="Новиков Валерий - Здравствуйте, соседи! 2025 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171021.msg793942#msg793942" target="_blank"> <span style="color:#215376">Новиков Валерий - Здравствуйте, соседи! 2025 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>105 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171020.msg793941#msg793941" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/10/0102d81d1e61e164a0.jpg" alt="Оршуляк Андрей - Вояж. Записки советского офицера-2 2024(320)" title="Оршуляк Андрей - Вояж. Записки советского офицера-2 2024(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171020.msg793941#msg793941" target="_blank"> <span style="color:#215376">Оршуляк Андрей - Вояж. Записки советского офицера-2 2024(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>10.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=361" class="bbc_link" target="_blank"> <b>Военный шансон MP3/Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=360" class="bbc_link" target="_blank"> <b>Военный шансон </b> </a> <br>  Просмотров: <b>118 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171019.msg793918#msg793918" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/Pfm0Hbcy/Grandes-Exitos-Italianos-en-Espanol-Vol-5-2015.jpg" alt="VA - Grandes Exitos Italianos en Espanol Vol. 5 (2015) (flac)" title="VA - Grandes Exitos Italianos en Espanol Vol. 5 (2015) (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171019.msg793918#msg793918" target="_blank"> <span style="color:#215376">VA - Grandes Exitos Italianos en Espanol Vol. 5 (2015) (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=536827 " class="bbc_link" target="_blank"> <b>tema1966 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=391" class="bbc_link" target="_blank"> <b>Всемирная музыка Lossless  </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=389" class="bbc_link" target="_blank"> <b>Всемирная музыка </b> </a> <br>  Просмотров: <b>160 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171018.msg793914#msg793914" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/mk6WwxsW/Front.jpg" alt="Лев Лещенко. LP Мелодия С60-07891-2 (1976) (320 kbps)" title="Лев Лещенко. LP Мелодия С60-07891-2 (1976) (320 kbps)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171018.msg793914#msg793914" target="_blank"> <span style="color:#215376">Лев Лещенко. LP Мелодия С60-07891-2 (1976) (320 kbps) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=571348 " class="bbc_link" target="_blank"> <b>alod382 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=372" class="bbc_link" target="_blank"> <b>Винил Советский </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>104 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171016.msg793897#msg793897" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/09/01494dc85132b0ace9.jpg" alt="Канада Семен - Пьяница 1999 (flac)" title="Канада Семен - Пьяница 1999 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171016.msg793897#msg793897" target="_blank"> <span style="color:#215376">Канада Семен - Пьяница 1999 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>107 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171015.msg793896#msg793896" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/09/01e7e227df4f1ee5a2.jpg" alt="Семён Канада - Без тебя 2009 (flac)" title="Семён Канада - Без тебя 2009 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171015.msg793896#msg793896" target="_blank"> <span style="color:#215376">Семён Канада - Без тебя 2009 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>87 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171014.msg793895#msg793895" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/09/01c2ac06573edfd251.jpg" alt="Ваткин Илья и группа «КУПЕ» - Я иду по-ка-вру... 2003 (flac)" title="Ваткин Илья и группа «КУПЕ» - Я иду по-ка-вру... 2003 (flac)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171014.msg793895#msg793895" target="_blank"> <span style="color:#215376">Ваткин Илья и группа «КУПЕ» - Я иду по-ка-вру... 2003 (flac) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>100 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171012.msg793872#msg793872" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/c1gy3QFB/057yd-GYXKa-Cj-Zw-UXbp-PNYJEg-HM3-J7-Q7fl-OQBcl0t-R9n-KI9-LWfj-Sqazl71i-Yw6-VJIZjq-FOi6w5-XMrf-Lqq-YESTu-Hy-L.jpg" alt="Евгений Григорьев(Жека) - Драгоценные люди 2021" title="Евгений Григорьев(Жека) - Драгоценные люди 2021" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171012.msg793872#msg793872" target="_blank"> <span style="color:#215376">Евгений Григорьев(Жека) - Драгоценные люди 2021 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>624 </b> <br>  Ответов: <b>5 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171011.msg793856#msg793856" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/09/01.jpg" alt="Токарев Вилли - Россия есть, была и будет 1993(MC)" title="Токарев Вилли - Россия есть, была и будет 1993(MC)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171011.msg793856#msg793856" target="_blank"> <span style="color:#215376">Токарев Вилли - Россия есть, была и будет 1993(MC) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>228 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171010.msg793850#msg793850" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/BQxPpPmd/00.jpg" alt="Токарев Вилли - Первый 2018" title="Токарев Вилли - Первый 2018" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171010.msg793850#msg793850" target="_blank"> <span style="color:#215376">Токарев Вилли - Первый 2018 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>276 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171009.msg793848#msg793848" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/Y9nh41qW/00.jpg" alt="Токарев Вилли - Каравай 2018" title="Токарев Вилли - Каравай 2018" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171009.msg793848#msg793848" target="_blank"> <span style="color:#215376">Токарев Вилли - Каравай 2018 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>260 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171008.msg793846#msg793846" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i124.fastpic.org/big/2025/0309/44/b620e927ebba3dd22d5c19aa3f453444.jpg" alt="Кобзон Иосиф - Ночь светла - Золотая коллекция, 1997 год, МС" title="Кобзон Иосиф - Ночь светла - Золотая коллекция, 1997 год, МС" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171008.msg793846#msg793846" target="_blank"> <span style="color:#215376">Кобзон Иосиф - Ночь светла - Золотая коллекция, 1997 год, МС </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=588102 " class="bbc_link" target="_blank"> <b>Тополь </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=662" class="bbc_link" target="_blank"> <b>Эстрада и Ретро </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=660" class="bbc_link" target="_blank"> <b>Российская и Советская музыка   </b> </a> <br>  Просмотров: <b>117 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171007.msg793842#msg793842" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/vH0ScCb2/273536894-0.jpg" alt="Любавин Сергей - Выше только любовь 2023" title="Любавин Сергей - Выше только любовь 2023" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171007.msg793842#msg793842" target="_blank"> <span style="color:#215376">Любавин Сергей - Выше только любовь 2023 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>09.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>210 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171006.msg793838#msg793838" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i124.fastpic.org/big/2025/0309/2b/7ef9b41067564310832951fb8704d62b.jpg" alt="Кобзон Иосиф - Златые горы - Золотая коллекция, 1997 год, МС" title="Кобзон Иосиф - Златые горы - Золотая коллекция, 1997 год, МС" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171006.msg793838#msg793838" target="_blank"> <span style="color:#215376">Кобзон Иосиф - Златые горы - Золотая коллекция, 1997 год, МС </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=588102 " class="bbc_link" target="_blank"> <b>Тополь </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=662" class="bbc_link" target="_blank"> <b>Эстрада и Ретро </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=660" class="bbc_link" target="_blank"> <b>Российская и Советская музыка   </b> </a> <br>  Просмотров: <b>91 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171004.msg793832#msg793832" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.yapx.ru/YirSY.jpg" alt="Морозов Сергей (гр. The Кикс), Трамвай желание, 2003" title="Морозов Сергей (гр. The Кикс), Трамвай желание, 2003" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171004.msg793832#msg793832" target="_blank"> <span style="color:#215376">Морозов Сергей (гр. The Кикс), Трамвай желание, 2003 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=30767 " class="bbc_link" target="_blank"> <b>Pit_ </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=363" class="bbc_link" target="_blank"> <b>Бардовская песня MP3/Lossless/Video </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=362" class="bbc_link" target="_blank"> <b>Бардовская песня </b> </a> <br>  Просмотров: <b>254 </b> <br>  Ответов: <b>3 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171003.msg793822#msg793822" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/08/01.jpg" alt="Рейник Юрий - Я скучаю по тебе 2025(320)" title="Рейник Юрий - Я скучаю по тебе 2025(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171003.msg793822#msg793822" target="_blank"> <span style="color:#215376">Рейник Юрий - Я скучаю по тебе 2025(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>140 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171001.msg793820#msg793820" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/6R21XVCh/01.jpg" alt="Нео рай - Моя красавица 2020(320)" title="Нео рай - Моя красавица 2020(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171001.msg793820#msg793820" target="_blank"> <span style="color:#215376">Нео рай - Моя красавица 2020(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>88 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=171000.msg793819#msg793819" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/03/08/019b261c0f111975ac.jpg" alt="Оршуляк Андрей - Вояж. Записки советского офицера-1 2024(320)" title="Оршуляк Андрей - Вояж. Записки советского офицера-1 2024(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=171000.msg793819#msg793819" target="_blank"> <span style="color:#215376">Оршуляк Андрей - Вояж. Записки советского офицера-1 2024(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=361" class="bbc_link" target="_blank"> <b>Военный шансон MP3/Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=360" class="bbc_link" target="_blank"> <b>Военный шансон </b> </a> <br>  Просмотров: <b>110 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170998.msg793813#msg793813" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/XY2gnVHv/IMG-20250308-141225.jpg" alt="Смунев Илья - Быть добру! 2008" title="Смунев Илья - Быть добру! 2008" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170998.msg793813#msg793813" target="_blank"> <span style="color:#215376">Смунев Илья - Быть добру! 2008 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>240 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170997.msg793811#msg793811" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/cJ45c9jv/IMG-20250308-141158.jpg" alt="Смунев Илья - Философия отношений 2005" title="Смунев Илья - Философия отношений 2005" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170997.msg793811#msg793811" target="_blank"> <span style="color:#215376">Смунев Илья - Философия отношений 2005 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>197 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170996.msg793810#msg793810" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/41bLYC7/Front.jpg" alt="Herb Ellis meets Jimmy Giuffre. LP Verve MG V-8311 (1959 (2017)) (320 kbps)" title="Herb Ellis meets Jimmy Giuffre. LP Verve MG V-8311 (1959 (2017)) (320 kbps)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170996.msg793810#msg793810" target="_blank"> <span style="color:#215376">Herb Ellis meets Jimmy Giuffre. LP Verve MG V-8311 (1959 (2017)) (320 kbps) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=571348 " class="bbc_link" target="_blank"> <b>alod382 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=376" class="bbc_link" target="_blank"> <b>Винил Джаз </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>102 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170994.msg793802#msg793802" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://imageup.ru/img147/4998176/front.jpg" alt="Джаз-оркестр Под Управлением Леонида Утесова – Ночь И День = Night And Day(1988)" title="Джаз-оркестр Под Управлением Леонида Утесова – Ночь И День = Night And Day(1988)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170994.msg793802#msg793802" target="_blank"> <span style="color:#215376">Джаз-оркестр Под Управлением Леонида Утесова – Ночь И День = Night And Day(1988) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=558580 " class="bbc_link" target="_blank"> <b>ur7 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=372" class="bbc_link" target="_blank"> <b>Винил Советский </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>101 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170992.msg793793#msg793793" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="Помогите найти альбом" title="Помогите найти альбом" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170992.msg793793#msg793793" target="_blank"> <span style="color:#215376">Помогите найти альбом </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=543138 " class="bbc_link" target="_blank"> <b>73dimas </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=358" class="bbc_link" target="_blank"> <b>Неопознанное и поиск </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=350" class="bbc_link" target="_blank"> <b>Музыка улицы и радиоэфира </b> </a> <br>  Просмотров: <b>375 </b> <br>  Ответов: <b>6 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170990.msg793787#msg793787" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/7hXxjTKX/IMG-20250308-043708.jpg" alt="Евгений Григорьев(Жека) - Женский каприз 2022" title="Евгений Григорьев(Жека) - Женский каприз 2022" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170990.msg793787#msg793787" target="_blank"> <span style="color:#215376">Евгений Григорьев(Жека) - Женский каприз 2022 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>08.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>319 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170983.msg793714#msg793714" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/PxSJ1jcD/image.jpg" alt="Чупретов Виктор - Путешествие по Санкт-Петербургу с Чижиком-пыжиком 2023" title="Чупретов Виктор - Путешествие по Санкт-Петербургу с Чижиком-пыжиком 2023" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170983.msg793714#msg793714" target="_blank"> <span style="color:#215376">Чупретов Виктор - Путешествие по Санкт-Петербургу с Чижиком-пыжиком 2023 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=329455 " class="bbc_link" target="_blank"> <b>ratnik85 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>243 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170982.msg793713#msg793713" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.yapx.ru/YieiH.jpg" alt="Крупп Арик, Студийная запись" title="Крупп Арик, Студийная запись" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170982.msg793713#msg793713" target="_blank"> <span style="color:#215376">Крупп Арик, Студийная запись </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=30767 " class="bbc_link" target="_blank"> <b>Pit_ </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=363" class="bbc_link" target="_blank"> <b>Бардовская песня MP3/Lossless/Video </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=362" class="bbc_link" target="_blank"> <b>Бардовская песня </b> </a> <br>  Просмотров: <b>155 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170978.msg793695#msg793695" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/02/13/01.jpg" alt="Небесная Ксения - Сумасшедшая любовь 2013(320)" title="Небесная Ксения - Сумасшедшая любовь 2013(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170978.msg793695#msg793695" target="_blank"> <span style="color:#215376">Небесная Ксения - Сумасшедшая любовь 2013(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>105 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170977.msg793693#msg793693" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/8D1sxy66/01.jpg" alt="Нео рай - Лебеди, любите друг друга! 2020(320)" title="Нео рай - Лебеди, любите друг друга! 2020(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170977.msg793693#msg793693" target="_blank"> <span style="color:#215376">Нео рай - Лебеди, любите друг друга! 2020(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>131 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170976.msg793692#msg793692" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/DPtXjDdZ/02.jpg" alt="Небесный Федор - Время перемен 1998(128-320)" title="Небесный Федор - Время перемен 1998(128-320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170976.msg793692#msg793692" target="_blank"> <span style="color:#215376">Небесный Федор - Время перемен 1998(128-320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>150 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170974.msg793659#msg793659" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="Беляев Костя  Домашние зарисовки 1988  WAV" title="Беляев Костя  Домашние зарисовки 1988  WAV" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170974.msg793659#msg793659" target="_blank"> <span style="color:#215376">Беляев Костя  Домашние зарисовки 1988  WAV </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=5602 " class="bbc_link" target="_blank"> <b>passage007 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>196 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170973.msg793655#msg793655" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/brRJsHdF/0005.jpg" alt="Виктор Калина  Снежная королева  WAV" title="Виктор Калина  Снежная королева  WAV" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170973.msg793655#msg793655" target="_blank"> <span style="color:#215376">Виктор Калина  Снежная королева  WAV </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=5602 " class="bbc_link" target="_blank"> <b>passage007 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>194 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170972.msg793654#msg793654" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/50wDVskT/0005.jpg" alt="Владимир Ухтинский  Моим друзьям  WAV" title="Владимир Ухтинский  Моим друзьям  WAV" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170972.msg793654#msg793654" target="_blank"> <span style="color:#215376">Владимир Ухтинский  Моим друзьям  WAV </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=5602 " class="bbc_link" target="_blank"> <b>passage007 </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=349" class="bbc_link" target="_blank"> <b>Русский шансон Lossless </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>598 </b> <br>  Ответов: <b>12 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170971.msg793651#msg793651" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://www.shanson-plus.ru/forums/imagenotfound.jpg" alt="Юрий Сулоев “Популярные песни прошлых лет”  (часть №1)" title="Юрий Сулоев “Популярные песни прошлых лет”  (часть №1)" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170971.msg793651#msg793651" target="_blank"> <span style="color:#215376">Юрий Сулоев “Популярные песни прошлых лет”  (часть №1) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=124832 " class="bbc_link" target="_blank"> <b>Lenin Sity </b></a>  <br>  Дата: <b>07.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=351" class="bbc_link" target="_blank"> <b>Альбомы </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=350" class="bbc_link" target="_blank"> <b>Музыка улицы и радиоэфира </b> </a> <br>  Просмотров: <b>215 </b> <br>  Ответов: <b>1 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170969.msg793634#msg793634" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i124.fastpic.org/big/2025/0306/17/3f45c250ea492b11b295e81b3c74a317.jpg" alt="Марина Хлебникова - Видеоклипы и выступления" title="Марина Хлебникова - Видеоклипы и выступления" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170969.msg793634#msg793634" target="_blank"> <span style="color:#215376">Марина Хлебникова - Видеоклипы и выступления </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=236512 " class="bbc_link" target="_blank"> <b>sergeybiba </b></a>  <br>  Дата: <b>06.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=394" class="bbc_link" target="_blank"> <b>Видео СССР/Россия </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=385" class="bbc_link" target="_blank"> <b>Видео (клипы и концерты) </b> </a> <br>  Просмотров: <b>194 </b> <br>  Ответов: <b>2 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170967.msg793630#msg793630" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.postimg.cc/dQrfrM1r/Front.jpg" alt="Оркестр Берта Кемпферта - Страна чудес Берта Кемпферта. 2LP Мелодия С60-06105-8" title="Оркестр Берта Кемпферта - Страна чудес Берта Кемпферта. 2LP Мелодия С60-06105-8" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170967.msg793630#msg793630" target="_blank"> <span style="color:#215376">Оркестр Берта Кемпферта - Страна чудес Берта Кемпферта. 2LP Мелодия С60-06105-8 </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=571348 " class="bbc_link" target="_blank"> <b>alod382 </b></a>  <br>  Дата: <b>06.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=372" class="bbc_link" target="_blank"> <b>Винил Советский </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=371" class="bbc_link" target="_blank"> <b>Винил </b> </a> <br>  Просмотров: <b>117 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170965.msg793625#msg793625" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://e.radikal.host/2025/02/14/01a240f208af0f92d7.jpg" alt="Небо гр. - Легенды 2008(320)" title="Небо гр. - Легенды 2008(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170965.msg793625#msg793625" target="_blank"> <span style="color:#215376">Небо гр. - Легенды 2008(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>06.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>136 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> <td align=center><div class="main_page"> <br> <br>
+			<a href="https://www.shanson-plus.ru/forums/index.php?topic=170964.msg793624#msg793624" target="_blank">
+			<img style="vertical-align:top; cursor: pointer; border: 1px solid #444; border-radius:5px; box-shadow: 3px 3px 10px rgba(0,0,0,0.8)!important; padding:8px; " src="https://i.ibb.co/bgff9Y0k/01.jpg" alt="Нео рай - Падшая 2019(320)" title="Нео рай - Падшая 2019(320)" width="200" height="200"></a> 
+			<br> <br> 
+		 <b> <a href="https://www.shanson-plus.ru/forums/index.php?topic=170964.msg793624#msg793624" target="_blank"> <span style="color:#215376">Нео рай - Падшая 2019(320) </span></a> </b> <br> <br> <hr> </span> Автор: <a href="https://www.shanson-plus.ru/forums/index.php?action=profile;u=1 " class="bbc_link" target="_blank"> <b>miramax31 </b></a>  <br>  Дата: <b>06.03.2025 </b> <br>  Подкатегория: <a href="https://www.shanson-plus.ru/forums/index.php?board=348" class="bbc_link" target="_blank"> <b>Русский шансон MP3 </b> </a> <br>  Категория: <a href="https://www.shanson-plus.ru/forums/index.php?board=347" class="bbc_link" target="_blank"> <b>Русский шансон </b> </a> <br>  Просмотров: <b>104 </b> <br>  Ответов: <b>0 </b> <br>  <br> </div> </td> <td> </td> 
+	</tr> </table>
+
+ <table cellspacing="5px"> 
+ <tr>
+ <td width="10px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td> <td width="20px"> </td> <td width="300px"> </td><td width="10px"> </td>
+ </tr>
+		<tr> <td></td> </tr></table></p></div> 
+		</div>
+			<div class="moduletable">
+					<hr>
+<br>
+<div align="center">
+<h3 style="text-align: center;">НАШИ ДРУЗЬЯ</h3><br>
+<div align="center"><a href="http://www.shanson.org/"><img src="http://www.shanson.org/images/sh.gif" width="468" height="60" border="0" alt="Шансон - портал"></a></div><br>
+
+
+  <table width="100%" border="0" cellspacing="1" cellpadding="0">
+    <tr>
+      <td align="center"><a href="http://shanson.de/" target="_blank"><img src="http://sorokine.strana.germany.ru/gif/shanson_de_88_31.gif" alt="Обмен МП3 русский шансон" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.shanson.kulichki.com" target="_blank"><img src="http://www.shanson.kulichki.com/pics/logo.gif" alt="Pусский шансон - лучшая музыка в mp3!" height="30" width="88"></a></td>
+
+<td align="center">  
+<a href="http://shansonsindik.at.ua" target="_blank"><img src="http://shansonsindik.at.ua/knopka.jpg" title="Синдикат Шансона - Ничего себе - всё людям!" border="0" height="35" width="94"></a>
+</td>
+      <td align="center"><a href="http://www.malenkayaya.ru"><img src="http://www.malenkayaya.ru/photo/banner_chpd.gif" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.manuelisakov.3dn.ru/" target="_blank"><img style="WIDTH: 92px; HEIGHT: 31px" alt="Официальный сайт мануэля исакова" src="http://www.manuelisakov.3dn.ru/manuelandkavkazwebsite.gif" &#13;&#10;?="" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.kavkazportal.com/"><img src="http://www.kavkazportal.com/Image/knopkasayta.gif" border="0"></a></td>
+      
+<td align="center"><a href="http://gifca1.ru"><img src="http://gifca1.ru/wp-content/uploads/2018/09/Animation2.gif" alt="" width="150" height="55" class="alignnone size-full wp-image-698" /></a></td>
+      <td align="center"><a href="http://www.kavkazwebsite.3dn.ru" target="_blank">
+<img alt="Кавказкий сайт в котором есть всё для вас!
+" src="http://www.kavkazwebsite.3dn.ru/fotoprosto/knopkasaita.gif" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.jigurda.com.ua"><img src="http://www.jigurda.com.ua/logotip2.jpg"></a></td>
+      <td align="center"><a href="http://music70-80.narod.ru/">
+<img src="http://shapiro.ru/mlm88x31.jpg" alt="Музыка 70-80 годов в mp3 и midi" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.ngavan.ru/"> <img src="http://www.ngavan.ru/images/element/icon.gif" alt="В нашу гавань заходили корабли" border="1" height="31" width="88"></a></td>
+      <td align="center"><a href="http://iponarovskaya.narod.ru/" target="_blank"><img src="http://o.foto.radikal.ru/0701/f0ac9e912c71.jpg" alt="Неофициальный сайт Ирины Понаровской" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://1tvrus.forum24.ru/" target="_blank"><img src="http://r.foto.radikal.ru/0704/69/5b51ce4d5bb6.jpg" alt="Форум телезрителей Первого канала всемирная сеть (ПКВС)" border="0"></a></td>
+      <td align="center"><a href="http://www.kandur.ru/"><img src="http://www.malenkayaya.ru/banners/igorkandur.gif" alt="РєРѕРјРїРѕР·РёС‚РѕСЂ РРіРѕСЂСЊ РљР°РЅРґСѓСЂ" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://shanson-obmen.ucoz.ru/"><img src="http://shanson-obmen.ucoz.ru/Myshans.gif" alt="Шансонообменный сайт" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://shanson.narod.ru" target="_blank"><img src="http://shanson.narod.ru/88x31.jpg" alt="Энциклопедия русского шансона" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.gavriluk.com.ua" title="Официальный сайт Олега Гаврилюка">
+<img src="http://www.gavriluk.com.ua/images/gavriluk.jpg" alt="Официальный сайт Олега Гаврилюка" title="Официальный сайт Олега Гаврилюка" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.russianshanson.info" target="_blank"><img src="http://www.russianshanson.info/img/baners/russianshanson.gif" alt="Информационный портал посвященный 
+Русскому шансону.Наиболее полная коллекция свыше 600 исполнителей жанра 
+Русский шансон" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://semyonkataev.ucoz.ru/"><img src="http://semyonkataev.ucoz.ru/skataev_1.gif" border="0"></a></td>
+      <td align="center"><a href="http://muzyka-shanson.narod.ru" title="Русский шансон / MP3"> <img src="http://muzyka-shanson.narod.ru/10.JPG" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.popovd.ru/"><img src="http://www.popovd.ru/images/popovd.gif" alt="Официальный сайт автора и исполнителя Дмитрия Попова - песни о жизни, мр3, тексты, видеоклипы" border="1" height="31" width="88"></a></td>
+      <td align="center"><a href="http://vshansone.ru" target="_blank"><img src="http://vshansone.ru/baners/88x31(2).gif" alt="В Шансоне.РУ - сайт о шансоне, скачать музыку и видео шансон бесплатно" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://pavlecov.ucoz.ru/" target="_blank"><img src="http://pavlecov.ucoz.ru/banners/pavlecov_88x31.gif" alt="Официальный сайт автора-исполнителя Павла Павлецова" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.shilo05.narod.ru"><img src="http://shilo05.narod.ru/66.jpg"></a></td>
+      <td align="center"><a href="http://www.891fm.co.il/"><img src="http://www.891fm.co.il/userfiles/Forum/Knopka891.gif"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a title="Музыка, фильмы, рецепты, общение, игры и многое другое!!!" href="http://www.vsetutonline.com/"><img src="http://vsetutonline.com/banner.gif" border="0" height="30" width="88"></a></td>
+      <td align="center"><a href="http://shala.ru" target="_blank"><img src="http://www.shala.ru/FOTO_files/shala1.gif" alt="Официальный сайт группы Ш.А.Л.А." border="0" height="31" width="88"></a></td>
+      <td align="center"><a title="Кира Кафт" href="http://www.kira-kaft.com/"><img src="http://kira-kaft.ucoz.ru/Banner/BannerMaster8831.gif" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://uspenskaya.info"><img src="http://uspenskaya.info/uspenskaya_info.gif" alt="Сайт Любови Успенской" align="top" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://prista-ps.narod.ru" target="_blank"><img src="http://prista-ps.narod.ru/ban8831.gif" border="0"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.russian-luxus.de/russian_top/" target="_blank" title="Russische Musik"><img src="http://mp3-musicon.de/Images/banner/russian_topliste_ohne_blink.gif" alt="Russische Musik" title="Russische Musik" border="0"></a></td>
+      <td align="center"><a href="http://rjabovvadim.virunet.eu/" title="Официальный Сайт Вадима Рябова" target="_blank"><img src="http://severnaja-t.narod.ru/img/Vadim.gif" alt="Официальный Сайт Вадима Рябова" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://blat-prospect.ucoz.ru/" title="БЛАТ-проспект"> <img src="http://blat-prospect.ucoz.ru/blat-prospect-banner.gif" alt="БЛАТ-проспект" title="БЛАТ-проспект: классический и современный блат, подпольная песня, блатной жанр 80-90 годов, советские барды, ретро-эстрада, эмигранты"></a></td>
+      <td align="center"><a href="http://divanov.ucoz.ru/" target="_blank"><img src="http://divanov.ucoz.ru/35-1.jpg" alt="Дмитрий Иванов официальный сайт" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://warchanson.ru/" target="_blank"><img src="//warchanson.ru/1/45214.gif" alt="Военнаяпесня" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.8zhelaniy.ru"><img src="http://www.8zhelaniy.ru/banner/banner.gif" alt="Дуэт Восемь желаний" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://rospisnoy.3dn.ru/" target="_blank"><img src="http://rospisnoy.3dn.ru/rospis.jpg" alt="Игорь Росписной - Сайт памяти" border="0" height="31" width="88"></a></td>
+      <td align="center"> 
+
+      </td>
+      <td align="center"><a href="http://www.sergei-stos.at.ua" target="_blank"><img src="http://sergei-stos.at.ua/Sergei_Stos.gif" alt="Сайт Сергея Стоса" title="Сайт Сергея Стоса" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://shansonportal.ru/" title="ШансонПортал.Ру"><img src="http://shansonportal.ru/banners/my_banner.gif" alt="ШансонПортал.Ру" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://www.igor-koluha.ru/"><img src="http://www.igor-koluha.ru/images/koluha_shanson.jpg" alt="Игорь Колюха - певец русского шансона" border="0"></a></td>
+      <td align="center"></td>
+      <td align="center"><a href="http://www.shanson.name/" target="_blank" title="Любителям Шансона, только настоящий Шансон"><img src="http://www.shanson.name/shanson_88.gif" alt="Любителям Шансона, только настоящий Шансон" border="0" height="31" width="88"></a></td>
+      <td align="center">
+
+</td>
+      <td align="center"><a href="http://www.amur-chanson.ru" target="_blank" title="Официальный сайт-блог Николая Вольного-Живой шансон Амура"><img src="http://www.amur-chanson.ru/images/banner88x31.gif" alt="Николай Вольный" title="Официальныйсайт-блог Николая Вольного-Живой шансон Амура" border="0" height="31" width="88"></a></td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center"><a href="http://www.razmahova.ru" target="_blank"><img src="http://www.razmahova.ru/ban.gif" title="Ляля Размахова - официальный сайт певицы шансона" alt="Ляля Размахова - официальный сайт певицы шансона" border="0" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.ivan-ivan.ru/"><img src="http://www.ivan-ivan.ru/banners/banner.gif" alt="Группа ИВАН-ИВАН" height="31" width="88"></a></td>
+      <td align="center"><a href="http://www.juliaromanovskaya.ru/" target="_blank"><img src="http://www.juliaromanovskaya.ru/wp-content/uploads/2012/07/881.gif" alt="Юлия Романовская. Официальный сайт" height="31" width="88"></a></td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+  </table>
+<table>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center"><a href="http://kalina-shanson.com/" target="_blank"><img src="http://kalina-shanson.com/images/banners/kalina-shanson.gif " alt="Официальный сайт Виктора Калины" border="0" height="149" width="110"></a></td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center"><a title="Официальный сайт группы &quot;АРМАТУРА&quot;" href="http://www.gr-armatura.ru" target="_blank"><img src="http://www.gr-armatura.ru/user_files/file_20111020_130212_654.jpg" alt=""></a></td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center"><a href="http://shansonkvartet.narod.ru"><img src="http://images.cooltext.com/1943325.png" alt=" Шансон-КвартетИванова-Запольского" height="43" width="159"></a></td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+  </table>
+  
+</div>		</div>
+			<div class="moduletable">
+					<noindex>
+<hr>
+<center><br>
+
+<!-- /HotLog -->
+<script language="javascript">
+hotlog_js="1.0";
+hotlog_r=""+Math.random()+"&s=315976&im=209&r="+escape(document.referrer)+"&pg="+
+escape(window.location.href);
+document.cookie="hotlog=1; path=/"; hotlog_r+="&c="+(document.cookie?"Y":"N");
+</script>
+<script language="javascript1.1">
+hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")
+</script>
+<script language="javascript1.2">
+hotlog_js="1.2";
+hotlog_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+(((navigator.appName.substring(0,3)=="Mic"))?
+screen.colorDepth:screen.pixelDepth)</script>
+<script language="javascript1.3">hotlog_js="1.3"</script>
+<script language="javascript">hotlog_r+="&js="+hotlog_js;
+document.write("<a href='http://click.hotlog.ru/?315976' target='_top'><img "+
+" src='http://hit13.hotlog.ru/cgi-bin/hotlog/count?"+
+hotlog_r+"&' border=0 width=88 height=31 alt=HotLog></a>")
+</script>
+<noscript>
+<a href=http://click.hotlog.ru/?315976 target=_top><img src="http://hit13.hotlog.ru/cgi-bin/hotlog/count?s=315976&im=110" border=0
+ width=88 height=100 alt="HotLog"></a>
+<!--
+<a href=http://click.hotlog.ru/?315976 target=_top><img src="http://hit13.hotlog.ru/cgi-bin/hotlog/count?s=315976&im=209" border=0
+ width=88 height=100 alt="HotLog"></a>
+-->
+</noscript>
+
+<!-- /HotLog -->
+
+<!--LiveInternet counter--><script language="JavaScript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t58.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" title="LiveInternet: показано количество просмотров и посетителей" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+
+<!--begin of Top100-->
+<!--
+<a href="http://top100.rambler.ru/top100/">
+<img src="http://counter.rambler.ru/top100.cnt?810189" alt="Rambler's Top100" width=81 height=31 border=0></a>
+-->
+<!--end of Top100 code-->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2632675", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2632675;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2632675">
+<img src="//top-fwz1.mail.ru/counter?id=2632675;t=478;l=1" 
+style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+<a href="http://www.yandex.ru/cy?base=0&host=http://www.shanson-plus.ru"> <img src="http://www.yandex.ru/cycounter?http://www.shanson-plus.ru" width="88" height="31" alt="Яндекс цитирования" border="0"></a>
+
+<!--Russian America Top-->
+<!--
+<a href="http://www.RussianAmerica.com/top/?id=5625" target="_blank" ><img border=0 width=88 height=31 src="http://www.russianamerica.com/top/logo/index.php?id=5625" alt="Russian America Top.    ."></a>
+-->
+<!--Russian America Top-->
+
+<a href="http://stat.aport.ru/hit.pl?id=1753531">
+<img src="http://stat.aport.ru/show.pl?tp=5&id=1753531" height=31 width=88
+border=0 alt="Registered in Aport Catalog"></a>
+
+<!--Openstat-->
+<span id="openstat1"></span>
+<script type="text/javascript">
+var openstat = { counter: 1, image: 87, color: "458efc", next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat-->
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=28790381&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/28790381/3_1_FFFFFFFF_FAFAFAFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:28790381,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter28790381 = new Ya.Metrika({id:28790381,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/28790381" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Counters END -->
+<br>
+
+
+</noindex>
+		</div>
+	
+                    </div>
+                                        <div class="article_pad">
+                        
+<div id="system-message-container">
+</div>
+                        <div class="blog-featured">
+
+
+
+
+</div>
+
+                    </div>
+                                    </div>
+            </div>
+                        <div class="clr"></div>
+        </div>
+    <div class="clr"></div>
+    </div>
+  <div class="clr"></div>
+</div>
+<div class="flashes_copyright">
+  
+  <p class="copyright">Copyright &copy; 2025 Шансон Плюс</p>
+</div>
+
+</body>
+</html>

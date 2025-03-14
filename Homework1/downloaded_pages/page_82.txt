@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<link rel="canonical" href="https://www.daymusic.ru/">
+<title>Современная, рок музыка</title>
+<meta name="Keywords" content="">
+<meta name="Description" content="Daymusic посвящен современной рок-музыке и ее перспективным направлениям: брит-поп, инди, новый гитарный рок, а также классическим направлениям рок-музыки 60-70-х">
+<meta name="msvalidate.01" content="FD811FE2802B485B4C0B707DB4A9C6A1"/>
+<meta name="wot-verification" content="d8441e6ab8feb33d329b"/>
+<meta name="yandex-verification" content="5b803638d58b5747"/>
+<meta name="verify-admitad" content="24776f6084"/>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<meta property='fb:app_id' content="593338740835828"/>
+<meta property="fb:admins" content="smolov"/>
+<meta property="og:title" content="Современная, рок музыка"/>
+<meta property="og:description" content="Daymusic посвящен современной рок-музыке и ее перспективным направлениям: брит-поп, инди, новый гитарный рок, а также классическим направлениям рок-музыки 60-70-х."/>
+<meta property="og:locale" content="ru_RU"/>
+<meta property="og:image" content="https://www.daymusic.ru/i/daymusic3.jpg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.daymusic.ru/"/>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<link href='//fonts.googleapis.com/css?family=Roboto:900,700,400,400italic&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width, target-densitydpi=middle-dpi">
+<style>body{background-color:#e2e6e7;margin:0;padding:0;font-family:'Roboto',sans-serif;font-size:14px;line-height:120%;-webkit-font-smoothing:antialiased}h1{font-size:300%;line-height:100%;letter-spacing:-1px;font-weight:400}img{border:0}b{font-weight:700}a{color:#e30020}section#content2 iframe{max-width:100%}footer#copy{font-size:14px;font-weight:900;height:20px;width:100%;clear:both}footer div{padding:15px}.top_link{cursor:pointer;border-bottom:1px dashed #000}.top_link.active{cursor:default;border-bottom:1px solid transparent}#top{height:50px;background-color:#e40021;position:fixed;top:0;width:100%;z-index:1000}#logo{width:200px;height:25px;margin-top:12px;margin-left:15px;display:inline-block;float:left}#logo img{width:200px;height:25px}#logo span{position:absolute;color:#fff;text-transform:uppercase;left:220px;width:84px;top:10px}#content2 article{background-color:#fff}.dm_block{width:240px;border-radius:4px;margin-bottom:5px;margin-top:5px;float:left;background-color:#000;box-shadow:0 1px 2px rgba(0,0,0,.25);cursor:pointer;text-rendering:optimizeLegibility}.dm_block.ban{overflow:hidden;font-size:1px;line-height:1px}.dm_block.ban img{border-radius:4px}header#top nav>div{display:inline-block}.afisha_block{background-color:#fff;cursor:default;z-index:100000!important;padding-bottom:10px}.dm_block footer{border-radius:0 0 2px 2px;background-color:#fff;height:14px;border-top:1px solid #d8d8d8;padding:10px;padding-top:8px;padding-bottom:8px;margin-top:-1px;color:#999;font-size:100%;text-transform:uppercase;cursor:default}.dm_block article.main_page{border-radius:2px 2px 0 0;padding:10px;padding-right:12px;display:block;width:218px;background-color:#fff;opacity:1}.adv{border-radius:2px!important;background-color:#e2e6e7!important;cursor:default;padding-bottom:7px!important;padding:0!important}.adv img{max-width:240px;border-radius:3px!important}.dm_block article.main_page:hover{opacity:.5}.dm_block footer .author{position:absolute;right:10px}.dm_block article.adv:hover{opacity:1}.dm_block a{text-decoration:none;color:#000}.dm_block h1{1font-size:180%;margin:0;margin-left:10px;margin-top:6px;font-weight:900;text-transform:uppercase;display:inline-block}.dm_block img.pic{max-width:240px;min-width:240px;margin-left:-10px;margin-right:-12px;margin-top:-10px;border-radius:3px 3px 0 0}.dm_block header{font-weight:700;margin-top:4px;line-height:130%}.dm_block article.main_page header a{font-size:1.3em}.dm_block time{font-size:100%;color:#999;font-weight:400;margin-top:1px;margin-bottom:2px;margin-left:4px}.dm_block p{font-size:.95em;font-weight:400;margin-top:5px;margin-bottom:0}.at_web article.main_page{background-color:#4399ff!important;color:#fff!important}.at_web footer{background-color:#4399ff;color:#fff}.calendar article.main_page{background-color:#fbe5ff!important}.calendar footer{background-color:#fbe5ff}.ex1 article.main_page{background-color:#ffe8cb!important}.ex2 article.main_page{background-color:#b8efff!important}.at_web article.main_page a{color:#fff}.at_web article.main_page time.news{display:none}.dm_block .hr1{width:100%;height:1px;background-color:#f3f3f3;display:block;margin-top:5px;margin-bottom:5px}.afisha_block h1{margin-top:10px;margin-bottom:7px;font-size:1.2em}.new{color:#fff;list-style:none;padding:0;margin:0;margin-bottom:10px}.new li{padding-top:5px;padding-bottom:5px;padding-left:10px;padding-right:12px}.new li a{font-size:1em;font-weight:400}.new li:hover{background-color:#e30020}.new li:hover a{color:#fff}.white_block{background-color:#fff}#rightContent .dm_block{cursor:default}#rightContent .dm_block h4{font-size:1.1em;text-transform:uppercase;display:inline-block;margin:10px 0 7px 8px}#last_comments{line-height:140%}#last_comments h4,#tags h4{margin-top:13px;margin-bottom:8px}#last_comments h4 a{color:#e30020;margin-left:43px}#last_comments .new2{list-style:none;padding:0;margin:0;margin-top:7px}#rightContent .dm_block{cursor:default}#tags a{font-size:1em;padding:4px;display:inline-block}#tags .new a{display:inline-block;margin-left:4px;font-weight:700}#tags .new a:hover{background-color:#e30020;color:#fff}.new2 li{padding-bottom:10px;padding-left:10px;padding-right:12px}.new2 li a{font-weight:500;color:#e30020;font-size:.95em;text-decoration:none}.new2 li a:hover{color:#e30020}.new2 li p{margin-top:0}header#top nav{width:660px;margin-left:auto;margin-right:auto;padding-left:68px;margin-top:0;text-rendering:optimizeLegibility;text-transform:uppercase;text-align:center}header#top nav>div{display:inline-block}header#top nav a{color:#fff;text-decoration:none;font-weight:900;font-size:135%;display:block;float:left;padding-left:10px;padding-right:10px;padding-top:19px;padding-bottom:19px;-webkit-transition:color .3s ease;transition:color .3s ease}header#top nav a:hover{color:#000}#content{margin-left:auto;margin-right:auto;margin-top:60px;padding-left:8px;position:relative}#rightContent{top:0;right:0;width:250px;float:right}.afisha_block{-webkit-transition-duration:.4s;-moz-transition-duration:.4s;-ms-transition-duration:.4s;-o-transition-duration:.4s;transition-duration:.4s}#content{-webkit-transition-property:-webkit-transform , opacity;-moz-transition-property:-moz-transform , opacity;-ms-transition-property:-ms-transform , opacity;-o-transition-property:-o-transform , opacity;transition-property:transform , opacity}#content,#content2{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition-property:-webkit-transform;-moz-transition-property:-moz-transform;-ms-transition-property:-ms-transform;-o-transition-property:-o-transform;transition-property:transform}#content2{min-width:500px}#info{transition:height .5s ease-out .5s}.social{}.social dl{margin:0}.social dl dt{float:left;padding:5px 8px 0 0;padding-bottom:7px}.social dl dt a{display:block}.social dl dt a img{width:40px;height:40px;border-radius:3px;box-shadow:0 0 1px #999}#adsense2{display:block}@media screen and (min-width:1900px){#adsense2{display:none}}@media screen and (max-width:1044px){body{font-size:12px}#content2{position:static;float:left}header#top nav{width:620px;float:left}#logo{margin-right:16px}}@media screen and (max-width:940px){#top nav{display:block;width:20px!important;height:20px;background:url(img/nav.png) center center no-repeat;position:absolute;right:0;top:0;padding:15px}#top nav div{position:absolute}header#top nav>div{display:none}#top nav:hover div{position:absolute;display:block;background:#e30020;top:40px;right:0;padding:20px}#top nav a{padding-top:8px!important;padding-bottom:8px!important;width:100%}#content2{min-width:0}}@media screen and (max-width:770px){body{font-size:14px}#content2{position:static;float:left}#top nav{display:none}#top{height:50px;background-color:#e40021;position:fixed;top:0;width:100%;z-index:1000}#rightContent{}}@media screen and (max-width:500px){#logo>span{display:none}#top nav{display:block}}@media screen and (max-width:460px){#info{display:none}#content2>div{height:100%;float:right;min-width:250px}#last_comments h4 a{margin-left:8px}#small_afisha{display:none}.dm_block.afisha_block{left:0;top:0;right:8px!important;width:auto}.dm_block.social{left:0;top:0;right:8px!important;width:auto}.dm_block.ban{display:none}.dm_block.afisha_block #small_afisha>div>div{width:auto}}.userico{float:left;width:6px;height:10px;margin-top:1px;margin-right:2px}</style>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie.css">
+<![endif]-->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="//www.daymusic.ru/daymusic.rss"/>
+<style>.dm_block{display:flex;flex-direction:column}@media screen and (max-width:420px){.dm_block{position:static!important;min-width:250px;display:flex;flex-direction:column}.dm_block article.main_page{width:unset}}.dm_block footer{position:relative}.dm_block article.main_page{border-radius:0}.dm_block img.pic{margin:0;max-width:unset;width:100%}</style><script>//<![CDATA[
+;window.Modernizr=function(a,b,c){function x(a){j.cssText=a}function y(a,b){return x(m.join(a+";")+(b||""))}function z(a,b){return typeof a===b}function A(a,b){return!!~(""+a).indexOf(b)}function B(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:z(f,"function")?f.bind(d||b):f}return!1}var d="2.7.1",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m=" -webkit- -moz- -o- -ms- ".split(" "),n={svg:"http://www.w3.org/2000/svg"},o={},p={},q={},r=[],s=r.slice,t,u=function(a,c,d,e){var f,i,j,k,l=b.createElement("div"),m=b.body,n=m||b.createElement("body");if(parseInt(d,10))while(d--)j=b.createElement("div"),j.id=e?e[d]:h+(d+1),l.appendChild(j);return f=["&#173;",'<style id="s',h,'">',a,"</style>"].join(""),l.id=h,(m?l:n).innerHTML+=f,n.appendChild(l),m||(n.style.background="",n.style.overflow="hidden",k=g.style.overflow,g.style.overflow="hidden",g.appendChild(n)),i=c(l,a),m?l.parentNode.removeChild(l):(n.parentNode.removeChild(n),g.style.overflow=k),!!i},v={}.hasOwnProperty,w;!z(v,"undefined")&&!z(v.call,"undefined")?w=function(a,b){return v.call(a,b)}:w=function(a,b){return b in a&&z(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=s.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(s.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(s.call(arguments)))};return e}),o.touch=function(){var c;return"ontouchstart"in a||a.DocumentTouch&&b instanceof DocumentTouch?c=!0:u(["@media (",m.join("touch-enabled),("),h,")","{#modernizr{top:9px;position:absolute}}"].join(""),function(a){c=a.offsetTop===9}),c},o.svg=function(){return!!b.createElementNS&&!!b.createElementNS(n.svg,"svg").createSVGRect};for(var C in o)w(o,C)&&(t=C.toLowerCase(),e[t]=o[C](),r.push((e[t]?"":"no-")+t));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)w(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},x(""),i=k=null,e._version=d,e._prefixes=m,e.testStyles=u,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+r.join(" "):""),e}(this,this.document);
+//]]></script>
+<script src="/js/jquery-1.11.3.min.js.pagespeed.jm.iDyG3vc4gw.js"></script>
+<script src="/js/unslider-min.js.pagespeed.ce.c4EivspLZt.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.js"></script>
+<script src="/js/iscroll5_2.js.pagespeed.ce.ZD1oawQ_XL.js"></script>
+<script>//<![CDATA[
+fontdetect=function(){var _isInitialized=false;var _aFallbackFonts=['serif','sans-serif','monospace','cursive','fantasy'];function _init(){if(_isInitialized){return;}_isInitialized=true;$('body > :first-child').before('<div id="fontdetectHelper"><span>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</span></div>');$('#fontdetectHelper').css({'position':'absolute','visibility':'hidden','top':'-200px','left':'-100000px','width':'100000px','height':'200px','font-size':'100px'});}return{onFontLoaded:function(p_cssFontName,p_onLoad,p_onFail,p_options){if(!p_cssFontName){return;}var msInterval=(p_options&&p_options.msInterval)?p_options.msInterval:100;var msTimeout=(p_options&&p_options.msTimeout)?p_options.msTimeout:2000;if(!p_onLoad&&!p_onFail){return;}if(!_isInitialized){_init();}if(this.isFontLoaded(p_cssFontName)){if(p_onLoad){p_onLoad(p_cssFontName);}return;}var outerThis=this;var utStart=new Date().getTime();var idInterval=setInterval(function(){if(outerThis.isFontLoaded(p_cssFontName)){clearInterval(idInterval);p_onLoad(p_cssFontName);return;}else{var utNow=new Date().getTime();if((utNow-utStart)>msTimeout){clearInterval(idInterval);if(p_onFail){p_onFail(p_cssFontName);}}}},msInterval);},isFontLoaded:function(p_cssFontName){var wThisFont=0;var wPrevFont=0;if(!_isInitialized){_init();}for(var ix=0;ix<_aFallbackFonts.length;++ix){var $helperSpan=$('#fontdetectHelper > SPAN');$helperSpan.css('font-family',p_cssFontName+','+_aFallbackFonts[ix]);wThisFont=$helperSpan.width();if(ix>0&&wThisFont!=wPrevFont){return false;}wPrevFont=wThisFont;}return true;},whichFont:function(p_element){var sStack=$(p_element).css('font-family');var aStack=sStack.split(',');var sFont=aStack.shift();while(sFont){sFont=sFont.replace(/^\s*['"]?\s*([^'"]*)\s*['"]?\s*$/,'$1');if(this.isFontLoaded(sFont)){return sFont;}sFont=aStack.shift();}return null;}};}();
+//]]></script>
+<script src="/js/fancybox2/jquery.fancybox.js.pagespeed.ce.sVjR3bzlFq.js"></script>
+<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<script>//<![CDATA[
+(function(){var b,f;b=this.jQuery||window.jQuery;f=b(window);b.fn.stick_in_parent=function(d){var A,w,J,n,B,K,p,q,k,E,t;null==d&&(d={});t=d.sticky_class;B=d.inner_scrolling;E=d.recalc_every;k=d.parent;q=d.offset_top;p=d.spacer;w=d.bottoming;null==q&&(q=0);null==k&&(k=void 0);null==B&&(B=!0);null==t&&(t="is_stuck");A=b(document);null==w&&(w=!0);J=function(a,d,n,C,F,u,r,G){var v,H,m,D,I,c,g,x,y,z,h,l;if(!a.data("sticky_kit")){a.data("sticky_kit",!0);I=A.height();g=a.parent();null!=k&&(g=g.closest(k));if(!g.length)throw"failed to find stick parent";v=m=!1;(h=null!=p?p&&a.closest(p):b("<div />"))&&h.css("position",a.css("position"));x=function(){var c,f,e;if(!G&&(I=A.height(),c=parseInt(g.css("border-top-width"),10),f=parseInt(g.css("padding-top"),10),d=parseInt(g.css("padding-bottom"),10),n=g.offset().top+c+f,C=g.height(),m&&(v=m=!1,null==p&&(a.insertAfter(h),h.detach()),a.css({position:"",top:"",width:"",bottom:""}).removeClass(t),e=!0),F=a.offset().top-(parseInt(a.css("margin-top"),10)||0)-q,u=a.outerHeight(!0),r=a.css("float"),h&&h.css({width:a.outerWidth(!0),height:u,display:a.css("display"),"vertical-align":a.css("vertical-align"),"float":r}),e))return l()};x();if(u!==C)return D=void 0,c=q,z=E,l=function(){var b,l,e,k;if(!G&&(e=!1,null!=z&&(--z,0>=z&&(z=E,x(),e=!0)),e||A.height()===I||x(),e=f.scrollTop(),null!=D&&(l=e-D),D=e,m?(w&&(k=e+u+c>C+n,v&&!k&&(v=!1,a.css({position:"fixed",bottom:"",top:c}).trigger("sticky_kit:unbottom"))),e<F&&(m=!1,c=q,null==p&&("left"!==r&&"right"!==r||a.insertAfter(h),h.detach()),b={position:"",width:"",top:""},a.css(b).removeClass(t).trigger("sticky_kit:unstick")),B&&(b=f.height(),u+q>b&&!v&&(c-=l,c=Math.max(b-u,c),c=Math.min(q,c),m&&a.css({top:c+"px"})))):e>F&&(m=!0,b={position:"fixed",top:c},b.width="border-box"===a.css("box-sizing")?a.outerWidth()+"px":a.width()+"px",a.css(b).addClass(t),null==p&&(a.after(h),"left"!==r&&"right"!==r||h.append(a)),a.trigger("sticky_kit:stick")),m&&w&&(null==k&&(k=e+u+c>C+n),!v&&k)))return v=!0,"static"===g.css("position")&&g.css({position:"relative"}),a.css({position:"absolute",bottom:d,top:"auto"}).trigger("sticky_kit:bottom")},y=function(){x();return l()},H=function(){G=!0;f.off("touchmove",l);f.off("scroll",l);f.off("resize",y);b(document.body).off("sticky_kit:recalc",y);a.off("sticky_kit:detach",H);a.removeData("sticky_kit");a.css({position:"",bottom:"",top:"",width:""});g.position("position","");if(m)return null==p&&("left"!==r&&"right"!==r||a.insertAfter(h),h.remove()),a.removeClass(t)},f.on("touchmove",l),f.on("scroll",l),f.on("resize",y),b(document.body).on("sticky_kit:recalc",y),a.on("sticky_kit:detach",H),setTimeout(l,0)}};n=0;for(K=this.length;n<K;n++)d=this[n],J(b(d));return this}}).call(this);
+//]]></script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','121836761780858');fbq('track','PageView');</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=121836761780858&ev=PageView&noscript=1"/></noscript>
+<script type="text/javascript">(window.Image?(new Image()):document.createElement('img')).src='https://vk.com/rtrg?p=VK-RTRG-127081-5H2aJ';</script>
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({type:'floorAd',blockId:'R-A-247314-7'})})</script>
+</head>
+<body>
+<header id="top" style="height:auto;">
+<div style="height:30px;background-color:#d2d6d7;color:black;font-size:12px;line-height:14px;overflow:hidden;" id="info">
+<div style="margin-left:80px;margin-top:6px;margin-right:80px;" id="ininfo">
+<img src="/i/i.gif" style="width:18px;height:18px;float:left;margin-right:8px;" alt="О портале">
+<p class="wysiwyg" style="margin-top:0;"><STRONG>Музыкальный портал DayMusic</STRONG> посвящен современным музыкальным направлениям. &laquo;Современные&raquo;, в&nbsp;нашем понимании&nbsp;&mdash; не&nbsp;только новые&nbsp;&mdash; это любая музыка, которая звучит актуально и&nbsp;интересно сегодня.</p>
+<p class="wysiwyg" style="margin-top:0;">У нас публикуются <STRONG>рассказы и&nbsp;фотоотчеты о&nbsp;концертах</STRONG>, прошедших в&nbsp;Москве и&nbsp;Санкт-Петербурге; здесь можно ознакомиться с&nbsp;<STRONG>рецензиями на&nbsp;новые альбомы</STRONG>, прочесть <STRONG>свежие музыкальные новости</STRONG> из&nbsp;мира музыки и&nbsp;шоу-бизнеса, <STRONG>аналитические статьи</STRONG> по&nbsp;актуальным аспектам истории рок музыки. Музыкальный портал DayMusic&nbsp;&mdash; это своевременно обновляемая афиша концертов Москвы и&nbsp;Санкт-Петербурга, которые могут быть интересны поклонникам рока, инди, брит-попа, британского рока, лаунжа, джаза и&nbsp;близких им&nbsp;направлений современной музыки.</p>
+<p class="wysiwyg" style="margin-top:0;">Ежесуточная аудитория портала постоянно растёт. В&nbsp;настоящее время она составляет примерно 3&nbsp;000 человек в&nbsp;день, или около 90&nbsp;000&nbsp;в месяц. Наша целевая аудитория не&nbsp;включает поклонников попсы, шансона, бард-музыки, и&nbsp;подобных течений.</p>
+<p class="wysiwyg" style="margin-top:0;">По&nbsp;вопросам сотрудничества (размещение рекламы, публикация анонсов предстоящих концертов, информационная поддержка, и&nbsp;т.п.) обращайтесь через <A href="/contacts"><STRONG>форму обратной связи</STRONG></A>.</p>
+<p style="color:#990000;text-align:center;" class="wysiwyg"><strong>При полном или частичном использовании материалов сайта, ссылка на&nbsp;&laquo;DayMusic.ru&raquo; обязательна!</strong></p>
+</div>
+</div>
+<div style="height:50px;position:relative;">
+<a href="/" id="logo"><img src="/img/dm_logo.svg" width="200" height="25" alt="DayMusic — современная, рок музыка"/><span>The News That&nbsp;Sounds</span></a>
+<nav style="text-align:center;"><div><a href="/news" class="menu">Новости</a><a href="/articles" class="menu">Статьи</a><a href="/reports" class="menu">Отчеты</a><a href="/photo" class="menu">Фотоотчеты</a><a href="/reviews" class="menu">Рецензии</a><a href="/forum/index.php" class="menu">Форум</a></div></nav>
+</div>
+</header>
+<section id="content" style="margin-top:90px;">
+<section id="content2">
+<div style="float:left;">
+<div class="el dm_block afisha_block">
+<h1><a href="/afisha/">Афиша ></a></h1>
+<span class="hr1"></span>
+<div id="small_afisha" style="max-height:450px;overflow:hidden; position:relative;">
+<div>
+</div>
+<span class="hr1"></span>
+<div style="padding:2px 8px;font-weight:bold;">> <a href="https://www.freeshows.ru/concerts">Бесплатные концерты</a></div>
+</div>
+<script type="text/javascript">new IScroll('#small_afisha',{mouseWheel:true,click:true,scrollbars:true});</script>
+</div>
+<head/><div class="el dm_block calendar" data-id="5010">
+<article class="main_page">
+<header>
+<a href="/calendar/rock_calendar_12_march">Рок-календарь на 12 марта</a>
+</header>
+<p>Пол Маккартни женился на&nbsp;Линде Истмен; Грэм Коксон (Graham Coxon) — гитарист Blur; родился Стив Харрис (Steve Harris) — басист Iron Maiden; умер Чарли Паркер (Charlie Parker) — великий джазовый саксофонист; родился Майк Гиббинс (Mike Gibbins) — барабанщик Badfinger; родился Пол Кантер (Paul Kantner) — вокалист и гитарист Jefferson Airplane</p>
+</article>
+<footer>
+Рок-календарь	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block calendar" data-id="5009">
+<article class="main_page">
+<header>
+<a href="/calendar/rock_calendar_11_march">Рок-календарь на 11 марта</a>
+</header>
+<p>Родилась Нина Хаген (Nina Hagen)</p>
+</article>
+<footer>
+Рок-календарь	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block articles" data-id="5336">
+<img src="https://www.daymusic.ru/i/rz/ximg20241009_001.jpg.pagespeed.ic.cbfmSgEHKV.jpg" class="pic" alt="Какая техника нужна для стриминга">
+<article class="main_page">
+<header>
+<a href="/articles/kakaya_tehnika_nujna_dlya_striminga">Какая техника нужна для стриминга</a>
+<time datetime="2024-10-09 09:04:16" class="news updated">09.10.2024</time>
+</header>
+<p>Стриминг — это популярный способ донесения контента до аудитории в режиме реального времени. Независимо от того, собираетесь ли вы стримить игры, обучающие программы или живые выступления, качественное оборудование играет ключевую роль в успехе вашего канала.</p>
+</article>
+<footer>
+Статьи	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block articles" data-id="5335">
+<img src="https://www.daymusic.ru/i/rz/ximg20241009_000.jpg.pagespeed.ic.LkYPsgcFnV.jpg" class="pic" alt="Как выбрать преподавателя вокала для ребенка?">
+<article class="main_page">
+<header>
+<a href="/articles/kak_vybrat_prepodavatelya_vokala_dlya_rebenka">Как выбрать преподавателя вокала для ребенка?</a>
+<time datetime="2024-10-09 08:47:20" class="news updated">09.10.2024</time>
+</header>
+<p>Как выбрать подходящего педагога, который сможет раскрыть потенциал вашего ребенка и привить ему любовь к музыке? В этой статье мы рассмотрим основные критерии, которые помогут вам сделать правильный выбор.</p>
+</article>
+<footer>
+Статьи	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5333">
+<img src="https://www.daymusic.ru/i/rz/ximg20240914_000.jpg.pagespeed.ic.EiGQHEBjjc.jpg" class="pic" alt="Музыка в кадре: лучшие музыкальные фильмы и сериалы 2023 года">
+<article class="main_page">
+<header>
+<a href="/reviews/muzyka_v_kadre_luchshie_muzykalnye_filmy_i_serialy_2023_goda">Музыка в кадре: лучшие музыкальные фильмы и сериалы 2023 года</a>
+</header>
+<p>Подборка новых и самых популярных музыкальных сериалов, которые ты мог пропустить.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="dm_block el" style="background-color:white;width:240px;padding:0;overflow:hidden;">
+<article class="main_page" style="padding:0;opacity:1;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);">
+<div id="yandex_rtb_R-A-247314-5"></div>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-5',blockId:'R-A-247314-5'})})</script>
+</article>
+<footer>
+Реклама
+</footer>
+</div>
+<div class="el dm_block articles" data-id="5327">
+<img src="https://www.daymusic.ru/i/rz/ximg20240507_000.jpg.pagespeed.ic.zYmCFrC39j.jpg" class="pic" alt="Покупаем пианино: критерии выбора между цифровым и акустическим">
+<article class="main_page">
+<header>
+<a href="/articles/pokupaem_pianino_kriterii_vybora_mejdu_cifrovym_i_akusticheskim">Покупаем пианино: критерии выбора между цифровым и акустическим</a>
+<time datetime="2024-05-07 23:32:43" class="news updated">07.05.2024</time>
+</header>
+<p>Акустическое и цифровое пианино — два различных музыкальных инструмента, каждый из которых имеет свои плюсы и минусы.</p>
+</article>
+<footer>
+Статьи	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block ex1" data-id="3391">
+<img src="https://www.daymusic.ru/i/rz/ximg20111025_007.jpg.pagespeed.ic.ck3Vi9X0Ia.jpg" class="pic" alt="«Мамон-Лобан». В ЦДХ показали фильм Сергея Лобана «Мамон-Лобан», или «Петр Николаевич из 3-го подъезда»">
+<article class="main_page">
+<header>
+<p><b>Случайная статья из&nbsp;архива:</b></p>
+<a href="/reports/3391">«Мамон-Лобан». В ЦДХ показали фильм Сергея Лобана «Мамон-Лобан», или «Петр Николаевич из 3-го подъезда»</a>
+<time datetime="2011-10-25 00:22:05" class="news updated">25.10.2011</time>
+</header>
+<p>Не смотря на то, что любой монолог Мамонова скатывается (или восходит) в проповедь, фильм получился абсурдистски-комичным, как он, в принципе и задумывался.</p>
+</article>
+<footer>
+Отчеты	<span class="author">Евгений Юлаев</span>
+</footer>
+</div>
+<div class="el dm_block articles" data-id="5326">
+<img src="https://www.daymusic.ru/i/rz/ximg20240505_001.jpg.pagespeed.ic.AU1aluwI_x.jpg" class="pic" alt="Гитарные аккорды для начинающих. С чего начать и какие песни сыграть">
+<article class="main_page">
+<header>
+<a href="/articles/gitarnye_akkordy_dlya_nachinayushchih">Гитарные аккорды для начинающих. С чего начать и какие песни сыграть</a>
+<time datetime="2024-05-05 22:46:23" class="news updated">05.05.2024</time>
+</header>
+<p>Вы берете в руки гитару, готовите пальцы и медиатор, и задаетесь вопросом: «Что мне играть? С чего начать?». Основы, с которых начинают изучение гитары, это аккорды.</p>
+</article>
+<footer>
+Статьи	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5325">
+<img src="https://www.daymusic.ru/i/rz/ximg20240505_000.jpg.pagespeed.ic.NAN7onmTEY.jpg" class="pic" alt="Событие этого лета — возвращение фестиваля «Пикник Афиши»">
+<article class="main_page">
+<header>
+<a href="/news/sobytie_etogo_leta_vozvrashchenie_festivalya_piknik_afishi">Событие этого лета — возвращение фестиваля «Пикник Афиши»</a>
+<time datetime="2024-05-05 22:30:08" class="news updated">05.05.2024</time>
+</header>
+<p>Спустя пять лет этот фестиваль вновь ждет своих поклонников уже сразу в двух городах — Москве и Петербурге.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5324">
+<img src="https://www.daymusic.ru/i/rz/ximg20240429_000.jpg.pagespeed.ic.iEcWu7GwYF.jpg" class="pic" alt="10 лучших песен сериала «Очень странные дела»">
+<article class="main_page">
+<header>
+<a href="/reviews/10_luchshih_pesen_seriala_ochen_strannye_dela">10 лучших песен сериала «Очень странные дела»</a>
+</header>
+<p>Эти песни — идеальный союз музыки и телевидения.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="dm_block el" style="background-color:white;width:240px;padding:0;overflow:hidden;">
+<article class="main_page" style="padding:0;opacity:1;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);">
+<div id="yandex_rtb_R-A-247314-5"></div>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-5',blockId:'R-A-247314-5'})})</script>
+</article>
+<footer>
+Реклама
+</footer>
+</div>
+<div class="dm_block el" style="background-color:white;width:240px;padding:0;overflow:hidden;">
+<article class="main_page" style="padding:0;opacity:1;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);width:240px;">
+<div id="yandex_rtb_R-A-247314-3"></div>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-3',blockId:'R-A-247314-3'})})</script>
+</article>
+<footer>
+Реклама
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5323">
+<img src="https://www.daymusic.ru/i/rz/ximg20240416_000.jpg.pagespeed.ic.W9YmSrrKO7.jpg" class="pic" alt="Лучшая десятка песен классического рока о виски">
+<article class="main_page">
+<header>
+<a href="/reviews/luchshaya_desyatka_pesen_klassicheskogo_roka_o_viski">Лучшая десятка песен классического рока о виски</a>
+</header>
+<p>Лучшие песни классики рока о виски повествуют как о положительных, так и тяжелых последствиях пития этого популярного крепкого напитка — от дикого ночного веселья до туманного похмельного утра, которое он может породить.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5322">
+<img src="https://www.daymusic.ru/i/rz/ximg20240403_000.png.pagespeed.ic.xXSEJWLTyS.jpg" class="pic" alt="Рок-музыканты в мульте «Южный Парк». Пересматриваем классику">
+<article class="main_page">
+<header>
+<a href="/reviews/rok_muzykanty_v_multe_yujnyy_park">Рок-музыканты в мульте «Южный Парк». Пересматриваем классику</a>
+</header>
+<p>Музыканты и их песни — неотъемлемая часть «Южного парка». Анимационный ситком, а проще говоря, мультсериал «South Park» за более чем четверть века не оставлял без внимания знаменитостей музыкального мира. Частенько создатели любили стебать самых ярких звезд поп и рок-сцены. Вспомним несколько сюжетов мультфильма, где появлялись наши любимцы.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5320">
+<img src="https://www.daymusic.ru/i/rz/ximg20240327_001.jpg.pagespeed.ic.0GT5eiO78E.jpg" class="pic" alt="Волшебство природы и музыки: романтика в каждой ноте и каждом пейзаже">
+<article class="main_page">
+<header>
+<a href="/reviews/volshebstvo_prirody_i_muzyki_romantika_v_kajdoy_note_i_kajdom_peyzaje">Волшебство природы и музыки: романтика в каждой ноте и каждом пейзаже</a>
+</header>
+<p>Романтические мелодии и красота природы на видео.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5312">
+<img src="https://www.daymusic.ru/i/rz/ximg20231201_000.jpg.pagespeed.ic.9CJ4AFpPRe.jpg" class="pic" alt="Версия битловской «Now and Then», как если бы её спродюсировал Джефф Линн">
+<article class="main_page">
+<header>
+<a href="/news/now_and_then_cover">Версия битловской «Now and Then», как если бы её спродюсировал Джефф Линн</a>
+<time datetime="2023-12-01 09:34:52" class="news updated">01.12.2023</time>
+</header>
+<p>Похоже, это первый студийный российский кавер на новую песню Beatles, причем с иным прочтением.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block reviews" data-id="5311">
+<img src="https://www.daymusic.ru/i/rz/ximg20231111_000.jpg.pagespeed.ic.nCqDInmrNw.jpg" class="pic" alt="11 сериалов с потрясающими саундтреками">
+<article class="main_page">
+<header>
+<a href="/reviews/11_serialov_s_potryasayushchimi_saundtrekami">11 сериалов с потрясающими саундтреками</a>
+</header>
+<p>Большую часть времени, когда мы смотрим сериалы, то не думаем о музыке, которая озвучивает наши любимые сцены. Качественный саундтрек может творить чудеса с телешоу, будь то оригинальная инструментальная партитура или тщательно подобранная вокальная музыка.</p>
+</article>
+<footer>
+Рецензии	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5309">
+<img src="https://www.daymusic.ru/i/rz/ximg20231003_000.jpg.pagespeed.ic.QuCvcaScwm.jpg" class="pic" alt="Михаил Козырёв впервые составил хит-парад «Чёртова дюжина», в первую тройку вошли Бутусов, Сукачев и Чайф">
+<article class="main_page">
+<header>
+<a href="/at_web/mihail_kozyrev_vpervye_sostavil_hit-parad_chertova_dujina">Михаил Козырёв впервые составил хит-парад «Чёртова дюжина», в первую тройку вошли Бутусов, Сукачев и Чайф</a>
+<time datetime="2023-10-03 15:17:27" class="news updated">03.10.2023</time>
+</header>
+<p>Опечатки в названии хит-парада, увы, нет</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5303">
+<img src="https://www.daymusic.ru/i/rz/ximg20230804_000.jpg.pagespeed.ic.D9FFHiv9Cg.jpg" class="pic" alt="«Город мечты», музыкальный фестиваль Parookaville вновь собрал своих жителей в Германии">
+<article class="main_page">
+<header>
+<a href="/reports/gorod_mechty_muzykalnyy_festival_parookaville_vnov_sobral_svoih_jiteley_v_germanii">«Город мечты», музыкальный фестиваль Parookaville вновь собрал своих жителей в Германии</a>
+<time datetime="2023-08-04 04:38:32" class="news updated">04.08.2023</time>
+</header>
+<p>Немецкий музыкальный фестиваль Parookaville или просто «PV» в очередной раз прошёл в Вееце (нем. Weeze), примерно в 75 км к северо-востоку от Дюссельдорфа. Волшебные ворота «The City Of Dreams» вновь распахнулись с 21 по 23 июля 2023 года.</p>
+</article>
+<footer>
+Отчеты	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5295">
+<img src="https://www.daymusic.ru/i/rz/ximg20230204_000.jpg.pagespeed.ic.Tlk0NnB_qR.jpg" class="pic" alt="Группу Король и Шут сыграли актёры">
+<article class="main_page">
+<header>
+<a href="/at_web/gruppu_korol_i_shut_sygrali_aktery">Группу Король и Шут сыграли актёры</a>
+<time datetime="2023-02-04 07:41:58" class="news updated">04.02.2023</time>
+</header>
+<p>Вот как выглядят Горшок и Князь в новом сериале</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5292">
+<img src="https://www.daymusic.ru/i/rz/ximg20221215_000.jpg.pagespeed.ic.OygsD5Ce2x.jpg" class="pic" alt="Михаил Козырев спросил зрителей о российских артистах, которые разочаровали">
+<article class="main_page">
+<header>
+<a href="/at_web/mihail_kozyrev_o_rossiyskih_artistah_kotorye_razocharovali">Михаил Козырев спросил зрителей о российских артистах, которые разочаровали</a>
+<time datetime="2022-12-15 17:04:03" class="news updated">15.12.2022</time>
+</header>
+<p>Тема программы Козырев Online на телеканале Дождь звучала так: «Какие артисты разочаровали вас с начала войны?»</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5291">
+<img src="https://www.daymusic.ru/i/rz/ximg20221109_000.jpg.pagespeed.ic.QCMB7NeQ9B.jpg" class="pic" alt="Вокалист и один из основателей Nazareth Дэн МакКафферти скончался в возрасте 76 лет">
+<article class="main_page">
+<header>
+<a href="/news/vokalist_nazareth_dan_mccafferty_skonchalsya">Вокалист и один из основателей Nazareth Дэн МакКафферти скончался в возрасте 76 лет</a>
+<time datetime="2022-11-09 16:46:20" class="news updated">09.11.2022</time>
+</header>
+<p>Его смерть подтвердил басист Nazareth Пит Эгнью.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5290">
+<img src="https://www.daymusic.ru/i/rz/ximg20221028_000.png.pagespeed.ic.1DTGkDXCwR.jpg" class="pic" alt="Американский певец, автор песен и пианист Джерри Ли Льюис умер в возрасте 87 лет">
+<article class="main_page">
+<header>
+<a href="/news/jerry_lee_lewis_dies">Американский певец, автор песен и пианист Джерри Ли Льюис умер в возрасте 87 лет</a>
+<time datetime="2022-10-28 23:44:12" class="news updated">28.10.2022</time>
+</header>
+<p>Ему было 87.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5289">
+<img src="https://www.daymusic.ru/i/rz/ximg20221022_000.jpg.pagespeed.ic.9Xgvj3Cj75.jpg" class="pic" alt="У a-ha вышел новый альбом «True North»">
+<article class="main_page">
+<header>
+<a href="/news/a-ha_new_albom_true_north">У a-ha вышел новый альбом «True North»</a>
+<time datetime="2022-10-22 13:06:27" class="news updated">22.10.2022</time>
+</header>
+<p>Спустя семь лет после предыдущего релиза!</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5287">
+<img src="https://www.daymusic.ru/i/rz/ximg20220821_000.png.pagespeed.ic.42_r6xEu8V.jpg" class="pic" alt="Выступление Сплин на Чернозёме вырезали из видеотрансляции феста и закрыли комменты. Васильев посвятил песню уехавшим музыкантам">
+<article class="main_page">
+<header>
+<a href="/news/splin_na_chernozeme_removed">Выступление Сплин на Чернозёме вырезали из видеотрансляции феста и закрыли комменты. Васильев посвятил песню уехавшим музыкантам</a>
+<time datetime="2022-08-21 17:25:47" class="news updated">21.08.2022</time>
+</header>
+<p>Он упомянул Машину Времени, Аквариум, Tequilajazzz и других.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5286">
+<img src="https://www.daymusic.ru/i/rz/ximg20220818_000.jpg.pagespeed.ic.kk_9NzMggm.jpg" class="pic" alt="Новая песня и клип Ногу Свело — на сей раз не про Украину, а про Россию">
+<article class="main_page">
+<header>
+<a href="/at_web/nogu_svelo_ne_pro_ukrainu_a_pro_rossiyu">Новая песня и клип Ногу Свело — на сей раз не про Украину, а про Россию</a>
+<time datetime="2022-08-18 16:59:01" class="news updated">18.08.2022</time>
+</header>
+<p>Она называется «Я боюсь».</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5285">
+<img src="https://www.daymusic.ru/i/rz/ximg20220804_000.png.pagespeed.ic.otImEEaezm.jpg" class="pic" alt="YouTube-канал Oasis представил видео на «Don’t Go Away» в высоком качестве">
+<article class="main_page">
+<header>
+<a href="/at_web/oasis_predstavil_hd-video_dont_go_away">YouTube-канал Oasis представил видео на «Don’t Go Away» в высоком качестве</a>
+<time datetime="2022-08-04 21:25:57" class="news updated">04.08.2022</time>
+</header>
+<p>В этом году исполняется 25 лет с момента выхода культового третьего альбома Oasis «Be Here Now»!</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5283">
+<img src="https://www.daymusic.ru/i/rz/ximg20220604_000.jpg.pagespeed.ic.qnzJlN1lnM.jpg" class="pic" alt="Panic! at the Disco выпускают новый студийный альбом «Viva Las Vengeance»">
+<article class="main_page">
+<header>
+<a href="/news/panic_at_the_disco_viva_las_vengeance">Panic! at the Disco выпускают новый студийный альбом «Viva Las Vengeance»</a>
+<time datetime="2022-06-04 23:36:09" class="news updated">04.06.2022</time>
+</header>
+<p>Выход седьмой пластинки группы запланирован на 19 августа 2022 года.</p>
+</article>
+<footer>
+Новости	<span class="author">Максим Голант</span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5282">
+<img src="https://www.daymusic.ru/i/rz/ximg20220527_000.jpg.pagespeed.ic._GYUV7Cxb1.jpg" class="pic" alt="Умер участник группы Depeche Mode Энди Флетчер. Ему было всего лишь 60">
+<article class="main_page">
+<header>
+<a href="/news/depeche_mode_endi_fletcher_rip">Умер участник группы Depeche Mode Энди Флетчер. Ему было всего лишь 60</a>
+<time datetime="2022-05-27 10:23:35" class="news updated">27.05.2022</time>
+</header>
+<p>От нас ушел Эндрю Флетчер, клавишник и один из основателей британской группы Depeche Mode.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5279">
+<img src="https://www.daymusic.ru/i/rz/ximg20211128_000.jpg.pagespeed.ic.GOgoNNFHJx.jpg" class="pic" alt="Умер Александр Градский">
+<article class="main_page">
+<header>
+<a href="/news/umer_aleksandr_gradskiy">Умер Александр Градский</a>
+<time datetime="2021-11-28 20:21:37" class="news updated">28.11.2021</time>
+</header>
+<p>Ушел певец, композитор, мультиинструменталист, поэт, «папа» русского рока. Недавно ему исполнилось 72.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5278">
+<img src="https://www.daymusic.ru/i/rz/ximg20210903_000.jpg.pagespeed.ic.mBjYDf65ZQ.jpg" class="pic" alt="Квартет Абба записал две новых песни. Да, они объединились для выпуска альбома">
+<article class="main_page">
+<header>
+<a href="/news/kvartet_abba_zapisala_dve_novyh_pesni_da">Квартет Абба записал две новых песни. Да, они объединились для выпуска альбома</a>
+<time datetime="2021-09-03 09:29:19" class="news updated">03.09.2021</time>
+</header>
+<p>Это после распада группы, разводов пар и 40-летнего перерыва.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5277">
+<img src="https://www.daymusic.ru/i/rz/ximg20210824_000.jpg.pagespeed.ic.8164iYHl2w.jpg" class="pic" alt="Умер барабанщик Rolling Stones Чарли Уоттс">
+<article class="main_page">
+<header>
+<a href="/news/charlie_watts_rolling_stones_rip">Умер барабанщик Rolling Stones Чарли Уоттс</a>
+<time datetime="2021-08-24 22:24:19" class="news updated">24.08.2021</time>
+</header>
+<p>Уоттсу было 80. В 2004 году у него диагностировали рак горла.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5273">
+<img src="https://www.daymusic.ru/i/rz/ximg20210727_000.png.pagespeed.ic.lNVdRkiPLt.jpg" class="pic" alt="Фестиваль ЧЕРНОЗЕМ 2021 перенесен на конец сентября">
+<article class="main_page">
+<header>
+<a href="/news/5273">Фестиваль ЧЕРНОЗЕМ 2021 перенесен на конец сентября</a>
+<time datetime="2021-07-27 22:37:13" class="news updated">27.07.2021</time>
+</header>
+<p>В связи с коронавируснвыми ограничениями, организаторы объявили новые даты проведения фестиваля — 24, 25, 26 сентября 2021</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5271">
+<img src="https://www.daymusic.ru/i/rz/ximg20210715_000.png.pagespeed.ic.UXBaQJkA7m.jpg" class="pic" alt="Умер музыкант и актер Петр Мамонов">
+<article class="main_page">
+<header>
+<a href="/news/umer_petr_mamonov">Умер музыкант и актер Петр Мамонов</a>
+<time datetime="2021-07-15 00:52:21" class="news updated">15.07.2021</time>
+</header>
+<p>Ему было 70 лет. Причиной стал коронавирус.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5272">
+<img src="https://www.daymusic.ru/i/rz/ximg20210720_000.png.pagespeed.ic.g45K-ndM9H.png" class="pic" alt="Фестиваль Чернозём-2021 открыл продажу мерча">
+<article class="main_page">
+<header>
+<a href="/news/5272">Фестиваль Чернозём-2021 открыл продажу мерча</a>
+<time datetime="2021-07-12 19:51:05" class="news updated">12.07.2021</time>
+</header>
+<p>Футболки и шоперы с Красной Накидкой, Волком, Котом-панком с улицы Лизюкова и знаменитой воронежской Аленкой можно заказать на сайте феста</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5269">
+<img src="https://www.daymusic.ru/i/rz/ximg20210515_000.jpg.pagespeed.ic.vDvsDz8IWG.jpg" class="pic" alt="Макс Иванов (Торба на Круче) представил новую песню «Ждать» и очень питерское видео">
+<article class="main_page">
+<header>
+<a href="/at_web/maks_ivanov_torba_na_kruche_predstavil_novuyu_pesnyu_jdat_i_ochen_piterskoe_video">Макс Иванов (Торба на Круче) представил новую песню «Ждать» и очень питерское видео</a>
+<time datetime="2021-05-15 13:13:22" class="news updated">15.05.2021</time>
+</header>
+<p>Новая песня появилась на официальном YouTube канале группы из Санкт-Петербурга Торба на Круче, но сказано, что это сингл вокалиста Макса Иванова.</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5268">
+<img src="https://www.daymusic.ru/i/rz/ximg20210514_000.jpg.pagespeed.ic.pj7xbwklnp.jpg" class="pic" alt="Рок-музыканты требуют прекратить отмену концертов по политическим причинам">
+<article class="main_page">
+<header>
+<a href="/news/rok-muzykanty_trebuyut_prekratit_otmenu_koncertov_po_politicheskim_prichinam_">Рок-музыканты требуют прекратить отмену концертов по политическим причинам</a>
+<time datetime="2021-05-14 10:58:55" class="news updated">14.05.2021</time>
+</header>
+<p>Петицию подписали Дмитрий Спирин и Алексей Кортнев, Noize MC, Вася Обломов, группы Порнофильмы, Ногу Свело.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5267">
+<img src="https://www.daymusic.ru/i/rz/ximg20210330_000.png.pagespeed.ic.V4eoeUQKMU.jpg" class="pic" alt="Умер лидер Старого приятеля Александр Зарецкий">
+<article class="main_page">
+<header>
+<a href="/news/umer_lider_starogo_priyatelya_aleksandr_zareckiy">Умер лидер Старого приятеля Александр Зарецкий</a>
+<time datetime="2021-03-30 11:27:51" class="news updated">30.03.2021</time>
+</header>
+<p>Причиной смерти стал инфаркт после инфицирования коронавирусом.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5266">
+<img src="https://www.daymusic.ru/i/rz/ximg20210222_000.png.pagespeed.ic.UMdBgCxy79.jpg" class="pic" alt="Daft Punk попрощались видео «Эпилог»">
+<article class="main_page">
+<header>
+<a href="/news/daft_punk_say_bye">Daft Punk попрощались видео «Эпилог»</a>
+<time datetime="2021-02-22 23:40:47" class="news updated">22.02.2021</time>
+</header>
+<p>Дуэт электронщиков представил 8-минутный ролик Epilogue.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5265">
+<img src="https://www.daymusic.ru/i/rz/ximg20210219_000.jpg.pagespeed.ic.PAIoePwnAT.jpg" class="pic" alt="Алексей Навальный, находясь в тюрьме, сам того не зная, написал текст песни для группы Элизиум">
+<article class="main_page">
+<header>
+<a href="/at_web/5265">Алексей Навальный, находясь в тюрьме, сам того не зная, написал текст песни для группы Элизиум</a>
+<time datetime="2021-02-19 11:28:10" class="news updated">19.02.2021</time>
+</header>
+<p>Оппозиционный политик Алексей Навальный рассказал у себя в Инстаграм про то, как ему сидится в тюрьме. Он представил, что его заключение — это некое космическое путешествие.</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5264">
+<img src="https://www.daymusic.ru/i/rz/ximg20210122_000.png.pagespeed.ic.HG8VsMmVny.jpg" class="pic" alt="Рок-музыканты — за освобождение Навального">
+<article class="main_page">
+<header>
+<a href="/at_web/rok-muzykanty_za_svobodu_navalnomu">Рок-музыканты — за освобождение Навального</a>
+<time datetime="2021-01-22 16:55:30" class="news updated">22.01.2021</time>
+</header>
+<p>Освободить политика Алексея Навального призвали различные музыканты, журналисты, блогеры.</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5263">
+<img src="https://www.daymusic.ru/i/rz/ximg20201113_000.jpg.pagespeed.ic.ieKkExPd0D.jpg" class="pic" alt="На Youtube-канале Сплин впервые появился клип на «Моя любовь» 1997 года">
+<article class="main_page">
+<header>
+<a href="/at_web/vpervye_poyavilsya_klip_na_moya_lyubov">На Youtube-канале Сплин впервые появился клип на «Моя любовь» 1997 года</a>
+<time datetime="2020-11-13 23:21:07" class="news updated">13.11.2020</time>
+</header>
+<p>Ранее в Ютубе он был залит только на некоем фанатском канале в качестве 240p (очень плохом), клип был записан с телеэфира.</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5260">
+<img src="https://www.daymusic.ru/i/rz/ximg20201009_000.jpg.pagespeed.ic.pCaGHLXcr0.jpg" class="pic" alt="Шотландцы Travis вернулись с новым альбомом «10 Songs»">
+<article class="main_page">
+<header>
+<a href="/news/travis_vernulis_s_novym_albomom_10_songs">Шотландцы Travis вернулись с новым альбомом «10 Songs»</a>
+<time datetime="2020-10-09 21:14:56" class="news updated">09.10.2020</time>
+</header>
+<p>Это первая работа группы за 4 года.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block at_web" data-id="5258">
+<img src="https://www.daymusic.ru/i/rz/ximg20200815_000.png.pagespeed.ic.yLYwIG05zp.jpg" class="pic" alt="Дворцовый мост Петербурга развели под музыку Виктора Цоя">
+<article class="main_page">
+<header>
+<a href="/at_web/dvorcovyy_most_peterburga_razveli_pod_muzyku_viktora_tsoya">Дворцовый мост Петербурга развели под музыку Виктора Цоя</a>
+<time datetime="2020-08-15 15:47:09" class="news updated">15.08.2020</time>
+</header>
+<p>Портрет лидера группы Кино спроецировали на пролёт конструкции в ночь на 15 августа, в 00:45.</p>
+</article>
+<footer>
+@web	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5255">
+<img src="https://www.daymusic.ru/i/rz/ximg20200801_001.jpg.pagespeed.ic.CgaESWV4DT.jpg" class="pic" alt="Умер английский режиссер, создатель фильма «The Wall» Pink Floyd Алан Паркер">
+<article class="main_page">
+<header>
+<a href="/news/umer_alan_parker">Умер английский режиссер, создатель фильма «The Wall» Pink Floyd Алан Паркер</a>
+<time datetime="2020-08-01 09:06:30" class="news updated">01.08.2020</time>
+</header>
+<p>Он по праву признан одной из важнейших фигур кинематографа второй половины ХХ века.</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block news" data-id="5252">
+<img src="https://www.daymusic.ru/i/rz/ximg20200510_000.jpg.pagespeed.ic.DqPUqKo4g5.jpg" class="pic" alt="Литтл Ричард, отец-основатель рока, умер в возрасте 87 лет">
+<article class="main_page">
+<header>
+<a href="/news/littl_richard_umer_v_87_let">Литтл Ричард, отец-основатель рока, умер в возрасте 87 лет</a>
+<time datetime="2020-05-10 13:47:38" class="news updated">10.05.2020</time>
+</header>
+<p>Его «Tutti Frutti», «Good Golly Miss Molly» и «Long Tall Sally» задали шаблон, которому следовали поколения музыкантов</p>
+</article>
+<footer>
+Новости	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block photo" data-id="5222">
+<img src="https://www.daymusic.ru/i/rz/ximg20190910_001.jpg.pagespeed.ic.sUM53fQCzv.jpg" class="pic" alt="Чернозем 2019 (фото)">
+<article class="main_page">
+<header>
+<a href="/photo/chernozem_2019_photo">Чернозем 2019 (фото)</a>
+<time datetime="2019-08-21 10:48:58" class="news updated">21.08.2019</time>
+</header>
+<p>Фестиваль проходил с 9 по 11 августа в Тамбове.</p>
+</article>
+<footer>
+Фотоотчеты	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5221">
+<img src="https://www.daymusic.ru/i/rz/ximg20190910_000.jpg.pagespeed.ic.2rBy_vs3bJ.jpg" class="pic" alt="Чернозем: душевное нашествие в миниатюре">
+<article class="main_page">
+<header>
+<a href="/reports/chernozem_dushevnoe_nashestvie_v_miniatyure">Чернозем: душевное нашествие в миниатюре</a>
+<time datetime="2019-08-21 10:24:27" class="news updated">21.08.2019</time>
+</header>
+<p>Фестиваль проходит уже пятый год, мы его посетили впервые, и можем поделиться мнением почему он не просто альтернатива Нашествию, а даже лучше! Или... душевней!</p>
+</article>
+<footer>
+Отчеты	<span class="author">Андрей Городецкий</span>
+</footer>
+</div>
+<div class="el dm_block photo" data-id="5218">
+<img src="https://www.daymusic.ru/i/rz/ximg20190819_000.jpg.pagespeed.ic.grna3rayPm.jpg" class="pic" alt="Лётчик-Дача-Лето: фотоотчет">
+<article class="main_page">
+<header>
+<a href="/photo/letchik_dacha_leto_photo">Лётчик-Дача-Лето: фотоотчет</a>
+<time datetime="2019-08-19 06:40:12" class="news updated">19.08.2019</time>
+</header>
+<p>Мы отправились на новый фестиваль, затеянный в честь знаменитого столичного клуба Китайский Лётчик Джао Да, который отметил — трудно поверить — двадцатилетие!</p>
+</article>
+<footer>
+Фотоотчеты	<span class="author">Elena Corvus</span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5217">
+<img src="https://www.daymusic.ru/i/rz/ximg20190816_000.jpg.pagespeed.ic.b2-xmf6_WT.jpg" class="pic" alt="«Лётчик. Дача. Лето»: Страх и ненависть в Переславле-Залесском">
+<article class="main_page">
+<header>
+<a href="/reports/letchik_dacha_leto_strah_i_nenavist_v_pereslavle_zalesskom">«Лётчик. Дача. Лето»: Страх и ненависть в Переславле-Залесском</a>
+<time datetime="2019-08-16 21:13:31" class="news updated">16.08.2019</time>
+</header>
+<p>Оупенэйр к 20-летию столичного клуба «Китайский лётчик Джао Да» был обещан как чуть ли не «русский Вудсток».</p>
+</article>
+<footer>
+Отчеты	<span class="author">Александр Минайчев</span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5203">
+<img src="https://www.daymusic.ru/i/rz/ximg20190329_002.jpg.pagespeed.ic.vsJ_hD0gNw.jpg" class="pic" alt="The Orb в Москве: Брутально обаятельный дедушка Патерсон с «внуком»">
+<article class="main_page">
+<header>
+<a href="/reports/the_orb_msk_2019">The Orb в Москве: Брутально обаятельный дедушка Патерсон с «внуком»</a>
+<time datetime="2019-03-29 21:38:39" class="news updated">29.03.2019</time>
+</header>
+<p>По случаю отмечаемого с прошлого года 30-летия The Orb звучали прям ну самые-самые хиты с самых-самых любимых альбомов.</p>
+</article>
+<footer>
+Отчеты	<span class="author">Александр Минайчев</span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5200">
+<img src="https://www.daymusic.ru/i/rz/ximg20181117_000.jpg.pagespeed.ic.oS4oV1KsIq.jpg" class="pic" alt="Лидия Ланч: В России ещё многое нужно сделать для продвижения рок-музыки и освобождения страны в целом">
+<article class="main_page">
+<header>
+<a href="/reports/lydia_lunch_in_russia_2018">Лидия Ланч: В России ещё многое нужно сделать для продвижения рок-музыки и освобождения страны в целом</a>
+<time datetime="2018-11-17 09:15:18" class="news updated">17.11.2018</time>
+</header>
+<p>Москву в очередной раз озарила своим визитом легендарная во всех смыслах американская певица и писательница Лидия Ланч. Нам удалось немного поговорить с ней.</p>
+</article>
+<footer>
+Отчеты	<span class="author">Александр Минайчев</span>
+</footer>
+</div>
+<div class="el dm_block reports" data-id="5198">
+<img src="https://www.daymusic.ru/i/rz/ximg20181111_000.jpg.pagespeed.ic.xrSJd7O5uS.jpg" class="pic" alt="Within Temptation: противостояние цвета индиго в московском Adrenaline Stadium">
+<article class="main_page">
+<header>
+<a href="/reports/within_temptation_2018_adrenaline_stadium">Within Temptation: противостояние цвета индиго в московском Adrenaline Stadium</a>
+<time datetime="2018-10-31 19:19:26" class="news updated">31.10.2018</time>
+</header>
+<p>Шестой концерт группы в Москве прошел в рамках тура в поддержку нового альбома Resist.</p>
+</article>
+<footer>
+Отчеты	<span class="author">Маргарита Савинова</span>
+</footer>
+</div>
+<div class="el dm_block ex2" data-id="37">
+<img src="https://www.daymusic.ru/i/rz/xkino.jpg.pagespeed.ic.hj0ZQxOBLD.jpg" class="pic" alt="«Ну решай» или «Уезжай»? Как ты услышал слова песен Цоя? (тест)">
+<article class="main_page">
+<header>
+<a href="/competition/37">«Ну решай» или «Уезжай»? Как ты услышал слова песен Цоя? (тест)</a>
+<time datetime="2016-08-15 23:59:59" class="news updated"></time>
+</header>
+<p></p>
+</article>
+<footer>
+Тест	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block photo" data-id="4711">
+<img src="https://www.daymusic.ru/i/rz/ximg20160804_000.jpg.pagespeed.ic.9VPOtNVBBg.jpg" class="pic" alt="Alfa Future People 2016 (фото)">
+<article class="main_page">
+<header>
+<a href="/photo/alfa_future_people_2016_photo">Alfa Future People 2016 (фото)</a>
+<time datetime="2016-08-03 02:55:06" class="news updated">03.08.2016</time>
+</header>
+<p>Небольшой обзорный фотоотчет о фестивале, который состоялся в конце июля под Нижним Новгородом.</p>
+</article>
+<footer>
+Фотоотчеты	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block ex2" data-id="35">
+<img src="https://www.daymusic.ru/i/rz/xnashestvie.jpg.pagespeed.ic.Ae8NDh8egN.jpg" class="pic" alt="Насколько ты ветеран &quot;Нашествия&quot;?">
+<article class="main_page">
+<header>
+<a href="/competition/35">Насколько ты ветеран &quot;Нашествия&quot;?</a>
+<time datetime="2016-07-11 23:59:59" class="news updated"></time>
+</header>
+<p></p>
+</article>
+<footer>
+Тест	<span class="author"></span>
+</footer>
+</div>
+<div class="el dm_block photo" data-id="4241">
+<img src="https://www.daymusic.ru/i/rz/ximg20150410_001.jpg.pagespeed.ic.tAlkla7qc6.jpg" class="pic" alt="Второе дыхание Обе Две и большой концерт в Москве">
+<article class="main_page">
+<header>
+<a href="/photo/vtoroe_dyhanie_obe_dve_i_bolshoy_koncert_v_moskve">Второе дыхание Обе Две и большой концерт в Москве</a>
+<time datetime="2015-04-07 19:19:27" class="news updated">07.04.2015</time>
+</header>
+<p>Да, Катины «Обе Две» очень ждали. И возвращение явно удалось.</p>
+</article>
+<footer>
+Фотоотчеты	<span class="author">Роман Сысоев</span>
+</footer>
+</div>
+<div class="el dm_block photo" data-id="4261">
+<img src="https://www.daymusic.ru/i/rz/ximg20150617_002.jpg.pagespeed.ic.2q4wUwf-0c.jpg" class="pic" alt="Kubana 2014 (фото)">
+<article class="main_page">
+<header>
+<a href="/photo/kubana_2014_photo">Kubana 2014 (фото)</a>
+<time datetime="2014-08-30 00:05:31" class="news updated">30.08.2014</time>
+</header>
+<p>По словам организаторов, этот фестиваль стал последним.</p>
+</article>
+<footer>
+Фотоотчеты	<span class="author"></span>
+</footer>
+</div>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91f25b41ea0cb192',t:'MTc0MTc3MjcwMy4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>	</div>
+<aside id="rightContent">
+<div class="dm_block" style="background-color:white;width:240px;padding:0;height:400px;overflow:hidden;-webkit-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);" id="adsense2">
+<article class="adv main_page" style="width:240px;padding:0;height:400px;overflow:hidden;">
+<div style="width:240px;border-radius: 3px!important;background-color:white;height:400px;" id="rot2">
+<div>
+<div id="yandex_rtb_R-A-247314-6"></div>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-6',blockId:'R-A-247314-6'})})</script>
+</div>
+</div>
+</article>
+</div>
+<div class="dm_block white_block social">
+<h4>Мы в соцсетях:</h4>
+<div style="padding:10px;">
+<dl>
+<dt class="vk">
+<a href="http://vk.com/public105684620" rel="nofollow" target="_blank">
+<img src="/i/vk.png" alt="Vk">
+</a>
+</dt>
+<dt class="fb">
+<a href="https://www.facebook.com/daymusicru" rel="nofollow" target="_blank">
+<img src="/i/facebook.png" alt="Facebook">
+</a>
+</dt>
+<dt class="tw">
+<a href="https://twitter.com/daymusicru" rel="nofollow" target="_blank">
+<img src="/i/twitter.png" alt="Twitter">
+</a>
+</dt>
+<dt class="tw">
+<a href="http://syndicated.livejournal.com/daymusic_ru/" rel="nofollow" target="_blank">
+<img src="/i/xlj.png.pagespeed.ic.0Dg6wZuZ6r.png" alt="LiveJournal">
+</a>
+</dt>
+<dd class="clearfix"></dd>
+</dl>
+</div>
+</div>
+<div class="dm_block white_block ban">
+<article class="adv main_page" style="">
+<script async src="https://ad.mail.ru/static/ads-async.js"></script>
+<ins class="mrg-tag" style="display:inline-block;" data-ad-client="ad-208966" data-ad-slot="208966"></ins>
+<script>(MRGtag=window.MRGtag||[]).push({})</script>
+</article>
+</div>
+<div class="dm_block white_block ban" id="yandex">
+<article class="adv main_page">
+<div id="yandex_rtb_R-A-247314-1"></div>
+<script>window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-1',blockId:'R-A-247314-1'})})</script>
+</article>
+</div>
+<div class="dm_block white_block" style="height:74px;">
+<script>(function(){var cx='partner-pub-3211213683653175:hp9kthf2l6q';var gcse=document.createElement('script');gcse.type='text/javascript';gcse.async=true;gcse.src=(document.location.protocol=='https:'?'https:':'http:')+'//cse.google.com/cse.js?cx='+cx;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse,s);})();</script>
+<h4>Поиск по сайту:</h4>
+<div style="padding:8px;"><div class="gcse-searchbox-only" data-resultsUrl="http://www.daymusic.ru/search" data-queryParameterName="search"></div></div>
+</div>
+<div class="dm_block white_block" id="tags">
+<h4>Популярные разделы</h4>
+<span class="hr1"></span>
+<head/><div class="new">
+<a href="/tags/%CA%CE%CD%D6%C5%D0%D2%DB">Концерты</a>&nbsp; &nbsp;
+<a href="/tags/%C0%CB%DC%C1%CE%CC%DB">Альбомы</a>&nbsp; &nbsp;
+<a href="/tags/%CD%C0%D8%C5">Наше</a>&nbsp; &nbsp;
+<a href="/tags/%D4%C5%D1%D2%C8%C2%C0%CB%C8">Фестивали</a>&nbsp; &nbsp;
+<a href="/tags/%C2%C8%C4%C5%CE">Видео</a>&nbsp; &nbsp;
+<a href="/tags/%D4%CE%D2%CE">Фото</a>&nbsp; &nbsp;
+<a href="/tags/%CC%D3%C7%DB%CA%C0">Музыка</a>&nbsp; &nbsp;
+<a href="/tags/%D4%C8%CB%DC%CC%DB">Фильмы</a>&nbsp; &nbsp;
+<a href="/tags/INDIE">Indie</a>&nbsp; &nbsp;
+<a href="/tags/%CA%CE%CD%CA%D3%D0%D1%DB">Конкурсы</a>&nbsp; &nbsp;
+<a href="/tags/%CD%C0%D8%C5%D1%D2%C2%C8%C5">Нашествие</a>&nbsp; &nbsp;
+<a href="/tags/ANIMAL%20%C4%C6%C0Z">Animal Джаz</a>&nbsp; &nbsp;
+<a href="/tags/JAZZ">Jazz</a>&nbsp; &nbsp;
+<a href="/tags/BEATLES">Beatles</a>&nbsp; &nbsp;
+<a href="/tags/%D0%C0%C4%C8%CE">Радио</a>&nbsp; &nbsp;
+</div><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91f25b536b6fe568',t:'MTc0MTc3MjcwNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>	</div>
+<div class="dm_block white_block">
+<h4>Популярные статьи</h4><p style="margin-left:10px;"><span id="top_day" class="top_link active" data-block="day">за сутки</span> / <span id="top_week" class="top_link" data-block="week">за неделю</span> / <span id="top_month" class="top_link" data-block="month">за месяц</span></p><span class="hr1"></span><ul class="new top_block" id="block_day" style=""><li><a href="https://www.daymusic.ru/at_web/samye_pronzitelnye_pesni_russkogo_roka_ddt_beda">Самые пронзительные песни русского рока: ДДТ — «Беда»</a></li><li><a href="https://www.daymusic.ru/articles/5_grupp_kazahstana_privnosyashchih_tradicionnyy_kazahskiy_stil_v_sovremennuyu_rok_muzyku">5 групп Казахстана, привносящих традиционный казахский стиль в современную рок-музыку</a></li><li><a href="https://www.daymusic.ru/articles/akkordy_i_tekst_pesni_gruppy_kino_zvezda_po_imeni_solnce">Аккорды и текст песни группы Кино «Звезда по имени Солнце»</a></li><li><a href="https://www.daymusic.ru/reviews/10_luchshih_pesen_seriala_ochen_strannye_dela">10 лучших песен сериала «Очень странные дела»</a></li><li><a href="https://www.daymusic.ru/articles/rok-pesni_o_kosmose_zvezdah_vselennoy_na_russkom_yazyke">Рок-песни о космосе, звездах и вселенной на русском языке</a></li><li><a href="https://www.daymusic.ru/articles/10_poleznyh_sovetov_tem_kto_sobiraetsya_na_koncert">10 полезных советов тем, кто собирается на концерт</a></li></ul><ul class="new top_block" id="block_week" style="display:none;"><li><a href="https://www.daymusic.ru/at_web/samye_pronzitelnye_pesni_russkogo_roka_ddt_beda">Самые пронзительные песни русского рока: ДДТ — «Беда»</a></li><li><a href="https://www.daymusic.ru/articles/5_grupp_kazahstana_privnosyashchih_tradicionnyy_kazahskiy_stil_v_sovremennuyu_rok_muzyku">5 групп Казахстана, привносящих традиционный казахский стиль в современную рок-музыку</a></li><li><a href="https://www.daymusic.ru/articles/akkordy_i_tekst_pesni_gruppy_kino_zvezda_po_imeni_solnce">Аккорды и текст песни группы Кино «Звезда по имени Солнце»</a></li><li><a href="https://www.daymusic.ru/reviews/10_luchshih_pesen_seriala_ochen_strannye_dela">10 лучших песен сериала «Очень странные дела»</a></li><li><a href="https://www.daymusic.ru/articles/rok-pesni_o_kosmose_zvezdah_vselennoy_na_russkom_yazyke">Рок-песни о космосе, звездах и вселенной на русском языке</a></li><li><a href="https://www.daymusic.ru/articles/chem_na_nas_dymyat_na_koncertah">Дым над... рок-сценой. Чем на нас дымят на концертах?</a></li></ul><ul class="new top_block" id="block_month" style="display:none;"><li><a href="https://www.daymusic.ru/at_web/samye_pronzitelnye_pesni_russkogo_roka_ddt_beda">Самые пронзительные песни русского рока: ДДТ — «Беда»</a></li><li><a href="https://www.daymusic.ru/articles/5_grupp_kazahstana_privnosyashchih_tradicionnyy_kazahskiy_stil_v_sovremennuyu_rok_muzyku">5 групп Казахстана, привносящих традиционный казахский стиль в современную рок-музыку</a></li><li><a href="https://www.daymusic.ru/articles/akkordy_i_tekst_pesni_gruppy_kino_zvezda_po_imeni_solnce">Аккорды и текст песни группы Кино «Звезда по имени Солнце»</a></li><li><a href="https://www.daymusic.ru/reviews/10_luchshih_pesen_seriala_ochen_strannye_dela">10 лучших песен сериала «Очень странные дела»</a></li><li><a href="https://www.daymusic.ru/articles/5_muzykalnyh_instrumentov_na_kotoryh_proshche_vsego_nachat_igrat_v_lyubom_vozraste">5 музыкальных инструментов, на которых проще всего начать играть в любом возрасте</a></li><li><a href="https://www.daymusic.ru/articles/chem_na_nas_dymyat_na_koncertah">Дым над... рок-сценой. Чем на нас дымят на концертах?</a></li></ul>	</div>
+<div class="dm_block white_block" id="last_comments">
+<h4>Обсуждения</h4>
+<h4><a href="/forum/">Форум &gt;</a></h4>
+<span class="hr1"></span>
+<div id="top_comments" style="max-height:450px;overflow:hidden; position:relative;">
+<ul class='new2' style="word-wrap:break-word;">
+<li>
+<a href="/forum/index.php/topic,28492.msg33579/topicseen.html#msg33579">4 новых метал-релиза при участии АНТОН SKALD</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Метал-опера “Ведьмак: Время волков” – один из самых интересных и многообещающих проектов российской метал-сцены. Она не только радует фанатов саги Анджея... <span class="datet" style="color:#999999;white-space:nowrap;">09.03.2025 19:58</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28491.msg33578/topicseen.html#msg33578">KA’APER: Добро пожаловать в темнейшие из времен!</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Кромешная тьма зародилась в апреле 2024 года. Вдохновленная мифами древнего Египта, обожженная беспощадным солнцем и окутанная дыханием пустынного ветра,... <span class="datet" style="color:#999999;white-space:nowrap;">23.02.2025 21:07</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28490.msg33577/topicseen.html#msg33577">Новый трек от SMERDEAD “Волколачья”</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Омская метал-формация SMERDEAD представляет на суд ценителей жанра новый сингл «Волколачья»! Как и в прошлых музыкальных работах, SMERDEAD делают ставку на... <span class="datet" style="color:#999999;white-space:nowrap;">14.02.2025 21:55</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28489.msg33576/topicseen.html#msg33576">Ektomorf объявили о возвращении в Россию!</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> 14 и 16 мая европейская метал-группа Ektomorf возвращается в Россию с концертами в Москве и Санкт-Петербурге! Флагманы европейского грув-метал – группа... <span class="datet" style="color:#999999;white-space:nowrap;">14.02.2025 20:02</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28488.msg33575/topicseen.html#msg33575">Новый альбом группы ДИВИЗОР</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Российский музыкальный проект ДИВИЗОР представил на суд публики свой новый полноформатный альбом “Человек”, исполненный на стыке таких жанров как Death Rock,... <span class="datet" style="color:#999999;white-space:nowrap;">26.01.2025 14:30</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28487.msg33574/topicseen.html#msg33574">Новый официальный клип от Мистер Кто!</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> “За сорокет” – новый официальный клип от тюменского рок-проекта “Мистер Кто”! Поставив для себя цель экранизировать большинство своих песен, “Мистер Кто!”... <span class="datet" style="color:#999999;white-space:nowrap;">28.12.2024 07:34</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28486.msg33573/topicseen.html#msg33573">MIDAEV представил сингл My Fight</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Группа MIDAEV из ОАЭ представила новый сингл “My Fight”, записанный на стыке тяжелого Gothic Rock и Industrial. “My Fight — это моя мантра, мой способ... <span class="datet" style="color:#999999;white-space:nowrap;">07.12.2024 17:56</span></p></li>
+<li>
+<a href="/forum/index.php/topic,28485.msg33572/topicseen.html#msg33572">Новый альбом Alex Sigmer</a>
+<p style="line-height:130%;font-size:90%;"><img src="/i/user.gif" alt="" class="userico"><span style="font-size:120%;font-weight:700;">alexard</span> Российская группа Alex Sigmer представила новый альбом “August In Your Eyes”. Англоязычная пластинка группы выполненная в стилистике рок-музыки, вкраплением... <span class="datet" style="color:#999999;white-space:nowrap;">03.11.2024 17:49</span></p></li>
+</ul>	</div>
+</div>
+<script type="text/javascript">new IScroll('#top_comments',{mouseWheel:true,scrollbars:true});</script>
+<div class="dm_block white_block" style="height:400px;overflow:hidden;">
+<script type="text/javascript">(function(e){var t="DIV_NNN_"+e+"_"+parseInt(Math.random()*1e3);document.write('<div id="'+t+'" class="da-block da-block-'+e+'"></div>');if("undefined"===typeof loaded_blocks_da){loaded_blocks_da=[];function n(){var e=loaded_blocks_da.shift();var t=e.adp_id;var r=e.div;var i=document.createElement("script");i.type="text/javascript";i.async=true;i.charset="windows-1251";i.src="//www.nnn.ru/show.cgi?async=1&adp="+t+"&div="+r+"&t="+Math.random();var s=document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0];s.appendChild(i);var o=setInterval(function(){if(document.getElementById(r).innerHTML&&loaded_blocks_da.length){n();clearInterval(o)}},50)}setTimeout(n)}loaded_blocks_da.push({adp_id:e,div:t})})(239784)</script>
+</div>
+<script>$(document).on("click",".top_link",function(){var tpe=$(this).attr("data-block");$(".top_block").css("display","none");$("#block_"+tpe).css("display","block");$(".top_link").removeClass("active");$(this).addClass("active");});setInterval(function(){if(document.hasFocus()){var adv=$("#rot2>*");adv.detach();$("#rot2").append($('<div id="yandex_rtb_R-A-247314-6">'));setTimeout(()=>{window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({renderTo:'yandex_rtb_R-A-247314-6',blockId:'R-A-247314-6'})})},1000)}},30000);$('#rotate_adv_1').unslider({animation:'fade',autoplay:true,arrows:false,speed:500,delay:10000,nav:false});$('#rotate_adv_2').unslider({animation:'fade',autoplay:true,arrows:false,speed:500,delay:10000,nav:false});$('#rotate_adv_3').unslider({animation:'fade',autoplay:true,arrows:false,speed:500,delay:10000,nav:false});</script>
+</aside>
+</section>
+</section>
+<footer id="copy" style="clear:both;">
+<div style="float:left;">
+&copy; 2007-2025 DAYMUSIC.RU <a href="/contacts" class="menu" style="margin-left:15px;text-transform:uppercase;">Контакты</a>
+</div>
+<div id="counters_block" style="float:right;padding:0;">
+<span style="opacity:0.01;">
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-283469-6','auto');ga('send','pageview');</script>
+<script type="text/javascript">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"1252433",type:"pageView",start:(new Date()).getTime()});(function(d,w,id){if(d.getElementById(id))return;var ts=d.createElement("script");ts.type="text/javascript";ts.async=true;ts.id=id;ts.src=(d.location.protocol=="https:"?"https:":"http:")+"//top-fwz1.mail.ru/js/code.js";var f=function(){var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);};if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(document,window,"topmailru-code");</script><noscript><span style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=1252433;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru"/>
+</span></noscript>
+<a href="//top.mail.ru/jump?from=1252433" rel="nofollow">
+<img src="//top-fwz1.mail.ru/counter?id=1252433;t=479;l=1" style="border:0;" height="31" width="88" alt="Рейтинг@Mail.ru"/></a>
+&nbsp;
+<script type="text/javascript">document.write("<a rel='nofollow' href='//www.liveinternet.ru/click' "+"target=_blank><img src='//counter.yadro.ru/hit?t16.6;r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";i"+escape("Жж"+document.title.substring(0,80))+";"+Math.random()+"' alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я' "+"border=0 width=88 height=31><\/a>")</script>
+&nbsp;
+<span id="top100_widget"></span>
+<script>(function(w,d,c){(w[c]=w[c]||[]).push(function(){var options={project:1077779,element:'top100_widget'};try{w.top100Counter=new top100(options);}catch(e){}});var n=d.getElementsByTagName("script")[0],s=d.createElement("script"),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.src=(d.location.protocol=="https:"?"https:":"http:")+"//st.top100.ru/top100/top100.js";if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(window,document,"_top100q");</script>
+<noscript>
+<img src="//counter.rambler.ru/top100.cnt?pid=1077779" alt="Топ-100"/>
+</noscript>
+</span>
+<a href="https://metrika.yandex.ru/stat/?id=30801746&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/30801746/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="30801746" data-lang="ru"/></a>
+<script type="text/javascript">(function(d,w,c){(w[c]=w[c]||[]).push(function(){try{w.yaCounter30801746=new Ya.Metrika({id:30801746,clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true,trackHash:true});}catch(e){}});var n=d.getElementsByTagName("script")[0],s=d.createElement("script"),f=function(){n.parentNode.insertBefore(s,n);};s.type="text/javascript";s.async=true;s.src="https://mc.yandex.ru/metrika/watch.js";if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(document,window,"yandex_metrika_callbacks");</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/30801746" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+</div>
+<script id="dsq-count-scr" src="//daymusic.disqus.com/count.js" async></script>
+</footer>
+<script>var $container=$('#content2>div');var $container2=$('#rightContent');var $container3=$('#full_afisha');var cntBlocks;var rTimer;var imgTimer;function normContent(){var tmp_w=$(window).innerWidth()-8;cntBlocks=Math.floor(tmp_w/250);if(tmp_w<748){$("#content").width(cntBlocks*250);$("#content2").width(cntBlocks*250);}else{$("#content").width(cntBlocks*250);$("#content2").width(cntBlocks*250);}if($("#content2").width()==0){$("#content2").width(500);}if(cntBlocks>1){$("#content2>div").width((cntBlocks-1)*250);$(".paging").width((cntBlocks-1)*250);}else{$("#content2>div").width(250);$(".paging").width(250);}$container.isotope('layout');}var ysh;$(window).load(function(){$(window).on("resize",function(e){normContent();$container.isotope('layout');});function start(){$container.isotope({itemSelector:'.el.dm_block',masonry:{columnWidth:250,cornerStampSelector:'#rightContent'}});normContent();}$("#content img").on("load",function(){clearTimeout(imgTimer);imgTimer=setTimeout(function(){$container.isotope('layout');},500);});$("article script").on("load",function(){$container.isotope('layout');});$(".dm_block article.main_page").on("click",function(){$(this).find("header a")[0].click();});$(".at_web").fancybox({onStart:function(){},afterShow:function(){var el=$(this);var index=this.index;var el=$($(this.element)[index]).find("article header a")[0];var el2=$($(this.element)[index]).find("article p")[0];var src=el.href;var title=el.innerText;var desc=el2.innerText;if(Ya){delete ysh;ysh=new Ya.share({element:'s_links',elementStyle:{'type':'none','linkIcon':false,'border':false,'quickServices':['twitter','vkontakte','facebook','gplus']},description:desc,title:title,link:src,serviceSpecific:{facebook:{link:src},gplus:{link:src}}});}},beforeLoad:function(e){this.href="/aweb.php?id="+$(this.element).attr("data-id");if(cntBlocks<3){window.location=$(this.element).find("a").attr("href");return false;}},type:'ajax','transitionIn':'elastic','transitionOut':'elastic','height':'auto','titlePosition':'outside','titleFormat':function(title,currentArray,currentIndex,currentOpts){}});$(".calendar").fancybox({onStart:function(){},afterShow:function(){var el=$(this);var index=this.index;var el=$($(this.element)[index]).find("article header a")[0];var el2=$($(this.element)[index]).find("article p")[0];var src=el.href;var title=el.innerText;var desc=el2.innerText;if(Ya){delete ysh;ysh=new Ya.share({element:'s_links',elementStyle:{'type':'none','linkIcon':false,'border':false,'quickServices':['twitter','vkontakte','facebook','gplus']},description:desc,title:title,link:src,serviceSpecific:{facebook:{link:src},gplus:{link:src}}});}},beforeLoad:function(e){this.href="/calend.php?id="+$(this.element).attr("data-id");if(cntBlocks<3){window.location=$(this.element).find("a").attr("href");return false;}},type:'ajax','transitionIn':'elastic','transitionOut':'elastic','height':'auto','titlePosition':'outside','titleFormat':function(title,currentArray,currentIndex,currentOpts){}});$("#go1").on("click",function(){var w=$('#content2').width()-9;$('#full_afisha').height($(window).height()-124);$('#small_afisha').toggle(100);$('#full_afisha').toggle(100,function(){$container3.isotope({itemSelector:'.announce_block',layoutMode:'fitColumns',resizesContainer:false});$('.afisha_block').animate({width:w+'px'},500,function(){setTimeout(function(){$container.isotope('layout');$container2.isotope('layout');},100);});});$('#go1').css('display','none');$('#go2').css('display','block');return false;});$("#go2").on("click",function(){$('.afisha_block').animate({width:'240px'},500);$('#small_afisha').toggle();$('#full_afisha').toggle();$('#go1').css('display','block');$('#go2').css('display','none');$(window).trigger('resize');return false;});fontdetect.onFontLoaded('Roboto',start,start,{msTimeout:4000});var iph=$("#ininfo>p").height()+16;$("#info").css("height",iph+"px");$("#content").css("margin-top",iph+60+"px");$("#info").on("mouseover",function(){$("#info").css("height",$("#ininfo").height()+16+"px");});$("#info").on("mouseout",function(){$("#info").css("height",iph+"px");});$("#info").on("mouseleave",function(){$("#info").css("height",iph+"px");});normContent();});</script>
+<noscript class="psa_add_styles"><link href='//fonts.googleapis.com/css?family=Roboto:900,700,400,400italic&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'><link rel="stylesheet" type="text/css" href="/js/fancybox2/jquery.fancybox.css" media="screen"/><link rel="stylesheet" type="text/css" href="/css/style.css?3"><link rel="stylesheet" type="text/css" href="/css/us.css"><style>#q{width:150px}#cse-search-box{padding:8px}</style><style>.dm_block{display:flex;flex-direction:column}@media screen and (max-width:420px){.dm_block{position:static!important;min-width:250px;display:flex;flex-direction:column}.dm_block article.main_page{width:unset}}.dm_block footer{position:relative}.dm_block article.main_page{border-radius:0}.dm_block img.pic{margin:0;max-width:unset;width:100%}</style></noscript><script data-pagespeed-no-defer>//<![CDATA[
+(function(){function b(){var a=window,c=e;if(a.addEventListener)a.addEventListener("load",c,!1);else if(a.attachEvent)a.attachEvent("onload",c);else{var d=a.onload;a.onload=function(){c.call(this);d&&d.call(this)}}};var f=!1;function e(){if(!f){f=!0;for(var a=document.getElementsByClassName("psa_add_styles"),c=0,d;d=a[c];++c)if("NOSCRIPT"==d.nodeName){var k=document.createElement("div");k.innerHTML=d.textContent;document.body.appendChild(k)}}}function g(){var a=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;a?a(function(){window.setTimeout(e,0)}):b()}
+var h=["pagespeed","CriticalCssLoader","Run"],l=this;h[0]in l||!l.execScript||l.execScript("var "+h[0]);for(var m;h.length&&(m=h.shift());)h.length||void 0===g?l[m]?l=l[m]:l=l[m]={}:l[m]=g;})();
+pagespeed.CriticalCssLoader.Run();
+//]]></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91f25c25980e0273',t:'MTc0MTc3MjczOS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

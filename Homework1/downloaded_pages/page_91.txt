@@ -1,0 +1,1390 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+    <title>Песни.ру - тексты песен, аккорды для гитары и табулатуры</title>
+    <meta name="description" content="Вашему вниманию представлена сборная авторская коллекция: тексты песен, аккорды и табулатуры для шестиструнной гитары различных исполнителей" />
+    <meta name="keywords" content="тексты песен, аккорды, табулатуры" />
+    <meta charset="utf8">
+    <link media="screen" href="/css/style.css?3" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.color.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/js/jquery.iframetracker.js"></script>
+    <script type="text/javascript" src="/js/work.js?1"></script>
+    <meta name="verify-reformal" content="0155df1d35f6c82467d46d8a" />
+    <meta name="2bc3f98744bb9c6d869046afc4ec4242" content="">
+    <meta name='blogocash-verify' content='194a345428040f83840477553c3eaca0' />
+	<meta name="rpc1876ae1ab3d4e1ca2e9f50fac5f287c" content="8bea7fe4dfc749c89bfd58c1a71a2efb" />
+	<meta name="telderi" content="c8c46f8685212fb4796c5e9cd60d30e1" />
+    <!-- d44abfd5e087ef6e -->
+    <script>
+        $(document).ready(function() {
+
+            // var opacity;
+
+            // function myTimer() {
+            //     timer = setInterval("opacity = ($('#guitarist').css('opacity')==1?0.5:1); $('#guitarist').animate({opacity: opacity}, 500, 'linear');", 500);
+            // }
+
+            // myTimer();
+            // $('#guitarist').hover(function(ev){
+            //     $('#guitarist').css('opacity',1);
+            //     clearInterval(timer);
+            // }, function(ev){
+            //     myTimer();
+            // });
+
+            // $(".guitaristclose").click(function() {
+            //     var r = confirm("Сркыть напоминание о подарке навсегда?");
+            //     if (r == true) {
+            //         $.cookie('guitarist', '0', {
+            //             expires: 14,
+            //             path: '/',
+            //         });
+            //         $('#guitarist').hide('slow');
+            //     }
+            // });
+
+            // var guitarist = $.cookie('guitarist');
+            // if (guitarist != 0) {
+            //     setTimeout(function () {
+            //         $('#guitarist').fadeIn('slow');
+            //     }, 17000);
+            // }
+
+            // $(".guitaristclick").click(function() {
+            //     $('.gf_modal').fadeIn('slow');
+            //     $('#guitarist').hide('slow');
+            // });
+        });
+    </script>
+</head>
+<body>
+<div style="padding: 15px 10px;text-align: center;background-color: #FFF;font-size: 16px;">Сайт и домен продаются 💰 По всем вопросам обращайтесь на <a href="mailto:ibragimov@pesni.ru">ibragimov@pesni.ru</a></div>
+<div id="main">
+    <div id="wrap">
+
+        <!-- Шапка -->
+        <div id="head">
+            <h1 id="logo-text">Тексты песен, аккорды, табулатуры</h1>            <a href="/" id="logo"></a>
+
+            <div id="head-right">
+                <!-- Меню -->
+                <ul id="menu">
+                    <li><a href="#">Разделы</a>
+                        <ul>
+                            <li><a href="/abc/artist/248/">ОСП - студия</a></li>
+                            <li><a href="/abc/artist/28/">Песни Советских времён</a></li>
+                            <li><a href="/abc/artist/30/">Песни - переделки (юмор)</a></li>
+                            <li><a href="/abc/artist/150/">Новогодние песни</a></li>
+                            <li><a href="/abc/artist/2/">Песни из мультфильмов</a></li>
+                            <li><a href="/abc/artist/240/">Фидошные (из сети FidoNet)</a></li>
+                            <li><a href="/abc/artist/166/">Туристические песни</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/chords/">Как брать аккорды</a></li>
+                    <li><a href="/tuner/">Настройка гитары</a></li>
+                    <li><a href="/novosti/">Новости</a></li>                    <div class="clear"></div>
+                </ul>
+                <!-- End Меню -->
+
+                <!-- Поиск -->
+                <form action="/search/" id="search">
+                    <input id="input-search" placeholder="Поиск по исполнителям и названиям песен" type="text" />
+                    <input id="button-search" value="s" type="submit" />
+                </form>
+                <!--
+                <a href="/" class="search-link">Расширенный поиск</a>
+                <a href="/" class="search-link">Что ищут люди?</a>
+                -->
+                <!-- End Поиск -->
+            </div>
+        </div>
+        <!-- End Шапка -->
+
+        <!-- Алфавит -->
+        <div id="literals">
+            <div id="rus">
+                <a href="/abc/1.shtml">а</a>
+                <a href="/abc/2.shtml">б</a>
+                <a href="/abc/3.shtml">в</a>
+                <a href="/abc/4.shtml">г</a>
+                <a href="/abc/5.shtml">д</a>
+                <a href="/abc/6.shtml">е</a>
+                <a href="/abc/7.shtml">ж</a>
+                <a href="/abc/8.shtml">з</a>
+                <a href="/abc/9.shtml">и</a>
+                <a href="/abc/10.shtml">к</a>
+                <a href="/abc/11.shtml">л</a>
+                <a href="/abc/12.shtml">м</a>
+                <a href="/abc/13.shtml">н</a>
+                <a href="/abc/14.shtml">о</a>
+                <a href="/abc/15.shtml">п</a>
+                <a href="/abc/16.shtml">р</a>
+                <a href="/abc/17.shtml">с</a>
+                <a href="/abc/18.shtml">т</a>
+                <a href="/abc/19.shtml">у</a>
+                <a href="/abc/20.shtml">ф</a>
+                <a href="/abc/21.shtml">х</a>
+                <a href="/abc/22.shtml">ц</a>
+                <a href="/abc/23.shtml">ч</a>
+                <a href="/abc/24.shtml">ш</a>
+                <a href="/abc/25.shtml">щ</a>
+                <a href="/abc/26.shtml">э</a>
+                <a href="/abc/27.shtml">ю</a>
+                <a href="/abc/28.shtml">я</a>
+                <div class="clear"></div>
+            </div>
+
+            <div id="eng">
+                <a href="/abc/29.shtml">a</a>
+                <a href="/abc/30.shtml">b</a>
+                <a href="/abc/31.shtml">c</a>
+                <a href="/abc/32.shtml">d</a>
+                <a href="/abc/33.shtml">e</a>
+                <a href="/abc/34.shtml">f</a>
+                <a href="/abc/35.shtml">g</a>
+                <a href="/abc/36.shtml">h</a>
+                <a href="/abc/37.shtml">i</a>
+                <a href="/abc/38.shtml">j</a>
+                <a href="/abc/39.shtml">k</a>
+                <a href="/abc/40.shtml">l</a>
+                <a href="/abc/41.shtml">m</a>
+                <a href="/abc/42.shtml">n</a>
+                <a href="/abc/43.shtml">o</a>
+                <a href="/abc/44.shtml">p</a>
+                <a href="/abc/45.shtml">q</a>
+                <a href="/abc/46.shtml">r</a>
+                <a href="/abc/47.shtml">s</a>
+                <a href="/abc/48.shtml">t</a>
+                <a href="/abc/49.shtml">u</a>
+                <a href="/abc/50.shtml">v</a>
+                <a href="/abc/51.shtml">w</a>
+                <a href="/abc/52.shtml">x</a>
+                <a href="/abc/53.shtml">y</a>
+                <a href="/abc/54.shtml">z</a>
+                <div class="clear"></div>
+            </div>
+
+            <!--
+            <div id="num">
+            <a href="/">0-9</a>
+            </div>
+            -->
+
+            <div class="change"></div>
+            <div class="change2"></div>
+        </div>
+        <!-- End Алфавит -->
+
+        <!-- Аккаунт -->
+
+                <!-- Не вошёл -->
+        <div id="account">
+            <div id="ava-user-min"><img src="/images/no-ava-user-min.png" /></div>
+            <div id="log-reg">Войти / Зарегистрироваться</div>
+        </div>
+        <!-- /Не вошёл -->
+                <!-- /Вошёл -->
+
+        <div class="clear"></div>
+        <!-- End Аккаунт -->
+
+        <!-- Верхний баннер -->
+        <!--<img src="/images/banner-teatr.gif" width="980" style="cursor: pointer; margin-bottom: 30px" onclick="window.open('http://teatrclub.com/')" />-->
+        <!-- End Верхний баннер -->
+
+
+        <!-- Тело -->
+    <div id="block">
+
+    <!-- Контент -->
+    <div id="content">
+
+    <!-- Глав. слайдер -->
+    <div id="main-slider-wrap">
+        <div id="hot"></div>
+        <!-- <div id="main-slider-navi"><p id="main-slider-prev"><</p><p id="main-slider-next">></p></div> -->
+
+                <div id="main-slider">
+            <ul>
+                <li>
+                    <div class="slide-txt">
+                        <a href="/novosti/luchshee-onlajn-kazino-na-postsovetskom-prostranstve/" style="text-decoration: none">Лучшее онлайн-казино на постсоветском пространстве</a>
+                        <p>Игровые клубы "Вулкан" были самыми популярными в 90-е годы на территории стран бывшего Советского Союза. После ужесточения законодательства казино перешло в режим онлайн, полностью сохранив свой функционал.
+
+</p>
+                    </div> <img src="https://pesni.ru/novosti/wp-content/uploads/benoit-dare-wPXEQz40f8s-unsplash.jpg" width="695" height="250" />
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Глав. слайдер -->
+
+<div id="first_content" style="float: left">
+    
+    <!-- Новости слайдер -->
+    <div class="news-slider-wrap" style="height: 795px">
+
+        <div class="title">
+            <span>Новости</span> <a href="/novosti/"><i>n</i> весь список</a><div class="clear"></div>
+            <div class="title-navi"><p class="news-s-prev">(</p><p class="news-s-next">)</p></div>
+        </div>
+    
+        <div class="news-slider" style="height: 730px">
+            <ul>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://pesni.ru/novosti/wp-content/uploads/kay-V3qzwMY2ak0-unsplash-1-695x522.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/vulkan-igrovoj-klub-dlya-cenitelej-pobedy/">Вулкан-игровой клуб для ценителей победы</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>19.05.2020</span></div>
+                            <div><p>m</p><span>6</span></div>
+                            <div class="n-like"><p>l</p><span>34</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://avatars.mds.yandex.net/get-zen_doc/62191/pub_5b20e755fd96b18a5845ad22_5b20fa1a9f4347a935af38cb/scale_1200" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kakie-byvayut-vinilovye-plastinki/">Какие бывают виниловые пластинки</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>15.11.2019</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>61</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://antirockcult.files.wordpress.com/2013/02/rock-consert-2.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/lyubite-rok-obuchenie-rok-vokalu/">Любите рок? Обучение рок вокалу</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>19.09.2019</span></div>
+                            <div><p>m</p><span>6</span></div>
+                            <div class="n-like"><p>l</p><span>72</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://uploads.gazeta-moy-rayon-donskoy.ru/2019/06/2019-06-10_151040.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/xastl-socialnyj-tanec-dlya-shirokoj-publiki-bez-tancevalnyx-navykov/">Хастл – социальный танец для широкой публики без танцевальных навыков</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>28.07.2019</span></div>
+                            <div><p>m</p><span>4</span></div>
+                            <div class="n-like"><p>l</p><span>71</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://lepevesti.club/wp-content/uploads/2019/04/vinyl-records-945396_1280.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/gde-kupit-originalnye-vinilovye-plastinki-vysokogo-kachestva/">Где купить оригинальные виниловые пластинки высокого качества?</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>25.07.2019</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>85</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://vz.ua/uploads/news/2019/02/13/542cf0c0d5fd47e2eb07c7f5b2b737edd9dc846b.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/muzykalnye-instrumenty-v-internet-magazine-jazz-shop-ru/">Музыкальные инструменты в интернет-магазине jazz-shop.ru</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>20.07.2019</span></div>
+                            <div><p>m</p><span>9</span></div>
+                            <div class="n-like"><p>l</p><span>22</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://cdn2.riastatic.com/photosnew/general/adv_photos/mp3-players-tape-recorders-audio-kassetnyy-pleer-sony-walkman-wm-fx221-nerabochyy__81708597m.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/yubilej-pervogo-kassetnogo-pleera/">Юбилей первого кассетного плеера</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>20.07.2019</span></div>
+                            <div><p>m</p><span>2</span></div>
+                            <div class="n-like"><p>l</p><span>43</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://hronika.info/uploads/posts/2019-05/1556885938_youtube.png" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/mozhno-li-skachivat-roliki-s-youtube/">Можно ли скачивать ролики с Youtube</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>25.05.2019</span></div>
+                            <div><p>m</p><span>4</span></div>
+                            <div class="n-like"><p>l</p><span>50</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://irockstar.tv/media/k2/items/cache/e0a70f72bdae9885bfc32d7cd19a26a1_L.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kakie-straxi-meshayut-lyudyam-uchitsya-igrat-na-gitare/">Какие страхи мешают людям учиться играть на гитаре?</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>17.05.2019</span></div>
+                            <div><p>m</p><span>6</span></div>
+                            <div class="n-like"><p>l</p><span>65</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://img0.temaufa.ru/static/c32ad0729682f13fddb862f2cce35b86/thumbs/media/articles/1403/46d77406fc0a23d4a726d364294d51ff.jpg/660x660.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/vinilovye-plastinki-snova-v-trende/">Виниловые пластинки снова в тренде</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>27.03.2019</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>62</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://xlom.ru/wp-content/uploads/2017/05/%D0%9E%D1%82%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8-750x375.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/tormoznye-kolodki-avtomobilya-osobennosti/">Тормозные колодки автомобиля : особенности</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>22.03.2019</span></div>
+                            <div><p>m</p><span>6</span></div>
+                            <div class="n-like"><p>l</p><span>57</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://agdesignstudio.ru/wp-content/uploads/sites/333/2016/05/buying-makeup-at-supermarket1.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kak-otkryt-svoj-magazin-kosmetiki/">Как открыть свой магазин косметики</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>22.03.2019</span></div>
+                            <div><p>m</p><span>6</span></div>
+                            <div class="n-like"><p>l</p><span>30</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://img.mebelok.com/image/data/bez-watermarki/myagkaya-mebel-v-restorane.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kak-vybrat-mebel-dlya-kafe/">Как выбрать мебель для кафе</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>19.03.2019</span></div>
+                            <div><p>m</p><span>5</span></div>
+                            <div class="n-like"><p>l</p><span>32</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://4470-00.ural-soft.info/uploadedFiles/images/build-business.png" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kak-povysit-svoyu-effektivnost/">Как повысить свою эффективность</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>10.03.2019</span></div>
+                            <div><p>m</p><span>7</span></div>
+                            <div class="n-like"><p>l</p><span>50</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://buyoncdn.ru/preset/1794339738/pages_original/ce/3b/55/ce3b55c5137111bf75a4051d9f298051c6f8cd57.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/v-kakix-sluchayax-stoit-ispolzovat-naushniki-s-sistemoj-shumopodavleniya/">В каких случаях стоит использовать наушники с системой шумоподавления?</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>26.02.2019</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>6</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://music.club.com.ua/wp-content/uploads/2016/04/pop.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/populyarnye-zhanry-chto-my-slushaem/">Популярные жанры: что мы слушаем?</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>26.02.2019</span></div>
+                            <div><p>m</p><span>9</span></div>
+                            <div class="n-like"><p>l</p><span>32</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://swjournal.ru/wp-content/uploads/2019/01/d.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/zhenskaya-sumka-kak-sdelat-pravilnyj-vybor-aksessuara/">Женская сумка: как сделать правильный выбор аксессуара</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>21.02.2019</span></div>
+                            <div><p>m</p><span>5</span></div>
+                            <div class="n-like"><p>l</p><span>60</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://cdn-st1.rtr-vesti.ru/p/xw_1516651.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/a-vy-uzhe-smotreli-rik-i-morti/">А вы уже смотрели "Рик и Морти"?</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>05.02.2019</span></div>
+                            <div><p>m</p><span>2</span></div>
+                            <div class="n-like"><p>l</p><span>3</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://innotechnews.com/images/internet/internet-money.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/actualtraffic-ru-servis-dlya-zarabotka-v-internete/">Actualtraffic.ru – сервис для заработка в интернете</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>03.01.2019</span></div>
+                            <div><p>m</p><span>5</span></div>
+                            <div class="n-like"><p>l</p><span>28</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://krd.biletovpachka.ru/image/cache/catalog/afisha/blog/krasnodar/blog/noviy-god-600x360.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/luchshie-koncerty-v-stolice-na-starte-novogo-goda/">Лучшие концерты в столице на старте Нового года</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>19.12.2018</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>21</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://pic.rutube.ru/video/14/c2/14c2470f90557145bc97d53df19fb3ff.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/slavyanskie-gusli-udovolstvie-i-polza-dlya-dushi/">Славянские гусли – удовольствие и польза для души</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>07.12.2018</span></div>
+                            <div><p>m</p><span>3</span></div>
+                            <div class="n-like"><p>l</p><span>65</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://md-eksperiment.org/images/posts/1d0424da-bd5c-4e99-9f37-1e4f3fc29317.jpeg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kak-bystro-poluchit-onlajn-kredit/">Как быстро получить онлайн кредит</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>04.12.2018</span></div>
+                            <div><p>m</p><span>5</span></div>
+                            <div class="n-like"><p>l</p><span>23</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://sport-bar-karaoke.ru/wp-content/themes/sydney/img/karaoke.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/otdyxajte-nezabyvaemo-s-karaoke/">Отдыхайте незабываемо с караоке</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>13.11.2018</span></div>
+                            <div><p>m</p><span>3</span></div>
+                            <div class="n-like"><p>l</p><span>68</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="https://imgclf.112.ua/original/2018/09/03/357636.jpg?timestamp=1535976988" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/treking-koncertov-lyubimyx-ispolnitelej/">Трекинг концертов любимых исполнителей</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>17.10.2018</span></div>
+                            <div><p>m</p><span>8</span></div>
+                            <div class="n-like"><p>l</p><span>70</span></div>
+                        </div>
+                    </div>
+                </li>
+                                <li>
+                    <div class="news-s-block">
+                        <div class="n-images"><img src="http://www.aritmiya.com.ua/wp-content/uploads/2017/01/1458916227-3116.jpg" width="120" height="100" /></div>
+                        <div class="n-text">
+                            <a href="/novosti/kvest-komnaty-priklyucheniya-na-lyuboj-vkus/">Квест-комнаты: приключения на любой вкус</a>
+                            <p></p>
+                        </div>
+                        <div class="n-info">
+                            <div><p>c</p><span>10.10.2018</span></div>
+                            <div><p>m</p><span>5</span></div>
+                            <div class="n-like"><p>l</p><span>59</span></div>
+                        </div>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+    
+    <!-- Новости слайдер -->
+    <div class="news-slider-wrap" style="height: 325px">
+
+    <div class="title">
+        <span>Архив новостей</span> <!--<a href="/mnews/"><i>n</i> весь список</a>--><div class="clear"></div>
+        <div class="title-navi"><p class="news-s-prev">(</p><p class="news-s-next">)</p></div>
+    </div>
+
+    <div class="news-slider">
+    <ul>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/content/news-armen.png" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/news/1/">Спустя 3 года Armin van Buuren возвращается в Москву со своим самым впечатляющим шоу</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>12.09.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>204</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/content/news-yamaha.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2014-07-yamaha-start.shtml">YAMAHA MUSIC RUSSIA объявила о старте ежегодного музыкального конкурса YAMAHA BAND CONTEST!</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>13.07.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/content/news-steve.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2014-04-steve.shtml">Steve Vai в AURORA CONCERT HALL</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>13.07.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2012-08-kubana.shtml">Фестиваль KUBANA 2012</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>13.07.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?806">23 и 24 июля состоятся КРЫЛЬЯ-2005!!!</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?803">"Сплин" представит во МХАТе "Реверсивную хронику событий"</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?800">Чубыкин подписал контракт на выпуск нового альбома</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?799">Музыкант и философ Никита Поздняков</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?797">Фестиваль уличных музыкантов в поддержку выставки бульбуляторов</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?796">Готовится к выпуску альбом группы Планета Пальм - "Сломали небо"</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/mnews/news_view.shtml?793">Альбом МАШИНЫ ВРЕМЕНИ увидит свет в ноябре</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2011-11-gordon.shtml">Блондрок Кати Гордон</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2011-03-bona.shtml">Richard Bona</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2010-07-pink.shtml">Туборг Гринфест</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2010-04-grebenshikov.shtml">Концерт группы Аквариум</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2010-03-piknik.shtml">Концерт группы ПИКНИК</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/2010-02-dujina.shtml">Чартова Дюжина</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/ddt2009.shtml">Концерт группы ДДТ</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/alisa2009.shtml">Концерт группы Алиса</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/xandria.shtml">Концерт группы Xandria</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/libido.shtml">Группа Либидо даёт концерт</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="news-s-block">
+            <div class="n-images"><img src="new/images/no-ava-news.jpg" width="120" height="100" /></div>
+            <div class="n-text">
+                <a href="/info/ulytau.shtml">Концерт группы Ulytau</a>
+                <p></p>
+            </div>
+            <div class="n-info">
+                <div><p>c</p><span>10.06.14</span></div>
+                <div><p>m</p><span>1701</span></div>
+                <div class="n-like"><p>l</p><span>804</span></div>
+            </div>
+        </div>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <!-- End Новости слайдер -->
+</div>
+
+    <!-- Контент 2 -->
+    <div id="second-content">
+
+        <!-- Чарт -->
+        <div class="title"><span>Популярные песни недели</span><div class="clear"></div></div>
+        <ul id="chart">
+            <li><img src="/storage/images/artist/127-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/127/">Белая Гвардия</a><br /><a href="/song/21400/">Белая гвардия</a></li>
+            <li><img src="/storage/images/artist/233-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39613/">Дети хоронят коня</a></li>
+            <li><img src="/storage/images/artist/306-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/306/">Панфилов</a><br /><a href="/song/4347/">Бессмысленные слова</a></li>
+            <li><img src="/storage/images/artist/2224-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/2224/">Limp Bizkit</a><br /><a href="/song/39578/">Boiler</a></li>
+            <li><img src="/storage/images/artist/233-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39619/">Опоссум</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39607/">Горнолыжники</a></li>
+            <li><img src="/storage/images/artist/55-parser.jpeg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39592/">Телефон</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39615/">Любовь</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39588/">Старый дом</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/2224/">Limp Bizkit</a><br /><a href="/song/39638/">My Generation</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39623/">Пока льются слезы</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39608/">Грустная школьница</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39602/">В защиту негров</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39562/">Лето обмануло нас</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/2224/">Limp Bizkit</a><br /><a href="/song/39632/">Full Nelson</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39629/">Строитель</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39577/">Птицы</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39612/">Деревенский парень Федька</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39630/">ХимФак МГУ</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/18/">Песни из кинофильмов</a><br /><a href="/song/20277/">От героев былых времен</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39606/">Гадкий ребёнок</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/130/">Гражданская оборона</a><br /><a href="/song/19896/">Все идет по плану</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39580/">Розовый Вечер</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39600/">Аптека</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/113/">Серьга</a><br /><a href="/song/4377/">А что нам надо</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/135/">Афганские песни</a><br /><a href="/song/20264/">Афганистан - 2</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39620/">Петлюра В Киеве</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39611/">Дверь</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39584/">Седая ночь</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39585/">Сестра</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/203/">Разные песни</a><a href="/song/20442/">Алые паруса</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39590/">Старый лес</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39616/">Молодая комсомолка</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39575/">Пленник</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39582/">Светлана</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39576/">Про собаку</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39627/">Слонок</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39637/">Шлюхи</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39626/">Сифилитический делиpий</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39636/">Шел Гагарин по тропинке</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/269/">Петлюра</a><br /><a href="/song/1777/">Алешка</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39563/">Лиcтoпaд</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39605/">Гадкий pебенок</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39609/">Дeтcтвa Чиcтыe Глaзeнки</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39579/">Пусть будет ночь</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39596/">100 процентов смерть</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39569/">Метель в чужом городе</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39595/">Шальной ветер</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39566/">Мама</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39598/">А в бабе</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/2224/">Limp Bizkit</a><br /><a href="/song/39599/">Counterfeit</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39631/">Фигово (Посвящается песне я. Дягилевой)</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39573/">Падают листья</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39564/">Листопад</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39618/">Начальник</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39565/">Люблю</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39604/">Все мои песни</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39622/">Петлюра в Киеве</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/275/">Король и Шут</a><br /><a href="/song/3781/">Камнем по голове</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39633/">Вуй, нано и муравей</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39593/">Утренний снег</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39634/">Вуй, нано и муравей</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39603/">В кузнечный пресс</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39559/">Кончилось лето</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39587/">Снежная Королева</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39601/">Бонч-Бруевич (Мама)</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/108/">Сектор Газа</a><br /><a href="/song/3702/">Казачья</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/2224/">Limp Bizkit</a><br /><a href="/song/39621/">Faith</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39625/">Сапоги Тамары</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39635/">Шел Гагарин по тропинке</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39617/">Нoгти</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39624/">Разупыханный молодчик</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39574/">Письмо</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39568/">Мама</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39597/">А в бабе 2</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39594/">Цветы</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/55/">Ласковый Май</a><br /><a href="/song/39586/">Случайное счастье</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39614/">Детства моего чистые глазенки</a></li>
+            <li><img src="new/images/no-ava-user-48.jpg" width="48" height="48" /><p><a href="/abc/artist/233/">Лаэртский Александр</a><br /><a href="/song/39628/">Строитель</a></li>
+        </ul>
+        <!-- End Чарт -->
+
+        <!-- Поп. исполнители -->
+        <div class="title"><span>Популярные исполнители недели</span><div class="clear"></div></div>
+        <ul id="pop-artist">
+            <li>
+                <img src="/storage/images/artist/188-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/188/">Алиса</a>
+                    <p><span>Дата рождения:</span> 1983 год</p>
+                    <p><span>Место:</span> Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/130-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/130/">Гражданская оборона</a>
+                    <p><span>Дата рождения:</span> 21 июня 1986</p>
+                    <p>Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/275-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/275/">Король и Шут</a>
+                    <p>КИШ</p>
+                    <p><span>Дата рождения:</span> 13 апреля 1988</p>
+                    <p>Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/new/images/noava-artist-big-74.png" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/114/">Аквариум</a>
+                    <p><span>Дата рождения:</span> 11 мая 1986</p>
+                    <p>Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/108-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/108/">Сектор Газа</a>
+                    <p><span>Дата рождения:</span> 1 января 1986</p>
+                    <p>Москва, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/88-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/88/">Агата Кристи</a>
+                    <p><span>Дата рождения:</span> 21 июня 1956</p>
+                    <p>Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/156-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/156/">Высоцкий Владимир</a>
+                    <p><span>Дата рождения:</span> 28 августа 1976</p>
+                    <p>Красноярск, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li>
+                <img src="/storage/images/artist/274-parser.jpeg" width="74" height="74" />
+                <div class="pop-artist-info">
+                    <a href="/abc/artist/274/">Сплин</a>
+                    <p><span>Дата рождения:</span> 30 июня 1981</p>
+                    <p>Ленинград, СССР</p>
+                </div>
+                <div class="clear"></div>
+            </li>
+        </ul>
+        <!-- End Поп. исполнители -->
+
+    </div>
+    <!-- End Контент 2 -->
+
+    </div>
+    <!-- End Контент -->
+
+
+    <!-- Сайдбар -->
+    <div id="sidebar">
+        <!-- Боковой баннер -->
+ <!--<a href="/" id="side-banner" target="_blank"><img src="/images/ads/2014-09-armen-240.png" class="banner-sidebar" /></a>-->
+ <!--<img src="/images/ads/2014-11-rockmusiciansmaps.jpg" class="banner-sidebar" />-->
+<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:240px;height:400px"
+     data-ad-client="ca-pub-4342976176756864"
+     data-ad-slot="5784575474"></ins>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>-->
+
+<!--BETWEEN SSP CODE V2.0 START-->
+<!--<script type="text/javascript">var between_type="adj";document.write('<script type = "text/javascript" src = "http://cache.betweendigital.com/sections/145702.js"></scr'+'ipt>')</script>-->
+<!--BETWEEN SSP END-->
+<!--<img style="cursor: pointer" src="/images/banner-troegubov-krematori-lanetaru.jpg" alt="Новый альбом Виктора Троегубова" onclick="window.open('http://planeta.ru/campaigns/troegubov')"/>-->
+
+<!-- End Боковой баннер -->
+
+<!-- Соц. группы -->
+<div id="tabs" style="margin-top: 10px">
+    <div class="title">
+        <span>Дружите с нами</span><div class="clear"></div>
+        <!--<div class="title-navi h-tab"><a href="#content1" id="social-vk">1</a><a href="#content2" id="social-fb">2</a></div>-->
+    </div>
+
+    <div class="tabs_content">
+        <div class="tcont" id="content1">
+            <script type="text/javascript" src="//vk.com/js/api/openapi.js?115"></script>
+            <div id="vk_groups"></div>
+            <script type="text/javascript">
+                VK.Widgets.Group("vk_groups", {mode: 0, width: "240", height: "400", color1: 'FFFFFF', color2: '2B587A', color3: '5B7FA6'}, 21154734);
+            </script>
+        </div>
+        <!--<div class="tcont" id="content2">FB Widget</div>-->
+    </div>
+</div>
+<!-- End Соц. группы -->
+
+<!-- День рождения -->
+<div class="title">
+    <span>Другие исполнители</span><div class="clear"></div>
+    <div class="title-navi" style="padding-left:9px"><p id="birsday-prev"><</p><p id="birsday-next">></p></div>
+</div>
+<div id="birsday">
+    <ul>
+            <li>
+            <img src="/storage/images/artist/1-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/1/">Миллион</a>
+            </span>
+        </li>
+            <li>
+            <img src="/storage/images/artist/2-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/2/">Песни из мультфильмов</a>
+            </span>
+        </li>
+            <li>
+            <img src="/storage/images/artist/3-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/3/">Комиссаp</a>
+            </span>
+        </li>
+            <li>
+            <img src="/storage/images/artist/4-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/4/">Малежик Вячеслав</a>
+            </span>
+        </li>
+            <li>
+            <img src="/storage/images/artist/5-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/5/">Чёрный Лукич</a>
+            </span>
+        </li>
+            <li>
+            <img src="/storage/images/artist/6-parser.jpeg" width="74" height="74" />
+            <span>
+                <a href="/abc/artist/6/">Круг Михаил</a>
+            </span>
+        </li>
+        </ul>
+</div>
+<!-- End День рождения -->
+
+<div style="margin: 0 0 25px 0; box-shadow: 0 0 2px rgba(52,56,65,0.25);">
+        </div>    </div>
+    <div class="clear"></div>
+    <!-- End Сайдбар -->
+
+    </div>
+    <!-- End Тело -->
+
+        <!-- Подвал -->
+        <div id="foot">
+
+            <div id="foot-left">
+                <div id="foot-logo">Песни.ру</div>
+                <div id="foot-copy">© 2015<br /> Все права защищены</div>
+                <span id="burgart" class="psevdoLink" data-href="http://burgarts.ru">дизайн сайта <p>Burg!<span>art</span></p></span>
+            </div>
+
+            <ul id="foot-menu">
+                <div class="ul-head"><span>Разделы сайта:</span><p>*</p></div>
+                <li><span class="psevdoLink" data-href="/news/">Новости</a></li>
+                <li><span class="psevdoLink" data-href="/tuner/">Онлайн тюнер</a></li>
+                <li><span class="psevdoLink" data-href="/chords/">Генератор аккордов</a></li>
+            </ul>
+
+            <ul>
+                <div class="ul-head"><span>Мы в соцсетях:</span><p>*</p></div>
+                <li><span class="psevdoLink" data-href="http://vk.com/pesniru">ВКонтакте</span></li>
+                <li><span class="psevdoLink" data-href="http://twitter.com/pesniru">Twitter</span></li>
+                <li><span class="psevdoLink" data-href="http://ok.ru/pesniru">Одноклассники</span></li>
+            </ul>
+
+            <ul>
+                <div class="ul-head"><span>Важная информация:</span><p>*</p></div>
+                <li><span class="psevdoLink" data-href="/page/4/">Наша команда</span></li>
+                <li><span class="psevdoLink" data-href="/page/1/">Реклама на сайте</span></li>
+                <li><span class="psevdoLink" data-href="/page/2/">Бесплатный хостинг</span></li>
+            </ul>
+            <div class="clear"></div>
+        </div>
+        <!-- End Подвал -->
+
+
+
+        <!-- Логин (окно) -->
+        <div id="login-win-wrap">
+            <div id="login-win">
+                <div class="close">7</div>
+                <div class="login-error"><p>;</p> <span>Неверный email или пароль</span></div>
+                <div class="reg-error"><p>;</p> <span>Такой email уже используется или указан не настоящий email</span></div>
+
+                <!-- Вост. пароля -->
+                <div id="lostpassword">
+                    <div class="lhead"><p>,</p> Восстановление пароля</div>
+                    <form>
+                        <label>Электронная почта:</label>
+                        <input name="email" type="text" value="" />
+                        <input type="submit" name="" class="long-enter button" value="Восстановить пароль" />
+                        <div id="notice">Правила восстановления пароля будут отправлены на Вашу почту.</div>
+                        <a href="#" id="close-lost-pass">Уже не надо, я вспомнил(а) пароль</a>
+                    </form>
+                </div>
+                <!-- End Вост. пароля -->
+
+                <!-- Вход -->
+                <div id="login">
+                    <div class="lhead"><p>+</p> Вход в аккаунт</div>
+                    <form>
+                        <label>Электронная почта:</label>
+                        <input id="auth_login_email" name="email" type="text" value="" />
+
+                        <label>Пароль:</label>
+                        <div class="hide-pass"><input id="auth_login_pass" type="password" name="password" class="showpassword" /></div>
+
+                        <input type="submit" class="login-enter button" value="Войти" />
+
+                        <a href="#" id="lost-pass"><p>Восстановить</p><br /> <p>пароль</p></a>
+                        <div class="clear"></div>
+                        <div id="login-social"><p>Вход через соцсети:</p> <a href="#" data-href="/auth/login-vk.php" class="vk psevdoLink">1</a><a href="#" data-href="/auth/login-fb.php" class="fb psevdoLink">2</a><!--<a href="#" class="tw">t</a><a href="#" class="ok">4</a>--></div>
+                    </form>
+                </div>
+                <!-- End Вход -->
+
+                <!-- Регистрация -->
+                <div id="registration">
+                    <div class="lhead"><p>.</p> Регистрация</div>
+                    <form>
+                        <label>Электронная почта:</label>
+                        <input name="email" id="auth_reg_email" type="text" value="" />
+
+                        <label>Пароль:</label>
+                        <div class="hide-pass"><input id="auth_reg_pass" type="password" name="password" class="showpassword" /></div>
+
+                        <!--<div id="terms"><input type="checkbox" checked /> <p>я согласен(а) <a href="/">с условиями</p></a></div>-->
+
+                        <input type="submit" class="long-enter button" value="Зарегистрироваться" />
+                    </form>
+                </div>
+                <!-- End Регистрация -->
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <!-- End Логин (окно) -->
+
+    </div>
+</div>
+
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-5123189-25', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<!-- /Google Analytics -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter226221 = new Ya.Metrika({id:226221, webvisor:true, clickmap:true, trackLinks:true, ut:"noindex"}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/226221?ut=noindex" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!--LiveInternet counter-->
+<script type="text/javascript">document.write("<img style='display: none' src='//counter.yadro.ru/hit?t52.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) + ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: показано число просмотров и посетителей за 24 часа'>")</script>
+<!--/LiveInternet-->
+
+<script type="text/javascript">
+    /*var reformalOptions = {
+        project_id: 805120,
+        project_host: "pesni.reformal.ru",
+        tab_orientation: "left",
+        tab_indent: "50%",
+        tab_bg_color: "#da555b",
+        tab_border_color: "#FFFFFF",
+        tab_image_url: "http://tab.reformal.ru/T9GC0LfRi9Cy0Ysg0Lgg0L%252FRgNC10LTQu9C%252B0LbQtdC90LjRjw==/FFFFFF/2a94cfe6511106e7a48d0af3904e3090/left/1/tab.png",
+        tab_border_width: 2
+    };
+
+    (function() {
+        if ( screen.width >= 800 ) {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.async = true;
+            script.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'media.reformal.ru/widgets/v3/reformal.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+        }
+    })();*/
+</script>
+
+<script>
+    $(function(){
+        setTimeout(function () { $("#subs-vk, #subs-vk-fon").hide(); }, 10000);
+        $("#close-vk").on("click", function(){
+            $("#subs-vk-fon, #subs-vk").hide();
+        });
+
+        $('#iframe_wrap iframe').iframeTracker({
+            blurCallback: function(){
+                $("#subs-vk-fon, #subs-vk").hide();
+            }
+        });
+    });
+</script>
+
+
+    <!--<div id="subs-vk-fon"> </div>
+    <div id="subs-vk" style="height: 165px">
+        <div style="text-align: center;font-size: 20px;margin-top: 15px;">Добро пожаловать на</div>
+        <div style="text-align: center;font-size: 24px;font-weight: bold;">ПЕСНИ.РУ</div>
+
+        <div style="text-align: center;font-weight:bold;background: rgba(221,74,83,0.9);margin: 35px auto 0;width: 190px;font-size: 20px;color: #FFF;padding: 7px 0;" id="vk_login">войти</div>
+        <div id="iframe_wrap" style="opacity: 0;position: absolute;bottom: 21px;left: 47px;">
+            <iframe id="vk_frame" src="/vk.php" style="height: 40px;width: 256px;"></iframe>
+        </div>
+    </div>-->
+
+    <!--<div id="subs-vk-fon"> </div>-->
+    <!--<div id="subs-vk" style="">-->
+    <!--    <div style="text-align: center;font-size: 20px;margin-top: 15px;">Подпишись на обновления</div>-->
+    <!--    <div style="text-align: center;font-size: 24px;font-weight: bold;">ПЕСНИ.РУ в ВКонтакте</div>-->
+
+    <!--    <div style="text-align: center;font-weight:bold;background: rgba(221,74,83,0.9);margin: 35px auto 0;width: 190px;font-size: 20px;color: #FFF;padding: 7px 0;">подписаться в вк</div>-->
+    <!--    <div style="opacity: 0;position: absolute;bottom: 34px;left: 47px;">-->
+    <!--        <iframe src="/vk.php" id="vk_frame" style="height: 40px;width: 256px;"></iframe>-->
+    <!--    </div>-->
+    <!--    <div id="close-vk">спасибо, я уже подписан</div>-->
+    <!--</div>-->
+
+
+<div id="guitarist">
+    <div class="close guitaristclose">7</div>
+    <!--<div  class="guitaristclose" style="">X</div>-->
+    <img src="/images/bestguitar/gift.png">
+    <div>Привет, <strong>Гость</strong></div>
+    <div>Пройди революционный курс по игре на шестиструнной гитаре</div>
+    <div class="guitaristclick">Забирай свой подарок прямо сейчас</div>
+</div>
+<div class="gf_modal">
+    <div class="gf_gf_modal">
+        <div class="gf_gf_modal_close" onclick="$('.gf_modal').fadeOut('slow');"></div>
+        <div class="gf_gf_modal_text">
+            ВАМ ПОДАРКИ ОТ ПРОЕКТА<br>
+            <span>"ГИТАРНАЯ РЕВОЛЮЦИЯ"</span>
+        </div>
+        <form id="subscr-form-3146" action="http://shop.bestguitar.pro/subscribe/process/?rid[0]=free-kyrs&aff=onars&doneurl=http%3A%2F%2Fbestguitar.pro%2Fwppage%2Fpozdravlyaem%2F" method="post" target="_blank">
+            <input class="input lead_name" type="text" name="lead_name"  placeholder="Ваше имя" required ><br>
+            <input class="input lead_email" type="text" name="lead_email" placeholder="Ваш e-mail" required ><br>
+            <input class="button lead_button" type="submit" value="">
+        </form>
+    </div>
+</div>
+<script async="async" src="https://w.uptolike.com/widgets/v1/zp.js?pid=1481551" type="text/javascript"></script>
+</body>
+</html>

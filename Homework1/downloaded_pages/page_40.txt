@@ -1,0 +1,1202 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="ErtcSB2CzHnm8mDsYcCRbZpESD82VNhcgDLGhkoT">
+    <meta name=”format-detection” content=”telephone=no”>
+    <title>Юсуповский дворец на мойке</title>
+    <link rel="shortcut icon" href="/favicon.png" type="image/png">
+    <meta name="description" property="description" content="Добро пожаловать на сайт Юсуповского дворца на Мойке">
+    
+    <meta name="image" property="image" content="https://yusupov-palace.ru/images/logo-bot.png">
+    
+    <meta property="og:url" content="https://yusupov-palace.ru/ru">
+    <meta property="og:title" content="Юсуповский дворец на мойке">
+    <meta property="og:description" content="Добро пожаловать на сайт Юсуповского дворца на Мойке">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://yusupov-palace.ru/images/logo-bot.png">
+    <meta property="og:determiner" content="auto">
+    <meta property="og:site_name" content="Юсуповский дворец на мойке">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="https://yusupov-palace.ru">
+    <meta name="twitter:title" content="Юсуповский дворец на мойке">
+    <meta name="twitter:description" content="Добро пожаловать на сайт Юсуповского дворца на Мойке">
+    <meta name="twitter:creator" content="neksys.ru">
+    <meta name="twitter:image:src" content="https://yusupov-palace.ru/images/logo-bot.png">
+    <meta name="twitter:domain" content="yusupov-palace.ru">
+    
+    <!-- Styles -->
+    <link rel="preload" as="style" href="https://yusupov-palace.ru/build/assets/app-b1f4b16d.css" /><link rel="stylesheet" href="https://yusupov-palace.ru/build/assets/app-b1f4b16d.css" />    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter18891526 = new Ya.Metrika({ id:18891526, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/18891526" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+</head>
+<body>
+    <div class="header-wrapper">
+    <div class="header">
+        <div class="header-actions">
+            <form action="https://yusupov-palace.ru/ru/search" autocomplete="off" method="POST">
+                <input type="hidden" name="_token" value="ErtcSB2CzHnm8mDsYcCRbZpESD82VNhcgDLGhkoT" autocomplete="off">                <input type="search" class="action-item search" name="search" placeholder="Поиск">
+            </form>
+            <a href="/ru/partnership/vacant" class="action-item vacancies">Вакансии</a>
+            <a href="https://tickets.yusupov-palace.ru/" class="action-item buy-ticket">Купить билет</a>
+            <div class="action-item">
+                <a rel="alternate" hreflang="ru" href="https://yusupov-palace.ru/ru"
+                   class="lang">Рус</a>
+                |
+                <a rel="alternate" hreflang="en" href="https://yusupov-palace.ru/en"
+                   class="lang">Eng</a>
+            </div>
+        </div>
+        <div class="header-menu">
+            <a href="/ru/" class="logo">
+                <div class="logo-title">Юсуповский дворец</div>
+                <div class="logo-title sm">на Мойке</div>
+            </a>
+            <div class="menu">
+                <a href="/ru/visitors/schedule"
+                   class="menu-item">Посетителям</a>
+                <a href="/ru/programs"
+                   class="menu-item">Экскурсии</a>
+                <a href="/ru/events" class="menu-item">Афиша</a>
+                <a href="/ru/services"
+                   class="menu-item">Услуги</a>
+                <a href="/ru/palace/history"
+                   class="menu-item">История</a>
+                <a href="/ru/partnership/contacts"
+                   class="menu-item">Контакты</a>
+            </div>
+        </div>
+        <div class="header-menu light">
+            <a href="/ru/" class="logo">
+                <div class="logo-title">Юсуповский дворец</div>
+                <div class="logo-title sm">на Мойке</div>
+            </a>
+            <button class="menu-toggle">Menu</button>
+        </div>
+        <div class="light-menu">
+            <a href="/ru/visitors/schedule"
+               class="light-menu-item">Информация</a>
+            <a href="/ru/programs"
+               class="light-menu-item">Экскурсии</a>
+            <a href="/ru/events" class="light-menu-item">Афиша</a>
+            <a href="/ru/services"
+               class="light-menu-item">Услуги</a>
+            <a href="/ru/palace/history"
+               class="light-menu-item">История</a>
+            <a href="/ru/partnership/contacts"
+               class="light-menu-item">Контакты</a>
+            <div class="light-menu-divider"></div>
+            <form action="https://yusupov-palace.ru/ru/search" autocomplete="off" method="POST">
+                <input type="hidden" name="_token" value="ErtcSB2CzHnm8mDsYcCRbZpESD82VNhcgDLGhkoT" autocomplete="off">                <input type="search" class="light-menu-item search" name="query" placeholder="Поиск">
+            </form>
+            <a href="/ru/partnership/vacant"
+               class="light-menu-item vacancies">Вакансии</a>
+            <a href="https://tickets.yusupov-palace.ru/"
+               class="light-menu-item buy-ticket">Купить билет</a>
+            <div class="light-menu-item">
+                <a rel="alternate" hreflang="ru" href="https://yusupov-palace.ru/ru"
+                   class="lang">Рус</a>
+                |
+                <a rel="alternate" hreflang="en" href="https://yusupov-palace.ru/en"
+                   class="lang">Eng</a>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="announce">
+        <div class="container">
+            <div class="title">Оповещения</div>
+                            <div class="line">
+                    <p>Уважаемые посетители!<br>22 марта с 17:30 музей закрыт по техническим причинам. Кассы музея работают до 15:30.<br>Приносим свои извинения за доставленные неудобства!</p>
+                </div>
+                    </div>
+    </div>
+        <div class="main-wrapper">
+        <div class="page-wrapper front">
+                <div class="slider-wrapper">
+        <div class="main-slider">
+                                                <div class="main-slider-item">
+                        <a class="slider-item-wrapper" href="https://tickets.yusupov-palace.ru/event/DDB8E52A79EAF51096CA146AEE20273A92B89A95">
+                            <img src="https://yusupov-palace.ru/storage/frontbanner/4mE0IqJWIATTnKjWY5ZLFJsjGq64hYrrkZeHh51r.jpg">
+                            
+                            <div class="slider-info-container">
+                                <div class="slider-title"><p><br></p></div>
+                                                            </div>
+                        </a>
+                    </div>
+                                                                <div class="main-slider-item">
+                        <a class="slider-item-wrapper" href="https://tickets.yusupov-palace.ru/?id=7&amp;sid=323">
+                            <img src="https://yusupov-palace.ru/storage/frontbanner/c8dDUVS4OlddM3VSTJd1KRiHK1Q4KawdaszKkkdQ.jpeg">
+                            
+                            <div class="slider-info-container">
+                                <div class="slider-title"><!--<p> УВАЖАЕМЫЕ РОДИТЕЛИ!</p>-->
+<p>Открыта продажа семейных абонементов для родителей с детьми 4-6 и 7-10 лет!</p></div>
+                                                                    <div class="slider-btn">Подробнее</div>
+                                                            </div>
+                        </a>
+                    </div>
+                                                                <div class="main-slider-item">
+                        <a class="slider-item-wrapper" href="https://tickets.yusupov-palace.ru/event/C001C24396D4DD74D3821A44446A7455504011D7/2025-02-23/20:00">
+                            <video autoplay muted loop playsinline>
+                                <source src="https://yusupov-palace.ru/storage/videos/oZitNJXLoiRAkjn7WUhB4bhJwPFUrWyjGvau6MMb.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                            <div class="slider-info-container">
+                                <div class="slider-title"><p><br></p></div>
+                                                            </div>
+                        </a>
+                    </div>
+                                    </div>
+    </div>
+
+
+    <div id="homequiz"></div>
+    <link rel="preload" as="style" href="https://yusupov-palace.ru/build/assets/homequiz-26368c1f.css" /><link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/homequiz-6d4fd5c4.js" /><link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/materialize.min-4426ff8d.js" /><link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/bootstrap-39605750.js" /><link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/_commonjsHelpers-23102255.js" /><link rel="stylesheet" href="https://yusupov-palace.ru/build/assets/homequiz-26368c1f.css" /><script type="module" src="https://yusupov-palace.ru/build/assets/homequiz-6d4fd5c4.js"></script>
+    <div class="front-slider-wrapper">
+        <div class="front-slider-title">Афиша</div>
+        <div class="front-slider-theatre">
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/kuhonnye-posidelki-14-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/aSKRznlELNGvqjzCInq8CKuwmrcgk5ncxbYbnqbl.jpeg">
+                                    </div>
+                <div class="theatre-date">14.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/kuhonnye-posidelki-14-03" class="theatre-title">Кухонные посиделки. «Прабабка моя была писаная красавица, жила весело и имела не одно приключенье»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-14-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/sLZsjLnI80y6KiIhr8nyM0zC2AIoDUIJ125QaPTw.jpg">
+                                    </div>
+                <div class="theatre-date">14.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-14-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-privatnie-pokoi-yusupovskogo-dvorca-mini-gruppa-14-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/rVRFHiJXH5HjOxuv9yEo4C4hZraYEPkTeR00wtFE.jpg">
+                                    </div>
+                <div class="theatre-date">14.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-privatnie-pokoi-yusupovskogo-dvorca-mini-gruppa-14-03" class="theatre-title">Гастрономическая программа «Кушать подано. «Приватные покои Юсуповского Дворца». Мини-группа 7 человек. 16:30</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-revolyuciya-vkusa-15-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/YE1nDF0k6dzpFRVSFO8BHa1nGJKMeF9QOXnrig7H.jpg">
+                                    </div>
+                <div class="theatre-date">15.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-revolyuciya-vkusa-15-03" class="theatre-title">Гастрономическая программа «Кушать подано. Революция вкуса» 14:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-15-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/MSVTzYqxIdQTAhwL4NgqnwcTEFToexhFJrzsWVKx.jpg">
+                                    </div>
+                <div class="theatre-date">15.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-15-03" class="theatre-title">«Юсуповский квартал и тайна убийства Распутина». 11:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-15-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/qohXvItGEVHP3VWEEaNuxGIbREQZ0YUqhD9pLzgq.jpg">
+                                    </div>
+                <div class="theatre-date">15.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-15-03" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «МИФЫ ВО ДВОРЦЕ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/veselaya-vdova-15-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/9c822f66-8372-4d57-89e7-1c6146ab7dee08581e4b-de1d-445f-a3b9-d5b729da3a78x0kqOMN7FeaM6PO1oJOLdvhYTHTT7F0NfLL7OXAv.jpg">
+                                    </div>
+                <div class="theatre-date">15.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/veselaya-vdova-15-03" class="theatre-title">«Веселая вдова» (12+)</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-16-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/z51cLJ40k5GuVSKpjeT10dEmOr3v42R2k38wuptB.jpg">
+                                    </div>
+                <div class="theatre-date">16.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-16-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/bayadera_21-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/EUspDTYyfgQcrgBmkdAq5jHmdjZPNsw7Zf3QdU8J.jpg">
+                                    </div>
+                <div class="theatre-date">21.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/bayadera_21-03" class="theatre-title">«Баядера» (12+)</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/stil-zhizni-21-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/NSEy2S2KTaKFtahs5fDc4Adwur2OdemW3Jg3WkL5.jpg">
+                                    </div>
+                <div class="theatre-date">21.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/stil-zhizni-21-03" class="theatre-title">Стиль жизни. «Прекрасные хозяйки дворца на Мойке»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-revolyuciya-vkusa-21-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/Yg7pl9pI0Lh6HDUkMx3VjU2mK5gDET2dvgRoTbX3.jpg">
+                                    </div>
+                <div class="theatre-date">21.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-revolyuciya-vkusa-21-03" class="theatre-title">Гастрономическая программа «Кушать подано. Революция вкуса» 16:30</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-obed_u_knyaza-14-00_22-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/axNo7fJ38zuJGoM9oDJvKursWCh5z3SMCWFQUx4Q.png">
+                                    </div>
+                <div class="theatre-date">22.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-obed_u_knyaza-14-00_22-03" class="theatre-title">Гастрономическая программа «Обед у князя» 14:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-22-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/69JWWMSjv8nSug10RCvss0oKB78uZinc3zCoEKDq.jpg">
+                                    </div>
+                <div class="theatre-date">22.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-22-03" class="theatre-title">«Юсуповский квартал и тайна убийства Распутина». 11:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-22-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/QNPJQXIVrzvbL1g72906Uk2iAvlSlEoj0ZM7EAHR.jpg">
+                                    </div>
+                <div class="theatre-date">22.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-22-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-4-6-let-22-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/RqETvY5OB8Op9X8r9IFa6nAkXcacjKwlMJCtYl9C.jpg">
+                                    </div>
+                <div class="theatre-date">22.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-4-6-let-22-03" class="theatre-title">Семейные абонементы для родителей с детьми 4-6 лет. Занятие «Я и МУЗЫКА»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-4-6-let-23-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/4yCep9iVAvJ2flKMvgV2jkHzSql69LU5Fc6ogsvg.jpg">
+                                    </div>
+                <div class="theatre-date">23.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-4-6-let-23-03" class="theatre-title">Семейные абонементы для родителей с детьми 4-6 лет. Занятие «Я – ТВОРЕЦ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-23-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/asuUFVyArwclV1pVObbONglHEAIeJOj6gXegwB5K.jpg">
+                                    </div>
+                <div class="theatre-date">23.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-23-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-23-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/UWW3DnvEvz2A2VMgWMOGu3Cpz6wpvOT8krQ36nR3.jpg">
+                                    </div>
+                <div class="theatre-date">23.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-23-03" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «НЕПАРАДНЫЙ ДВОРЕЦ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-26.03.25" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/Ox6LPNzGVtSOQCQSQrhyqNtiElGiHzWSFXbRhm53.jpg">
+                                    </div>
+                <div class="theatre-date">26.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-26.03.25" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-27-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/2xkXlsR1xSi3gdiXLfuZ0TG336VRqOX6q5XOdRkq.jpg">
+                                    </div>
+                <div class="theatre-date">27.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-27-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlogo-russkaya-moda-v-parizhe_28-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/vtrxVLKChpSrrqAi9nF8bjsCqSaS1aCfIkwoYIOF.jpg">
+                                    </div>
+                <div class="theatre-date">28.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlogo-russkaya-moda-v-parizhe_28-03" class="theatre-title">Женские секреты прошлого. &quot;Танёк. Тайны любви и смерти княжны Юсуповой&quot;</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-odin-den-iz-zhizni-aristokrata-28-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/P3uNM2YSm4zMTWwAG97kwKhLwg2dwZa1nVMo6sXB.jpg">
+                                    </div>
+                <div class="theatre-date">28.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-odin-den-iz-zhizni-aristokrata-28-03" class="theatre-title">Гастрономическая программа «Кушать подано. «Один день из жизни Аристократа» 16:30</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-28-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/vA7WVg64Fl2SPCgDWRr62VphxXTNKbnlxWFQkDho.jpg">
+                                    </div>
+                <div class="theatre-date">28.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-28-03" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-29-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/daf7d0d9-f2a6-4ee4-b97e-132747969f19b2bda606-e4aa-44e0-a51e-6bef4c5b3972oeB6eg7QDhmCfvyRj4g3klyw5w5G46VmUoiFGZPy.jpeg">
+                                    </div>
+                <div class="theatre-date">29.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-29-03" class="theatre-title">«Любимые оперетты» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-29-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/C5dOZLfxDm4mfMPuywGIS7pMEMTOVw1M0Ale3LBF.jpg">
+                                    </div>
+                <div class="theatre-date">29.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/yusupovskiy-kvartal-i-tayna-ubiystva-rasputina-29-03" class="theatre-title">«Юсуповский квартал и тайна убийства Распутина». 11:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-privatnie-pokoi-yusupovskogo-dvorca-14-00_29_03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/joWnXlPEXxFWp13zhWEi4R6kO7ldEdKUrT2LLwOg.jpg">
+                                    </div>
+                <div class="theatre-date">29.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/gastronomicheskaya-programma-kushat-podano-privatnie-pokoi-yusupovskogo-dvorca-14-00_29_03" class="theatre-title">Гастрономическая программа «Кушать подано. «Приватные покои Юсуповского Дворца» 14:00</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-30-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/bMlfbqIit8u9ozv553YGvOwpzFQbnNMj7mYGoAM5.jpg">
+                                    </div>
+                <div class="theatre-date">30.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-30-03" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-30-03" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/ZxWuWCQnmk11zPzfwiL7nZ42S9zDUvK5o2MZjX1R.jpg">
+                                    </div>
+                <div class="theatre-date">30.03.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-dlya-roditeley-s-detmi-7-10-let-30-03" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «НЕПАРАДНЫЙ ДВОРЕЦ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlogo_04-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/KFvop8VPo9GyKFWl6LCADon8uUeAuEaVWWfzLTXS.jpg">
+                                    </div>
+                <div class="theatre-date">04.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlogo_04-04" class="theatre-title">Женские секреты прошлого. &quot;Хрусталь и бриллианты последней невесты Романовых&quot;</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-04-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/arAPJh1KNLFv2EO03Gq3QQWAmLYnHCDxGmc9KrvA.jpg">
+                                    </div>
+                <div class="theatre-date">04.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-04-04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-neparadniy-dvorec-05-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/pDOaNXErCH4r20LV1svig3LzuYCsXZHmtuBRLIJS.jpg">
+                                    </div>
+                <div class="theatre-date">05.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-neparadniy-dvorec-05-04" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «НЕПАРАДНЫЙ ДВОРЕЦ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/princessa-cirka-05-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/98de7f06-5518-4799-96ba-1b2b421063a8joVVIVvXdicqlU4kozhbu6txNyVUQxfAUuGSZ60v.jpeg">
+                                    </div>
+                <div class="theatre-date">05.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/princessa-cirka-05-04" class="theatre-title">«Принцесса цирка» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-06-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/rENXpWjrDXGdtOdycMUSeoKKgrfMTy7IFY7NFidK.jpg">
+                                    </div>
+                <div class="theatre-date">06.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-06-04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-ya-i-muzika-06-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/ORqYMBQUu9J8Bg8KNMqPPxQfjhG7AEC6oJTgWCxd.jpg">
+                                    </div>
+                <div class="theatre-date">06.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-ya-i-muzika-06-04" class="theatre-title">Семейные абонементы для родителей с детьми 4-6 лет. Занятие «Я и МУЗЫКА»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-10.04.25" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/pvOkK9Mn1ZvW8XZ69LuWg6bhzK6HmInUbYdTS7G7.jpg">
+                                    </div>
+                <div class="theatre-date">10.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-10.04.25" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/kuhonnie-posidelki_11-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/TapYbFUOlpN1eMrFzehsFlYx2UZeA5JChuGOlD8P.jpg">
+                                    </div>
+                <div class="theatre-date">11.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/kuhonnie-posidelki_11-04" class="theatre-title">Кухонные посиделки. «Свадебная мода и обычаи Петербурга»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-11-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/b2bda606-e4aa-44e0-a51e-6bef4c5b3972oeB6eg7QDhmCfvyRj4g3klyw5w5G46VmUoiFGZPy.jpeg">
+                                    </div>
+                <div class="theatre-date">11.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-11-04" class="theatre-title">«Любимые оперетты» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-12-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/Ice0wML6Qoy2xIWzDt9SJW08KMBuri1j4N2iYl44.jpg">
+                                    </div>
+                <div class="theatre-date">12.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-12-04" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-13-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/vQqv6vHjaAjENQovNISAMADXpAhn3QwqxeptKaF8.jpg">
+                                    </div>
+                <div class="theatre-date">13.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-13-04" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «ПРАЗДНИК ВО ДВОРЦЕ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-13-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/1f9q8yi7Ehd2Y3Y4klhepVWH4R1pA7NEG94HU72b.jpg">
+                                    </div>
+                <div class="theatre-date">13.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-13-04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-ya-i-muzika-13-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/r5Zqce4MGeuNQK27ehp7n6Ye0PzTvdiX4kWWaVJC.jpg">
+                                    </div>
+                <div class="theatre-date">13.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-ya-i-muzika-13-04" class="theatre-title">Семейные абонементы для родителей с детьми 4-6 лет. Занятие «Я и МУЗЫКА»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/kuhonnie-posidelki_18-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/miMKPLSn4QdgvVCiGwRjH5NBgVBQmk3yCPFPblwf.jpg">
+                                    </div>
+                <div class="theatre-date">18.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/kuhonnie-posidelki_18-04" class="theatre-title">Кухонные посиделки. «Влюбленных оставить без разлучения... Татьяна и Николай Юсуповы»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-18.04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/Bpi9E2scnnuXFMzBoY21rq7sPcSOwRGDHhfNBtPw.jpg">
+                                    </div>
+                <div class="theatre-date">18.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-18.04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/bayadera_19-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/bfbee74b-432b-4d54-bd04-5f367f103b1dZwcKoHp1GZCJHlsaoOrISAHNoMP7CXF19hTjpjQT.jpeg">
+                                    </div>
+                <div class="theatre-date">19.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/bayadera_19-04" class="theatre-title">«Баядера» (12+)</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-20.04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/L2qjI3S8L1ASkcGgT2HZyMY2OfvPLKbLO5yJ4C33.jpg">
+                                    </div>
+                <div class="theatre-date">20.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-20.04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-20-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/LLprDWY9RIxxRb7nID2ZUoao7B9hF5XOYfCpjLLr.jpg">
+                                    </div>
+                <div class="theatre-date">20.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-20-04" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «ПРАЗДНИК ВО ДВОРЦЕ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-24.04.25" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/mkKX2sPrsxCCfJ9KgRDvGp8VFW3115QSVPerDpJE.jpg">
+                                    </div>
+                <div class="theatre-date">24.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-24.04.25" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/stil-zhizni_25-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/DRuWLj2uHuvtQk9OET0DKhcvHjSOQGwlrF5fzBS0.jpeg">
+                                    </div>
+                <div class="theatre-date">25.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/stil-zhizni_25-04" class="theatre-title">Стиль жизни. «Последняя блистательная свадьба Империи»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-25-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/2d4a2542-95f9-41d9-9cd9-039cc69deba1daf7d0d9-f2a6-4ee4-b97e-132747969f19b2bda606-e4aa-44e0-a51e-6bef4c5b3972oeB6eg7QDhmCfvyRj4g3klyw5w5G46VmUoiFGZPy.jpeg">
+                                    </div>
+                <div class="theatre-date">25.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/lubimie-operetti-25-04" class="theatre-title">«Любимые оперетты» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-26.04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/vFIgQsttL4380Ep5ieBfcx9bEpLiCHOeA7BbDlwM.jpg">
+                                    </div>
+                <div class="theatre-date">26.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-26.04" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-26-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/aIusFAyEDQVkxTpnz5ZVgSQEAFtGPN4njyHSEgid.jpg">
+                                    </div>
+                <div class="theatre-date">26.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/semeynie-abonementi-prazdnik-vo-dvorce-26-04" class="theatre-title">Семейные абонементы для родителей с детьми 7-10 лет. Занятие «ПРАЗДНИК ВО ДВОРЦЕ»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-2" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/uuWHrs5O2M9NkuR5Z8utbr5UjXjpbdRvUS0HMwgI.jpg">
+                                    </div>
+                <div class="theatre-date">27.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-2" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-27.04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/CRhqO8brJEln34lWB1o8Z2HFd0J03BhUivRWDQft.jpg">
+                                    </div>
+                <div class="theatre-date">27.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-27.04" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/knyaginya-chardasha-30-04" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/2b070f87-297c-45b2-8b18-f4bca23a208190a3effb-0070-49fc-8290-01599376f76cfb6c4a06-054a-44b6-827b-0822ee74457661046a91-9af5-4e60-852c-bb982419b73283QBBirrZ1K1jjb6iodEOdVzN8JKM4Iom8T3kogn.jpeg">
+                                    </div>
+                <div class="theatre-date">30.04.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/knyaginya-chardasha-30-04" class="theatre-title">«Княгиня Чардаша» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-01.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/dCU4o02TjauMHuiXHvH1w98f53pgCjBSsEFdYgD6.jpg">
+                                    </div>
+                <div class="theatre-date">01.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-01.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-02.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/7w3jERF8iwI32QUzunT0soOZXn5v42F84S6873LV.jpg">
+                                    </div>
+                <div class="theatre-date">02.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-02.05" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/veselaya-vdova-03-05-25" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/w5MNoWzVUn1463Zyc59tcHpGjzUqW47yYB8W3xUH.jpg">
+                                    </div>
+                <div class="theatre-date">03.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/veselaya-vdova-03-05-25" class="theatre-title">«Веселая вдова» (12+)</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-04.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/J4Q0hEKkLRaoSf7VRnnBZu5Pif0GLDo46PF6Hxs2.jpg">
+                                    </div>
+                <div class="theatre-date">04.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-04.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-08.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/fdtXU6533dTp0yODhFt1CnspvKpEvhziGCCQGHVI.jpg">
+                                    </div>
+                <div class="theatre-date">08.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-08.05" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/lyubimie-operetti-10-05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/pN53P7TOnwMkH1dZ62D6YNlIHYEqS4D1ON5CUriw.jpg">
+                                    </div>
+                <div class="theatre-date">10.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/lyubimie-operetti-10-05" class="theatre-title">«Любимые оперетты» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-11.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/JW0KXBfPuG2jYrtRNPvYqt8dox5ugzl9iWlCOKUl.jpg">
+                                    </div>
+                <div class="theatre-date">11.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-11.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlih-stoletiy-za-chashkoy-chaya-podmoskovniy-versal-yusupovih-usadba-arhangelskoe-16-05-25" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/uwrx8lBC6HvXpB0jfsb8nmNl68QAw82vBIvK9J6O.jpg">
+                                    </div>
+                <div class="theatre-date">16.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/zhenskie-sekreti-proshlih-stoletiy-za-chashkoy-chaya-podmoskovniy-versal-yusupovih-usadba-arhangelskoe-16-05-25" class="theatre-title">Женские секреты прошлых столетий за чашкой чая. &quot;Подмосковный Версаль&quot; Юсуповых (усадьба Архангельское).</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-17.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/bf8uPu4sxZx3S2uSdnbWzzJi4VrigyLq2Nt9ZSZs.jpg">
+                                    </div>
+                <div class="theatre-date">17.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-17.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-18.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/q4uq9JnjQ4UrH3HO9SpiXbbQDxQpREGZ35ozKqyL.jpg">
+                                    </div>
+                <div class="theatre-date">18.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-18.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/knyaginya-chardasha-22-05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/Hzu6vNg04n8Tl8m3ERuqrmCP4IV1yfvgrHRv7qj1.jpg">
+                                    </div>
+                <div class="theatre-date">22.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/knyaginya-chardasha-22-05" class="theatre-title">«Княгиня Чардаша» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-24.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/De8UCaWAz4fzu4HyqxF4phBtzlxppS6v6nHHaJHY.jpg">
+                                    </div>
+                <div class="theatre-date">24.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-24.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-25.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/3gQORIc4ewVQc854Fjgc1fSAPootBAuR0LqD4nvu.jpg">
+                                    </div>
+                <div class="theatre-date">25.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-25.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-29.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/3VOLuQ5NhjJBRkZ5bCs7puBKXFKqYsxqtW1Rsqvh.jpg">
+                                    </div>
+                <div class="theatre-date">29.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-29.05" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/lyubimie-operetti-30.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/beefram6MGp8bnEFuRyI5icLFeSMLuWdwCUpPnjl.jpg">
+                                    </div>
+                <div class="theatre-date">30.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/lyubimie-operetti-30.05" class="theatre-title">«Любимые оперетты» (12+)</a>
+                <div class="theatre-place">Домашний театр</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-31.05" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/zVlJqTvn7guSe2bqRcgShTrSJQYMGWKRndP1tgjM.jpg">
+                                    </div>
+                <div class="theatre-date">31.05.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/immersivnaya-igra-misterii-teatralniy-priem-vo-dvorce-yusupovih-31.05" class="theatre-title">Иммерсивная игра – «Мистерии. Театральный прием во дворце Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+                    <div class="theatre-item">
+                <div class="theatre-preview">
+                    <div class="overlay"></div>
+                    <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-01.06" class="purchase-btn">Купить билет</a>
+                                            <img src="https://yusupov-palace.ru/storage/preview/posters/ni4pwojF4LKLm0WPiCXmVFubr3G5aEZNNIygY7hE.jpg">
+                                    </div>
+                <div class="theatre-date">01.06.2025</div>
+                <a href="https://yusupov-palace.ru/ru/events/misterii-teatralnaya-igra-v-dome-yusupovih-01.06" class="theatre-title">«Мистерии. Театральная игра в Доме Юсуповых»</a>
+                <div class="theatre-place">Юсуповский дворец</div>
+            </div>
+            </div>
+    </div>
+
+    <div class="support audio-guide">
+        <div class="support-wrapper">
+            <div class="support-title">Аудиогид по Юсуповскому Дворцу</div>
+            <div class="support-title sm">в вашем смартфоне</div>
+            <div class="apps-info-wrapper">
+                <a href="https://play.google.com/store/apps/details?id=com.neksys.YPExhibition&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+                   class="apps google">
+                    <div class="apps-title sm">Доступно в</div>
+                    <div class="apps-title">Google Play</div>
+                </a>
+                <a href="https://apps.apple.com/ru/app/%D1%8E%D0%B4-%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%B3%D0%B8%D0%B4/id1486574210"
+                   class="apps apple">
+                    <div class="apps-title sm">Доступно в</div>
+                    <div class="apps-title">App Store</div>
+                </a>
+            </div>
+            <a href="/visitors/audioguide" class="support-btn audio-guide">Скачать аудиогид</a>
+        </div>
+    </div>
+
+    <div class="front-slider-wrapper news">
+        <div class="front-slider-title">События Юсуповского дворца</div>
+        <div class="front-slider-news">
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/dopolnitelnie-spektakli-misteriy-po-vashim-prosbam" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/rlxFU5iUTCALbnTbGlKCw0jT04T1wivmHGLv7qxE.jpg">
+                                            </div>
+                    <div class="news-title"><span>Дополнительные спектакли «Мистерий» – по вашим просьбам!</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/v-yusupovskom-dvorce-sostoyalos-torzhestvennoe-vruchenie-yubileynih-medaley" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/SLi5zXnJqoTMoE9ivVc1T9vvzTuTFFFT6UkXD7pV.jpg">
+                                            </div>
+                    <div class="news-title"><span>В Юсуповском дворце состоялось торжественное вручение юбилейных медалей</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/premera-lekciya-i-masterklass-natali-zaycevoy-korol-razvlekaetsya" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/giTwzaRIHGPCOjOuK1igRF14CNCYShJBVDy1ShBB.jpg">
+                                            </div>
+                    <div class="news-title"><span>Премьера! Лекция и мастер-класс Натальи Зайцевой «Король развлекается»</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/11-fevralya-sanitarniy-den-v-yusupovskom-dvorce" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/PQR4FC643h51Foc3liGfeFW8fgCOrjbhsztCyHEt.png">
+                                            </div>
+                    <div class="news-title"><span>11 февраля — Санитарный день в Юсуповском дворце</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/maslenica-v-yusupovskom-dvorce" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/RACkM7D3I52wcD28niN8M8SsV5tD5AbosUdmofN6.jpg">
+                                            </div>
+                    <div class="news-title"><span>Масленица в Юсуповском дворце!</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/semeyniy-abonement-obnovleniya-i-raspisanie-do-aprelya" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/wwb4vgjnocg565HyIZnEZti0lnTS2mhq8d9MLrpK.jpg">
+                                            </div>
+                    <div class="news-title"><span>Семейный абонемент: Обновления и расписание до апреля</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/28-yanvarya-sanitarniy-den-v-yusupovskom-dvorce" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/M2OIQFWJR1xqvXQCWRjh5pRUtOsD8EeIYdcTYhdL.jpg">
+                                            </div>
+                    <div class="news-title"><span>28 января - Санитарный день в Юсуповском дворце</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/prazdnovanie-rozhdestva-v-yusupovskom-dvorce" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/0ctywgmOUSRxwu9TB6Ezg3zfZyHxy9i04oJSgAYY.jpg">
+                                            </div>
+                    <div class="news-title"><span>Празднование рождества в Юсуповском Дворце</span></div>
+                </a>
+            </div>
+                    <div class="news-item">
+                <a href="https://yusupov-palace.ru/ru/news/intervyu-bes-kulturi-s-rezhissyorom-i-aktyorami-spektaklya-misterii" class="item-link">
+                    <div class="news-preview">
+                                                    <img src="https://yusupov-palace.ru/storage/preview/news/98Z9bpcYaKYmPQq3YzXuBInJs3xPqvhQ06HmWlEk.jpg">
+                                            </div>
+                    <div class="news-title"><span>Интервью &quot;Бес Культуры&quot; с режиссёром и актёрами спектакля &quot;Мистерии&quot;</span></div>
+                </a>
+            </div>
+            </div>
+        <div class="news-link-wrapper">
+            <a href="/news" class="news-link">Архив событий</a>
+        </div>
+    </div>
+
+            <div class="front-slider-wrapper kid-excursions">
+            <div class="">
+                <div
+                    class="front-slider-title">Интерактивные детские программы (проводятся с октября по апрель)</div>
+                <div>
+                    <div class="program-wrapper">
+                        <div class="programs">
+                                                            <div class="program-item" data-places="0">
+                                    <a href="https://yusupov-palace.ru/ru/programs/v-gostyah-u-yusupovih-na-maslenitsu?cat=excursion"
+                                       class="program-image">
+                                        <div class="img-container">
+                                                                                            <img src="https://yusupov-palace.ru/storage/preview/posters/lMDidzCPDO1HhYGxhaMvIaGfx2hTJNkSCV05oakv.jpeg">
+                                                                                    </div>
+                                    </a>
+                                                                            <a href="https://tickets.yusupov-palace.ru/" class="program-buy"></a>
+                                                                        <a href="https://yusupov-palace.ru/ru/programs/v-gostyah-u-yusupovih-na-maslenitsu?cat=excursion"
+                                       class="program-info">
+                                        <div class="program-name">Интерактивная праздничная программа для родителей с детьми 9-13 лет «В гостях у Юсуповых на Масленицу».</div>
+                                        <div class="program-place">Интерактивная экскурсия по парадным залам Дворца. Вы не только увидите великолепные залы, но и узнаете, как широко и весело проводили масленичную неделю в России, об атрибутах и ритуалах этого праздника и многом другом.</div>
+                                    </a>
+                                </div>
+                                                            <div class="program-item" data-places="">
+                                    <a href="https://yusupov-palace.ru/ru/programs/abonement-1?cat=excursion"
+                                       class="program-image">
+                                        <div class="img-container">
+                                                                                            <img src="https://yusupov-palace.ru/storage/preview/posters/N1KzgTj3n7H3cXMCTOWESHAVfoxcQVF7JhG0hMQ9.jpg">
+                                                                                    </div>
+                                    </a>
+                                                                            <a href="https://tickets.yusupov-palace.ru/?id=7&sid=323"
+                                           class="program-buy"></a>
+                                                                        <a href="https://yusupov-palace.ru/ru/programs/abonement-1?cat=excursion"
+                                       class="program-info">
+                                        <div class="program-name">Семейные абонементы для родителей и детей 4-6 лет</div>
+                                        <div class="program-place">Живопись и архитектура, балы и театр – все это кажется слишком сложным для детей? Совсем нет, если вы посетите интерактивные программы нашего абонемента! Каждое занятие проходит в разных залах дворца, а пока дети будут заняты мастер-классом родители продолжат осмотр интерьеров.</div>
+                                    </a>
+                                </div>
+                                                            <div class="program-item" data-places="">
+                                    <a href="https://yusupov-palace.ru/ru/programs/abonement-2?cat=excursion"
+                                       class="program-image">
+                                        <div class="img-container">
+                                                                                            <img src="https://yusupov-palace.ru/storage/preview/posters/wBIg2XGaDlP9YN26hWnDHVbIgSKRAN1scWDVcVch.jpg">
+                                                                                    </div>
+                                    </a>
+                                                                            <a href="https://tickets.yusupov-palace.ru/?id=7&sid=323"
+                                           class="program-buy"></a>
+                                                                        <a href="https://yusupov-palace.ru/ru/programs/abonement-2?cat=excursion"
+                                       class="program-info">
+                                        <div class="program-name">Семейные абонементы для родителей и детей 7-10 лет</div>
+                                        <div class="program-place">Что такое титул и что за наука геральдика, кто придумал мифы и зачем они, кто растапливал камины и зажигал свечи во дворце, как и где наряжались на бал - все это и многое другое в  интерактивных программах и тематических экскурсиях.  Вы побываете и в парадных залах, и в жилых покоях, и даже там, куда обычные посетители не допускаются.</div>
+                                    </a>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+    </div>
+    <div class="footer-wrapper">
+    <div class="footer">
+        <div class="socials">
+            <div class="social-links">
+                <div class="social-title">Мы в соцсетях</div>
+                <div class="social-wrapper" style="justify-content: flex-start;">
+                    <a href="https://vk.com/yusupov_palace" class="social-link vk">
+                        <img src="https://yusupov-palace.ru/build/assets/vk-bcc8818e.svg">
+                    </a>
+
+
+
+
+
+
+                    <a href="https://www.youtube.com/channel/UCL7Hn3A76IQ2B3-Ai74_2tQ/featured" class="social-link">
+                        <img src="https://yusupov-palace.ru/build/assets/yt-2f5cc473.svg">
+                    </a>
+                    <a href="https://t.me/yusupovpalace" class="social-link">
+                        <img src="https://yusupov-palace.ru/build/assets/telegram-c90096fd.svg" style="width:auto;padding:5px;">
+                    </a>
+                </div>
+            </div>
+            <div class="subscribe">
+                <a href="https://yusupov-palace.ru/ru/subscribe" class="subscribe-link">Подписывайтесь на новости и афишу Юсуповского дворца</a>
+
+
+
+
+                <div id="scrollToTop" class="scroll-up">Вернуться наверх</div>
+            </div>
+        </div>
+
+        <div class="palace-info">
+    <div class="info schedule footer-text-color">
+        <div class="info-title clock in-footer">Режим работы</div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="bold">Касса и вход открыты:</div>
+                <div class="thin">Ежедневно</div>
+            </div>
+            <div class="line-time">09:30 - 18:00</div>
+        </div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="bold">Юсуповский дворец:</div>
+                <div class="thin">Ежедневно</div>
+            </div>
+            <div class="line-time">10:00 - 19:30</div>
+        </div>
+
+        <div class="info-line">
+            <div class="line-text">
+                <div class="bold">Конюшенный флигель:</div>
+                <div class="thin">Работает в период проведения выставок</div>
+            </div>
+            <div class="line-time">11:00 - 18:00</div>
+        </div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="bold">Парк открыт:</div>
+                <div class="thin">Ежедневно</div>
+            </div>
+            <div class="line-time">09:00 - 20:30</div>
+        </div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="bold">Домовая церковь Покрова Пресвятой Богородицы:</div>
+                <div class="thin">Богослужения в настоящее время не проводятся</div>
+            </div>
+        </div>
+        <a href="/visitors/schedule" class="info-link">Подробнее</a>
+    </div>
+
+    <div class="info prices">
+        <div class="info-title tip in-footer">Информация</div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="thin">Вход на экскурсии с
+                    <strong>ул. Декабристов, 21</strong>
+                </div>
+            </div>
+        </div>
+        <div class="info-line">
+            <div class="line-text">
+                <div class="thin">Вход на спектакли с <strong>наб. реки Мойки, 94</strong></div>
+            </div>
+        </div>
+        <!--                <div class="info-line">
+                    <div class="line-text">
+                        <div class="bold">Юридический адрес:</div>
+                        <div class="thin">190000, Россия, Санкт-Петербург, наб. реки Мойки, 94</div>
+                    </div>
+                </div>-->
+        <!--
+                <div class="info-line">
+                    <div class="line-text">
+                        <div class="bold">Все вопросы и предложения:</div>
+                        <div class="thin phone-num">Тел.: +7 (812) 314 98 83</div>
+                    </div>
+                </div>
+-->
+        <!--                <div class="info-title ticket">Билеты</div>-->
+        <!--                <div class="info-line">
+                    <div class="line-text">
+                        <div class="bold">Парадные залы и жилые покои (аудиогид)</div>
+                    </div>
+                    <div class="line-time">750 руб.</div>
+                </div>
+                <div class="info-line">
+                    <div class="line-text">
+                        <div class="bold">Экспозиция "Убийство Г. Распутина"</div>
+                    </div>
+                    <div class="line-time">500 руб.</div>
+                </div>-->
+        <div class="info-line">
+            Посещение осуществляется по сеансам. Последний сеанс: 18:00.
+            Продажа билетов заканчивается за 10 минут до начала экскурсии / мероприятия.
+        </div>
+
+        <p><a href="/programs" class="info-link">Подробнее о ценах на билеты</a>
+
+        </p>
+    </div>
+    <div class="info links footer-text-color">
+        <div class="info-title arrow in-footer">Ссылки</div>
+        <a href="https://tickets.yusupov-palace.ru/" class="menu-link">Купить билет</a>
+        <a href="/programs" class="menu-link">Экскурсии</a>
+        <a href="/events" class="menu-link">Афиша</a>
+        <a href="/services" class="menu-link">Услуги</a>
+        <a href="/palace/history" class="menu-link">История</a>
+        <a href="/partnership/vacant" class="menu-link">Вакансии</a>
+        <a href="/partnership/contacts" class="menu-link">Контакты</a>
+        <a href="/privacy" class="menu-link" style="text-wrap: nowrap;">Политика конфиденциальности</a>
+        <a href="/partnership/about" class="menu-link">О нас</a>
+    </div>
+</div>
+<style>
+    @media screen and (max-width: 992px) {
+        .slider-wrapper .main-slider .main-slider-item .slider-item-wrapper video, .slider-wrapper .main-slider .main-slider-item .slider-item-wrapper img {
+            outline-offset: -6px;
+        }
+    }
+</style>
+    </div>
+</div>
+<div class="copyright-wrapper">
+    <div class="copyright">© 2022 Юсуповский дворец на Мойке</div>
+</div>
+<div class="cookies-wrapper">
+    <div class="cookies-content">
+        <p>Используя данный сайт, я выражаю своё согласие на обработку моих персональных данных, а также подтверждаю, что ознакомился с <a href="/privacy">"Политикой обработки персональных данных"</a>.</p>
+    </div>
+    <div class="cookies-buttons">
+        <button class="cookies-button" id="acceptBtn">Принять</button>
+    </div>
+</div>
+
+    <!-- Scripts -->
+    <link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/app-148b46d9.js" /><link rel="modulepreload" href="https://yusupov-palace.ru/build/assets/bootstrap-39605750.js" /><script type="module" src="https://yusupov-palace.ru/build/assets/app-148b46d9.js"></script>    <script src="https://unpkg.com/materialize-stepper@3.1.0/dist/js/mstepper.js"></script>
+    </body>
+</html>

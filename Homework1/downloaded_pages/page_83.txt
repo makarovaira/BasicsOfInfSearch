@@ -1,0 +1,268 @@
+
+<HTML>
+<HEAD>
+  <title>Классическая музыка | Classic-music.ru</title>
+  <META http-equiv=Content-Type content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <LINK href="/static/css/reset.css" type=text/css rel=stylesheet>
+  <LINK href="/static/css/cm.css?31" type=text/css rel=stylesheet>
+  <link rel="shortcut icon" href="/media/favicon_cm.ico" />
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:300,italic,700,700italic&display=swap"
+        rel="stylesheet" />
+  <meta name='yandex-verification' content='63444c064e9a5c23' />
+        <script type="text/javascript" src="/static/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/static/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+<link rel="stylesheet" href="/static/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/static/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<link rel="stylesheet" href="/static/fancybox/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/static/fancybox/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="/static/js/fancybox.custom.script.js"></script> <!-- custom script -->
+
+  <script type="text/javascript" src="https://userapi.com/js/api/openapi.js?45"></script>
+  <script type="text/javascript">
+    VK.init({apiId: 2721796, onlyWidgets: true});
+  </script>
+    <!-- Yandex.RTB -->
+    <script>window.yaContextCb=window.yaContextCb||[]</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script></HEAD>
+
+<BODY>
+
+    <div class="in_header">
+        <div class="left_subtitle"><A href="/" class="logo"><b>Классическая&nbsp;&nbsp;музыка</b></A> </div >
+        <div class="right_subt"> <img src="/static/images/common/iconhamburg-3.svg" alt="" title="" onclick="obrBurger()"> </div >
+    </div>
+
+    <script> function obrBurger() {
+     document.querySelector('.menu_flex').style.visibility = 'visible';
+     document.querySelector('.menu_flex').style.display = 'block';
+     console.log ('elem1');
+     let elements = document.querySelectorAll('li');
+     /*for ( let elem of elements) {
+        console.log (elem.innerHTML);
+        }*/
+
+     console.log (elements.length);
+
+     document.querySelector('#sk_menu').classList.remove('menu_flex');
+     document.querySelector('#sk_menu').classList.add('menu_flex2');
+     //document.querySelector('#sk_menuitem').classList.remove('menu_item');
+     //document.querySelector('#sk_menuitem').classList.add('menu_item2');
+     }
+    </script>
+
+
+
+    	<div id="sk_menu" class="menu_flex">
+
+		<div  class="menu_item"><A href="index.html"> главная </A></div>
+		<div  class="menu_item"><A href="persons.html"> персоналии </A></div>
+		<div  class="menu_item"><A href="compositions.html"> произведения </A></div>
+		<div  class="menu_item"><A href="dic.html"> словарь </A></div>
+		<div  class="menu_item"><A href="music.html"> записи </A></div>
+		<div  class="menu_item"><A href="biblio.html"> книги </A></div>
+	</div>
+
+	
+
+
+
+    <div class = "mainbody">
+
+<!-- Yandex.RTB R-A-35918-2 -->
+<div id="yandex_rtb_R-A-35918-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-35918-2',
+    blockId: 'R-A-35918-2'
+  })
+})</script>
+
+        
+
+    
+        <h1>Классическая музыка</h1>
+    
+
+    
+
+    <span class="pageinfo">
+        
+        
+    </span>
+
+
+        <div class ="sidebar">
+            
+    
+
+
+        </div>
+
+        
+
+
+    
+    
+
+    
+    
+    <div class="images_line">
+    
+    </div>
+
+    <div id="page_main_content">
+
+        <div class="socnet">
+            
+<div>
+	<div id="vk_like"></div>
+	<script type="text/javascript">
+VK.Widgets.Like("vk_like", {type: "button"});
+</script>
+</div>
+
+
+
+            <div class="zaglushka40"></div>
+            <div class="socnet_in"> <strong> Социальные сети : </strong> </div>
+            <div> <a href="https://t.me/belcanto_ru" target="_blank" rel="nofollow"> <img src="/static/images/common/iconmonstr-telegram-3.svg" alt="" title=""></a> </div>
+            <div> <a href="https://vk.com/belcanto_ru" target="_blank" rel="nofollow"> <img src="/static/images/common/iconmonstr-vk-3.svg" alt="" title=""></a> </div>
+        </div>
+
+        <ul>
+<li><strong>Социальные сети</strong>: <a href="http://twitter.com/belcantist">Twitter</a>, <a href="http://vkontakte.ru/belcanto_ru">ВКонтакте</a></li>
+</ul>
+<hr />
+<h2>Композиторы</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/beethoven_icon.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100_beethoven_icon.jpg" alt="" class="floated_left" /></a></p>
+<p><a href="albeniz.html">Альбенис</a> | <a href="alyabiev.html">Алябьев</a> | <a href="arensky.html">Аренский</a> | <a href="balakirev.html">Балакирев</a> | <a href="bartok.html">Барток</a> | <a href="bach.html">Бах</a> | <a href="bellini.html">Беллини</a> | <a href="berg.html">Берг</a> | <a href="berlioz.html">Берлиоз</a> | <a href="beethoven.html">Бетховен</a> | <a href="bizet.html">Бизе</a> | <a href="borodin.html">Бородин</a> | <a href="bort.html">Бортнянский</a> | <a href="brahms.html">Брамс</a> | <a href="britten.html">Бриттен</a> | <a href="bruckner.html">Брукнер</a> | <a href="wagner.html">Вагнер</a> | <a href="weber.html">Вебер</a> | <a href="verdi.html">Верди</a> | <a href="vivaldi.html">Вивальди</a> | <a href="gavrilin.html">Гаврилин</a> | <a href="haydn.html">Гайдн</a> | <a href="handel.html">Гендель</a> | <a href="gershwin.html">Гершвин</a> | <a href="glazunov.html">Глазунов</a> | <a href="glinka.html">Глинка</a> | <a href="gluck.html">Глюк</a> | <a href="grig.html">Григ</a> | <a href="guno.html">Гуно</a> | <a href="darg.html">Даргомыжский</a> | <a href="dvorak.html">Дворжак</a> | <a href="debussy.html">Дебюсси</a> | <a href="donizetti.html">Доницетти</a> | <a href="cherubini.html">Керубини</a> | <a href="corelli_a.html">Корелли</a> | <a href="couperin.html">Куперен</a> | <a href="lehar.html">Легар</a> | <a href="leoncavallo.html">Леонкавалло</a> | <a href="liszt.html">Лист</a> | <a href="lully.html">Люлли</a> | <a href="mahler.html">Малер</a> | <a href="mascagni.html">Масканьи</a> | <a href="monteverdi.html">Монтеверди</a> | <a href="massne.html">Массне</a> | <a href="meyerbeer.html">Мейербер</a> | <a href="mendelson.html">Мендельсон</a> | <a href="metner.html">Метнер</a> | <a href="mozart.html">Моцарт</a> | <a href="mussorgsky.html">Мусоргский</a> | <a href="myaskovsky.html">Мясковский</a> | <a href="honegger.html">Онеггер</a> | <a href="paganini.html">Паганини</a> | <a href="palestrina.html">Палестрина</a> | <a href="pergolesi.html">Перголези</a> | <a href="pursell.html">Пёрселл</a> | <a href="prokofiev.html">Прокофьев</a> | <a href="poulenc.html">Пуленк</a> | <a href="puccini.html">Пуччини</a> | <a href="rameau.html">Рамо</a> | <a href="ravel.html">Равель</a> | <a href="rachmaninov.html">Рахманинов</a> | <a href="rimsky.html">Римский-Корсаков</a> | <a href="rossini.html">Россини</a> | <a href="rubinstein.html">Рубинштейн</a> | <a href="sviridov.html">Свиридов</a> | <a href="saint.html">Сен-Санс</a> | <a href="sibelius.html">Сибелиус</a> | <a href="scriabin.html">Скрябин</a> | <a href="scarlatti_d.html">Скарлатти</a> | <a href="smetana.html">Сметана</a> | <a href="stravinsky.html">Стравинский</a> | <a href="taneev.html">Танеев</a> | <a href="franck.html">Франк</a> | <a href="hachaturian.html">Хачатурян</a> | <a href="hindemith.html">Хиндемит</a> | <a href="tchaikovsky.html">Чайковский</a> | <a href="cimarosa.html">Чимароза</a> | <a href="shnitke.html">Шнитке</a> | <a href="chopin.html">Шопен</a> | <a href="shostakovich.html">Шостакович</a> | <a href="straussjr.html">Штраус И.</a> | <a href="strauss.html">Штраус Р.</a> | <a href="schubert.html">Шуберт</a>| <a href="schumann.html">Шуман</a> | <a href="schedrin.html">Щедрин</a> | <a href="janacek.html">Яначек</a><br />
+<a href="comp.html"><strong>весь&nbsp;список&nbsp;&rarr;</strong></a></p>
+<hr />
+<h2>Исполнители</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/netrebko_icon.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100_netrebko_icon.jpg" alt="" class="floated_right" /></a></p>
+<p><a href="abbado.html">Аббадо</a> | <a href="argerich.html">Аргерих</a> | <a href="arrau.html">Аррау</a> | <a href="arkhipova.html">Архипова</a> | <a href="auer.html">Ауэр</a> | <a href="ashkenasi.html">Ашкенази</a> | <a href="bartoli.html">Бартоли</a> | <a href="bashmet.html">Башмет</a> | <a href="benedetti.html">Бенедетти Микеланджели</a> | <a href="berezovsky_boris.html">Березовский</a> | <a href="bernstein.html">Бернстайн</a> | <a href="hasse.html">Бордони</a> | <a href="borodina.html">Бородина</a> | <a href="brendel.html">Брендель</a> | <a href="viardot.html">Виардо</a> | <a href="vishnevskaya.html">Вишневская</a> | <a href="volodos.html">Володось</a> | <a href="gedda.html">Гедда</a> | <a href="gergiev.html">Гергиев</a> | <a href="gieseking.html">Гизекинг</a> | <a href="gilels.html">Гилельс</a> | <a href="gobbi.html">Гобби</a> | <a href="goldenveiser.html">Гольденвейзер</a> | <a href="horowitz.html">Горовиц</a> | <a href="gould.html">Гульд</a> | <a href="gulegina.html">Гулегина</a> | <a href="ghiaurov.html">Гяуров</a> | <a href="delmonaco.html">Дель Монако</a> | <a href="gigli.html">Джильи</a> |  | <a href="domingo.html">Доминго</a> | <a href="douglas.html">Дуглас</a> | <a href="ershov.html">Ершов</a> | <a href="sontag.html">Зонтаг</a> | <a href="igumnov.html">Игумнов</a> | <a href="caballe.html">Кабалье</a> | <a href="casadesus.html">Казадезюс</a> | <a href="casals.html">Казальс</a> | <a href="callas.html">Каллас</a> | <a href="karajan.html">Караян</a> | <a href="carreras.html">Каррерас</a> | <a href="caruso.html">Карузо</a> | <a href="catalani.html">Каталани</a> | <a href="kissin.html">Кисин</a> | <a href="klemperer.html">Клемперер</a> | <a href="clibern.html">Клиберн</a> | <a href="kogan.html">Коган</a> | <a href="kozlovsky.html">Козловский</a> | <a href="corelli.html">Корелли</a> | <a href="krainev.html">Крайнев</a> | <a href="kreisler.html">Крейслер</a> | <a href="kremer.html">Кремер</a> | <a href="lemeshev.html">Лемешев</a> | <a href="lisitsian.html">Лисициан</a> | <a href="lugansky.html">Луганский</a> | <a href="mravinsky.html">Мравинский</a> | <a href="muti.html">Мути</a> | <a href="nezhdanova.html">Нежданова</a> | <a href="netrebko.html">Нетребко</a> | <a href="obraztsova.html">Образцова</a> | <a href="oistrah.html">Ойстрах</a> | <a href="pavarotti.html">Паваротти</a> | <a href="pasta.html">Паста</a> | <a href="patti.html">Патти</a> | <a href="pletnev.html">Плетнев</a> | <a href="richter.html">Рихтер</a> | <a href="rozhdestvensky.html">Рождественский</a> | <a href="rostropovich.html">Ростропович</a> | <a href="rubinstein_a.html">Рубинштейн</a> | <a href="svetlanov.html">Светланов</a> | <a href="serafin.html">Серафин</a> | <a href="sobinov.html">Собинов</a> | <a href="sofronitsky.html">Софроницкий</a> | <a href="tebaldi.html">Тебальди</a> | <a href="temirkanov.html">Темирканов</a> | <a href="toscanini.html">Тосканини</a> | <a href="feinberg.html">Фейнберг</a> | <a href="fischer.html">Фишер-Дискау</a> | <a href="furtwangler.html">Фуртвенглер</a> | <a href="hvorostovsky.html">Хворостовский</a> | <a href="heifetz.html">Хейфец</a>  | <a href="chaliapin.html">Шаляпин</a> | <a href="schnabel.html">Шнабель</a><br />
+<a href="persons.html"><strong>весь&nbsp;список&nbsp;&rarr;</strong></a></p>
+<hr />
+<h2>Оперы</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/rigoletto_icon.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100_rigoletto_icon.jpg" alt="" class="floated_left" /></a></p>
+<p><a href="aida.html">Аида</a> | <a href="aleko.html">Алеко</a> | <a href="ballo.html">Бал-маскарад</a> | <a href="boheme.html">Богема</a> | <a href="godunov.html">Борис Годунов</a> | <a href="valkiria.html">Валькирия</a> | <a href="werther.html">Вертер</a> | <a href="fleita.html">Волшебная флейта</a> | <a href="strelok.html">Волшебный стрелок</a> | <a href="wozzeck.html">Воццек</a> | <a href="huguenots.html">Гугеноты</a> | <a href="fanciulla.html">Девушка с Запада</a> | <a href="demon.html">Демон</a> | <a href="juan.html">Дон Жуан</a> | <a href="carlo.html">Дон Карлос</a> | <a href="pasquale.html">Дон Паскуале</a> | <a href="onegin.html">Евгений Онегин</a> | <a href="susanin.html">Жизнь за царя</a> | <a href="sigfrid.html">Зигфрид</a> | <a href="zolot_petushok.html">Золотой петушок</a> | <a href="cenerentola.html">Золушка</a> | <a href="idomeneo.html">Идоменей</a> | <a href="iolanta.html">Иоланта</a> | <a href="algeri.html">Итальянка в Алжире</a> | <a href="rosenkavalier.html">Кавалер розы</a> | <a href="gost.html">Каменный гость</a> | <a href="carmen.html">Кармен</a> | <a href="igor.html">Князь Игорь</a> | <a href="kolzo.html">Кольцо нибелунга</a> | <a href="hollander.html">Летучий голландец</a> | <a href="lohengrin.html">Лоэнгрин</a> | <a href="napitok.html">Любовный напиток</a> | <a href="butterfly.html">Мадам Баттерфляй</a> | <a href="macbeth.html">Макбет</a> | <a href="manon.html">Манон</a> | <a href="nabucco.html">Набукко</a> | <a href="norma.html">Норма</a> | <a href="nurnberg.html">Нюрнбергские мейстерзингеры</a> | <a href="oresteya.html">Орестея</a> | <a href="orfeo.html">Орфей и Эвридика</a> | <a href="otello.html">Отелло</a> | <a href="paiaz.html">Паяцы</a> | <a href="parsifal.html">Парсифаль</a> | <a href="pelleas.html">Пеллеас и Мелизанда</a> | <a href="dama.html">Пиковая дама</a> | <a href="prodannaya.html">Проданная невеста</a> | <a href="puritani.html">Пуритане</a> | <a href="rigoletto.html">Риголетто</a> | <a href="rusalka.html">Русалка</a> | <a href="ruslan.html">Руслан и Людмила</a> | <a href="sadko.html">Садко</a> | <a href="salome.html">Саломея</a> | <a href="samson.html">Самсон и Далила</a> | <a href="figaro.html">Свадьба Фигаро</a> | <a href="seville.html">Севильский цирюльник</a> | <a href="cavalleria.html">Сельская честь</a> | <a href="forza.html">Сила судьбы</a> | <a href="kitezh.html">Сказание о невидимом граде Китеже</a> | <a href="saltan.html">Сказка о царе Салтане</a> | <a href="hoffmann.html">Сказки Гофмана</a> | <a href="snegurochka.html">Снегурочка</a> | <a href="cosi.html">Так поступают все</a> | <a href="tosca.html">Тоска</a> | <a href="traviata.html">Травиата</a> | <a href="tristan.html">Тристан и Изольда</a> | <a href="troyens.html">Троянцы</a> | <a href="trubadur.html">Трубадур</a> | <a href="turandot.html">Турандот</a> | <a href="falstaf.html">Фальстаф</a> | <a href="faust.html">Фауст</a> | <a href="fidelio.html">Фиделио</a> | <a href="hovan.html">Хованщина</a> | <a href="nevesta.html">Царская невеста</a> | <a href="cesare.html">Юлий Цезарь</a><br />
+<a href="opera.html"><strong>весь&nbsp;список&nbsp;&rarr;</strong></a></p>
+<hr />
+<h2>Словарь</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/violin_icon.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100_violin_icon.jpg" alt="" class="floated_right" /></a></p>
+<p><a href="adagio.html">Адажио</a> | <a href="akkordeon.html">Аккордеон</a> | <a href="accomp.html">Аккомпанемент</a> | <a href="alt.html">Альт</a> | <a href="ensemble.html">Ансамбль</a> | <a href="entracte.html">Антракт</a> | <a href="arran.html">Аранжировка</a> | <a href="aria.html">Ария</a> | <a href="arfa.html">Арфа</a> | <a href="balet.html">Балет</a> | <a href="ballada.html">Баллада</a> | <a href="baraban.html">Барабан</a> | <a href="baritono.html">Баритон</a> | <a href="barcarola.html">Баркарола</a> | <a href="basso.html">Бас</a> | <a href="valtorna.html">Валторна</a> | <a href="variations.html">Вариации</a> | <a href="cello.html">Виолончель</a> | <a href="vunderkind.html">Вундеркинд</a> | <a href="garmonia.html">Гармония</a> | <a href="golos.html">Голос</a> | <a href="gitara.html">Гитара</a> | <a href="gusli.html">Гусли</a> | <a href="jazz.html">Джаз</a> | <a href="diapazon.html">Диапазон</a> | <a href="divertisment.html">Дивертисмент</a> | <a href="dirizher.html">Дирижёр</a> | <a href="duhovoy.html">Духовой оркестр</a> | <a href="zvuk.html">Звук музыкальный</a> | <a href="improvisazia.html">Импровизация</a> | <a href="instrumentovka.html">Инструментовка</a> | <a href="interpretazia.html">Интерпретация</a> | <a href="camera.html">Камерная музыка</a> | <a href="canon.html">Канон</a> | <a href="capella.html">Капелла</a> | <a href="clavesin.html">Клавесин</a> | <a href="klarnet.html">Кларнет</a> | <a href="coloratura.html">Колоратура</a> | <a href="contralto.html">Контральто</a> | <a href="conservatory.html">Консерватория</a> | <a href="konzert.html">Концерт</a> | <a href="lad.html">Лад</a> | <a href="libretto.html">Либретто</a> | <a href="nocturne.html">Ноктюрн</a> | <a href="oberton.html">Обертон</a> | <a href="opera1.html">Опера</a> | <a href="operetta.html">Оперетта</a> | <a href="oratoria.html">Оратория</a> | <a href="organ.html">Орган</a> | <a href="orchestra.html">Оркестр</a> | <a href="pesnya.html">Песня</a> | <a href="programmnaya.html">Программная музыка</a> | <a href="rekviem.html">Реквием</a> | <a href="simfonia.html">Симфония</a> | <a href="violin.html">Скрипка</a> | <a href="sluh.html">Слух музыкальный</a> | <a href="sonata.html">Соната</a> | <a href="soprano.html">Сопрано</a> | <a href="tenore.html">Тенор</a> | <a href="truba.html">Труба</a> | <a href="fagot.html">Фагот</a> | <a href="factura.html">Фактура</a> | <a href="fantasia.html">Фантазия</a> | <a href="flute.html">Флейта</a> | <a href="folklor.html">Фольклор</a> | <a href="forma.html">Форма музыкальная</a> | <a href="fortepiano.html">Фортепиано</a> | <a href="fuga.html">Фуга</a> | <a href="hor.html">Хор</a> | <a href="elegia.html">Элегия</a> | <a href="etude.html">Этюд</a><br />
+<a href="dic.html"><strong>весь&nbsp;список&nbsp;&rarr;</strong></a></p>
+<hr />
+<h2>Записи</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/grammo_icon.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100_grammo_icon.jpg" alt="" class="floated_left" /></a></p>
+<p><a href="mp3-bach-messa.html">Бах. Месса си минор</a> | <a href="mp3-bach.html">Бах. Страсти по Матфею</a> | <a href="mp3-bach-htk.html">Бах. Хорошо темперированный клавир</a> | <a href="mp3-beethoven-simphony.html">Бетховен. Симфонии</a> | <a href="mp3-beethoven-violin.html">Бетховен. Сонаты для скрипки и фортепиано</a> | <a href="mp3-beethoven.html">Бетховен. Сонаты для фортепиано</a> | <a href="mp3-brahms.html">Брамс. Фортепианная музыка</a> | <a href="mp3-brahms-concerto.html">Брамс. Концерты для фортепиано с оркестром</a> | <a href="mp3-brahms-violin.html">Брамс. Сонаты для скрипки и фортепиано</a> | <a href="mp3-brahms-requiem.html">Брамс. Немецкий реквием</a> | <a href="mp3-verdi-requiem.html">Верди. Реквием</a> | <a href="mp3-vivaldi.html">Вивальди. Времена года</a> | <a href="mp3-haydn.html">Гайдн. Трио</a> | <a href="mp3-cherubini.html">Керубини. Симфония ре мажор</a> | <a href="mp3-liszt.html">Лист. Фортепианная музыка</a> | <a href="mp3-liszt-italy.html">Лист. Годы странствий</a> | <a href="mp3-liszt-symphony.html">Лист. Симфоническая музыка</a> | <a href="mp3-mozart.html">Моцарт. Симфония №40. Реквием</a> | <a href="mp3-mussorgsky-vocal.html">Мусоргский. Вокальные циклы</a> | <a href="mp3-mussorgsky-pesni.html">Мусоргский. Романсы и песни</a> | <a href="mp3-mussorgsky-symphony.html">Мусоргский. Картинки с выставки</a> | <a href="mp3-mussorgsky-chaliapin.html">Мусоргский в исполнении Шаляпина</a> | <a href="mp3-paganini.html">Паганини. 24 каприса для скрипки соло</a> | <a href="mp3-rachmaninov-symphony.html">Рахманинов. Симфоническая музыка</a> | <a href="mp3-rachmaninov.html">Рахманинов. Фортепианные концерты</a> | <a href="mp3-rachmaninov-vespers.html">Рахманинов. Всенощное бдение</a> | <a href="mp3-rimsky.html">Римский-Корсаков. Шехеразада</a> | <a href="mp3-rossini.html">Россини. Увертюры к операм</a> | <a href="mp3-scarlatti.html">Скарлатти. Сонаты для фортепиано</a> | <a href="mp3-tchaikovsky-ballet.html">Чайковский. Балеты</a> | <a href="mp3-tchaikovsky-concerto.html">Чайковский. Концерты</a> | <a href="mp3-tchaikovsky-romance.html">Чайковский. Романсы</a> | <a href="mp3-tchaikovsky.html">Чайковский. Симфоническая музыка</a> | <a href="mp3-czerny.html">Черни. 50 этюдов op. 740</a> | <a href="mp3-chopin.html">Шопен. Фортепианная музыка</a> | <a href="mp3-schumann.html">Шуман. Фортепианная музыка</a>  </p>
+<p><a href="mp3-verdi.html">Аида</a> | <a href="mp3-puccini-boheme.html">Богема</a> | <a href="mp3-mussorgsky.html">Борис Годунов</a> | <a href="mp3-rimsky-sheloga.html">Боярыня Вера Шелога</a> | <a href="mp3-mozart-giovanni.html">Дон Жуан</a> | <a href="mp3-tchaikovsky-opera.html">Евгений Онегин</a> | <a href="mp3-rimsky-petushok.html">Золотой петушок</a> | <a href="mp3-glinka.html">Иван Сусанин</a> | <a href="mp3-rossini-italiana.html">Итальянка в Алжире</a> | <a href="mp3-bellini-capuletti.html">Капулетти и Монтекки</a> | <a href="mp3-rimsky-kaschey.html">Кащей бессмертный</a> | <a href="mp3-charpentier.html">Луиза</a> | <a href="mp3-puccini-butter.html">Мадам Баттерфляй</a> | <a href="mp3-rimsky-mayskaya.html">Майская ночь</a> | <a href="mp3-rimsky-mlada.html">Млада</a> | <a href="mp3-rimsky-mozart.html">Моцарт и Сальери</a> | <a href="mp3-rimsky-noch.html">Ночь перед Рождеством</a> | <a href="mp3-gluck-orphee.html">Орфей и Эвридика</a> | <a href="mp3-tchaikovsky-dama.html">Пиковая дама</a> | <a href="mp3-bellini-pirata.html">Пират</a> | <a href="mp3-rimsky-pskovityanka.html">Псковитянка</a> | <a href="mp3-verdi-rigoletto.html">Риголетто</a> | <a href="mp3-rimsky-sadko.html">Садко</a> | <a href="mp3-rimsky-servilia.html">Сервилия</a> | <a href="mp3-rimsky-kitezh.html">Сказание о невидимом граде Китеже</a> | <a href="mp3-rimsky-saltan.html">Сказка о царе Салтане</a> | <a href="mp3-rimsky-snegurochka.html">Снегурочка</a> | <a href="mp3-puccini.html">Тоска</a> | <a href="mp3-verdi-traviata.html">Травиата</a> | <a href="mp3-puccini-turandot.html">Турандот</a> | <a href="mp3-donizetti-favorita.html">Фаворитка</a> | <a href="mp3-mussorgsky-hovan.html">Хованщина</a> | <a href="mp3-rimsky-nevesta.html">Царская невеста</a><br />
+<a href="music.html"><strong>избранное&nbsp;&rarr;</strong></a> | <a href="music_by_composers.html"><strong>композиторы&nbsp;&rarr;</strong></a> | <a href="music_by_performers.html"><strong>исполнители&nbsp;&rarr;</strong></a> | <a href="music_by_compositions.html"><strong>произведения&nbsp;&rarr;</strong></a></p>
+<hr />
+<h2>Книги и статьи</h2>
+<p><a rel="top_photos" href="/media/images/uploaded/_red.jpg" class="modal" title=""><img src="/media/images/uploaded/thumbnail100__red.jpg" alt="" class="floated_right" /></a></p>
+<ul>
+<li><a href="/opera_guide.html">Путеводитель по операм — 1</a></li>
+<li><a href="/guide.html">Путеводитель по операм — 2</a></li>
+<li><a href="/books_gobbi.html">Мир итальянской оперы</a></li>
+<li><a href="/books_marchesi.html">Четыре века музыкального театра</a></li>
+<li><a href="/volkov_book.html">Песни. Опера. Певцы Италии</a></li>
+<li><a href="/caruso-book.html">Энрико Карузо</a></li>
+<li><a href="/gal.html">Рихард Вагнер. Опыт характеристики</a></li>
+<li><a href="/books_donizetti.html">Гаэтано Доницетти</a>  </li>
+<li><a href="/books_karajan.html">Караян</a>  </li>
+<li><a href="/karajan_110.html">Герберт фон Караян: лев дирижирования</a>  </li>
+<li><a href="/books_toscanini.html">Артуро Тосканини. Великий маэстро</a>  </li>
+<li><a href="/podvig_toscanini.html">Подвиг Тосканини</a>  </li>
+<li><a href="/books_fomin.html">О симфоническом оркестре</a>  </li>
+<li><a href="/dir001.html">О дирижировании</a>    </li>
+<li><a href="/07091304.html">Время женщин</a>    </li>
+<li><a href="/07112201.html">«„Борис Годунов“ станет гвоздем сезона»</a>  <br />
+<a href="biblio.html"><strong>весь&nbsp;список&nbsp;&rarr;</strong></a></li>
+</ul>
+
+    </div>
+
+    
+
+
+    
+
+    
+        <div id="advertisement">
+            <h3>Реклама</h3>
+        <ul>
+<li><a target="_blank" href="https://www.belcanto.ru/">Belcanto.ru — классическая музыка, опера и балет</a></li>
+</ul>
+        </div>
+    
+
+    
+    
+
+
+
+    
+
+
+    </div>
+
+        <center>
+<!-- Yandex.RTB R-A-35918-3 -->
+<div id="yandex_rtb_R-A-35918-3"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-35918-3',
+    blockId: 'R-A-35918-3'
+  })
+})</script>
+</center>
+
+
+        	<div id="sk_menu" class="menu_flex">
+
+		<div  class="menu_item"><A href="index.html"> главная </A></div>
+		<div  class="menu_item"><A href="persons.html"> персоналии </A></div>
+		<div  class="menu_item"><A href="compositions.html"> произведения </A></div>
+		<div  class="menu_item"><A href="dic.html"> словарь </A></div>
+		<div  class="menu_item"><A href="music.html"> записи </A></div>
+		<div  class="menu_item"><A href="biblio.html"> книги </A></div>
+	</div>
+
+	
+
+
+
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t16.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+
+        <a href="about.html">О сайте</a>. <a href="links.html">Ссылки</a>. <noindex><a target="_blank" href="http://www.belcanto.ru/">Belcanto.ru</a></noindex>. <BR>
+        &copy; 2004–2025 Проект <noindex><a target=_blank href="https://www.belcanto.ru/fedorov.html">Ивана Фёдорова</a></noindex>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2853148-8");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</HTML>
+

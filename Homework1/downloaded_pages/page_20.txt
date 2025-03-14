@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- The SEO Framework Создано Сибрэ Вайэр -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://artprojekt.ru/" />
+<meta name="description" content="Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до&#8230;" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="Искусство" />
+<meta property="og:title" content="Искусство" />
+<meta property="og:description" content="Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до сегодняшнего дня." />
+<meta property="og:url" content="https://artprojekt.ru/" />
+<meta property="og:image" content="https://artprojekt.ru/wp-content/uploads/2024/09/0004-1.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Искусство" />
+<meta name="twitter:description" content="Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до сегодняшнего дня." />
+<meta name="twitter:image" content="https://artprojekt.ru/wp-content/uploads/2024/09/0004-1.jpg" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://artprojekt.ru/#/schema/WebSite","url":"https://artprojekt.ru/","name":"Искусство","inLanguage":"ru-RU","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://artprojekt.ru/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://artprojekt.ru/#/schema/Organization"}},{"@type":"WebPage","@id":"https://artprojekt.ru/","url":"https://artprojekt.ru/","name":"Искусство","description":"Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до&#8230;","inLanguage":"ru-RU","isPartOf":{"@id":"https://artprojekt.ru/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://artprojekt.ru/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Искусство"}},"potentialAction":{"@type":"ReadAction","target":"https://artprojekt.ru/"},"about":{"@id":"https://artprojekt.ru/#/schema/Organization"}},{"@type":"Organization","@id":"https://artprojekt.ru/#/schema/Organization","name":"Искусство","url":"https://artprojekt.ru/","logo":{"@type":"ImageObject","url":"https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png","contentUrl":"https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png","width":555,"height":558,"contentSize":"456315"}}]}</script>
+<!-- / The SEO Framework Создано Сибрэ Вайэр | 3.37ms meta | 0.27ms boot -->
+
+<title>Искусство</title>
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Искусство &raquo; Лента" href="https://artprojekt.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Искусство &raquo; Лента комментариев" href="https://artprojekt.ru/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/artprojekt.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=95e8cea43dcff8bad90b95e16d9f923b"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='social-likes-classic-css' href='https://artprojekt.ru/wp-content/plugins/easy-vkontakte-connect/css/social-likes_classic.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<link rel='stylesheet' id='jetpack_related-posts-css' href='https://artprojekt.ru/wp-content/plugins/jetpack/modules/related-posts/related-posts.css?ver=20240116' media='all' />
+<style id='wp-block-navigation-link-inline-css'>
+.wp-block-navigation .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}.link-ui-tools{border-top:1px solid #f0f0f0;padding:8px}.link-ui-block-inserter{padding-top:8px}.link-ui-block-inserter__back{margin-left:8px;text-transform:uppercase}
+
+				.is-style-arrow-link .wp-block-navigation-item__label:after {
+					content: "\2197";
+					padding-inline-start: 0.25rem;
+					vertical-align: middle;
+					text-decoration: none;
+					display: inline-block;
+				}
+</style>
+<link rel='stylesheet' id='wp-block-navigation-css' href='https://artprojekt.ru/wp-includes/blocks/navigation/style.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<style id='wp-block-group-inline-css'>
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+</style>
+<link rel='stylesheet' id='wp-block-image-css' href='https://artprojekt.ru/wp-includes/blocks/image/style.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id='wp-block-columns-inline-css'>
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+</style>
+<style id='wp-block-search-inline-css'>
+.wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{height:1.25em;min-height:24px;min-width:24px;width:1.25em;fill:currentColor;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search__input{appearance:none;border:1px solid #949494;flex-grow:1;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important}.wp-block-search.wp-block-search__button-only .wp-block-search__button{flex-shrink:0;margin-left:0;max-width:100%}.wp-block-search.wp-block-search__button-only .wp-block-search__button[aria-expanded=true]{max-width:calc(100% - 100px)}.wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search.wp-block-search__button-only .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden,.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search.wp-block-search__button-only.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}:where(.wp-block-search__input){font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-transform:inherit}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block[data-align=right] .wp-block-search.wp-block-search__button-only .wp-block-search__inside-wrapper{float:right}
+</style>
+<link rel='stylesheet' id='wp-block-cover-css' href='https://artprojekt.ru/wp-includes/blocks/cover/style.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<style id='wp-block-post-title-inline-css'>
+.wp-block-post-title{box-sizing:border-box;word-break:break-word}.wp-block-post-title :where(a){display:inline-block;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+</style>
+<style id='wp-block-spacer-inline-css'>
+.wp-block-spacer{clear:both}
+</style>
+<style id='wp-block-post-featured-image-inline-css'>
+.wp-block-post-featured-image{margin-left:0;margin-right:0}.wp-block-post-featured-image a{display:block;height:100%}.wp-block-post-featured-image :where(img){box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom;width:100%}.wp-block-post-featured-image.alignfull img,.wp-block-post-featured-image.alignwide img{width:100%}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim{background-color:#000;inset:0;position:absolute}.wp-block-post-featured-image{position:relative}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-gradient{background-color:initial}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-0{opacity:0}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-10{opacity:.1}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-20{opacity:.2}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-30{opacity:.3}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-40{opacity:.4}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-50{opacity:.5}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-60{opacity:.6}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-70{opacity:.7}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-80{opacity:.8}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-90{opacity:.9}.wp-block-post-featured-image .wp-block-post-featured-image__overlay.has-background-dim-100{opacity:1}.wp-block-post-featured-image:where(.alignleft,.alignright){width:100%}
+</style>
+<style id='wp-block-heading-inline-css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+
+				.is-style-asterisk:before {
+					content: '';
+					width: 1.5rem;
+					height: 3rem;
+					background: var(--wp--preset--color--contrast-2, currentColor);
+					clip-path: path('M11.93.684v8.039l5.633-5.633 1.216 1.23-5.66 5.66h8.04v1.737H13.2l5.701 5.701-1.23 1.23-5.742-5.742V21h-1.737v-8.094l-5.77 5.77-1.23-1.217 5.743-5.742H.842V9.98h8.162l-5.701-5.7 1.23-1.231 5.66 5.66V.684h1.737Z');
+					display: block;
+				}
+
+				/* Hide the asterisk if the heading has no content, to avoid using empty headings to display the asterisk only, which is an A11Y issue */
+				.is-style-asterisk:empty:before {
+					content: none;
+				}
+
+				.is-style-asterisk:-moz-only-whitespace:before {
+					content: none;
+				}
+
+				.is-style-asterisk.has-text-align-center:before {
+					margin: 0 auto;
+				}
+
+				.is-style-asterisk.has-text-align-right:before {
+					margin-left: auto;
+				}
+
+				.rtl .is-style-asterisk.has-text-align-left:before {
+					margin-right: auto;
+				}
+</style>
+<style id='wp-block-post-content-inline-css'>
+.wp-block-post-content{display:flow-root}
+</style>
+<style id='wp-block-separator-inline-css'>
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+</style>
+<link rel='stylesheet' id='jetpack-block-send-a-message-css' href='https://artprojekt.ru/wp-content/plugins/jetpack/_inc/blocks/send-a-message/view.css?minify=false&#038;ver=14.4' media='all' />
+<style id='jetpack-block-sharing-button-inline-css'>
+a.jetpack-sharing-button__button{color:inherit}.jetpack-sharing-button__button{align-items:center;background:#fff;border-radius:4px;box-shadow:0 1px 2px #0000001f,0 0 0 1px #0000001f;color:#2c3338;color:inherit;cursor:default;display:flex;flex-direction:row;font-size:inherit;font-weight:500;height:auto;justify-content:center;line-height:23px;margin:4px 4px 0;padding:4px 9px 3px;text-decoration:none}.jetpack-sharing-button__button svg{height:1.5em;width:1.5em;fill:currentColor}.jetpack-sharing-button__button:hover{box-shadow:0 1px 2px #00000038,0 0 0 1px #00000038;cursor:pointer}.jetpack-sharing-button__button.components-button{font-size:inherit;padding:4px 11px 3px 9px}.jetpack-sharing-button__button.style-icon{border:0;border-radius:50%;box-shadow:none;color:#fff;height:auto;line-height:1;margin-bottom:0;padding:7px;position:relative;top:-2px;width:auto}.jetpack-sharing-button__button.style-icon.share-bluesky{background:#0085ff}.jetpack-sharing-button__button.style-icon.share-x{background:#000}.jetpack-sharing-button__button.style-icon.share-print{background:#c5c2c2}.jetpack-sharing-button__button.style-icon.share-reddit{background:#5f99cf}.jetpack-sharing-button__button.style-icon.share-skype{background:#00aff0}.jetpack-sharing-button__button.style-icon.share-facebook{background:#0866ff}.jetpack-sharing-button__button.style-icon.share-linkedin{background:#0976b4}.jetpack-sharing-button__button.style-icon.share-mail{background:#c5c2c2}.jetpack-sharing-button__button.style-icon.share-twitter{background:#55acee}.jetpack-sharing-button__button.style-icon.share-tumblr{background:#35465c}.jetpack-sharing-button__button.style-icon.share-pinterest{background:#cc2127}.jetpack-sharing-button__button.style-icon.share-pocket{background:#ee4256}.jetpack-sharing-button__button.style-icon.share-telegram{background:#08c}.jetpack-sharing-button__button.style-icon.share-threads{background:#000}.jetpack-sharing-button__button.style-icon.share-whatsapp{background:#43d854}.jetpack-sharing-button__button.style-icon.share-mastodon{background:#6364ff}.jetpack-sharing-button__button.style-icon.share-nextdoor{background:#8ed500}.jetpack-sharing-button__button.style-icon.share-share{background:#000}.jetpack-sharing-button__button.style-icon.is-custom{padding:8px;top:2px}.jetpack-sharing-button__button.style-icon-text{margin-inline-end:4px;padding-inline-end:11px}.style-icon .jetpack-sharing-button__service-label,.style-text .sharing-buttons-preview-button__custom-icon,.style-text .social-logo{display:none}.jetpack-sharing-button__list-item{display:flex;flex-direction:row;flex-wrap:wrap;gap:5px;list-style-type:none;padding:0}.jetpack-sharing-button__list-item:first-child .jetpack-sharing-button__button{margin-inline-start:0}.style-icon-text .jetpack-sharing-button__service-label{margin-inline-start:5px}.tooltip{display:inline-block;position:relative}.tooltip .tooltiptext{background-color:#555;border-radius:6px;bottom:120%;color:#fff;display:none;padding:5px;position:absolute;text-align:center;width:5.5em}
+</style>
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='wp-block-site-logo-inline-css'>
+.wp-block-site-logo{box-sizing:border-box;line-height:0}.wp-block-site-logo a{display:inline-block;line-height:0}.wp-block-site-logo.is-default-size img{height:auto;width:120px}.wp-block-site-logo img{height:auto;max-width:100%}.wp-block-site-logo a,.wp-block-site-logo img{border-radius:inherit}.wp-block-site-logo.aligncenter{margin-left:auto;margin-right:auto;text-align:center}:root :where(.wp-block-site-logo.is-style-rounded){border-radius:9999px}
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #f9f9f9;--wp--preset--color--base-2: #ffffff;--wp--preset--color--contrast: #111111;--wp--preset--color--contrast-2: #636363;--wp--preset--color--contrast-3: #A4A4A4;--wp--preset--color--accent: #cfcabe;--wp--preset--color--accent-2: #c2a990;--wp--preset--color--accent-3: #d8613c;--wp--preset--color--accent-4: #b1c5a4;--wp--preset--color--accent-5: #b5bdbc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--gradient-1: linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-2: linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-3: linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-4: linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-5: linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-6: linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-7: linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-8: linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-9: linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-10: linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-11: linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-12: linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%);--wp--preset--font-size--small: 0.9rem;--wp--preset--font-size--medium: 1.05rem;--wp--preset--font-size--large: clamp(1.39rem, 1.39rem + ((1vw - 0.2rem) * 0.767), 1.85rem);--wp--preset--font-size--x-large: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.083), 2.5rem);--wp--preset--font-size--xx-large: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.283), 3.27rem);--wp--preset--font-family--body: "Inter", sans-serif;--wp--preset--font-family--heading: Cardo;--wp--preset--font-family--system-sans-serif: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;--wp--preset--font-family--system-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;--wp--preset--spacing--20: min(1.5rem, 2vw);--wp--preset--spacing--30: min(2.5rem, 3vw);--wp--preset--spacing--40: min(4rem, 5vw);--wp--preset--spacing--50: min(6.5rem, 8vw);--wp--preset--spacing--60: min(10.5rem, 13vw);--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--10: 1rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 620px;--wp--style--global--wide-size: 1280px; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.2rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1.2rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.2rem;}:root :where(.is-layout-grid){gap: 1.2rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--base);color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--body);font-size: var(--wp--preset--font-size--medium);font-style: normal;font-weight: 400;line-height: 1.55;--wp--style--root--padding-top: 0px;--wp--style--root--padding-right: var(--wp--preset--spacing--50);--wp--style--root--padding-bottom: 0px;--wp--style--root--padding-left: var(--wp--preset--spacing--50);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--contrast);text-decoration: underline;}:root :where(a:where(:not(.wp-element-button)):hover){text-decoration: none;}h1, h2, h3, h4, h5, h6{color: var(--wp--preset--color--contrast);font-family: var(--wp--preset--font-family--heading);font-weight: 400;line-height: 1.2;}h1{font-size: var(--wp--preset--font-size--xx-large);line-height: 1.15;}h2{font-size: var(--wp--preset--font-size--x-large);}h3{font-size: var(--wp--preset--font-size--large);}h4{font-size: clamp(1.1rem, 1.1rem + ((1vw - 0.2rem) * 0.767), 1.5rem);}h5{font-size: var(--wp--preset--font-size--medium);}h6{font-size: var(--wp--preset--font-size--small);}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--wp--preset--color--contrast);border-radius: .33rem;border-color: var(--wp--preset--color--contrast);border-width: 0;color: var(--wp--preset--color--base);font-family: inherit;font-size: var(--wp--preset--font-size--small);font-style: normal;font-weight: 500;line-height: inherit;padding-top: 0.6rem;padding-right: 1rem;padding-bottom: 0.6rem;padding-left: 1rem;text-decoration: none;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);}:root :where(.wp-element-button:focus, .wp-block-button__link:focus){background-color: var(--wp--preset--color--contrast-2);border-color: var(--wp--preset--color--contrast-2);color: var(--wp--preset--color--base);outline-color: var(--wp--preset--color--contrast);outline-offset: 2px;}:root :where(.wp-element-button:active, .wp-block-button__link:active){background-color: var(--wp--preset--color--contrast);color: var(--wp--preset--color--base);}:root :where(.wp-element-caption, .wp-block-audio figcaption, .wp-block-embed figcaption, .wp-block-gallery figcaption, .wp-block-image figcaption, .wp-block-table figcaption, .wp-block-video figcaption){color: var(--wp--preset--color--contrast-2);font-family: var(--wp--preset--font-family--body);font-size: 0.8rem;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-base-2-color{color: var(--wp--preset--color--base-2) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-color{color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-color{color: var(--wp--preset--color--contrast-3) !important;}.has-accent-color{color: var(--wp--preset--color--accent) !important;}.has-accent-2-color{color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-color{color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-color{color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-color{color: var(--wp--preset--color--accent-5) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-base-2-background-color{background-color: var(--wp--preset--color--base-2) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-background-color{background-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-background-color{background-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-background-color{background-color: var(--wp--preset--color--accent) !important;}.has-accent-2-background-color{background-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-background-color{background-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-background-color{background-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-background-color{background-color: var(--wp--preset--color--accent-5) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-base-2-border-color{border-color: var(--wp--preset--color--base-2) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-border-color{border-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-border-color{border-color: var(--wp--preset--color--contrast-3) !important;}.has-accent-border-color{border-color: var(--wp--preset--color--accent) !important;}.has-accent-2-border-color{border-color: var(--wp--preset--color--accent-2) !important;}.has-accent-3-border-color{border-color: var(--wp--preset--color--accent-3) !important;}.has-accent-4-border-color{border-color: var(--wp--preset--color--accent-4) !important;}.has-accent-5-border-color{border-color: var(--wp--preset--color--accent-5) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-gradient-1-gradient-background{background: var(--wp--preset--gradient--gradient-1) !important;}.has-gradient-2-gradient-background{background: var(--wp--preset--gradient--gradient-2) !important;}.has-gradient-3-gradient-background{background: var(--wp--preset--gradient--gradient-3) !important;}.has-gradient-4-gradient-background{background: var(--wp--preset--gradient--gradient-4) !important;}.has-gradient-5-gradient-background{background: var(--wp--preset--gradient--gradient-5) !important;}.has-gradient-6-gradient-background{background: var(--wp--preset--gradient--gradient-6) !important;}.has-gradient-7-gradient-background{background: var(--wp--preset--gradient--gradient-7) !important;}.has-gradient-8-gradient-background{background: var(--wp--preset--gradient--gradient-8) !important;}.has-gradient-9-gradient-background{background: var(--wp--preset--gradient--gradient-9) !important;}.has-gradient-10-gradient-background{background: var(--wp--preset--gradient--gradient-10) !important;}.has-gradient-11-gradient-background{background: var(--wp--preset--gradient--gradient-11) !important;}.has-gradient-12-gradient-background{background: var(--wp--preset--gradient--gradient-12) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xx-large-font-size{font-size: var(--wp--preset--font-size--xx-large) !important;}.has-body-font-family{font-family: var(--wp--preset--font-family--body) !important;}.has-heading-font-family{font-family: var(--wp--preset--font-family--heading) !important;}.has-system-sans-serif-font-family{font-family: var(--wp--preset--font-family--system-sans-serif) !important;}.has-system-serif-font-family{font-family: var(--wp--preset--font-family--system-serif) !important;}:where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}
+:root :where(.wp-block-navigation){font-weight: 500;}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button))){text-decoration: none;}
+:root :where(.wp-block-navigation a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
+:root :where(.wp-block-post-featured-image img, .wp-block-post-featured-image .block-editor-media-placeholder, .wp-block-post-featured-image .wp-block-post-featured-image__overlay){border-radius: var(--wp--preset--spacing--20);}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button))){text-decoration: none;}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
+:root :where(.wp-block-search .wp-block-search__label, .wp-block-search .wp-block-search__input, .wp-block-search .wp-block-search__button){font-size: var(--wp--preset--font-size--small);}:root :where(.wp-block-search .wp-block-search__input){border-radius:.33rem}
+:root :where(.wp-block-search .wp-element-button,.wp-block-search  .wp-block-button__link){border-radius: .33rem;}
+:root :where(.wp-block-separator){border-color: currentColor;border-width: 0 0 1px 0;border-style: solid;color: var(--wp--preset--color--contrast);}:root :where(.wp-block-separator){}:root :where(.wp-block-separator:not(.is-style-wide):not(.is-style-dots):not(.alignwide):not(.alignfull)){width: var(--wp--preset--spacing--60)}
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-container-core-navigation-is-layout-1{justify-content:center;}.wp-container-core-group-is-layout-1{gap:40px;justify-content:center;}.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-elements-62ae38918ee3df056050541331343b39 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-2);}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-3{flex-wrap:nowrap;}.wp-container-core-columns-is-layout-4{flex-wrap:nowrap;}.wp-container-core-group-is-layout-3{gap:16px;flex-direction:column;align-items:flex-start;}.wp-container-jetpack-sharing-buttons-is-layout-1{justify-content:center;}.wp-container-core-group-is-layout-5 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-5 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-group-is-layout-6 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-6 > * + *{margin-block-start:36px;margin-block-end:0;}.wp-container-core-columns-is-layout-5{flex-wrap:nowrap;gap:1rem 1rem;}.wp-elements-2c12bd5fb2ea60a5a644689e29f2ad11 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--contrast);}.wp-container-core-navigation-is-layout-2{justify-content:flex-end;}.wp-container-core-group-is-layout-8{justify-content:space-between;}.wp-container-core-group-is-layout-9 > .alignfull{margin-right:calc(var(--wp--preset--spacing--30) * -1);margin-left:calc(var(--wp--preset--spacing--30) * -1);}.wp-elements-4b393154f6e83cefd8c1edd01adb7147 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-container-content-1{flex-basis:30px;}.wp-container-content-2{flex-basis:20px;}.wp-container-core-group-is-layout-10{gap:8px;flex-direction:column;align-items:flex-start;}.wp-container-core-columns-is-layout-6{flex-wrap:nowrap;}.wp-container-core-column-is-layout-20 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-20 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-column-is-layout-21 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-column-is-layout-21 > * + *{margin-block-start:16px;margin-block-end:0;}.wp-container-core-columns-is-layout-7{flex-wrap:nowrap;gap:16px;}.wp-elements-052a773f31f0bdbab314876876782b7c a:where(:not(.wp-element-button)){color:var(--wp--preset--color--background);}.wp-container-core-group-is-layout-11{flex-wrap:nowrap;gap:8px;}.wp-container-core-group-is-layout-12{gap:10px;justify-content:center;}.wp-container-core-group-is-layout-13 > *{margin-block-start:0;margin-block-end:0;}.wp-container-core-group-is-layout-13 > * + *{margin-block-start:40px;margin-block-end:0;}
+</style>
+<style id='wp-block-template-skip-link-inline-css'>
+
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+</style>
+<link rel='stylesheet' id='gallery-manager-css' href='https://artprojekt.ru/wp-content/plugins/fancy-gallery/assets/css/gallery-manager.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<link rel='stylesheet' id='evc-share-style-css' href='https://artprojekt.ru/wp-content/plugins/easy-vkontakte-connect/css/style-share.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://artprojekt.ru/wp-includes/css/dashicons.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<style id='akismet-widget-style-inline-css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+<script src="https://artprojekt.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://artprojekt.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://artprojekt.ru/wp-content/plugins/easy-vkontakte-connect/js/jquery.cookie.js" id="jquery.cookie-js"></script>
+<script id="jetpack-blocks-assets-base-url-js-before">
+var Jetpack_Block_Assets_Base_Url="https://artprojekt.ru/wp-content/plugins/jetpack/_inc/blocks/";
+</script>
+<script src="https://artprojekt.ru/wp-content/plugins/jetpack/_inc/blocks/sharing-button/view.js?minify=false&amp;ver=14.4" id="jetpack-block-sharing-button-js"></script>
+<script src="https://artprojekt.ru/wp-content/plugins/jetpack/_inc/blocks/sharing-button/view.js?ver=5231dd3e4c3538cac476" id="jetpack-sharing-button-view-script-js" defer data-wp-strategy="defer"></script>
+<script src="https://artprojekt.ru/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script src="https://artprojekt.ru/wp-content/plugins/jetpack/_inc/blocks/sharing-buttons/view.js?ver=44964dfd791700150810" id="jetpack-sharing-buttons-view-script-js" defer data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://artprojekt.ru/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://artprojekt.ru/wp-json/wp/v2/pages/11" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://artprojekt.ru/xmlrpc.php?rsd" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://artprojekt.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fartprojekt.ru%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://artprojekt.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fartprojekt.ru%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<script type="importmap" id="wp-importmap">
+{"imports":{"@wordpress\/interactivity":"https:\/\/artprojekt.ru\/wp-includes\/js\/dist\/script-modules\/interactivity\/index.min.js?ver=907ea3b2f317a78b7b9b"}}
+</script>
+<script type="module" src="https://artprojekt.ru/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=8ff192874fc8910a284c" id="@wordpress/block-library/navigation/view-js-module"></script>
+<link rel="modulepreload" href="https://artprojekt.ru/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=907ea3b2f317a78b7b9b" id="@wordpress/interactivity-js-modulepreload"><style class='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://artprojekt.ru/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://artprojekt.ru/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:italic;font-weight:400;font-display:fallback;src:url('https://artprojekt.ru/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:normal;font-weight:700;font-display:fallback;src:url('https://artprojekt.ru/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://artprojekt.ru/wp-content/uploads/2024/09/cropped-icon-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://artprojekt.ru/wp-content/uploads/2024/09/cropped-icon-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://artprojekt.ru/wp-content/uploads/2024/09/cropped-icon-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://artprojekt.ru/wp-content/uploads/2024/09/cropped-icon-1-270x270.jpg" />
+<meta property="vk:app_id" content="52310568" /><style type="text/css">
+    #overlay-sidebar {
+      width: 380px;
+      margin: 0 0 0 -190px;
+    }
+    #slide-sidebar {
+      width: 380px;
+      right:-423px; // width + 43px
+      bottom: 20px;
+    }
+  </style><script type="text/javascript">
+    var VKWidgetsGroup = [];
+    var VKWidgetsComments = [];
+    var VKWidgetsPolls = [];
+    var VKWidgetsSubscribe = [];
+    var VKWidgetsContactUs = [];
+    var VKWidgetsCommunityMessages = [];
+    var VKWidgets = [];
+    
+    var vkUnLock = [];
+    var subscribeCookieExpires = 1;
+    
+    if (typeof ajaxurl == "undefined")
+      ajaxurl = "https://artprojekt.ru/wp-admin/admin-ajax.php";
+  
+    oTimeout = 5000;
+    oScreens = 0.75;
+    oCookieExpires = 365;
+    oAction = "timeout";
+    oSensitivity = 20;
+    oTop = "40px";
+
+    sTimeout = 5000;
+    sScreens = 0.75;
+    sCookieExpires = 365;
+    sAction = "scroll";
+    sSensitivity = 20;
+    sSpeed = 800;
+        
+  </script><script type="text/javascript">evc_post_id = 11;</script></head>
+
+<body data-rsssl=1 class="home page-template page-template-page-with-sidebar page page-id-11 wp-custom-logo wp-embed-responsive">
+
+<div class="wp-site-blocks"><header class="wp-block-template-part">
+<div class="wp-block-cover" style="min-height:240px;aspect-ratio:unset;"><span aria-hidden="true" class="wp-block-cover__background has-contrast-background-color has-background-dim"></span><img decoding="async" class="wp-block-cover__image-background wp-image-15283" alt="мане.рф" src="https://xn--80aktf.xn--p1ai/wp-content/uploads/2020/06/top.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container has-global-padding is-layout-constrained wp-block-cover-is-layout-constrained">
+<div class="wp-block-group alignfull is-content-justification-center is-layout-flex wp-container-core-group-is-layout-1 wp-block-group-is-layout-flex"><nav class="has-text-color has-background-color is-responsive items-justified-center wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="top" 
+		 data-wp-interactive="core/navigation" data-wp-context='{"overlayOpenedBy":{"click":false,"hover":false,"focus":false},"type":"overlay","roleAttribute":"","ariaLabel":"\u041c\u0435\u043d\u044e"}'><button aria-haspopup="dialog" aria-label="Открыть меню" class="wp-block-navigation__responsive-container-open " 
+				data-wp-on-async--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container  has-text-color has-contrast-color"  id="modal-1" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on-async--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Закрыть меню" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on-async--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-1-content">
+								<ul class="wp-block-navigation__container has-text-color has-background-color is-responsive items-justified-center wp-block-navigation"><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://artprojekt.ru/history/">История искусства</a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="История искусства подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container has-text-color has-contrast-color wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/primitive.html"><span class="wp-block-navigation-item__label">Первобытное искусство</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/civilization.html"><span class="wp-block-navigation-item__label"><a href="https://artprojekt.ru/history/civilization.html">Древние цивилизации</a></span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/europe.html"><span class="wp-block-navigation-item__label">Европейское искусство</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/east.html"><span class="wp-block-navigation-item__label"><a href="https://artprojekt.ru/history/east.html">Искусство Востока</a></span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/xx.html"><span class="wp-block-navigation-item__label">Искусство 20 века</span></a></li></ul></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://artprojekt.ru/gallery/">Галерея</a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Галерея подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container has-text-color has-contrast-color wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/zarubezhnye-khudozhniki/"><span class="wp-block-navigation-item__label">Зарубежные художники</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/russkie-sovetskie-khudozhniki/"><span class="wp-block-navigation-item__label">Русские и советские художники</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/sculpture/"><span class="wp-block-navigation-item__label">Скульптура</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/cifrovoe-iskusstvo/"><span class="wp-block-navigation-item__label">Цифровое искусство</span></a></li></ul></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/school/"><span class="wp-block-navigation-item__label">Школа искусств</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/library/"><span class="wp-block-navigation-item__label">Библиотека</span></a></li><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://artprojekt.ru/tovary/">Товары</a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Товары подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container has-text-color has-contrast-color wp-block-navigation-submenu"><li data-wp-context="{ &quot;submenuOpenedBy&quot;: { &quot;click&quot;: false, &quot;hover&quot;: false, &quot;focus&quot;: false }, &quot;type&quot;: &quot;submenu&quot;, &quot;modal&quot;: null }" data-wp-interactive="core/navigation" data-wp-on--focusout="actions.handleMenuFocusout" data-wp-on--keydown="actions.handleMenuKeydown" data-wp-on-async--mouseenter="actions.openMenuOnHover" data-wp-on-async--mouseleave="actions.closeMenuOnHover" data-wp-watch="callbacks.initMenu" tabindex="-1" class=" wp-block-navigation-item has-child open-on-hover-click wp-block-navigation-submenu"><a class="wp-block-navigation-item__content" href="https://artprojekt.ru/artistic-paints/">Художественные краски</a><button data-wp-bind--aria-expanded="state.isMenuOpen" data-wp-on-async--click="actions.toggleMenuOnClick" aria-label="Художественные краски подменю" class="wp-block-navigation__submenu-icon wp-block-navigation-submenu__toggle" ><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true" focusable="false"><path d="M1.50002 4L6.00002 8L10.5 4" stroke-width="1.5"></path></svg></button><ul data-wp-on-async--focus="actions.openMenuOnFocus" class="wp-block-navigation__submenu-container has-text-color has-contrast-color wp-block-navigation-submenu"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/watercolour/"><span class="wp-block-navigation-item__label">Акварель</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/acrylic-paints/"><span class="wp-block-navigation-item__label">Акриловые краски</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/gouache/"><span class="wp-block-navigation-item__label">Гуашь</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/oil-paints/"><span class="wp-block-navigation-item__label">Масляные краски</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/tempera/"><span class="wp-block-navigation-item__label">Темпера</span></a></li></ul></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/brushes/"><span class="wp-block-navigation-item__label">Кисти</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/frames/"><span class="wp-block-navigation-item__label">Рамки</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/related-materials/"><span class="wp-block-navigation-item__label">Сопутствующие материалы</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/category/canvases/"><span class="wp-block-navigation-item__label">Холсты</span></a></li></ul></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav></div>
+
+
+
+<div class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%">
+<figure class="wp-block-image aligncenter size-full is-resized"><a href="https://artprojekt.ru/"><img fetchpriority="high" decoding="async" width="555" height="558" src="https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png" alt="Лого" class="wp-image-8" style="width:156px;height:auto" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png 555w, https://artprojekt.ru/wp-content/uploads/2024/09/logo-1-298x300.png 298w, https://artprojekt.ru/wp-content/uploads/2024/09/logo-1-150x150.png 150w" sizes="(max-width: 555px) 100vw, 555px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:50%">
+<p class="has-small-font-size">Товары для живописи и творчества</p>
+
+
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div class="wp-block-columns alignfull is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns has-base-2-color has-text-color has-link-color wp-elements-62ae38918ee3df056050541331343b39 is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+<figure class="wp-block-image size-large"><a href="https://artprojekt.ru/maslo-art-paints-artistico/"><img decoding="async" width="1024" height="107" src="https://artprojekt.ru/wp-content/uploads/2024/09/artistico-oil-1024x107.jpg" alt="" class="wp-image-71" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/artistico-oil-1024x107.jpg 1024w, https://artprojekt.ru/wp-content/uploads/2024/09/artistico-oil-300x31.jpg 300w, https://artprojekt.ru/wp-content/uploads/2024/09/artistico-oil-768x80.jpg 768w, https://artprojekt.ru/wp-content/uploads/2024/09/artistico-oil.jpg 1164w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%"><form role="search" method="get" action="https://artprojekt.ru/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label screen-reader-text" for="wp-block-search__input-2" >Поиск</label><div class="wp-block-search__inside-wrapper " ><input class="wp-block-search__input" id="wp-block-search__input-2" placeholder="" value="" type="search" name="s" required /><button aria-label="Поиск" class="wp-block-search__button wp-element-button" type="submit" >Поиск</button></div></form>
+
+
+<div class="wp-block-columns are-vertically-aligned-center is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://artprojekt.ru/artistic-paints/"><img decoding="async" width="250" height="250" src="https://artprojekt.ru/wp-content/uploads/2024/09/paints250.png" alt="Художественные краски" class="wp-image-302" style="width:40px;height:auto" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/paints250.png 250w, https://artprojekt.ru/wp-content/uploads/2024/09/paints250-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://artprojekt.ru/category/brushes/"><img decoding="async" width="250" height="250" src="https://artprojekt.ru/wp-content/uploads/2024/09/brushes250.png" alt="Кисти" class="wp-image-304" style="width:38px;height:auto" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/brushes250.png 250w, https://artprojekt.ru/wp-content/uploads/2024/09/brushes250-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://artprojekt.ru/category/canvases/"><img decoding="async" width="250" height="250" src="https://artprojekt.ru/wp-content/uploads/2024/09/canvas250.png" alt="Холсты" class="wp-image-301" style="width:41px;height:auto" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/canvas250.png 250w, https://artprojekt.ru/wp-content/uploads/2024/09/canvas250-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://artprojekt.ru/category/related-materials/"><img decoding="async" width="250" height="250" src="https://artprojekt.ru/wp-content/uploads/2024/09/thinners250.png" alt="Сопутствующие материалы" class="wp-image-303" style="width:41px;height:auto" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/thinners250.png 250w, https://artprojekt.ru/wp-content/uploads/2024/09/thinners250-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image alignleft size-full is-resized"><a href="https://artprojekt.ru/category/frames/"><img decoding="async" width="300" height="300" src="https://artprojekt.ru/wp-content/uploads/2024/09/frame.gif" alt="Рамки" class="wp-image-142" style="width:39px;height:auto"/></a></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</header>
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+
+	
+	<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex"
+		style="margin-bottom:var(--wp--preset--spacing--40);padding-top:var(--wp--preset--spacing--50)">
+		
+		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%">
+		</div>
+		
+
+		
+		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:60%">
+			
+			<main class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+				<h1 class="wp-block-post-title has-x-large-font-size">Искусство</h1>
+
+				
+				<div style="margin-top:0;margin-bottom:0;height:var(--wp--preset--spacing--30)" aria-hidden="true"
+					class="wp-block-spacer">
+				</div>
+				
+
+				
+
+				<div class="entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
+<h2 class="wp-block-heading">Что такое искусство?</h2>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="524" height="99" src="https://artprojekt.ru/wp-content/uploads/2024/09/0004-1.jpg" alt="Что такое искусство?" class="wp-image-13" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/0004-1.jpg 524w, https://artprojekt.ru/wp-content/uploads/2024/09/0004-1-300x57.jpg 300w" sizes="auto, (max-width: 524px) 100vw, 524px" /></figure>
+
+
+
+<p>Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до сегодняшнего дня.</p>
+
+
+
+<p>Искусство творится человеческими руками. Люди, которых мы зовем художниками, скульпторами, зодчими, создают живопись, скульптуру, архитектуру, а мы называем все это «произведениями искусства». Великие художники, такие, как Дюрер и Рубенс, вдохновляются тем, что видят в окружающей действительности, но не копируют ее, а воссоздают заново. <a href="https://artprojekt.ru/001.html">Далее&#8230;</a></p>
+
+
+
+<h2 class="wp-block-heading">Искусство в истории</h2>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="509" height="95" src="https://artprojekt.ru/wp-content/uploads/2024/09/0007-1.jpg" alt="Искусство в истории" class="wp-image-14" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/0007-1.jpg 509w, https://artprojekt.ru/wp-content/uploads/2024/09/0007-1-300x56.jpg 300w" sizes="auto, (max-width: 509px) 100vw, 509px" /></figure>
+
+
+
+<p>По религиозным или политическим соображениям или просто чтобы выразить свои чувства и переживания, всегда и везде человек занимался этой загадочной деятельностью: созданием красоты.</p>
+
+
+
+<p>Искусство всегда отвечает главным запросам того общества, в котором оно зародилось. Нуждаясь в посреднике между человеком и созданными им богами, цивилизации наделяют произведение искусства религиозной функцией. Оно несет также политическую нагрузку: перед изображениями королей или императоров люди испытывают благоговение и восхищение. Выставленные в музее произведения искусства, конечно, теряют свою религиозную и политическую функцию, которой раньше обладали, но сохраняют силу красоты. <a href="https://artprojekt.ru/002.html">Далее&#8230;</a></p>
+
+
+
+<h2 class="wp-block-heading">Живопись</h2>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="527" height="104" src="https://artprojekt.ru/wp-content/uploads/2024/09/0042-1.jpg" alt="Живопись" class="wp-image-15" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/0042-1.jpg 527w, https://artprojekt.ru/wp-content/uploads/2024/09/0042-1-300x59.jpg 300w" sizes="auto, (max-width: 527px) 100vw, 527px" /></figure>
+
+
+
+<p>С первобытных времен до наших дней суть живописи остается неизменной: художник наносит на ровную поверхность полотна или доски более или менее густую кашицу цветных пигментов.</p>
+
+
+
+<p>Живопись осуществляется с помощью красок — смеси порошков животного, растительного, минерального или синтетического происхождения. Чтобы иметь возможность наложить краски на основу, художник смешивает порошки с «вяжущим материалом», которым может быть чистая вода (фреска), клей, арабская камедь (гуашь, акварель, пастель) или яичный желток (клеевая краска или темпера). В XV веке открыли, что масло особенно эффективно связывает краски. С тех пор живопись маслом стала наиболее популярной техникой. Краски наносят на предварительно грунтованную основу -стену, деревянную доску, холст, бумагу, шелк, слоновую кость, металл, камень. Готовую картину обычно покрывают лаком, прозрачным раствором на масляной, бензиновой, смоляной основе, который позволяет ее лучше сохранить. <a href="https://artprojekt.ru/004.html">Далее&#8230;</a></p>
+
+
+
+<h2 class="wp-block-heading">Скульптура</h2>
+
+
+
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" decoding="async" width="450" height="87" src="https://artprojekt.ru/wp-content/uploads/2024/09/0031-1.jpg" alt="Скульптура" class="wp-image-16" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/0031-1.jpg 450w, https://artprojekt.ru/wp-content/uploads/2024/09/0031-1-300x58.jpg 300w" sizes="auto, (max-width: 450px) 100vw, 450px" /></figure>
+
+
+
+<p>Скульптура — вид искусства, создающий формы в трех измерениях — в высоту, ширину и глубину с использованием различных материалов и особых технологий — высекания, лепки и литья.</p>
+
+
+
+<p>Как уже говорилось выше, скульптура -это объемный объект, обладающий тремя измерениями: высотой, шириной и глубиной. Если объект не полностью отделен от своего заднего плана, как это часто встречается в декоре постаментов памятников, это барельеф. Прекрасный тому пример — «Фараон Сети I и Хатор, богиня радости». Если формы произведения почти полностью выступают из стены, оно называется горельефом, например «Сцена охоты» из храма Халебид в Индии. И, наконец, если статуей можно любоваться со всех сторон, это — круглая скульптура, например «Венера Милосская». Ваять можно из любого материала, но в зависимости от того, какой из них используется, меняются техники. <a href="https://artprojekt.ru/003.html">Далее&#8230;</a></p>
+
+
+
+<h2 class="wp-block-heading">Определение искусства</h2>
+
+
+
+<p>(Большая Советская Энциклопедия)</p>
+
+
+
+<p><strong>Искусство</strong>, одна из форм общественного сознания, составная часть духовной культуры человечества, специфический род практически-духовного освоения мира. В этом плане к&nbsp;<strong>искусству</strong>&nbsp;относят группу разновидностей человеческой деятельности — живопись, музыку, театр, художественную литературу (которую иногда выделяют особо — сравни выражение «литература и искусство») и т. п., объединяемых потому, что они являются специфическими — художественно-образными — формами воспроизведения действительности. В более широком значении слово&nbsp;<strong>«искусство»</strong>&nbsp;относят к любой форме практической деятельности, когда она совершается умело, мастерски, искусно не только в технологическом, но и в эстетическом смысле. Определение отличительных признаков&nbsp;<strong>искусства</strong>&nbsp;и его роли в жизни людей вызывало острые разногласия на протяжении всей истории культуры.&nbsp;<strong>Искусство</strong>&nbsp;объявлялось «подражанием природе» — и «свободным формотворчеством»; «воспроизведением действительности» — и «самопознанием Абсолюта», «самовыражением художника» — и «языком чувств»; особого рода игрой — и особого рода молитвой. Такие разногласия объясняются многими причинами: различием философских позиций теоретиков (материалистических или идеалистических), их идеологических установок, опорой на различные виды искусства и творческие методы (например, на литературу или на архитектуру, на классицизм или реализм), наконец, объективной сложностью строения самого&nbsp;<strong>искусства</strong>&nbsp;Эта сложность, многогранность структуры&nbsp;<strong>искусства</strong>&nbsp;не осознаётся и некоторыми теоретиками, которые определяют сущность&nbsp;<strong>искусства</strong>&nbsp;то как гносеологическую, то как идеологическую, то как эстетическую, то как творчески-созидательную и т. д. Неудовлетворённость такими однолинейными определениями приводила некоторых искусствоведов к утверждению, что в искусстве органически взаимосвязаны разные моменты — познание и оценка реальности, или отражение и созидание, или модель и знак. Но и такие двухмерные истолкования сущности искусства не воссоздают с должной полнотой сложную его структуру. В изучении природы искусства наука стала обращаться к методам системного анализа, позволяющим подойти с некоторых других сторон к раскрытию сущности&nbsp;<strong>искусства</strong>, в частности: а) выявить те качества и функции&nbsp;<strong>искусства</strong>, которые необходимы и достаточны для описания его внутренней структуры; б) показать, что соединение этих качеств и функций — не простая их «сумма», не механический конгломерат, а органически-целостное единство, которое и порождает специфический для И. эффект художественности; в) раскрыть способность структуры&nbsp;<strong>искусства</strong>&nbsp;модифицироваться, образуя, с одной стороны, виды, разновидности, роды и жанры&nbsp;<strong>искусства</strong>, а с другой — различные исторические типы&nbsp;<strong>искусства</strong>&nbsp;(творческие методы, стили, течения, школы). Хотя марксистская эстетика далека ещё от окончательного решения этой задачи, некоторые её аспекты могут быть освещены с достаточной определённостью.<br><br>Процесс исторического развития общественного разделения труда привёл к тому, что из первоначальной слитной, синкретической человеческой жизнедеятельности выделились и получили самостоятельное существование многообразные отрасли материального и духовного производства, а также различные формы общения людей. В отличие от науки, языка и других форм специализированной общественной деятельности, призванных удовлетворять различные потребности людей,&nbsp;<strong>искусство</strong>&nbsp;оказалось нужным человечеству как способ целостного общественного воспитания индивида, его эмоционального и интеллектуального развития, его приобщения к накопленному человечеством коллективному опыту, к вековой мудрости, к конкретным общественно-историческим интересам, устремлениям, идеалам. Но для того чтобы играть эту роль могущественного инструмента социализации индивидуума,&nbsp;<strong>искусство</strong>&nbsp;должно быть подобно реальной человеческой жизни, т. е. должно воссоздавать (моделировать) жизнь в её реальной целостности и структурной сложности.&nbsp;<strong>Искусство</strong>&nbsp;должно «удваивать» реальную жизнедеятельность человека, быть её воображаемым продолжением и дополнением и тем самым расширять жизненный опыт личности, позволяя ей «прожить» много иллюзорных «жизней» в «мирах», созданных писателями, музыкантами, живописцами и т. д.<br><br>Вместе с тем (таков важнейший аспект диалектики искусства) оно выступает одновременно и как подобное реальной жизни, и как отличное от неё — выдуманное, иллюзорное, как игра воображения, как творение человеческих рук (этим сознанием «рукотворности» отношение человека к&nbsp;<strong>искусству</strong>, по замечанию Л. Фейербаха, принципиально отличается от его отношения к религии. В. И. Ленин полностью солидаризировался с этой мыслью Фейербаха — см. Полн. собр. соч., 5 изд., т. 29, с. 53-54). Художественное произведение возбуждает в одно и то же время глубочайшие переживания, подобные переживаниям реальных событий, и эстетическое наслаждение, проистекающее из его восприятия именно как произведения&nbsp;<strong>искусства</strong>, как созданной человеком модели жизни. Для того чтобы это противоречивое воздействие имело место,&nbsp;<strong>искусство</strong>&nbsp;должно быть изоморфно реальной жизнедеятельности человека, т. е. должно не копировать её, а воспроизводить её структуру.</p>
+
+
+
+<p><a href="https://artprojekt.ru/005.html">Читать &gt;&gt;</a></p>
+
+
+
+<h4 class="wp-block-heading">Что такое искусство? Вопрос непростой! Чтобы раскрыть смысл этого понятия, нужно описать различные формы, которые принимало искусство от первобытных времен до сегодняшнего дня.</h4>
+</div>
+			</main>
+			
+		</div>
+		
+
+		
+		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%">
+		</div>
+		
+
+		
+		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:30%">
+			<aside class="wp-block-template-part">
+<div class="wp-block-group is-layout-flow wp-container-core-group-is-layout-6 wp-block-group-is-layout-flow" style="padding-right:0;padding-left:0">
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0">
+<div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-3 wp-block-group-is-layout-flex">
+<!-- Yandex.RTB R-A-581663-2 -->
+<div id="yandex_rtb_R-A-581663-2"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-581663-2",
+                renderTo: "yandex_rtb_R-A-581663-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>
+</div>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-contrast-color has-alpha-channel-opacity has-contrast-background-color has-background is-style-wide"/>
+
+
+
+<div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-5 wp-block-group-is-layout-constrained">
+<div class="wp-block-jetpack-send-a-message">
+<div class="wp-block-jetpack-whatsapp-button is-color-dark"><a class="whatsapp-block__button" href="https://api.whatsapp.com/send?phone=79037722773&amp;text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%AF%20%D1%81%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B0%D0%B9%D1%82%D0%B0%2C%20%D0%B3%D0%B4%D0%B5%20%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%20%D0%B2%D0%B0%D1%88%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20WhatsApp." style="background-color:#25D366;color:#fff" target="_self" rel="noopener noreferrer">Общение в WhatsApp</a></div>
+</div>
+
+
+
+<div>
+  <script src="https://unpkg.com/@vkid/sdk@<3.0.0/dist-sdk/umd/index.js"></script>
+  <script type="text/javascript">
+    if ("VKIDSDK" in window) {
+      const VKID = window.VKIDSDK;
+
+      VKID.Config.init({
+        "app": 52310568,
+        "redirectUrl": "https://artprojekt.ru",
+        "source": VKID.ConfigSource.LOWCODE,
+      });
+
+      const oneTap = new VKID.OneTap();
+
+      oneTap.render({
+        "container": document.currentScript.parentElement,
+        "showAlternativeLogin": true,
+        "styles": {
+          "width": 360
+        },
+        "oauthList": [
+          "ok_ru",
+          "mail_ru"
+        ]
+      })
+      .on(VKID.WidgetEvents.ERROR, vkidOnError)
+      .on(VKID.OneTapInternalEvents.LOGIN_SUCCESS, function (payload) {
+        const code = payload.code;
+        const deviceId = payload.device_id;
+
+        VKID.Auth.exchangeCode(code, deviceId)
+          .then(vkidOnSuccess)
+          .catch(vkidOnError);
+      });
+    }
+    
+    function vkidOnSuccess(data) {
+      // Обработка полученного результата
+    }
+  
+    function vkidOnError(error) {
+      // Обработка ошибки
+    }
+  </script>
+</div>
+
+
+
+<ul class="wp-block-jetpack-sharing-buttons has-normal-icon-size jetpack-sharing-buttons__services-list is-content-justification-center is-layout-flex wp-container-jetpack-sharing-buttons-is-layout-1 wp-block-sharing-buttons-is-layout-flex" id="jetpack-sharing-serivces-list"><li class="jetpack-sharing-button__list-item"><a href="https://artprojekt.ru/?share=telegram&#038;nb=1" target="_blank" rel="nofollow noopener noreferrer" class="jetpack-sharing-button__button style-icon share-telegram" style="" data-service="telegram" data-shared="sharing-telegram-11" aria-label="Поделиться в Telegram"><svg class="social-logo social-logo-telegram" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm3.08 14.757s-.25.625-.936.325l-2.541-1.949-1.63 1.486s-.127.096-.266.036c0 0-.12-.011-.27-.486-.15-.475-.911-2.972-.911-2.972L6 12.349s-.387-.137-.425-.438c-.037-.3.437-.462.437-.462l10.03-3.934s.824-.362.824.238l-1.786 9.004z"/></g></svg><span class="jetpack-sharing-button__service-label" aria-hidden="true">Telegram</span></a></li>
+
+<li class="jetpack-sharing-button__list-item"><a href="https://artprojekt.ru/?share=whatsapp&#038;nb=1" target="_blank" rel="nofollow noopener noreferrer" class="jetpack-sharing-button__button style-icon share-whatsapp" style="" data-service="whatsapp" data-shared="sharing-whatsapp-11" aria-label="Поделиться в WhatsApp"><svg class="social-logo social-logo-whatsapp" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2.048 22l1.406-5.136a9.894 9.894 0 01-1.323-4.955C2.133 6.446 6.579 2 12.042 2a9.848 9.848 0 017.011 2.906 9.85 9.85 0 012.9 7.011c-.002 5.464-4.448 9.91-9.91 9.91h-.004a9.913 9.913 0 01-4.736-1.206L2.048 22zm5.497-3.172l.301.179a8.214 8.214 0 004.193 1.148h.003c4.54 0 8.235-3.695 8.237-8.237a8.189 8.189 0 00-2.41-5.828 8.182 8.182 0 00-5.824-2.416c-4.544 0-8.239 3.695-8.241 8.237a8.222 8.222 0 001.259 4.384l.196.312-.832 3.04 3.118-.819zm9.49-4.554c-.062-.103-.227-.165-.475-.289-.248-.124-1.465-.723-1.692-.806-.227-.083-.392-.124-.557.124-.165.248-.64.806-.784.971-.144.165-.289.186-.536.062-.248-.124-1.046-.385-1.991-1.229-.736-.657-1.233-1.468-1.378-1.715-.144-.248-.015-.382.109-.505.111-.111.248-.289.371-.434.124-.145.165-.248.248-.413.083-.165.041-.31-.021-.434s-.557-1.343-.763-1.839c-.202-.483-.407-.417-.559-.425-.144-.007-.31-.009-.475-.009a.91.91 0 00-.66.31c-.226.248-.866.847-.866 2.066 0 1.219.887 2.396 1.011 2.562.124.165 1.746 2.666 4.23 3.739.591.255 1.052.408 1.412.522.593.189 1.133.162 1.56.098.476-.071 1.465-.599 1.671-1.177.206-.58.206-1.075.145-1.179z"/></g></svg><span class="jetpack-sharing-button__service-label" aria-hidden="true">WhatsApp</span></a></li>
+
+<li class="jetpack-sharing-button__list-item tooltip"><a href="https://artprojekt.ru/" target="_blank" rel="nofollow noopener noreferrer" class="jetpack-sharing-button__button style-icon share-share" style="" data-service="share" data-shared="sharing-share-11" aria-label="Поделиться при помощи встроенных инструментов"><svg class="social-logo social-logo-share" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M18 16c-.788 0-1.499.31-2.034.807L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.048 4.118A2.981 2.981 0 0015 19a3 3 0 103-3z"/></g></svg><span class="jetpack-sharing-button__service-label" aria-hidden="true">Поделиться</span><span class="tooltiptext" aria-live="assertive">Скопировано в буфер обмена</span></a></li></ul>
+</div>
+
+
+
+<hr class="wp-block-separator has-text-color has-contrast-color has-alpha-channel-opacity has-contrast-background-color has-background is-style-wide"/>
+
+
+
+<hr class="wp-block-separator has-text-color has-contrast-color has-alpha-channel-opacity has-contrast-background-color has-background is-style-wide"/>
+
+
+
+<div style="height:var(--wp--preset--spacing--10)" aria-hidden="true" class="wp-block-spacer"></div>
+</div>
+</aside>
+		</div>
+		
+
+		
+		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:10%">
+		</div>
+		
+	</div>
+	
+</div>
+
+
+<footer class="wp-block-template-part"><!-- Yandex.RTB R-A-581663-4 -->
+<div id="yandex_rtb_R-A-581663-4"></div>
+<script>
+window.yaContextCb.push(() => {
+    Ya.Context.AdvManager.render({
+        "blockId": "R-A-581663-4",
+        "renderTo": "yandex_rtb_R-A-581663-4",
+        "type": "feed"
+    })
+})
+</script>
+
+
+<div class="wp-block-group alignfull has-contrast-color has-text-color has-link-color wp-elements-2c12bd5fb2ea60a5a644689e29f2ad11 has-global-padding is-layout-constrained wp-container-core-group-is-layout-9 wp-block-group-is-layout-constrained" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
+<div class="wp-block-group alignwide is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-8 wp-block-group-is-layout-flex"><nav class="has-small-font-size is-responsive items-justified-right wp-block-navigation is-content-justification-right is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="bot" 
+		 data-wp-interactive="core/navigation" data-wp-context='{"overlayOpenedBy":{"click":false,"hover":false,"focus":false},"type":"overlay","roleAttribute":"","ariaLabel":"\u041c\u0435\u043d\u044e"}'><button aria-haspopup="dialog" aria-label="Открыть меню" class="wp-block-navigation__responsive-container-open " 
+				data-wp-on-async--click="actions.openMenuOnClick"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+			><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+				<div class="wp-block-navigation__responsive-container  "  id="modal-3" 
+				data-wp-class--has-modal-open="state.isMenuOpen"
+				data-wp-class--is-menu-open="state.isMenuOpen"
+				data-wp-watch="callbacks.initMenu"
+				data-wp-on--keydown="actions.handleMenuKeydown"
+				data-wp-on-async--focusout="actions.handleMenuFocusout"
+				tabindex="-1"
+			>
+					<div class="wp-block-navigation__responsive-close" tabindex="-1">
+						<div class="wp-block-navigation__responsive-dialog" 
+				data-wp-bind--aria-modal="state.ariaModal"
+				data-wp-bind--aria-label="state.ariaLabel"
+				data-wp-bind--role="state.roleAttribute"
+			>
+							<button aria-label="Закрыть меню" class="wp-block-navigation__responsive-container-close" 
+				data-wp-on-async--click="actions.closeMenuOnClick"
+			><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="m13.06 12 6.47-6.47-1.06-1.06L12 10.94 5.53 4.47 4.47 5.53 10.94 12l-6.47 6.47 1.06 1.06L12 13.06l6.47 6.47 1.06-1.06L13.06 12Z"></path></svg></button>
+							<div class="wp-block-navigation__responsive-container-content" 
+				data-wp-watch="callbacks.focusFirstElement"
+			 id="modal-3-content">
+								<ul class="wp-block-navigation__container has-small-font-size is-responsive items-justified-right wp-block-navigation has-small-font-size"><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/history/"><span class="wp-block-navigation-item__label">История искусства</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/gallery/"><span class="wp-block-navigation-item__label">Галерея</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/school/"><span class="wp-block-navigation-item__label">Школа искусств</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/library/"><span class="wp-block-navigation-item__label">Библиотека</span></a></li><li class="has-small-font-size wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://artprojekt.ru/tovary/"><span class="wp-block-navigation-item__label">Товары</span></a></li></ul>
+							</div>
+						</div>
+					</div>
+				</div></nav></div>
+</div>
+
+
+
+<div class="wp-block-group alignfull wc-blocks-footer-pattern has-background-color has-white-color has-black-background-color has-text-color has-background has-link-color wp-elements-4b393154f6e83cefd8c1edd01adb7147 is-layout-flow wp-container-core-group-is-layout-13 wp-block-group-is-layout-flow" style="padding-top:32px;padding-right:4%;padding-bottom:32px;padding-left:4%">
+<div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-right:50px;flex-basis:45%">
+<div class="wp-block-group has-background-color has-text-color is-vertical is-layout-flex wp-container-core-group-is-layout-10 wp-block-group-is-layout-flex"><div class="is-default-size wp-block-site-logo"><a href="https://artprojekt.ru/" class="custom-logo-link" rel="home" aria-current="page"><img loading="lazy" width="555" height="558" src="https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png" class="custom-logo" alt="Лого" decoding="async" srcset="https://artprojekt.ru/wp-content/uploads/2024/09/logo-1.png 555w, https://artprojekt.ru/wp-content/uploads/2024/09/logo-1-298x300.png 298w, https://artprojekt.ru/wp-content/uploads/2024/09/logo-1-150x150.png 150w" sizes="auto, (max-width: 555px) 100vw, 555px" /></a></div>
+
+
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-1"></div>
+
+
+
+<div class="wp-block-jetpack-send-a-message">
+<div class="wp-block-jetpack-whatsapp-button is-color-dark"><a class="whatsapp-block__button" href="https://api.whatsapp.com/send?phone=79037722773&amp;text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%AF%20%D1%81%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B0%D0%B9%D1%82%D0%B0%2C%20%D0%B3%D0%B4%D0%B5%20%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D1%8B%20%D0%B2%D0%B0%D1%88%D0%B8%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20WhatsApp." style="background-color:#25D366;color:#fff" target="_self" rel="noopener noreferrer">Общение в WhatsApp</a></div>
+</div>
+
+
+
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer wp-container-content-2"></div>
+</div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex"></div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="padding-top:0px;flex-basis:20%">
+<p><strong>История искусства</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/history/primitive.html"><img loading="lazy" decoding="async" width="430" height="100" src="https://artprojekt.ru/wp-content/uploads/2024/11/Pervobytnoe-iskusstvo-1.jpg" alt="Первобытное искусство" class="wp-image-2792" srcset="https://artprojekt.ru/wp-content/uploads/2024/11/Pervobytnoe-iskusstvo-1.jpg 430w, https://artprojekt.ru/wp-content/uploads/2024/11/Pervobytnoe-iskusstvo-1-300x70.jpg 300w" sizes="auto, (max-width: 430px) 100vw, 430px" /></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/history/primitive.html">Первобытное искусство</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/history/civilization.html"><img loading="lazy" decoding="async" width="524" height="99" src="https://artprojekt.ru/wp-content/uploads/2024/11/Drevniy-Egipet.jpg" alt="Древние цивилизации" class="wp-image-2796" srcset="https://artprojekt.ru/wp-content/uploads/2024/11/Drevniy-Egipet.jpg 524w, https://artprojekt.ru/wp-content/uploads/2024/11/Drevniy-Egipet-300x57.jpg 300w" sizes="auto, (max-width: 524px) 100vw, 524px" /></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/history/civilization.html">Древние цивилизации</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/history/europe.html"><img loading="lazy" decoding="async" width="460" height="91" src="https://artprojekt.ru/wp-content/uploads/2024/11/Impressionizm-1.jpg" alt="Европейское искусство" class="wp-image-2795" srcset="https://artprojekt.ru/wp-content/uploads/2024/11/Impressionizm-1.jpg 460w, https://artprojekt.ru/wp-content/uploads/2024/11/Impressionizm-1-300x59.jpg 300w" sizes="auto, (max-width: 460px) 100vw, 460px" /></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/history/europe.html">Европейское искусство</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/history/east.html"><img loading="lazy" decoding="async" width="430" height="86" src="https://artprojekt.ru/wp-content/uploads/2024/11/Iskusstvo-islama.jpg" alt="Искусство Востока" class="wp-image-2794" srcset="https://artprojekt.ru/wp-content/uploads/2024/11/Iskusstvo-islama.jpg 430w, https://artprojekt.ru/wp-content/uploads/2024/11/Iskusstvo-islama-300x60.jpg 300w" sizes="auto, (max-width: 430px) 100vw, 430px" /></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/history/east.html">Искусство Востока</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/history/xx.html"><img loading="lazy" decoding="async" width="700" height="194" src="https://artprojekt.ru/wp-content/uploads/2024/11/Kubizm-futurizm.jpg" alt="Искусство 20 века" class="wp-image-2793" srcset="https://artprojekt.ru/wp-content/uploads/2024/11/Kubizm-futurizm.jpg 700w, https://artprojekt.ru/wp-content/uploads/2024/11/Kubizm-futurizm-300x83.jpg 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/history/xx.html">Искусство 20 века</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-container-core-column-is-layout-20 wp-block-column-is-layout-flow" style="flex-basis:20%">
+<p><strong>Галерея</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://artprojekt.ru/gallery/ru.html"><img decoding="async" src="https://xn--80aktf.xn--p1ai/wp-content/uploads/2019/11/SHishkin-Sosnovyy-Bor-40kh60-1024x683.jpg" alt="Иван Иванович Шишкин, Сосновый Бор" class="wp-image-7107"/></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/gallery/ru.html">Русская и советская живопись</a></p>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://artprojekt.ru/gallery/world.html"><img decoding="async" src="https://xn--80aktf.xn--p1ai/wp-content/uploads/2020/08/11.jpg" alt="Мане" class="wp-image-15332"/></a></figure>
+
+
+
+<p><a href="https://artprojekt.ru/gallery/world.html">Зарубежная живопись</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow wp-container-core-column-is-layout-21 wp-block-column-is-layout-flow" style="flex-basis:20%">
+<p><strong>Школа искусств</strong></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/lesson.html">КАК НАУЧИТСЯ РИСОВАТЬ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/homo/index.html">ОСНОВЫ РИСОВАНИЯ ФИГУРЫ ЧЕЛОВЕКА</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/compozicia/index.html">ОСНОВЫ КОМПОЗИЦИИ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/painting/index.html">ОСНОВЫ ЖИВОПИСИ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/academic/index.html">АКАДЕМИЧЕСКИЙ РИСУНОК</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/wcolor/index.html">АКВАРЕЛЬ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/plant/index.html">ИЗОБРАЖЕНИЕ РАСТЕНИЙ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/tree/index.html">РИСУЕМ ДЕРЕВЬЯ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/lesson2.html">РИСОВАНИЕ НАТЮРМОРТА</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/interior/index.html">РИСУЕМ ИНТЕРЬЕР</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/animals/index.html">КАК РИСОВАТЬ ЖИВОТНЫХ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/pencil/index.html">ЧТО МОЖЕТ КАРАНДАШ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/sketches/index.html">НАБРОСКИ И ЗАРИСОВКИ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/sovet/Sovet.html">ГРУНТЫ ДЛЯ ЖИВОПИСИ</a></p>
+
+
+
+<p class="has-small-font-size"><a href="https://artprojekt.ru/school/sovet/Sovet1.1.html">БИСТР, ТУШЬ</a></p>
+</div>
+</div>
+
+
+
+<div class="wp-block-group alignfull has-background-color has-text-color is-content-justification-center is-layout-flex wp-container-core-group-is-layout-12 wp-block-group-is-layout-flex" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">
+<p><a href="https://artprojekt.ru/">ARTPROJEKT</a></p>
+
+
+
+<div class="wp-block-group has-background-color has-text-color has-link-color wp-elements-052a773f31f0bdbab314876876782b7c is-nowrap is-layout-flex wp-container-core-group-is-layout-11 wp-block-group-is-layout-flex">
+<p>@ 2005-2024</p>
+</div>
+</div>
+</div>
+</footer>
+</div>
+            <div class="gallery-lightbox-container blueimp-gallery blueimp-gallery-controls">
+                <div class="slides"></div>
+
+                                    <div class="title-description">
+                        <div class="title"></div>
+                        <a class="gallery"></a>
+                        <div class="description"></div>
+                    </div>
+                
+                <a class="prev" title="Previous image"></a>
+                <a class="next" title="Next image"></a>
+
+                                    <a class="close" title="Close"></a>
+                
+                                    <ol class="indicator"></ol>
+                
+                                    <a class="play-pause"></a>
+                
+                            </div>
+        <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(64479556, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/64479556" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->	<div id="vk_api_transport"></div>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function async_load(u, id) {
+			if (!gid(id)) {
+				s = "script", d = document,
+					o = d.createElement(s);
+				o.type = 'text/javascript';
+				o.id = id;
+				o.async = true;
+				o.src = u;
+				// Creating scripts on page
+				x = d.getElementsByTagName(s)[0];
+				x.parentNode.insertBefore(o, x);
+			}
+		}
+
+		function gid(id) {
+			return document.getElementById(id);
+		}
+
+
+		window.addEventListener('load', function () {
+				async_load("//vk.com/js/api/openapi.js", "id-vkontakte");//vkontakte
+			}
+		);
+
+
+		// Инициализация vkontakte
+		window.vkAsyncInit = function () {
+			//console.log(VKWidgetsLike);
+			if (typeof VKWidgetsLike !== 'undefined' && VKWidgetsLike.length > 0) {
+				for (index = 0; index < VKWidgetsLike.length; ++index) {
+					VK.Widgets.Like(VKWidgetsLike[index].element_id, VKWidgetsLike[index].options);
+				}
+			}
+
+			if (typeof VKWidgetsGroup !== 'undefined' && VKWidgetsGroup.length > 0) {
+				for (index = 0; index < VKWidgetsGroup.length; ++index) {
+					//console.log(VKWidgetsGroup);
+					VK.Widgets.Group(VKWidgetsGroup[index].element_id, VKWidgetsGroup[index].options, VKWidgetsGroup[index].group_id);
+				}
+
+				VK.Observer.subscribe('widgets.groups.joined', function (n) {
+					//console.log(VKWidgetsGroup[n - 1].group_id);
+
+					var data = {
+						action: 'evc_add_vk_widget_stats',
+						gid: VKWidgetsGroup[n - 1].group_id,
+						widget: 'group',
+						waction: 'joined'
+					};
+					jQuery.ajax({
+						url: ajaxurl,
+						data: data,
+						type: "POST",
+						dataType: 'json'
+					});
+
+				});
+
+				VK.Observer.subscribe('widgets.groups.leaved', function (n) {
+					//console.log(VKWidgetsGroup[n - 1].group_id);
+
+					var data = {
+						action: 'evc_add_vk_widget_stats',
+						gid: VKWidgetsGroup[n - 1].group_id,
+						widget: 'group',
+						waction: 'leaved'
+					};
+					jQuery.ajax({
+						url: ajaxurl,
+						data: data,
+						type: "POST",
+						dataType: 'json'
+					});
+
+				});
+			}
+
+				// console.log(VKWidgetsContactUs);
+	// Contact Us
+	if (typeof VKWidgetsContactUs !== 'undefined' ) {
+	//console.log(VKWidgetsContactUs);
+
+	for (index = 0; index < VKWidgetsContactUs.length; ++index) {
+	VK.Widgets.ContactUs(
+	VKWidgetsContactUs[index].element_id,
+	VKWidgetsContactUs[index].options,
+	VKWidgetsContactUs[index].owner_id
+	);
+	}
+	}
+		//console.log(VKWidgetsComments);
+	// COMMENTS
+	if (typeof VKWidgetsComments !== 'undefined' ) {
+	//console.log(VKWidgetsComments);
+	for (index = 0; index < VKWidgetsComments.length; ++index) {
+	VK.Widgets.Comments(
+	VKWidgetsComments[index].element_id,
+	VKWidgetsComments[index].options,
+	VKWidgetsComments[index].page_id
+	);
+	}
+	
+      evcCommentsRefresh = false;            
+      var new_data = {
+        post_id: evc_post_id,
+        url: document.URL,
+        widget_api_id: jQuery('meta[property="vk:app_id"]').attr('content'),
+        action: 'evc_comments_refresh'
+      };
+
+      VK.Observer.subscribe('widgets.comments.new_comment', function(num, last_comment, date, sign, wID, n) {
+
+        if ( typeof VKWidgetsComments[n - 1] !== 'undefined' && typeof VKWidgetsComments[n - 1].page_id !== 'undefined' ) 
+          new_data.page_id = VKWidgetsComments[n - 1].page_id;
+        else
+          new_data.page_id = VKWidgetsComments[0].page_id;
+        //console.log(new_data); //
+        
+        if (!evcCommentsRefresh) {
+          evcCommentsRefresh = true;
+          jQuery.ajax({
+            url: ajaxurl,
+            data: new_data,
+            type:"POST",
+            dataType: 'json',
+            success: function(data) {
+              //console.log(data); //
+              evcCommentsRefresh = false;
+            }
+          }); 
+        }
+        
+      });
+      
+      VK.Observer.subscribe('widgets.comments.delete_comment', function(num, last_comment, date, sign) {
+        //console.log(date);
+        
+      });    
+     
+	}
+	  //console.log(VKWidgetsPolls);
+  // Polls
+    if (typeof VKWidgetsPolls !== 'undefined' ) {
+      //console.log(VKWidgetsPolls);
+      for (index = 0; index < VKWidgetsPolls.length; ++index) {
+        VK.Widgets.Poll(
+          VKWidgetsPolls[index].element_id, 
+          VKWidgetsPolls[index].options, 
+          VKWidgetsPolls[index].poll_id
+        );
+      }
+    
+      evcCommentsRefresh = false;            
+      var new_data = {
+        post_id: evc_post_id,
+        url: document.URL,
+        widget_api_id: jQuery('meta[property="vk:app_id"]').attr('content'),
+        action: 'evc_comments_refresh'
+      };
+
+      VK.Observer.subscribe('widgets.comments.new_comment', function(num, last_comment, date, sign, wID, n) {
+
+        if ( typeof VKWidgetsComments[n - 1] !== 'undefined' && typeof VKWidgetsComments[n - 1].page_id !== 'undefined' ) 
+          new_data.page_id = VKWidgetsComments[n - 1].page_id;
+        else
+          new_data.page_id = VKWidgetsComments[0].page_id;
+        //console.log(new_data); //
+        
+        if (!evcCommentsRefresh) {
+          evcCommentsRefresh = true;
+          jQuery.ajax({
+            url: ajaxurl,
+            data: new_data,
+            type:"POST",
+            dataType: 'json',
+            success: function(data) {
+              //console.log(data); //
+              evcCommentsRefresh = false;
+            }
+          }); 
+        }
+        
+      });
+      
+      VK.Observer.subscribe('widgets.comments.delete_comment', function(num, last_comment, date, sign) {
+        //console.log(date);
+        
+      });    
+     
+    
+    }
+	//console.log(VKWidgetsSubscribe);
+	// Widget Subscribe
+	if (typeof VKWidgetsSubscribe !== 'undefined' ) {
+
+	var subscribeCookieExpires = 1; // !!!
+
+	for (index = 0; index < VKWidgetsSubscribe.length; ++index) {
+	VK.Widgets.Subscribe(
+	VKWidgetsSubscribe[index].element_id,
+	VKWidgetsSubscribe[index].options,
+	VKWidgetsSubscribe[index].owner_id
+	);
+	}
+
+	VK.Observer.subscribe('widgets.subscribed', function(n) {
+
+	vkwidget = jQuery("#vkwidget" + n).parent();
+	vkwidgetID = jQuery(vkwidget).attr('id');
+
+	if (jQuery(vkwidget).hasClass('evc-vk-lock')) {
+	console.log('Fire');
+	//vkwidgetID = jQuery("#vkwidget" + n).parent().attr('id');
+	subscribeObj = jQuery.grep(VKWidgetsSubscribe, function(e){ return e.element_id == vkwidgetID; });
+	if (subscribeObj.length != 0) {
+	o = subscribeObj[0].owner_id;
+	if (jQuery.cookie('vkUnLock' + o) == 'undefined' || !jQuery.cookie('vkUnLock' + o) || jQuery.cookie('vkUnLock' + o) !=  subscribeObj[0].owner_id ) {
+	jQuery.cookie('vkUnLock' + o, subscribeObj[0].owner_id, { expires: subscribeCookieExpires, path: '/' });
+	}
+	location.reload();
+	}
+	}
+	});
+
+	VK.Observer.subscribe('widgets.unsubscribed', function(n) {
+
+	vkwidget = jQuery("#vkwidget" + n).parent();
+	vkwidgetID = jQuery(vkwidget).attr('id');
+
+	if (jQuery(vkwidget).hasClass('evc-vk-lock')) {
+	console.log('Fire');
+	subscribeObj = jQuery.grep(VKWidgetsSubscribe, function(e){ return e.element_id == vkwidgetID;});
+	if (subscribeObj.length != 0) {
+	o = subscribeObj[0].owner_id;
+	if (jQuery.cookie('vkUnLock' + o) != 'undefined') {
+	jQuery.removeCookie('vkUnLock' + o);
+	}
+	}
+	}
+	});
+
+
+	}
+			// console.log(VKWidgetsContactUs);
+	// Contact Us
+	if (typeof VKWidgetsCommunityMessages !== 'undefined') {
+	console.log(VKWidgetsCommunityMessages);
+
+	for (index = 0; index < VKWidgetsCommunityMessages.length; ++index) {
+	VK.Widgets.CommunityMessages(
+	VKWidgetsCommunityMessages[index].element_id,
+	VKWidgetsCommunityMessages[index].group_id,
+	VKWidgetsCommunityMessages[index].options
+	);
+	}
+	}
+		
+		};
+
+		/* ]]> */
+	</script><div id="overlay-sidebar-wrap" class = ""><div id="overlay-sidebar-bg" class = "hide"></div><div id="overlay-sidebar" class="overlay_sidebar_class  widget-area" role="complementary"><div title="Close" tabindex="0" class="overlay-sidebar-close"></div><aside id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://artprojekt.ru/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"    ><label class="wp-block-search__label" for="wp-block-search__input-4" >Поиск</label><div class="wp-block-search__inside-wrapper " ><input class="wp-block-search__input" id="wp-block-search__input-4" placeholder="" value="" type="search" name="s" required /><button aria-label="Поиск" class="wp-block-search__button wp-element-button" type="submit" >Поиск</button></div></form></aside><aside id="block-3" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Свежие записи</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"><li><a class="wp-block-latest-posts__post-title" href="https://artprojekt.ru/kraski-khudozhestvennye-chernye/">Краски художественные черные</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://artprojekt.ru/belaya-kraska-khudozhestvennaya/">Белая краска художественная</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://artprojekt.ru/kraski-akvarelnye-khudozhestvennye/">Краски акварельные художественные</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://artprojekt.ru/kraski-khudozhestvennye-cveta-zheltye/">Краски художественные цвета желтые</a></li>
+<li><a class="wp-block-latest-posts__post-title" href="https://artprojekt.ru/smeshivaem-khudozhestvennye-kraski/">Смешиваем художественные краски</a></li>
+</ul></div></aside><aside id="block-4" class="widget widget_block"><div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><h2 class="wp-block-heading">Свежие комментарии</h2><div class="no-comments wp-block-latest-comments">Нет комментариев для просмотра.</div></div></aside></div><!-- #overlay-sidebar --></div><!-- #overlay-sidebar-wrap -->	<script type="text/javascript">
+		jQuery(document).ready(function ($) {
+
+			if ($('.social-likes')) {
+
+				$('.social-likes').each(function () {
+					var p = $(this).parent();
+					if (p.data('url')) {
+						$(this).data({
+							'url': p.data('url'),
+							'title': p.data('title')
+						});
+					}
+
+					if ($(this).find('.pinterest').length) {
+						if (p.data('media')) {
+							$($(this).find('.pinterest')[0]).data({
+								'media': p.data('media')
+							});
+						}
+						else
+							$($(this).find('.pinterest')[0]).remove();
+					}
+
+				});
+
+				$('.social-likes').socialLikes({
+					zeroes: 0				});
+			}
+
+		});
+	</script>
+	<link rel='stylesheet' id='wp-block-latest-posts-css' href='https://artprojekt.ru/wp-includes/blocks/latest-posts/style.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<link rel='stylesheet' id='wp-block-latest-comments-css' href='https://artprojekt.ru/wp-includes/blocks/latest-comments/style.min.css?ver=95e8cea43dcff8bad90b95e16d9f923b' media='all' />
+<script src="https://artprojekt.ru/wp-content/plugins/easy-vkontakte-connect/js/evc-share.js" id="evc-share-js"></script>
+<script src="https://artprojekt.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js?ver=3.0.4" id="social-likes-js"></script>
+<script id="wp-block-template-skip-link-js-after">
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		/*
+		 * Get the site wrapper.
+		 * The skip-link will be injected in the beginning of it.
+		 */
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Перейти к содержимому';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
+	
+</script>
+<script id="gallery-manager-js-extra">
+var GalleryManager = {"enable_editor":"","enable_block_editor":"","enable_featured_image":"1","enable_custom_fields":"","lightbox":"1","continuous":"","title_description":"1","close_button":"1","indicator_thumbnails":"1","slideshow_button":"1","slideshow_speed":"3000","preload_images":"3","animation_speed":"400","stretch_images":"","script_position":"footer","gallery_taxonomy":[],"enable_previews":"1","enable_previews_for_custom_excerpts":"","preview_thumb_size":"thumbnail","preview_columns":"3","preview_image_number":"3","enable_archive":"1","0":"","1":"","2":"","3":"","ajax_url":"https:\/\/artprojekt.ru\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://artprojekt.ru/wp-content/plugins/fancy-gallery/assets/js/gallery-manager.js?ver=1.6.58" id="gallery-manager-js"></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"163235561\",\"post\":\"11\",\"tz\":\"3\",\"srv\":\"artprojekt.ru\",\"j\":\"1:14.4\"}") ]);
+_stq.push([ "clickTrackerInit", "163235561", "11" ]);
+</script>
+<script src="https://stats.wp.com/e-202511.js" id="jetpack-stats-js" defer data-wp-strategy="defer"></script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		jQuery(document).ready(function ($) {
+
+			if (typeof VKWidgetsComments !== 'undefined' && VKWidgetsComments.length && evc_post_id) {
+				if ($('#vk-widget-' + evc_post_id).length) {
+										if ($('#respond').length) {
+						$('#respond form').hide();
+						$('#respond').append($('#vk-widget-' + evc_post_id));
+					}
+									}
+
+								cClose = false;
+				if ($("#comments .comment-list").length) {
+					$("#comments .comment-list").wrap('<div class = "evc-comments-wrap"></div>');
+
+					docViewHeight = $(window).height();
+					$(document).scroll(function () {
+						var docViewTop = $(window).scrollTop();
+						var elemTop = $('.evc-comments-wrap').offset().top;
+						//var elemBottom = elemTop + $('.evc-comments-wrap').height();
+						if (elemTop * 3 / 4 <= docViewTop && !cClose) {
+							cClose = true;
+							$(".evc-comments-wrap").animate({"height": 0}, 800);
+							//console.log(elemTop + ' >= ' + docViewHeight+ '+'+ docViewTop);
+						}
+					});
+				}
+							}
+
+			// Rresponsive VK Comments Widget Width
+						if ($('.vk_widget_comments').length) {
+
+				responsiveVkWidget();
+				$(window).on('resize', function () {
+					responsiveVkWidget();
+				});
+			}
+			
+			function responsiveVkWidget() {
+				var vkParentWidth = parseInt($('.vk_widget_comments').parent().width());
+
+				$('.vk_widget_comments, .vk_widget_comments iframe').css({
+					width: vkParentWidth
+				});
+				$('.vk_widget_comments, .vk_widget_comments iframe').attr('width', vkParentWidth);
+			}
+
+			// END Rresponsive VK Comments Widget Width
+
+
+		}); // End jQuery
+
+		/* ]]> */
+	</script></body>
+</html>

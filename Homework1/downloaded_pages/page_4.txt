@@ -1,0 +1,614 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<title>ФЦП Культура России (2012 – 2018 годы)</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<meta name="viewport" content="width=device-width">
+
+	<link href='http://fonts.googleapis.com/css?family=Cuprum:400,700&subset=latin,cyrillic' rel='stylesheet'>
+
+	<link href="/bitrix/templates/gos_bitrix_s1/normalize.css" rel="stylesheet" />
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/bitrix/templates/gos_bitrix_s1/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="государство Россия Российская Федерация" />
+<meta name="description" content="Портал государственной организации" />
+<link href="/bitrix/cache/css/s1/gos_bitrix_s1/kernel_main/kernel_main.css?155958636255296" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gos_bitrix_s1/page_72f17b6bf982a9d7b3f81dd220723968/page_72f17b6bf982a9d7b3f81dd220723968.css?1559551518364" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gos_bitrix_s1/template_b865e6852f93ffac74c02a5ea1a9aff3/template_b865e6852f93ffac74c02a5ea1a9aff3.css?155955912351641" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','USER_ID':'','SERVER_TIME':'1741772671','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'b4fd67d63a30a7320697204847060d2b'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/gos_bitrix_s1/kernel_main/kernel_main.js?1565084208309342"></script>
+<script type="text/javascript" src="/bitrix/js/main/ajax.js?144791453135509"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?144791453169133','/bitrix/js/main/core/core_ajax.js?144791453120575','/bitrix/js/main/core/core_popup.js?144791453128778','/bitrix/js/main/json/json2.min.js?14479145313467','/bitrix/js/main/core/core_ls.js?144791453110430','/bitrix/js/main/session.js?14479145313642','/bitrix/js/main/utils.js?144791453019858','/bitrix/js/main/core/core_date.js?144791453134102','/bitrix/js/main/core/core_window.js?144791453174831','/bitrix/js/main/core/core_tooltip.js?14479145319925','/bitrix/js/main/core/core_fx.js?14479145319592','/bitrix/js/main/rating_like.js?14479145317144','/bitrix/js/main/dd.js?144791453114322','/bitrix/templates/gos_bitrix_s1/components/bitrix/system.auth.form/top_auth/script.js?1447914502364','/bitrix/components/bitrix/search.title/script.js?14479145436196']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14479145312854','/bitrix/js/main/core/css/core_popup.css?144791453134473','/bitrix/js/main/core/css/core_date.css?14479145319689','/bitrix/js/main/core/css/core_tooltip.css?14479145315746','/bitrix/templates/.default/components/bitrix/news.list/main-banners/style.css?1449747223150','/bitrix/templates/.default/ajax/ajax.css?1447914502420','/bitrix/templates/gos_bitrix_s1/components/bitrix/system.auth.form/top_auth/style.css?14992527452293','/bitrix/components/bitrix/system.show_message/templates/.default/style.css?144791454651','/bitrix/templates/gos_bitrix_s1/components/bitrix/search.title/left_col/style.css?14479145012200','/bitrix/templates/gos_bitrix_s1/components/bitrix/breadcrumb/breadcrumb/style.css?1447914501227','/bitrix/templates/gos_bitrix_s1/components/bitrix/menu/left_center/style.css?1447914501626','/bitrix/templates/gos_bitrix_s1/styles.css?144791450131295','/bitrix/templates/gos_bitrix_s1/template_styles.css?145690997110688']); </script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/gos_bitrix_s1/template_88d940bcb7ff8fb568e2a828158e4063/template_88d940bcb7ff8fb568e2a828158e4063.js?15595515187400"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "003074468890c431184d9c5e3b2f3831"]); _ba.push(["host", "fcpkultura.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	<link rel="alternate stylesheet" media="screen,projection" href="/bitrix/templates/gos_bitrix_s1/print.css" />
+
+	<!--[if IE]>
+	<link href="/bitrix/templates/gos_bitrix_s1/styles_ie.css" rel="stylesheet" />
+	<![endif]-->
+	<link href="/bitrix/templates/gos_bitrix_s1/special.css" rel="stylesheet" />
+    <link href="/bitrix/templates/gos_bitrix_s1/css/font-awesome.min.css" rel="stylesheet" />
+
+	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="/bitrix/templates/gos_bitrix_s1/js/vendor/slides.min.jquery.js"></script>
+
+	<script src="/bitrix/templates/gos_bitrix_s1/js/special.js"></script>
+	<script src="/bitrix/templates/gos_bitrix_s1/js/owl.carousel.min.js"></script>
+	<script src="/bitrix/templates/gos_bitrix_s1/js/main.js"></script>
+	<script src="/bitrix/templates/gos_bitrix_s1/js/vendor/inputmask/inputmask.js"></script>
+	<script src="/bitrix/templates/gos_bitrix_s1/js/vendor/inputmask/jquery.inputmask.js"></script>
+	<script src="/bitrix/templates/gos_bitrix_s1/js/vendor/inputmask/inputmask.regex.extensions.js"></script>
+
+	<script>
+		jQuery(document).ready(function($) {
+			$('#slides').slidesjs({
+				width: 715,
+				height: 236,
+				play: {
+					active: true,
+					effect: "slide",
+					interval: 5000,
+					auto: false,
+					swap: true,
+					pauseOnHover: true,
+					restartDelay: 2500
+				}
+			});
+		});
+	</script>
+	</head>
+
+<body class="Index noscript">
+<div id="panel"></div>
+<div class="special-settings">
+	<div class="special-settings-wrapper clearfix">
+		<div class="a-fontsize">
+			Размер шрифта:
+			<a class="a-fontsize-small" data-set="fs-small" href="#" title="Уменьшенный размер шрифта">A</a>
+			<a class="a-fontsize-normal" href="#" data-set="fs-normal" title="Нормальный размер шрифта">A</a>
+			<a class="a-fontsize-big" data-set="fs-big" href="#" title="Увеличенный размер шрифта">A</a>
+		</div>
+		<div class="a-colors">
+			Цвет сайта:
+			<a class="a-color1" data-set="color1" href="#" title="Черным по белому">A</a>
+			<a class="a-color2" data-set="color2" href="#" title="Желтым по черному">A</a>
+			<a class="a-color3" data-set="color3" href="#" title="Зеленым по темно-коричневому">A</a>
+			<a class="a-color4" data-set="color4" href="#" title="Коричневым по бежевому">A</a>
+		</div>
+				<div class="norm-version">
+			<a href="#" id="normalversion" data-set="normalversion" title="Полная версия сайта">Полная версия сайта</a>
+		</div>
+			</div> <!-- .special-settings-wrapper -->
+	<div class="clr"></div>
+	</div>
+<a href="#" onclick="return BackToDesignMode();" id="print-link-back">Вернуться к обычному виду</a>
+<div class="wrapper wrapper_header">
+	<div class="wrpr clearfix">
+		<header class="clearfix">
+			<div class="header__left">
+				<a href="/"><img src="/bitrix/templates/gos_bitrix_s1/images/v2/logo.png" class="header__logo"></a>
+				<div class="headser__inner_left">
+					<a href="/search/map.php" class="header__link"><i class="ico__map"></i>Карта сайта</a> <a href="/feedback/new.php" class="header__link"><i class="ico__mail"></i>Обратная связь</a>
+					<div class="description clearfix">
+						<div class="header_h3">Министерство культуры Российской Федерации</div>
+						<div class="header_h1">ФЕДЕРАЛЬНАЯ ЦЕЛЕВАЯ ПРОГРАММА</div>
+					</div>
+				</div>
+			</div>
+			<div class="header__right">
+
+				<div class="header clearfix">
+					<!--<div class="icons">
+						<ul>
+							<li>
+								<a href="/index.php" class="home selected"></a>
+							</li>
+
+							<li>
+								<a href="/search/map.php" class="sitemap"></a>
+							</li>
+						</ul>
+					</div> -->
+					<div class="auth">
+						
+<div class="bx-system-auth-form">
+	    <button class="loginbut btn_index btn-lg_index btn-primary_index" type="button" title="Войти">Войти</button>
+	<div class="login-popup-wrapper">
+		<div class="login-popup">
+			<h3>Авторизация</h3>
+						<form name="system_auth_form6zOYVN" id="loginform" method="post" target="_top" action="/?login=yes">
+				<div class="">
+											<input type="hidden" name="backurl" value="/" />
+															<input type="hidden" name="AUTH_FORM" value="Y" />
+					<input type="hidden" name="TYPE" value="AUTH" />
+					
+					<p>
+						Логин:<br />
+						<input type="text" class="input username" name="USER_LOGIN" maxlength="50" value="" size="17" />
+					</p>
+					<p>				
+						Пароль:<br />
+						<input type="password" class="input" name="USER_PASSWORD" maxlength="50" size="17" />
+					</p>
+								
+			
+											<p>
+							<input type="checkbox" id="USER_REMEMBER_frm" name="USER_REMEMBER" value="Y" />
+							<label for="USER_REMEMBER_frm" title="Запомнить меня на этом компьютере">Запомнить меня</label>
+						</p>
+															
+					<p><input type="submit" name="Login" value="Войти" /></p>
+					<div class="clr"></div>
+											
+						<div class="fright">
+							<a href="/monitoring/registratsiya-v-sisteme-monitoringa/" rel="nofollow">Регистрация</a>
+						</div>
+								
+					<div class="fleft">
+						<a href="/auth/forgot_password/">Забыли свой пароль?</a>
+					</div>
+					<div class="clr"></div>
+			
+									</div>
+			</form>
+			<button class="close-form-but">Закрыть</button>
+		</div> <!-- .login-popup -->
+	</div> <!-- .login-popup-wrapper -->
+
+	
+	</div>
+					</div>
+					<!--
+					<div class="logo">
+							<hr class="ribb-top" />
+							<div class="logo-width">
+								<div class="ribbon-top-l"></div>
+								<div class="ribbon-top-r"></div>
+								<img src="/upload/coats/unknown.png" width="58px" height="73px" alt="Логотип" />
+							</div>
+					</div>-->
+					<div class="authTest">
+						<a class="enter " href="?type=pda">Мобильная версия</a>
+						<br><br>
+						<a class="enter" id="specialversion" href="#"><big>AAA</big></a>
+					</div>
+				</div>
+			</div>
+		</header>
+
+
+
+		<div class="stuff">
+			<span class="left-over"></span>
+			<!--<span class="right-over"></span>-->
+			<div class="menu-center"></div>
+		</div> <!-- .stuff -->
+		<div class="forMainMenu clearfix">
+			<nav>
+				
+<ul class="mainMenu">
+
+
+
+						<li class="selected">
+				<a href="/">
+					Главная				</a>
+			</li>
+			
+
+			<li ><a href="/programma/" >Программа</a>
+			<div class="mainMenuPodmenu">
+				<ul>			
+	
+
+						
+			<li >
+								<a href="/programma/opisanie-i-tekst-programmy/">Описание и текст Программы</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/programma/otvetstvennye-ispolniteli/">Ответственные исполнители</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/programma/pasport-programmy/">Паспорт Программы</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/programma/napravleniya-razdely-i-punkty-programmy/">Направления, разделы и пункты Программы</a>
+			</li>
+			
+	</ul></div></li>	
+
+						<li >
+				<a href="/realizatsiya-ftsp/">
+					Реализация ФЦП				</a>
+			</li>
+			
+
+			<li ><a href="/infoblok/" >Инфоблок</a>
+			<div class="mainMenuPodmenu">
+				<ul>			
+	
+
+						
+			<li >
+								<a href="/infoblok/svod-predlozheniy-prinyatykh-k-rassmotreniyu/">Свод предложений, принятых к рассмотрению</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/infoblok/organizatsionno-finansovyy-plan/">Организационно-финансовый план</a>
+			</li>
+			
+	</ul></div></li>	
+
+			<li ><a href="/monitoring/" >Мониторинг</a>
+			<div class="mainMenuPodmenu">
+				<ul>			
+	
+
+						
+			<li >
+								<a href="/monitoring/kak-stat-uchastnikom-monitoringa/">Как стать участником Мониторинга</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/monitoring/registratsiya-v-sisteme-monitoringa/">Регистрация в системе Мониторинга</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/monitoring/perechen-dokumentov-po-restavratsii/">Перечень документов по реставрации</a>
+			</li>
+			
+	</ul></div></li>	
+
+			<li ><a href="/goszakupki/" >Госзакупки</a>
+			<div class="mainMenuPodmenu">
+				<ul>			
+	
+
+						
+			<li >
+								<a href="/goszakupki/ofitsialnyy-sayt-rossiyskoy-federatsii-dlya-razmeshcheniya-informatsii-o-razmeshchenii-zakazov/">Официальный сайт Российской Федерации для размещения информации о размещении заказов</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/goszakupki/terminy-i-opredeleniya/">Термины и определения</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/goszakupki/obshchie-usloviya-provedeniya-zakupok/">Общие условия проведения закупок</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/goszakupki/obespechenie-zashchity-prav-i-zakonnykh-interesov-uchastnikov-razmeshcheniya-zakazov/">Обеспечение защиты прав и законных интересов участников размещения заказов</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/goszakupki/konkursnaya-dokumentatsiya/">Конкурсная документация</a>
+			</li>
+			
+	</ul></div></li>	
+
+			<li ><a href="/arkhiv/" >Архив</a>
+			<div class="mainMenuPodmenu">
+				<ul>			
+	
+
+						
+			<li >
+								<a href="/arkhiv/opisanie-ftsp-kultura-rossii-2006-2011-gody-/">Описание ФЦП "Культура России (2006-2011 годы)"</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/arkhiv/tekst-programmy/">Текст Программы</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/arkhiv/napravleniya-i-punkty-programmy/">Направления и пункты Программы</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/arkhiv/gosudarstvennye-zakazchiki/">Государственные заказчики</a>
+			</li>
+			
+
+					<li  class="nested"><a href="/arkhiv/organizatsionno-finansovyy-plan/">Организационно-финансовый план</a>
+					<div class="mainMenuPodmenuLevelTwo">
+						<ul>
+	
+
+						
+			<li >
+									<em></em>
+								<a href="/arkhiv/organizatsionno-finansovyy-plan/organizatsionno-finansovyy-na-plan-2010-god/">Организационно-финансовый на план 2010 год</a>
+			</li>
+			
+
+						
+			<li >
+								<a href="/arkhiv/organizatsionno-finansovyy-plan/organizatsionno-finansovyy-na-plan-2011-god/">Организационно-финансовый на план 2011 год</a>
+			</li>
+			
+	</ul></div></li>	
+
+						
+			<li >
+								<a href="/arkhiv/realizatsiya-ftsp/">Реализация ФЦП</a>
+			</li>
+			
+	</ul></div></li>	
+
+						<li >
+				<a href="/kontakty/">
+					Контакты				</a>
+			</li>
+			</ul>
+<div class="menu-clear-left"></div>			</nav>
+		</div> <!-- .forMainMenu.clearfix -->
+
+		<section>
+			<div class="clearfix">
+																				<aside>
+							<div class="leftCol">
+								<div class="clearfix">
+																												
+	<form action="/search/index.php">
+		<div class="search">
+			<input id="title-search-input" class="input" type="text" name="q" placeholder="Поиск" size="40" maxlength="50" autocomplete="off" />
+			<input name="s" class="button" type="submit" value="Поиск"/>
+		</div>
+	</form>
+	<div id="searchTitle">
+	</div>
+<script>
+	var jsControl = new JCTitleSearch({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/',
+		'CONTAINER_ID': 'searchTitle',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>
+
+
+
+									
+										<section class="left-section">
+											<h2 class="section__title"><a href="http://fcpkultura.ru/programma/otvetstvennye-ispolniteli/">Список ответственных исполнителей&nbsp;по всем направлениям</a></h2>
+ <a href="http://194.190.9.147/programma/napravleniya-razdely-i-punkty-programmy/"></a>
+<h2 class="section__title"><a href="http://fcpkultura.ru/programma/napravleniya-razdely-i-punkty-programmy/">Направления, разделы и пункты программы</a></h2>
+<h2><a href="http://fcpkultura.ru/monitoring/kak-stat-uchastnikom-monitoringa/">Как подать заявку на участие в мониторинге</a></h2>
+ <img width="230" alt="img-left.jpg" src="/upload/medialibrary/290/img-left.jpg">											<div class="ribbon"></div>
+											<hr class="ribb"/>
+										</section>
+
+										<section class="left-section">
+																						<div class="ribbon"></div>
+											<hr class="ribb"/>
+										</section>
+
+										<section class="left-section">
+																						<div class="ribbon"></div>
+											<hr class="ribb"/>
+										</section>
+
+										<section class="left-section">
+																					</section>
+
+										<section class="left-section">
+											<div class="ribbon"></div>
+											<hr class="ribb"/>
+											<div id="comp_d67b97bff8bf0bb2afc5aad264ed3d68">
+<p><font class="errortext">Модуль опросов не установлен.</font></p></div>										</section>
+																	</div><!-- .clearfix -->
+							</div> <!-- .leftCol -->
+						</aside>
+													<section id="content">
+					<div class="centerCol" style="margin-right: 0px;  ">
+						<div class="clearfix">
+														<div class="welcome">
+								<h1>Добро пожаловать</h1>
+							</div>
+														<div class="content">
+								<div class="news">
+									<div class="banners-top">
+		<div class="banners-top__item" id="bx_3218110189_3872">
+									<a href="http://194.190.9.147/programma/">
+							<img
+					class="preview_picture"
+					border="0"
+					src="/upload/iblock/25f/slide-1.jpg"
+					width="710"
+					height="221"
+					alt="Слайд 2"
+					title="Слайд 2"
+					style="float:left"
+					/>
+							</a>
+																<div style="clear:both"></div>
+			</div>
+		<div class="banners-top__item" id="bx_3218110189_3871">
+									<img
+					class="preview_picture"
+					border="0"
+					src="/upload/iblock/a4d/slide-1.jpg"
+					width="710"
+					height="221"
+					alt="Слайд 1"
+					title="Слайд 1"
+					style="float:left"
+					/>
+																<div style="clear:both"></div>
+			</div>
+</div>
+<div class="welcome">
+	   <h1 align="center;" style="font-size: 35pt; text-align:center; padding-top:15px;"><b><span style="font-family: Arial, Helvetica;"><span style="font-size: 30pt;">Уважаемые заявители!</span> </span></b><span style="font-size: 18pt;"> </span></h1>
+<p>
+</p>
+<p>
+</p>
+<h2 class="MsoNormal" style="font-size: 14pt; line-height: 1.3; font-family: Arial, Helvetica;"> <br>
+ В период с 1 ноября 2019 года по 30 ноября 2019 года Министерство культуры Российской Федерации осуществляет прием заявок на финансирование мероприятий по сохранению объектов культурного наследия за счет средств федерального бюджета на 2020 год по следующим направлениям: <br>
+ <br>
+ — сохранение объектов культурного наследия (памятников истории и культуры) народов Российской Федерации гражданской, промышленной и культовой архитектуры; <br>
+ <br>
+ — сохранение объектов культурного наследия (памятников истории и культуры) народов Российской Федерации деревянного зодчества; <br>
+ <br>
+ — сохранение находящихся в собственности религиозных организаций объектов культурного наследия, включенных в единый государственный реестр объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, и выявленных объектов культурного наследия религиозного назначения; <br>
+ <br>
+ — сохранение объектов культурного наследия (памятников истории и культуры) народов Российской Федерации, включенных в проект «Историческая память». </h2>
+ <br>
+ <br>
+<h2><span style="color: #000000;">Для подачи заявок пройдите по ссылке:</span></h2>
+<p>
+ <a href="http://www.gp-kultura.ru">www.gp-kultura.ru</a>
+</p>
+<p>
+</p>
+<p>
+ <a href="/upload/docs/2305-29.12.17.pdf" target="_blank">Приказ об утверждении организационно-финансового плана ФЦП «Культура России (2012-2018 годы)» на 2018 год</a><br>
+</p>
+<p>
+ <a href="/upload/docs/prikaz-2018.xls" target="_blank">Организационно-финансовый план ФЦП «Культура России (2012-2018 годы)» на 2018 год</a>
+</p>
+<p>
+</p>
+<p>
+ <a href="/upload/docs/2304-29.12.17.pdf" target="_blank">Приказ об утверждении организационно-финансового плана ФЦП «Культура России (2012-2018 годы)» на 2017 год</a><br>
+</p>
+<p>
+ <a href="/upload/docs/prikaz-2017.xls" target="_blank">Организационно-финансовый план ФЦП «Культура России (2012-2018 годы)» на 2017 год</a>
+</p></div>
+<div class="news">
+	</div>
+<div class="news">
+	</div>
+<br>																										</div> <!-- .news -->
+								</div> <!-- .content -->
+													</div><!-- clearfix -->
+					</div> <!-- .centerCol -->
+			</div> <!-- .clearfix -->
+		</section>
+			
+		<div class="clearfix">
+			<div class="ribbon"></div>
+			<hr class="ribb" />
+			<div class="bottom-menu">
+				
+<ul>
+
+			<li><a  href="/programma/">Программа</a></li>
+		
+			<li><a  href="/search/map.php">Карта сайта</a></li>
+		
+			<li><a  href="/realizatsiya-ftsp/">Реализация<br> ФЦП</a></li>
+		
+			<li><a  href="/infoblok/">Информационно-<br>аналитический блок</a></li>
+		
+			<li><a  href="/monitoring/">Мониторинг<br> проектов</a></li>
+		
+			<li><a  href="/goszakupki/">Государственные<br> закупки</a></li>
+		
+			<li><a  href="/kontakty/">Контакты</a></li>
+		
+			<li><a  href="/arkhiv/">Архив</a></li>
+		
+
+</ul>
+<div class="menu-clear-left"></div>
+ 
+			</div>
+		</div> <!-- .clearfix -->
+		<div class="clearfix">
+			<div class="rows-4">
+			<img src="/bitrix/templates/gos_bitrix_s1/images/v2/logo_small.png" class="footer__logo">
+<p class="footer__text">© 2006—2017<br>«Министерство культуры России»<br>
+<span class="footer__text_grey">официальный сайт</span></p>			</div>
+			<div class="rows-4">
+			<p class="footer__text footer__text_light">125993 ГСП-3, Москва, <a href="#">Малый<br>
+Гнездниковский пер., д. 7/6, стр. 1,2</a><br>			</div>
+			<div class="rows-4 rows-4_big rows-4_right">
+			<img src="/bitrix/templates/gos_bitrix_s1/images/v2/bitrix-logo.jpg" class="bitrix_logo">
+<p class="footer__text footer__text_c_light footer__text_light">Работает на <a href="#" class="footer_link_black">«1C-БИТРИКС: Официальный сайт<br> государственной организации»</a></p>			</div>
+			<div class="rows-4 rows-4_small rows-4_right">
+			<p class="footer__text footer__text_light"><a href="/search/map.php"><i class="ico__map"></i>Карта сайта</a></p>
+<p class="footer__text footer__text_light"><a href="/feedback/new.php"><i class="ico__mail"></i>Обратная связь</a></p>			</div>
+		</div>
+
+		
+	</div> <!-- .wrpr -->
+</div> <!-- .wrapper -->
+	<!-- Yandex.Metrika counter -->
+		<script type="text/javascript">
+			(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter7797079 = new Ya.Metrika({
+							id:7797079,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true
+						});
+					} catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+					s = d.createElement("script"),
+					f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/7797079" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=33104" data-pixel-id="33104"></script>
+</body>
+</html>

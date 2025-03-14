@@ -1,0 +1,566 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta name='yandex-verification' content='66c734eb2ee30278' />
+<meta http-equiv="Content-Type" content="text/html; charset=WINDOWS-1251" />
+<title>Îïåðíîå èñêóññòâî</title>
+<meta name="description" content="Ñòðàíèöû, ïîñâÿùåííûå èñêóññòâó êëàññè÷åñêîé îïåðû. Îïåðû, êîìïîçèòîðû, ëèáðåòòî, î÷åðêè î ìóçûêàëüíûõ îñîáåííîñòÿõ ïðîèçâåäåíèé, ìóçûêàëüíûé êèîñê, î ëó÷øèõ òåàòðàõ è èñïîëíèòåëÿõ, èçáðàííûå ññûëêè" />
+<meta name="keywords" content="Îïåðà, êëàññè÷åñêàÿ îïåðà, êëàññè÷åñêàÿ ìóçûêà, òåàòð, òåíîð, áàðèòîí, áàñ, áåëüêàíòî, áîëüøîé, ìàðèèíñêèé, èñêóññòâî, âîêàë, ìóçûêà, ãàëåðêà, ïàðòåð, ëèáðåòòî, àðòèñò, áèëíòû, áàëåò" />
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)" />
+<meta name="robots" content="all" />
+<meta name="revisit-after" content="1 days" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://operaclassic.net/engine/opensearch.php" title="Îïåðíîå èñêóññòâî" />
+<script type="text/javascript" src="engine/classes/js/jquery.js"></script>
+<script type="text/javascript" src="engine/classes/js/jqueryui.js"></script>
+<script type="text/javascript" src="engine/classes/js/dle_js.js"></script>
+<script type="text/javascript" src="engine/classes/highslide/highslide.js"></script>
+<link rel="stylesheet" href="templates/Opera/css/style.css" />
+<link rel="stylesheet" href="templates/Opera/css/engine.css" />
+<link rel="alternate" href="/rss.xml" />
+</head>
+<body> 
+<div id="loading-layer" style="display: none;"> 
+  <div id="loading-layer-text">Çàãðóçêà. Ïîæàëóéñòà, ïîäîæäèòå...
+  
+  
+  
+  </div> 
+</div> 
+<div id="header"> 
+  <div id="shtork-left"> 
+    <div id="shtork-right"></div> 
+  </div> 
+</div> 
+<div id="topmenu"> 
+  <div id="tm-left"> 
+    <div id="tm-right"></div> 
+  </div> 
+</div> 
+<div id="wrapper"> 
+  <div id="logo"> 
+    <div id="hd-menu"> <a title="íîâîñòè" class="news" href="/news/">íîâîñòè</a> <a title="òåàòðû ìèðà" class="theaters" href="/teatr/">òåàòðû ìèðà</a> <a title="êîìïîçèòîðû" class="comp" href="/kompozitor/">êîìïîçèòîðû</a> <a title="îïåðû" class="opers" href="about.html">îïåðû</a> 
+    </div> 
+  </div> 
+  <div id="tm"> <a href="/">Ãëàâíàÿ</a> <a href="about.html">Îïåðû</a> <a href="kompozitor.html">Êîìïîçèòîðû</a> <a href="#">Ñöåíû ñïåêòàêëåé</a> <a href="donicetti.html">Ãàýòàíî Äîíèöåòòè</a> <a href="gallery.html">Ôîòî</a> <a href="/">Ñòàòüè</a> 
+  </div> 
+  <div id="top-spacer"></div> 
+  <div id="content"> 
+    <div class="ns748-index"> 
+      <div class="ns748 ns748-feed"> <h2><a href="news/2015/11/19/teatralnaja_noch.html">«Òåàòðàëüíàÿ íî÷ü» ïîä çâóêè îïåðåòòû</a></h2> 
+        <div class="ns748-content"> Â ñåðåäèíå ñåíòÿáðÿ ïðàêòè÷åñêè âñå òåàòðû Áàøêîðòîñòàíà ïðèñîåäèíèëèñü ê àêöèè ïîä íàçâàíèåì «Òåàòðàëüíàÿ íî÷ü». Áàøêèðñêèé ãîñóäàðñòâåííûé òåàòð îïåðû è áàëåòà ïðîâåë ïîêàç  îïåðåòòû Æ.Îôôåíáàõà «Çâàíûé âå÷åð ñ èòàëüÿíöàìè». Ïðåäñòàâëåíèå ïðîøëî â Ìàëîì çàëå. 
+        
+        
+        
+        </div> 
+        <div class="more"> <span class="ns748-date">19.11.2015 <a href="/news/2015/11/19/teatralnaja_noch.html">Ïîäðîáíåå</a></span> 
+        </div> 
+      </div> 
+      <div class="ns748 ns748-feed"> <h2><a href="news/2015/11/16/flejta_za_million.html">Ôëåéòà çà 1,169 ìëí ðóáëåé</a></h2> 
+        <div class="ns748-content">Ñïåöèàëèñòû îòìå÷àþò, ÷òî íà äàííûé ìîìåíò <a title="Heathrow To Gawtwick" style="text-decoration: none; color: inherit;" href="https://www.twelvetransfers.co.uk/">Heathrow to Gatwick</a> âåäóòñÿ ïîèñêè ïîñòàâùèêà óíèêàëüíîãî ìóçûêàëüíîãî èíñòðóìåíòà. 
+        
+        
+        
+        </div> 
+        <div class="more"> <span class="ns748-date">16.11.2015 <a href="/news/2015/11/16/flejta_za_million.html">Ïîäðîáíåå</a></span> 
+        </div> 
+      </div> 
+      <div class="ns748 ns748-feed"> <h2><a href="news/2015/11/13/rejisser_tangejzera_predstavil.html">Ðåæèññåð «Òàíãåéçåðà» ïðåäñòàâèë íîâóþ ïîñòàíîâêó</a></h2> 
+        <div class="ns748-content">Â Åêàòåðèíáóðãå ñîñòîÿëàñü <a href="https://www.twelvetransfers.co.uk/"  style="text-decoration: none;color:inherit;" title="Taxi Heathrow">Taxi Heathrow</a> ïðåìüåðà îïåðû ïîä íàçâàíèåì «Òðè ñåñòðû». 
+        
+        
+        
+        </div> 
+        <div class="more"> <span class="ns748-date">13.11.2015 <a href="/news/2015/11/13/rejisser_tangejzera_predstavil.html">Ïîäðîáíåå</a></span> 
+        </div> 
+      </div> 
+      <div class="ns748 ns748-feed"> <h2><a href="/news/2015/11/10/novue_arii_nishhih.html">Íîâûå àðèè «íèùèõ»</a></h2> 
+        <div class="ns748-content">Â àâñòðèéñêîì Çàëüöáóðãå ïðîøëà îïåðà ïîä íàçâàíèåì «Òðåõãðîøåâàÿ îïåðà». Â ðåïåðòóàðå Çàëüöáóðãñêîé îïåðû â ýòîì <a href="https://completdental.ro/" title="Clinica Stomatologie Bucuresti" style="text-decoration: none;color:inherit;">Clinica Stomatologie Bucuresti</a> ãîäó íàñ÷èòûâàåòñÿ 188 êîíöåðòíûõ ïðåäñòàâëåíèé. Ñðåäè íèõ åñòü îïåðû, ñðåäè êîòîðûõ ìîæíî âèäåòü «Òðåõãðîøîâóþ îïåðó». 
+        
+        
+        
+        </div> 
+        <div class="more"> <span class="ns748-date">10.11.2015 <a href="/news/2015/11/10/novue_arii_nishhih.html">Ïîäðîáíåå</a></span> 
+        </div> 
+      </div> 
+      <div class="ns748 ns748-feed"> <h2><a href="news/2015/11/06/evgenij_onegin_bashmetova.html">«Åâãåíèé Îíåãèí» îò Áàøìåòîâà</a></h2> 
+        <div class="ns748-content"> Â êîíöå ïðîøëîãî ìåñÿöà ñîñòîÿëàñü ïðåìüåðà íîâîé ïîñòàíîâêè â òåàòðå èìåíè <a href="https://www.twelvetransfers.co.uk/destinations/london-airport-taxi-transfers/london-gatwick-taxi-transfers/"  style="text-decoration: none;color:inherit;" title="Taxi to Gatwick">Taxi Gatwick to London</a> ×àéêîâñêîãî. Îðêåñòð ïîä íàçâàíèåì Íîâàÿ Ðîññèÿ îòêðûë ñåçîí, êîòîðûé äëÿ êîëëåêòèâà ñòàë þáèëåéíûì. 
+        
+        
+        
+        </div> 
+        <div class="more"> <span class="ns748-date">06.11.2015 <a href="/news/2015/11/06/evgenij_onegin_bashmetova.html">Ïîäðîáíåå</a></span> 
+        </div> 
+      </div> 
+    </div> 
+    <div id="dle-content"> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/368-ruslan-i-lyudmila-m-i-glinka-1804-1857.html">Ðóñëàí è Ëþäìèëà  Ì. È. Ãëèíêà (1804-1857)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-368" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307453150_38.jpg"><img align="left" alt="Ðóñëàí è Ëþäìèëà  Ì. È. Ãëèíêà (1804-1857)" title="Ðóñëàí è Ëþäìèëà  Ì. È. Ãëèíêà (1804-1857)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307453150_38.jpg" /></a><!--TEnd-->Îïåðà â 5 àêòàõ (8 êàðòèíàõ)&nbsp;<br />                Ëèáðåòòî Â. Øèðêîâà è Ì. Ãëèíêè <br /><br /><strong>Äåéñòâóþùèå ëèöà</strong> <br />                Ñâåòîçàð, âåëèêèé êíÿçü Êèåâñêèé (áàñ)&nbsp;<br />                Ëþäìèëà, äî÷ü åãî (ñîïðàíî) <br />                Ðóñëàí, êèåâñêèé êíÿçü, æåíèõ Ëþäìèëû (áàðèòîí)</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/368-ruslan-i-lyudmila-m-i-glinka-1804-1857.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/367-a-g-rubinshteyn-1829-1894.html">À. Ã. Ðóáèíøòåéí  (1829 - 1894)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-367" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307453141_37.jpg"><img align="left" alt="À. Ã. Ðóáèíøòåéí  (1829 - 1894)" title="À. Ã. Ðóáèíøòåéí  (1829 - 1894)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307453141_37.jpg" /></a><!--TEnd-->Îäèí èç âûäàþùèõñÿ äåÿòåëåé ìóçûêàëüíîé êóëüòóðû Ðîññèè XIX â., Ðóáèíøòåéí îñòàâèë ãëóáîêèé ñëåä â å¸ èñòîðèè. Îí  èíèöèàòîð ñîçäàíèÿ ïðîôåññèîíàëüíîãî ìóçûêàëüíîãî îáðàçîâàíèÿ, ïåðâûé äèðåêòîð ñòàðåéøåé  Ïåòåðáóðãñêîé  êîíñåðâàòîðèè. Îí  ãåíèàëüíûé ïèàíèñò, ïîêîðèâøèé Åâðîïó ñâîèì íåïðåâçîéä¸ííûì èñêóññòâîì.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/367-a-g-rubinshteyn-1829-1894.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/366-rossini-da-17921868.html">Ðîññèíè Ä.À.  (17921868)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-366" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307453035_36.jpg"><img align="left" alt="Ðîññèíè Ä.À.  (17921868)" title="Ðîññèíè Ä.À.  (17921868)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307453035_36.jpg" /></a><!--TEnd-->Ðîññèíè ðîäèëñÿ 29 ôåâðàëÿ 1792 ã. â èòàëüÿíñêîì ãîðîäêå Ïåçàðî. Åãî ðîäèòåëÿìè áûëè ìóçûêàíòû (îòåö  òðóáà÷ è âàëòîðíèñò, ìàòü  ïåâèöà). Ñ äåòñòâà Äæîàêêèíî îáó÷àëñÿ ïåíèþ, èãðå íà ÷åìáàëî è ñêðèïêå, à òàêæå òåîðèè ìóçûêè. Îáëàäàÿ õîðîøèì ãîëîñîì, ïåë â öåðêîâíûõ õîðàõ, âûñòóïàë êàê àêêîìïàíèàòîð è äèðèæåð õîðà â îïåðíûõ òåàòðàõ.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/366-rossini-da-17921868.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/365-n-a-rimskiy-korsakov-1844-1908.html">Í. À. Ðèìñêèé-Êîðñàêîâ  (1844-1908)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-365" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307453002_35.jpg"><img align="left" alt="Í. À. Ðèìñêèé-Êîðñàêîâ  (1844-1908)" title="Í. À. Ðèìñêèé-Êîðñàêîâ  (1844-1908)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307453002_35.jpg" /></a><!--TEnd-->Ðèìñêèé-Êîðñàêîâ  âûäàþùèéñÿ ðóññêèé êîìïîçèòîð, ìóçûêàëüíî-îáùåñòâåííûé äåÿòåëü, ïåäàãîã  îñòàâèë îãðîìíîå òâîð÷åñêîå íàñëåäèå. Îíî âêëþ÷àåò 15 îïåð, 3 ñèìôîíèè, ðÿä îðêåñòðîâûõ ñî÷èíåíèé, ðîìàíñû. Åìó ïðèíàäëåæàò <a title="Heathrow To Gawtwick" style="text-decoration: none; color: inherit;" href="https://www.twelvetransfers.co.uk/">Heathrow to Gatwick</a> òàêæå äâà ñáîðíèêà ðóññêèõ íàðîäíûõ ïåñåí, êíèãè è ñòàòüè ïî ðàçëè÷íûì âîïðîñàì ìóçûêàëüíîãî èñêóññòâà.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/365-n-a-rimskiy-korsakov-1844-1908.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/364-s-v-rahmaninov-1873-1943.html">Ñ. Â. Ðàõìàíèíîâ  (1873-1943)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-364" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452931_34.jpg"><img align="left" alt="Ñ. Â. Ðàõìàíèíîâ  (1873-1943)" title="Ñ. Â. Ðàõìàíèíîâ  (1873-1943)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452931_34.jpg" /></a><!--TEnd-->Ðàõìàíèíîâ  âûäàþùèéñÿ êîìïîçèòîð, ïèàíèñò è äèðèæ¸ð  âïèñàë ÿðêóþ ñòðàíèöó â èñòîðèþ ìèðîâîé ìóçûêàëüíîé êóëüòóðû. Â ïÿòè ôîðòåïèàííûõ êîíöåðòàõ, òð¸õ ñèìôîíèÿõ, òð¸õ îïåðàõ, äâóõ êàíòàòàõ, ñî÷èíåíèÿõ äëÿ ôîðòåïèàíî è ðîìàíñàõ çàïå÷àòëåíû íåïîâòîðèìûå ÷åðòû åãî òâîð÷åñòâà: îñòðîòà æèçíåííûõ êîíôëèêòîâ, ïàòåòèêà, ïðîíèêíîâåííûé ëèðèçì.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/364-s-v-rahmaninov-1873-1943.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/363-dzhakomo-puchchini-1853-1924.html">Äæàêîìî Ïó÷÷èíè  (1853-1924)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-363" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452904_33.jpg"><img align="left" alt="Äæàêîìî Ïó÷÷èíè  (1853-1924)" title="Äæàêîìî Ïó÷÷èíè  (1853-1924)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452904_33.jpg" /></a><!--TEnd-->Ïó÷÷èíè  êëàññèê èòàëüÿíñêîé îïåðû êîíöà XIX  ïåðâîé ÷åòâåðòè XX ââ., íàñëåäíèê Âåðäè. Åãî ïðîèçâåäåíèÿ îòíîñÿòñÿ ê æàíðó ëèðèêî-ïñèõîëîãè÷åñêîé äðàìû, íà÷àëî êîòîðîìó áûëî ïîëîæåíî âåðäèåâñêîé «Òðàâèàòîé». Âûñòóïèâ îäíîâðåìåííî ñ Ìàñêàíüè è Ëåîíêàâàëëî, êîòîðûå îòêðûëè íîâîå íàïðàâëåíèå â èòàëüÿíñêîé îïåðå  âåðèçì, Ïó÷÷èíè îêàçàëñÿ øèðå è ãëóáæå èõ.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/363-dzhakomo-puchchini-1853-1924.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/362-prokofev-ss-18911953.html">Ïðîêîôüåâ Ñ.Ñ.  (18911953)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-362" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452920_32.jpg"><img align="left" alt="Ïðîêîôüåâ Ñ.Ñ.  (18911953)" title="Ïðîêîôüåâ Ñ.Ñ.  (18911953)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452920_32.jpg" /></a><!--TEnd-->Ñåðãåé Ïðîêîôüåâ ðîäèëñÿ 11 (23) àïðåëÿ 1891 ã. â ñåëå Ñîíöîâêà Áàõìóòñêîãî óåçäà Åêàòåðèíîñëàâñêîé ãóáåðíèè (íûíå ñåëî Êðàñíîå Êðàñíîàðìåéñêîãî ðàéîíà Äîíåöêîé îáëàñòè, Óêðàèíà). Âîñïèòàíèå ñûíà âçÿëà íà ñåáÿ ìàòü, êîòîðàÿ áûëà õîðîøåé ïèàíèñòêîé.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/362-prokofev-ss-18911953.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/361-pikovaya-dama-p-i-chaykovskiy-1840-1893.html">Ïèêîâàÿ äàìà  Ï. È. ×àéêîâñêèé (1840-1893)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-361" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452914_31.jpg"><img align="left" alt="Ïèêîâàÿ äàìà  Ï. È. ×àéêîâñêèé (1840-1893)" title="Ïèêîâàÿ äàìà  Ï. È. ×àéêîâñêèé (1840-1893)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452914_31.jpg" /></a><!--TEnd-->Îïåðà â 3 àêòàõ (7 êàðòèíàõ)&nbsp;<br />                Ëèáðåòòî Ì. ×àéêîâñêîãî <br /><br /><strong>Äåéñòâóþùèå ëèöà&nbsp;</strong><br />                Ãåðìàí (òåíîð)&nbsp;<br />                Ãðàô Òîìñêèé (áàðèòîí) <br />                Êíÿçü Åëåöêèé, æåíèõ Ëèçû (áàðèòîí)</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/361-pikovaya-dama-p-i-chaykovskiy-1840-1893.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/360-musorgskiy-mp-18391881.html">Ìóñîðãñêèé Ì.Ï.  (18391881)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-360" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452722_30.jpg"><img align="left" alt="Ìóñîðãñêèé Ì.Ï.  (18391881)" title="Ìóñîðãñêèé Ì.Ï.  (18391881)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452722_30.jpg" /></a><!--TEnd-->Ìóñîðãñêèé  áîëüøîé ñàìîáûòíûé òàëàíò, è ïðèòîì òàëàíò ÷èñòî ðóññêèé; îí ïðèíàäëåæèò ê ãðóïïå ìóçûêàëüíûõ äåÿòåëåé, ñòðåìèâøèõñÿ  ñ îäíîé ñòîðîíû  ê îôîðìëåííîìó ðåàëèçìó, ñ äðóãîé ñòîðîíû  ê êðàñî÷íîìó è ïîýòè÷åñêîìó ðàñêðûòèþ ñëîâà, òåêñòà è íàñòðîåíèé ÷åðåç ìóçûêó, ãèáêî ñëåäóþùåé çà íèìè.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/360-musorgskiy-mp-18391881.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div id="story"> 
+        <div class="bc1">&nbsp;
+        
+        
+        
+        </div> 
+        <div class="story-ct"> 
+          <div class="str"> 
+            <div class="str-nav">&nbsp;&nbsp;<span id="catitle"><a href="http://operaclassic.net/359-klaudio-monteverdi-15671643.html">Êëàóäèî Ìîíòåâåðäè  (15671643)</a></span> 
+            </div> <span class="story"> 
+              <div id="news-id-359" style="display: inline;"> 
+                <p style="text-align: justify;"><!--TBegin--><a href="http://operaclassic.net/uploads/posts/2011-06/1307452739_29.jpg"><img align="left" alt="Êëàóäèî Ìîíòåâåðäè  (15671643)" title="Êëàóäèî Ìîíòåâåðäè  (15671643)" src="http://operaclassic.net/uploads/posts/2011-06/thumbs/1307452739_29.jpg" /></a><!--TEnd-->Ìîíòåâåðäè ðîäèëñÿ â ìàå 1567 â ñåâåðîèòàëüÿíñêîì ãîðîäå Êðåìîíà (äàòà êðåùåíèÿ  15 ìàÿ). Â äåòñòâå ó÷èëñÿ ìóçûêå ó öåðêîâíîãî ðåãåíòà è êîìïîçèòîðà Ìàðêî Àíòîíèî Èíäæåíüåðè. Â 1582 îïóáëèêîâàë ñâîè ïåðâûå ñî÷èíåíèÿ  ìàäðèãàëû è ìîòåòû.</p> 
+              </div> </span> 
+            <div style="clear: both;"></div> 
+            <div class="detail"><span class="date">07.èþí.11</span>&nbsp;<span class="det-ent"><a href="http://operaclassic.net/359-klaudio-monteverdi-15671643.html">Ïîäðîáíåå</a></span> 
+            </div> 
+          </div> 
+        </div> 
+        <div class="bc2"></div> 
+      </div> 
+      <div align="center" style="margin-bottom: 10px; margin-top: 10px;" class="navi"><span> <span>1</span> <a href="http://operaclassic.net/page/2/">2</a> <a href="http://operaclassic.net/page/3/">3</a> <a href="http://operaclassic.net/page/4/">4</a> <a href="http://operaclassic.net/page/5/">5</a> <a href="http://operaclassic.net/page/6/">6</a> <a href="http://operaclassic.net/page/7/">7</a> <a href="http://operaclassic.net/page/8/">8</a> <a href="http://operaclassic.net/page/9/">9</a> <a href="http://operaclassic.net/page/10/">10</a> <span class="nav_ext">...</span> <a href="http://operaclassic.net/page/38/">38</a> <a href="http://operaclassic.net/page/2/">Äàëåå -&gt;</a> </span> 
+      </div> 
+    </div> 
+    <div id="story"> 
+      <div class="bc1">&nbsp;
+      
+      
+      
+      </div> 
+      <div class="story-ct"> 
+        <div class="str"> 
+          <div class="fglr fglr-index"> 
+            <div class="fglr-up"> 
+              <div class="fglr-el"><a href="/swat2013/03/04-nedovolnye.html"><img alt="" src="images/11/0316_icon.jpeg" /></a> 
+              </div> <span>Ïðèæèìàÿ åå ñûí, Ìåëèíäà ëîâèò áóøóþùèõ âîëí. Â òðîííîì çàëå äâîðöà öàðü ñêîðáèò î ñìåðòè æåíû....</span> 
+            </div> 
+            <div class="fglr-up"> 
+              <div class="fglr-el"><a href="/p_gendelya/70649.html"><img alt="" src="images/9/0678_icon.jpeg" /></a> 
+              </div> <span>Â Ãàìáóðãå îáó÷åíèÿ ÿâëÿåòñÿ òå÷åíèåì âðåìåíè, íî çäåñü ìîëîäîé êîìïîçèòîð ïðîáîâàë ñâîè ñèëû â...</span> 
+            </div> 
+            <div class="fglr-up"> 
+              <div class="fglr-el"><a href="/swat2013/03/04delaet.html"><img alt="" src="images/12/0227_icon.jpeg" /></a> 
+              </div> <span>Ïîÿâëÿåòñÿ ãðàôà äè Ëóíà. Îí áðîñàåòñÿ íà áàëêîí Ëåîíîðû, íî ïåñíÿ òðóáàäóðà äåëàåò åãî...</span> 
+            </div> 
+            <div class="fglr-up"> 
+              <div class="fglr-el"><a href="/swatiskrenne.html"><img alt="" src="images11/0598_icon.jpeg" /></a> 
+              </div> <span>À òåïåðü îíà ïðîñèò îñòàâèòü æèâûì ÷åëîâåêîì, êîòîðûé èñêðåííå ðàñêàÿëñÿ â ñâîåì ïðîøëîì, è...</span> 
+            </div> 
+            <div class="fglr-up"> 
+              <div class="fglr-el"><a href="/p_vrajduyuschix.html"><img alt="" src="images/10/0429_icon.jpeg" /></a> 
+              </div> <span>Òàðàñ îáðàòèëñÿ ê ñâîèì ñîîòå÷åñòâåííèêàì ñ òðåâîæíîé ñëîâà: íåñìîòðÿ íà óæàñ, ëþäè íå ñäàëèñü,...</span> 
+            </div> 
+          </div> 
+          <div style="clear: both;">&nbsp;
+          
+          
+          
+          </div> 
+        </div> 
+      </div> 
+      <div class="bc2"></div> 
+    </div> 
+  </div> 
+  <div id="modules"> 
+    <div class="title-mod"> 
+      <div class="name">Êàëåíäàðü
+      
+      
+      
+      </div> 
+    </div> 
+    <div class="mod-ct"> 
+      <div class="calen"> 
+        <div id="calendar-layer"> 
+          <table id="calendar" cellpadding="3" class="calendar">
+            <tbody>
+              <tr>
+                <th colspan="7" class="monthselect"><center> <b><a title="Ïðåäûäóùèé ìåñÿö" class="monthlink" href="http://operaclassic.net/2017/12/">«</a>&nbsp;&nbsp;&nbsp;&nbsp;ßíâàðü 2018&nbsp;&nbsp;&nbsp;&nbsp;»</b> </center></th> 
+              </tr>
+              <tr>
+                <th class="workday">Ïí</th> 
+                <th class="workday">Âò</th> 
+                <th class="workday">Ñð</th> 
+                <th class="workday">×ò</th> 
+                <th class="workday">Ïò</th> 
+                <th class="weekday">Ñá</th> 
+                <th class="weekday">Âñ</th> 
+              </tr>
+              <tr>
+                <td class="day"><center>                  1
+                </center></td> 
+                <td class="day"><center>                  2
+                </center></td> 
+                <td class="day"><center>                  3
+                </center></td> 
+                <td class="day"><center>                  4
+                </center></td> 
+                <td class="day"><center>                  5
+                </center></td> 
+                <td class="weekday"><center>                  6
+                </center></td> 
+                <td class="weekday"><center>                  7
+                </center></td> 
+              </tr>
+              <tr>
+                <td class="day"><center>                  8
+                </center></td> 
+                <td class="day"><center>                  9
+                </center></td> 
+                <td class="day"><center>                  10
+                </center></td> 
+                <td class="day"><center>                  11
+                </center></td> 
+                <td class="day"><center>                  12
+                </center></td> 
+                <td class="weekday"><center>                  13
+                </center></td> 
+                <td class="weekday"><center>                  14
+                </center></td> 
+              </tr>
+              <tr>
+                <td class="day"><center>                  15
+                </center></td> 
+                <td class="day"><center>                  16
+                </center></td> 
+                <td class="day"><center>                  17
+                </center></td> 
+                <td class="day"><center>                  18
+                </center></td> 
+                <td class="day"><center>                  19
+                </center></td> 
+                <td class="weekday"><center>                  20
+                </center></td> 
+                <td class="weekday"><center>                  21
+                </center></td> 
+              </tr>
+              <tr>
+                <td class="day"><center>                  22
+                </center></td> 
+                <td class="day"><center>                  23
+                </center></td> 
+                <td class="day"><center>                  24
+                </center></td> 
+                <td class="day"><center>                  25
+                </center></td> 
+                <td class="day"><center>                  26
+                </center></td> 
+                <td class="weekday"><center>                  27
+                </center></td> 
+                <td class="weekday day-current"><center>                  28
+                </center></td> 
+              </tr>
+              <tr>
+                <td class="day"><center>                  29
+                </center></td> 
+                <td class="day"><center>                  30
+                </center></td> 
+                <td class="day"><center>                  31
+                </center></td> 
+                <td colspan="4">&nbsp;</td> 
+              </tr>
+            </tbody>
+          </table>
+        </div> 
+        <div class="oc"><!-- --><!--cc11d-->
+        
+        
+        
+        </div> 
+      </div> 
+    </div> 
+    <div class="bot-mod">&nbsp;
+    
+    
+    
+    </div> 
+    <div class="title-mod"> 
+      <div class="name">Àðõèâ ñàéòà
+      
+      
+      
+      </div> 
+    </div> 
+    <div class="mod-ct"> 
+      <div class="arch"><a class="archives" href="http://operaclassic.net/2011/06/"><b>Èþíü 2011 (41)</b></a><br /><a class="archives" href="http://operaclassic.net/2011/05/"><b>Ìàé 2011 (12)</b></a><br /><a class="archives" href="http://operaclassic.net/2011/04/"><b>Àïðåëü 2011 (2)</b></a><br /><a class="archives" href="http://operaclassic.net/2010/06/"><b>Èþíü 2010 (19)</b></a><br /><a class="archives" href="http://operaclassic.net/2010/05/"><b>Ìàé 2010 (11)</b></a><br /><a class="archives" href="http://operaclassic.net/2010/04/"><b>Àïðåëü 2010 (9)</b></a><br />
+        <div id="dle_news_archive" style="display: none;"><a class="archives" href="http://operaclassic.net/2010/03/"><b>Ìàðò 2010 (12)</b></a><br /><a class="archives" href="http://operaclassic.net/2010/02/"><b>Ôåâðàëü 2010 (10)</b></a><br /><a class="archives" href="http://operaclassic.net/2010/01/"><b>ßíâàðü 2010 (26)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/12/"><b>Äåêàáðü 2009 (9)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/11/"><b>Íîÿáðü 2009 (8)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/10/"><b>Îêòÿáðü 2009 (31)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/09/"><b>Ñåíòÿáðü 2009 (30)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/08/"><b>Àâãóñò 2009 (26)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/07/"><b>Èþëü 2009 (24)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/06/"><b>Èþíü 2009 (29)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/05/"><b>Ìàé 2009 (28)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/04/"><b>Àïðåëü 2009 (21)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/02/"><b>Ôåâðàëü 2009 (11)</b></a><br /><a class="archives" href="http://operaclassic.net/2009/01/"><b>ßíâàðü 2009 (14)</b></a><br /><a class="archives" href="http://operaclassic.net/2008/12/"><b>Äåêàáðü 2008 (2)</b></a><br />
+        </div> 
+        <div id="dle_news_archive_link"><br /><a class="archives" href="#">Ïîêàçàòü / ñêðûòü âåñü àðõèâ</a> 
+        </div> 
+      </div> 
+    </div> 
+    <div class="bot-mod">&nbsp;
+    
+    
+    
+    </div> 
+    <div class="title-mod"> 
+      <div class="name">Ãîëîñîâàòü
+      
+      
+      
+      </div> 
+    </div> 
+    <div class="mod-ct"> 
+      <div class="vote"> 
+        <div id="vote-layer"> 
+          <div style="padding: 5px 0px 5px 35px;">Îöåíèòå ðàáîòó äâèæêà
+          
+          
+          
+          </div> <form method="post" name="vote" action=""> 
+            <div style="padding-left: 33px;"> 
+              <div id="dle-vote"> 
+                <div class="vote"> <input name="vote_check" checked="" type="radio" value="0" />                Ëó÷øèé èç íîâîñòíûõ
+                
+                
+                
+                </div> 
+                <div class="vote"> <input name="vote_check" type="radio" value="1" />                Íåïëîõîé äâèæîê
+                
+                
+                
+                </div> 
+                <div class="vote"> <input name="vote_check" type="radio" value="2" />                Óñòðàèâàåò ... íî ...
+                
+                
+                
+                </div> 
+                <div class="vote"> <input name="vote_check" type="radio" value="3" />                Âñòðå÷àë è ïîëó÷øå
+                
+                
+                
+                </div> 
+                <div class="vote"> <input name="vote_check" type="radio" value="4" />                Ñîâñåì íå ïîíðàâèëñÿ
+                
+                
+                
+                </div> 
+              </div> <br />
+              <table width="80%">
+                <tbody>
+                  <tr>
+                    <td><input name="vote_action" type="hidden" value="vote" /><input name="vote_id" id="vote_id" type="hidden" value="1" /><input class="bbcodes" type="submit" value="Ãîëîñîâàòü" /></td> 
+                    <td> <input name="vote_action" type="hidden" value="results" /><input name="vote_id" type="hidden" value="1" /><input class="bbcodes" type="submit" value="Ðåçóëüòàòû" /></td> 
+                  </tr>
+                </tbody>
+              </table>
+            </div> </form> 
+        </div> 
+      </div> 
+    </div> 
+    <div class="bot-mod">&nbsp;
+    
+    
+    
+    </div> 
+    <div class="title-mod"> 
+      <div class="name">Ïîèñê ïî ñàéòó
+      
+      
+      
+      </div> 
+    </div> 
+    <div class="mod-ct"> 
+      <div id="search"> <form id="searchBar" method="post" action=""></form> <input name="do" type="hidden" value="search" /><input name="subaction" type="hidden" value="search" /><input name="story" id="searchBox" maxlength="255" type="text" value="ïîèñê.." /><input id="searchSelectBtn" alt="Ïîèñê" title="Ïîèñê" border="0" type="image" src="/spaw/empty/templates/Opera/images/spacer.gif" />
+      </div> 
+    </div> 
+    <div class="bot-mod">&nbsp;
+    
+    
+    
+    </div> 
+  </div> 
+  <div class="clr">&nbsp;
+  
+  
+  
+  </div> 
+  <div id="foot"><span>@ 2006-2012 Ïðè èñïîëüçîâàíèè ëþáûõ ìàòåðèàëîâ ñàéòà, ññûëêà íà ñàéò îáÿçàòåëüíà!</span> 
+    <div class="count"> 
+    <!--LiveInternet counter--><!--/LiveInternet--> 
+  
+    
+    
+    
+    </div> 
+  </div> 
+</div><!-- ðàçðàáîòêà øàáëîíà îò 3wave --></body>
+</html>
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->

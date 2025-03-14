@@ -1,0 +1,322 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html">
+<meta name ="keywords" content="актер, киноактер, кино, фотография, фотографии, фото, фильмография, ссылки, фильмы">
+<title>Актеры советского кино</title>
+<link href="/style.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#ffffcc" text="black" link="#8a2be2" alink="#9966ff" vlink="#9966ff" leftmargin="0" topmargin="0">
+<div align="center">
+  <a name="top"></a>
+  <a href="index.htm">
+  <img alt="Актеры советского кино" border=0 height=60 src="/img/title.jpg" width=401>
+  </a>
+</div>
+<div align=center>
+<script language='JavaScript'> var loc = ''; </script>
+      <script language='JavaScript1.4'>try{ var loc = escape(top.location.href); }catch(e){;}</script>
+      <script language='JavaScript'>
+var userid = 4375278; var page = 1;
+var rndnum = Math.round(Math.random() * 999111);
+document.write('<CENTER><A href="http://ad3.bannerbank.ru/bb.cgi?cmd=go&pubid=' + userid + '&pg=' + page + '&vbn=500&num=1&w=468&h=60&nocache=' + rndnum + '&loc=' + loc + '&ref=' + escape(document.referrer) + '" target="_blank">');
+document.write('<IMG src="http://ad3.bannerbank.ru/bb.cgi?cmd=ad&pubid=' + userid + '&pg=' + page + '&vbn=500&num=1&w=468&h=60&nocache=' + rndnum + '&ref=' + escape(document.referrer) + '&loc=' + loc + '" width=468 height=60 Alt="The Movie Network" border=0></A><BR></CENTER>');
+document.write(' <CENTER><FONT SIZE="1"><A HREF="http://tmn.film.ru/" TARGET="_top">The Movie Network</A></FONT></CENTER>');
+</script>
+</div>
+<table width="90%" align="center" cellpadding="0" cellspacing="3">
+  <tr>
+  
+  <td>
+  
+  <table border="0" cellpadding="2" cellspacing="0" align="center">
+    <tr>
+    
+    <td bgcolor="#9999cc" colspan="3">
+    
+    <table border="0" cellpadding="2" cellspacing="0" align="center">
+        <tr bgcolor="#9999cc">
+          <td bgcolor="#9999cc" width="80%" align="left" class="purple"><strong>
+            <a class="purple" href="indexa.htm#a">А </a>
+            –
+            <a class="purple" href="indexa.htm#b">Б </a>
+            –
+            <a class="purple" href="indexa.htm#v">В </a>
+            –
+            <a class="purple" href="indexa.htm#g">Г </a>
+            –
+            <a class="purple" href="indexa.htm#d">Д </a>
+            –
+            <a class="purple" href="indexa.htm#e">Е </a>
+            –
+            <a class="purple" href="indexa.htm#zh">Ж </a>
+            –
+            <a class="purple" href="indexa.htm#z">З </a>
+            –
+            <a class="purple" href="indexa.htm#i">И </a>
+            –
+            <a class="purple" href="indexk.htm#k">К </a>
+            –
+            <a class="purple" href="indexk.htm#l">Л </a>
+            –
+            <a class="purple" href="indexk.htm#m">М </a>
+            –
+            <a class="purple" href="indexk.htm#n">Н </a>
+            –
+            <a class="purple" href="indexk.htm#o">О </a>
+            –
+            <a class="purple" href="indexk.htm#p">П </a>
+            –
+            <a class="purple" href="indexk.htm#r">Р</a>
+            –
+            <a class="purple" href="indexs.htm#s">С </a>
+            –
+            <a class="purple" href="indexs.htm#t">Т </a>
+            –
+            <a class="purple" href="indexs.htm#u">У </a>
+            –
+            <a class="purple" href="indexs.htm#f">Ф </a>
+            –
+            <a class="purple" href="indexs.htm#h">Х </a>
+            –
+            <a class="purple" href="indexs.htm#c">Ц </a>
+            –
+            <a class="purple" href="indexs.htm#ch">Ч </a>
+            –
+            <a class="purple" href="indexs.htm#sh">ШЩ </a>
+            –
+            <a class="purple" href="indexs.htm#ya">ЭЮЯ</a>
+            </strong></td>
+          <td width="5%"><p align="right" class=purple><strong>Найти</strong></td>
+									<!-- GoogleSearch -->
+									<td width="4%">
+										<form action="http://actors.khv.ru/search.htm" id="cse-search-box" target="_blank">
+										  <div>
+    									<input type="hidden" name="cx" value="partner-pub-9472415847521313:tkqb9iqir5v" />
+											<input type="hidden" name="cof" value="FORID:10" />
+    									<input type="hidden" name="ie" value="windows-1251" />
+    									<input type="text" name="q" size="15" style="height:16px; width:100px; font-size: 8pt;" />
+											</td>
+											<td width="1%">
+                      <input type="image" name="sa" src="img/go.gif" width=16 height=16 border=0 title="Найти!" style="cursor:hand;" />
+  										</div>
+                  </td>
+										</form>
+										<script type="text/javascript" src="http://www.google.ru/coop/cse/brand?form=cse-search-box&amp;lang=ru"></script> 
+                  <!-- /GoogleSearch -->
+        </tr>
+      </table>
+    </td>
+    </tr>
+    <tr>
+      <td><table border="0" cellspacing="5" cellpadding="0" width="100%">
+           <tr><td colspan="2">
+      4 декабря 2009 года на 82-м году ушел из жизни <a href="/t/tihonovs.htm"><strong>Вячеслав Тихонов</strong></a>. Предлагаю вашему вниманию статью Сергея Капкова об актере, написанную 10 лет назад.
+<blockquote style="font-style:italic">Лет 10 назад это интервью не взяли в "ТВ-парк". Потому что Тихонов отказался говорить о Мордюковой и гибели сына, потому что говорил в основном только о кино и ролях... Статья была написана на основе моей беседы с актером для программы "Мемуары" на радио "Эхо Москвы". Сегодня его крутили по <a href="http://www.echo.msk.ru/programs/beseda/639053-echo/" target="_blank">"Эху"</a> и даже частично расшифровали и выложили на сайт. И можно услышать голос великого артиста.</blockquote> 
+      </td></tr>
+          <tr>
+            <td colspan="2"><p align="center" style="font-weight:bold; font-size:14pt; color:#b22222;"><strong>Неопубликованное интервью с Вячеславом Тихоновым</strong></p></td>
+          </tr>
+          <tr>
+            <td valign="top" colspan="2">
+<p><img src="/actors/tihonovs2.jpg" alt="Вячеслав Тихонов, 1975 г." align="left" vspace="5" hspace="10"></p>
+<p><strong>Вячеслав Тихонов страшно сердится, когда рядом с его фамилией появляются такие громкие слова, как “кумир”, “звезда”, “карьера”, “слава”. Он требует не применять к его персоне подобных эпитетов. Но с другой стороны, кто ж как не он их достоен? Пятьдесят лет в кино, десятки главных ролей в самых популярных фильмах, любовь миллионов зрителей... 
+</strong><br>
+- Я ребёнок предвоенного и военного поколения. А надо вспомнить, что в то время шли замечательные фильмы с нашими великими актёрами, такими как Пётр Алейников, Борис Бабочкин, Марк Бернес, Черкасов, Чирков, Крючков. Тогда не было телевидения, и единственным окошечком в мир прекрасного был кинематограф. В тот городочек - Павловский Посад - откуда я родом, иногда привозили фильмы, и мы, мальчишки, с упоением смотрели их по нескольку раз. Как они нас притягивали! Как завораживали эти удивительные актёры, которые, в общем-то, и “позвали” меня со временем в свой мир. Мне было безумно интересно, как это всё происходит, где, почему? Но сказать о своих мечтах я никому не мог, поэтому во мне всё это зрело тайно.</p>
+<p><strong>- А кем были Ваши родители?</strong><br>
+- Отец работал на фабрике, мать - в детском саду. Дед возил длинные грузовые составы по Нижегородской ветке. Так что вся моя родня из рабочей среды.
+</p>
+<p><strong>- Когда началась война, Вам только исполнилось 13 лет - совсем ещё ребёнок. </strong><br>
+- Да, и о школе на время пришлось забыть. Меня взяли в ремесленное училище и поставили к станку. Работал токарем по металлу. Через некоторое время я потерял зрение, ничего не видел. И когда мама привела меня к врачу, он осмотрел мои глаза и сказал: “О-о-о, Ваш сын слишком честно выполнял свою работу. Он запорошил глаза металлической стружкой”. Этот врач вернул мне зрение с помощью тоненького, острого предмета - видимо, намагниченного. Он очень аккуратно вытаскивал из глаз каждую пылинку, каждую соринку.
+А когда немцев отогнали от Москвы, нас вернули в школу, и в 45-ом году встал вопрос - кем быть? Многие мальчишки ещё раньше ушли на производство, потому что отцы были на фронте, и надо было помогать семьям. Нас оставалось в классе всего четверо - остальные девочки. Мы ездили из Павловского Посада в Москву поступать кто куда, а я украдкой, на свой страх и риск, подал документы во ВГИК на актёрский факультет. Прямо скажу - сразу меня не приняли, потому что я не был подготовлен. Я не участвовал ни в какой самодеятельности, нигда не выступал на сцене. Было только огромное желание. Не приняли. Но случилось так, что когда набрали курс, там оказалось очень мало ребят - то есть студентов оказалось невозможно развести на отрывки, спектакли. Одни девочки! И было решено взять меня на испытательный семестр. Только потому, что я помогу в будущем в этой самой разводке. Так я очутился во ВГИКе.
+А потом испытательный семестр прошёл, я получил четвёрку по мастерству и стал законным студентом института кинематографии.</p>
+<p><strong>- Вы учились у знаменитейшего педагога Бориса Бибикова, а дебютировали в кино в “Молодой гвардии”, которую снимал Сергей Герасимов. Ваше поколение ВГИКовцев с тех пор называют так и называют “молодогвардейцами”. А кого Вы считаете своим истиным учителем?</strong><br>
+- Вы правы, мы сами до сих пор называем себя “молодогвардейцами”. Но своими истиными учителями я считаю Бориса Владимировича Бибикова и Ольгу Ивановну Пыжову. Они были мужем и женой, оба учились у Станиславского и Немировича-Данченко и вместе вели курсы во ВГИКе и в ГИТИСе одновременно. Их театральная школа, очень строгая, была нам, будущим артистам кино, на пользу. Лично мне, во всяком случае. Так что их я считаю своими учителями. А что касается Сергея Апполинарьевича Герасимова - он на втором-третьем курсе взял для своего спектакля, а затем и фильма несколько наших человек: Нонну Мордюкову, Серёжу Гурзо, Володю Иванова, Тамару Носову и меня. Все остальные исполнители ролей были учениками Герасимова, и “Молодая гвардия” стала их дипломом. Это и Сергей Бондарчук, и Инна Макарова, и Клара Лучко, и Женя Моргунов, и Муза Крепкогорская - Господи, не забыть бы кого!</p>
+<a href="/articles/tikhonov.htm#further">Дальше>></a>
+            </td>
+          </tr>
+        </table></td>
+    </tr>
+    </td>
+    
+    </tr>
+    
+  </table>
+  </td>
+  
+  <td valign="top" width="160" align="center"><table border="0" cellpadding="0" cellspacing="2" width="160" align="center">
+        <!--<tr>
+                	<td bgcolor="#9999cc"><p align="center" class=purple>Памятные даты</p>
+	              </td>
+    	        <tr><td align="left">
+        		  <a href="archive/archive_date.htm">Календарь 2001 г.</a><br>
+		           </td></tr>-->
+        <tr>
+          <td bgcolor="#9999cc"><p align="center" class=purple>Архивы</p></td>
+        <tr>
+          <td><li>
+              <a href="archive/archive_words.htm">Несколько слов (архив)</a>
+            </li>
+            <li>
+              <a href="archive/archive_polls.htm">Архив опросов</a>
+            </li>
+            <li>
+              <a href="archive/archive_news2001.htm">Архив новостей</a>
+            </li>
+            <li>
+              <a href="archive/archive2001.htm">Архив обновлений</a>
+            </li></td>
+        <tr>
+          <td bgcolor="#9999cc"><p align="center" class=purple>Наши проекты</p></td>
+        <tr>
+          <td align="left">Официальная страница:
+            <li>
+              <a href="http://www.domogarov.ru/">Александра Домогарова</a>
+            </li></td>
+        </tr>
+        <tr>
+          <td bgcolor="#9999cc"><p align="center" class=purple>Разное</p></td>
+        </tr>
+        <tr>
+          <td align="left"><li>
+              <a href="links.htm">Ссылки</a>
+            </li>
+            <li>
+              <a href="project.htm">О проекте</a>
+            </li>
+            <li>
+              <a href="thanks.htm">Благодарности</a>
+            </li>
+            <li>
+              <a href="rigths.htm">Об авторских правах</a>
+            </li>
+            <li>
+              <a href="mail.htm">Контакты</a>
+            </li></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td class="AdsIndx"><span class="not">
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script></span><br></td>
+        </tr>
+        <tr>
+          <td width="160" align="center">
+           <noindex>
+            <script type="text/javascript" language="JavaScript"><!--
+function validatesearch() {
+  SearchString = document.PartnerSearchForm.searchstring;
+  if (SearchString.value.length == 0 || SearchString.value.replace(/ /gi,"").length < 2) {
+    alert("Задан слишком общий критерий!\nВведите не менее 2 символов");
+    return false;
+  }
+}
+//--></script>
+            <table WIDTH="131" BORDER="0" CELLSPACING="0" CELLPADDING="0" bgcolor="#006599">
+              <form name="PartnerSearchForm" action="http://www.ozon.ru/" method="get">
+                <input name="context" type="hidden" value="search_list">
+                <tr>
+                  <td width="131" bgcolor="#FFFFFF"><img src="http://www.ozon.ru/multimedia/mat_ill/partner_img/top_form_search.gif" border="0" width="131" height="34"></td>
+                </tr>
+                <tr VALIGN="top">
+                  <td NOWRAP width="131" align="center" style="padding-bottom:1px;"><small>
+                    <input name="searchstring" type="text" maxLength="255" style="width: 125px; margin-top:2px;">
+                    <div align="right" style="margin-right: 2px; padding-top: 1px;">
+                      <input name="go" type="submit" value="Найти" title="Найти" onClick="return ValidateSearch();" class="button">
+                    </div>
+                    <!-- Замените "mysite" на Ваш партнерский идентификатор! -->
+                    <input type="Hidden" name="Partner" value="actorskhv">
+                    </small></td>
+                </tr>
+              </form>
+              <tr>
+                <td align="center" bgcolor="#ffffcc"><br>
+                  <a href="/ext.php/www.ozon.ru/context/detail/id/4116707/?partner=actorskhv"><strong>Бесплатная доставка на пункты выдачи заказов OZON.ru по всей России!</strong></a>
+                </td>
+              </tr>
+            </table>
+           </noindex>
+          </td>
+        </tr>
+        <tr>
+          <td  class="AdsIndx"><span class="not">
+</span><br></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<noindex>
+  <table width="90%" cellpadding="0" cellspacing="0" border=0 align="center">
+    <tr bgcolor="#9999cc">
+      <td align="left" width="25%" style="padding-left:10px;"><p class=mally>&copy; 1999-2009,
+          <a href="mailto:actors_khv@hotmail.com" style="color: #ffffff;">Елена Потворова</a>
+      </td>
+      <td align="center" width="50%"><p class=mally>Сайт внесен в
+          <a href="/ext.php/newwoman.ru/misc.html" style="color: White;" title="WWWoman">Каталог женских ресурсов</a>
+          О. Таевской</td>
+      <td align="right" width="25%" style="padding-right:10px;"><p class=mally>Обновлено 10.08.09 15:35 </td>
+    </tr>
+    <tr>
+      <td valign="top" align="center" colspan="3">
+        <a href="http://www.songkino.ru" target="_blank">
+        <img src="http://songkino.ru/image/songkino.gif" alt="&quot;Песни из Кинофильмов&quot;" border="0" width="88"height="31">
+        </a>
+        &nbsp;
+        &nbsp;
+        <a href="http://zanami.ru" target="_blank">
+        <img src="http://www.znm.ru/zanami.gif" height="31" width="88" alt="Создание и продвижение сайтов, разработка логотипов, дизайн для печати @ Занами">
+        </a>
+        &nbsp;
+        <!--TopList COUNTER-->
+        <script language="JavaScript"><!--
+d=document;a='';a+=';r='+escape(d.referrer)
+js=10//--></script>
+        <script language="JavaScript1.1"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script>
+        <script language="JavaScript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script>
+        <script language="JavaScript1.3"><!--
+js=13//--></script>
+        <script language="JavaScript"><!--
+d.write('<a href="http://top.list.ru/jump?from=33238"'+
+' target=_top><img src="http://top.list.ru/counter'+
+'?id=33238;t=61;js='+js+a+';rand='+Math.random()+
+'" alt="TopList"'+' border=0 height=31 width=88></a>')
+if(js>11)d.write('<'+'!-- ')//--></script>
+        <noscript>
+        <a
+target=_top href="http://top.list.ru/jump?from=33238">
+        <img
+src="http://top.list.ru/counter?js=na;id=33238;t=61"
+border=0 height=31 width=88
+alt="TopList">
+        </a>
+        </noscript>
+        <script language="JavaScript"><!--
+if(js>11)d.write('--'+'>')//--></script>
+        <!--TopList COUNTER-->
+             </td>
+    </tr>
+  </table>
+</noindex>
+<!-- Google -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10426915-3");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- /Google -->
+</body>
+</html>

@@ -1,0 +1,360 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Сайт содержит подробные сведения о композиторе Петре Ильиче Чайковском и его окружении; рассказы об операх, балетах, симфонических, фортепианных, камерных и других произведениях; воспоминания, письма и многое другое." />
+<meta name="keywords" content="чайковский, петр ильич, tchaikovsky, композитор" />
+<meta name="author" content="Иван Фёдоров" />
+<link rel="stylesheet" type="text/css" href="style.css" title="1024px style" media="screen,projection" />
+<title>Композитор Пётр Ильич Чайковский</title>
+</head>
+
+<body>
+
+<div id="wrap">
+<div id="header">
+<p id="toplinks"><sup><strong>при поддержке</strong></sup> <a target="_blank" href="http://www.belcanto.ru/"><img src="images/belcanto-small.png" alt="Belcanto.ru — классическая музыка, опера и балет" title="Belcanto.ru — классическая музыка, опера и балет" /></a></p>
+
+<h1><a href="/">Чайковский</a></h1>
+<p id="slogan">Жизнь и творчество русского композитора</p>
+
+</div>
+
+<div id="content">
+<h2>Добро пожаловать!</h2>
+
+<p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6537128359380264";
+/* tchaikov-top */
+google_ad_slot = "5890448625";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+
+<script id="13630316171999779">(function(e){var js = document.getElementById("13630316171999779"); var block = document.createElement("div"); block.id = "DIV_DA_"+e+"_"+parseInt(Math.random()*1e3); block.className = "directadvert-block directadvert-block-"+e; block.style = "display:block !important"; js.parentNode.insertBefore(block, js); if("undefined"===typeof window.loaded_blocks_directadvert){window.loaded_blocks_directadvert=[]; function n(){var e=window.loaded_blocks_directadvert.shift(); var t=e.adp_id; var r=e.div; var i=document.createElement("script"); i.async=true; i.charset="windows-1251"; i.src="//code.directadvert.ru/data/"+t+".js?async=1&div="+r+"&t="+Math.random(); var s=document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]; s.appendChild(i); var o=setInterval(function(){if(document.getElementById(r).innerHTML&&window.loaded_blocks_directadvert.length){n(); clearInterval(o)}},50)} setTimeout(n)}window.loaded_blocks_directadvert.push({adp_id:e,div:block.id})})(1999779)</script><!--content_start-->
+
+
+
+
+
+
+<p>
+
+
+
+<img src="images/tchaikovsky2012.jpg" height="286" width="200" alt="Петр Ильич Чайковский" class="left photo">
+
+На одном из <strong>первых мест</strong> среди композиторов, чьи <strong>произведения</strong>, по свидетельству неумолимой статистики, <strong>звучат наиболее часто</strong> во всем мире, стоит имя Петра Ильича Чайковского.</p>
+<p>
+
+
+
+<strong>Монументальная фигура</strong> этого композитора-симфониста, патриота и гражданина, поднявшего <strong>русское музыкальное искусство</strong> на недосягаемую <strong>высоту</strong>, возвышается среди великих художников XIX века. Но вместе с тем благодаря высокому строю своего гуманизма и художественных идеалов, удивительной <strong>доходчивости, доступности</strong> воплощения человеческих чувств и мыслей, подлинной народности и демократизму музыка Чайковского стала <strong>неотъемлемой частью</strong> нашей жизни.</p>
+<p>
+
+
+
+В своем творчестве Чайковский <strong>создал музыкальный язык</strong>, органически связанный с <strong>народной стихией</strong>, с музыкальной жизнью и бытом современной эпохи. Однако национальная <strong>ограниченность была чужда</strong> Чайковскому. Он считал, что <strong>ценность</strong> любой национальной культуры возрастает по мере ее доступности всем народам. И действительно, <strong>его музыка</strong> стала подлинно интернациональной, <strong>завоевав мировое признание</strong>.</p>
+
+
+
+<p class="box"><i>Что касается вообще русского элемента в моей музыке, то есть родственных с народной песнью приемов в мелодии и гармонии, то это происходит вследствие того, что я вырос в глуши, с детства самого раннего проникся неизъяснимой красотой характеристических черт русской народной музыки, что я до страсти люблю русский элемент во всех его проявлениях, что, одним словом, я <strong>русский</strong> в полнейшем смысле этого слова.</i><br>П. И. Чайковский</p>
+<p>
+
+
+
+</p>
+<h3>Избранное:</h3>
+<p>
+
+
+
+</p>
+<li><a href="opera.html">Оперы</a></li>
+
+<dd><a href="voevoda.html">Воевода</a></dd>
+
+<dd><a href="undina.html">Ундина</a></dd>
+
+<dd><a href="oprichnik.html">Опричник</a></dd>
+
+<dd><a href="onegin.html">Евгений Онегин</a></dd>
+
+<dd><a href="deva.html">Орлеанская дева</a></dd>
+
+<dd><a href="mazepa.html">Мазепа</a></dd>
+
+<dd><a href="cherevichki.html">Черевички</a></dd>
+
+<dd><a href="charodeika.html">Чародейка</a></dd>
+
+<dd><a href="dama.html">Пиковая дама</a></dd>
+
+<dd><a href="iolanta.html">Иоланта</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="ballet.html">Балеты</a></li>
+
+<dd><a href="lake.html">Лебединое озеро</a></dd>
+
+<dd><a href="krasavitsa.html">Спящая красавица</a></dd>
+
+<dd><a href="nutr.html">Щелкунчик</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="symphony.html">Симфоническое творчество</a></li>
+
+<dd><a href="grosa.html">«Гроза», увертюра к драме</a></dd>
+
+<dd><a href="symphony1.html">Первая симфония «Зимние грезы»</a></dd>
+
+<dd><a href="symphony4.html">Четвертая симфония</a></dd>
+
+<dd><a href="symphony5.html">Пятая симфония</a></dd>
+
+<dd><a href="symphony6.html">Шестая симфония «Патетическая»</a></dd>
+
+<dd><a href="manfred.html">«Манфред», симфония</a></dd>
+
+<dd><a href="fatum.html">«Фатум», фантазия</a></dd>
+
+<dd><a href="romeo.html">«Ромео и Джульетта», увертюра-фантазия</a></dd>
+
+<dd><a href="franceska.html">«Франческа да Римини», симфоническая фантазия по Данте</a></dd>
+
+<dd><a href="1812.html">«1812 год», торжественная увертюра</a></dd>
+
+<dd><a href="marche.html">Славянский марш</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="concerto.html">Концерты и концертные пьесы</a></li>
+
+<dd><a href="concerto1.html">Первый концерт для фортепиано с оркестром</a></dd>
+
+<dd><a href="rococo.html">Вариации на тему рококо</a></dd>
+
+<dd><a href="concerto_violin.html">Концерт для скрипки с оркестром</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="drama.html">Музыка к спектаклям драматического театра</a></li>
+
+<dd><a href="snegurochka.html">«Снегурочка», музыка к сказке А. Н. Островского</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="choir.html">Хоровое творчество</a></li>
+
+<dd><a href="dukhovnaya.html">Духовная музыка</a></dd>
+
+<dd><a href="liturgia.html">Литургия Святого Иоанна Златоустого</a></dd>
+
+<dd><a href="deviat.html">Девять духовно-музыкальных сочинений</a></dd>
+
+<p>
+
+
+
+</p>
+<li><a href="camera.html">Камерно-инструментальная музыка</a></li>
+
+<dd><a href="quartet1.html">Первый квартет, Op. 11</a></dd>
+
+<dd><a href="trio.html">Трио «Памяти великого художника»</a></dd>
+
+<dd><a href="florenzia.html">Секстет «Воспоминание о Флоренции»</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="piano.html">Фортепианная музыка</a></li>
+
+<dd><a href="vremena.html">Времена года</a></dd>
+
+<dd><a href="detsky.html">Детский альбом</a></dd>
+
+<dd><a href="12pies.html">12 пьес средней трудности, Op. 40</a></dd>
+
+<dd><a href="18pies.html">18 фортепианных пьес, Op. 72</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="romance.html">Романсы и песни</a></li>
+
+<dd><a href="romance.html">Романсы</a></dd>
+
+<dd><a href="moy.html">Мой гений, мой ангел, мой друг...</a></dd>
+
+<dd><a href="16pesen.html">16 песен для детей, Op. 54</a></dd>
+
+<dd><a href="6romances.html">6 романсов, Op. 73</a></dd>
+
+
+
+<p>
+
+
+
+</p>
+<li><a href="fonmekk.html">Переписка с Н. Ф. фон Мекк</a></li>
+
+
+
+<p>
+
+
+
+<a href="mekk1876.html"><b>1876 год</b></a> | <a href="mekk1877.html"><b>1877 год</b></a> | <a href="mekk1878.html"><b>1878 год (I часть)</b></a> | <a href="mekk1878-2.html"><b>1878 год (II часть)</b></a> | <a href="mekk1879.html"><b>1879 год (I часть)</b></a> | <a href="mekk1879-2.html"><b>1879 год (II часть)</b></a> | <a href="mekk1880.html"><b>1880 год (I часть)</b></a> | <a href="mekk1880-2.html"><b>1880 год (II часть)</b></a> | <a href="mekk1881.html"><b>1881 год (I часть)</b></a> | <a href="mekk1881-2.html"><b>1881 год (II часть)</b></a> | <a href="mekk1882.html"><b>1882 год</b></a> | <a href="mekk1883.html"><b>1883 год</b></a> | <a href="mekk1884.html"><b>1884 год</b></a> | <a href="mekk1885.html"><b>1885 год</b></a> | <a href="mekk1886.html"><b>1886 год</b></a> | <a href="mekk1887.html"><b>1887 год</b></a> | <a href="mekk1888.html"><b>1888 год</b></a> | <a href="mekk1889.html"><b>1889 год</b></a> | <a href="mekk1890.html"><b>1890 год</b></a></p>
+<p>
+
+
+
+</p>
+<li>
+<a href="memuar.html">Воспоминания о Чайковском</a>: <a href="memuar-1.html">I</a> | <a href="memuar-2.html">II</a>
+</li>
+<p>
+
+
+
+</p>
+<li>
+<a href="modest-book.html">Чайковский М. «Жизнь Петра Ильича Чайковского»</a>. <strong>Том I:</strong> <a href="modest-book01.html">I — III</a> | <a href="modest-book02.html">IV</a>
+</li><p>
+
+</p>
+<li>
+<a href="taneev_dama.html">Заметки С. И. Танеева на полях клавира «Пиковой дамы»</a>
+</li>
+
+
+
+
+
+
+
+
+<!--content_end--><p><!-- Яндекс.Директ -->
+<script type="text/javascript">
+yandex_partner_id = 88064;
+yandex_site_bg_color = 'FFFFFF';
+yandex_ad_format = 'direct';
+yandex_direct_type = '728x90';
+yandex_direct_title_color = 'CC0066';
+yandex_direct_url_color = '666666';
+yandex_direct_text_color = '000000';
+yandex_direct_hover_color = 'FF0080';
+yandex_direct_favicon = true;
+yandex_no_sitelinks = false;
+document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');
+</script></p>
+
+<script id="6412715111999778">(function(e){var js = document.getElementById("6412715111999778"); var block = document.createElement("div"); block.id = "DIV_DA_"+e+"_"+parseInt(Math.random()*1e3); block.className = "directadvert-block directadvert-block-"+e; block.style = "display:block !important"; js.parentNode.insertBefore(block, js); if("undefined"===typeof window.loaded_blocks_directadvert){window.loaded_blocks_directadvert=[]; function n(){var e=window.loaded_blocks_directadvert.shift(); var t=e.adp_id; var r=e.div; var i=document.createElement("script"); i.async=true; i.charset="windows-1251"; i.src="//code.directadvert.ru/data/"+t+".js?async=1&div="+r+"&t="+Math.random(); var s=document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]; s.appendChild(i); var o=setInterval(function(){if(document.getElementById(r).innerHTML&&window.loaded_blocks_directadvert.length){n(); clearInterval(o)}},50)} setTimeout(n)}window.loaded_blocks_directadvert.push({adp_id:e,div:block.id})})(1999778)</script>
+
+</div>
+
+<div id="sidebar">
+<h2>Содержание:</h2>
+<ul>
+<li><a href="index.html">Главная</a></li>
+<li><a href="biography.html">Биография</a></li>
+<li><a href="work.html">Произведения</a></li>
+<li><a href="article.html">Статьи</a></li>
+<li><a href="memuar.html">Воспоминания</a></li>
+<li><a href="letter.html">Письма</a></li>
+<li><a href="book.html">Книги</a></li>
+<li><a href="person.html">Персоналии</a></li>
+<li><a href="music.html">Записи</a></li>
+<li><a href="photo.html">Фотоальбом</a></li>
+<li><a href="dic.html">Оперный словарь</a></li>
+<li><a href="about.html">О проекте</a></li>
+</ul>
+
+<h2>Реклама:</h2>
+
+<p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6537128359380264";
+/* tchaikov-left */
+google_ad_slot = "1963171022";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+
+</div>
+
+<div id="footer">
+<p><a href="index.html">Главная</a> | <a href="biography.html">Биография</a> | <a href="work.html">Произведения</a> | <a href="article.html">Статьи</a> | <a href="memuar.html">Воспоминания</a> | <a href="letter.html">Письма</a> | <a href="book.html">Книги</a> | <a href="person.html">Персоналии</a> | <a href="music.html">Записи</a> | <a href="photo.html">Фотоальбом</a> | <a href="dic.html">Оперный словарь</a> | <a href="about.html">О проекте</a><br />
+2003&#8212;2018 &copy; «<a href="/">Чайковский</a>». Проект <noindex><a href="http://www.belcanto.ru/fedorov.html" target="_blank">Ивана Фёдорова</a></noindex><br /><br />
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t15.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</p>
+</div>
+
+</div>
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2853148-6");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

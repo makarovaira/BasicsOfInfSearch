@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>Музей - Усадьба Останкино. Добро пожаловать.</title>
+<meta http-equiv="author" content="www.museum.ru">
+<meta name="keywords" content="moscow, russia, museum, estate, exhibition, collection.">
+<meta name="keywords" content="музей , театр , останкино , шереметевы , выставка , усадьба , россия , исскуство , картина , москва , живопись , история , парк , спектакль , экскурсия.">
+
+<meta name="description" lang="en" content="museum, Russia, culture, art">
+<meta name="description" lang="ru" content="Оффициальный сайт музея - усадьбы Останкино в Москве.">
+
+</head>
+<body b__gcolor="#FFE0AD" text="#3C5688" leftmargin=0 topmargin=0 link="#1B326A" vlink="#1B326A" alink="#FF0000">
+<noindex><h1><center><br><br><br><br><a href="\" onClick="location.href='http://www.ostankino-museum.ru'; return false;">www.ostankino-museum.ru</a></center></h1></noindex>
+
+<center style="display:none;">
+
+<br><br><br>
+<img src="img/main_top.gif" width=616 height=58 border=0 alt=" музей-усадьба останкино | museum estate ostankino ">
+<br><br>
+<img src="img/main_bot.gif" width=650 height=191 border=0 usemap="#map">
+
+<br><br>
+
+<table border="0" cellpadding="5" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 10px;">
+<tr>
+	<td align="center"><A HREF="guest.htm"><b>Гостевая книга</a></b>&nbsp; | &nbsp;<A HREF="cafe.htm"><b>Форум</b></A> портала <a href="http://www.museum.ru"><b>"Музеи России"</b></A> &nbsp;| &nbsp;<A HREF="news.htm"><b>Новости</b></A> портала <a href="http://www.museum.ru"><b>"Музеев России"</b></A>
+	</td>
+</tr>
+</table>
+
+<br><br>
+
+<table cellpadding="3">
+<td align="center" valign="bottom">
+<a target="_top" href="http://z.extreme-dm.com/s/?tag=ostank">
+<img name=im src="http://z0.extreme-dm.com/i/" height=38 border=0
+width=41 alt=""></a><script language="javascript"><!--
+an=navigator.appName;d=document;function
+pr(){d.write("<img src=\"http://z1.extreme-dm.com",
+"/z/?tag=ostank&j=y&srw="+srw+"&srb="+srb+"&",
+"rs="+r+"&l="+escape(parent.document.referrer)+"\" height=1 ",
+"width=1>");}srb="na";srw="na";//-->
+</script><script language="javascript1.2"><!--
+s=screen;srw=s.width;an!="Netscape"?
+srb=s.colorDepth:srb=s.pixelDepth;//-->
+</script><script language="javascript"><!--
+r=41;d.images?r=d.im.width:z=0;pr();//-->
+</script><noscript><img height=1 width=1 alt=""
+src="http://z1.extreme-dm.com/z/?tag=ostank&j=n"></noscript>
+
+</td><td align="center" valign="bottom">
+
+<script language="javascript">document.write(MRVote);</script>
+
+</td><td align="center" valign="bottom">
+
+<A HREF="http://www.museum.ru/" target="_parent"><IMG SRC="http://srv.museum.ru/img/IMR1.gif" width=88 height=31 BORDER=0 ALT="Музеи России - Museums of Russia - WWW.MUSEUM.RU"></A>
+
+</td><td align="center" valign="bottom">
+
+<!--begin of Top100-->
+<a href="http://counter.rambler.ru/top100/"><img
+src="http://counter.rambler.ru/top100.cnt?71784" alt="Rambler's Top100
+Service" width=41 height=38 border=0></a>
+<!--end of Top100 code-->
+
+</td>
+</table>
+
+<br><br>
+
+<!-- Banner Code -->
+<A HREF="http://srv.museum.ru/banner.asp?url">
+<IMG SRC="http://srv.museum.ru/banner.asp" BORDER=1 WIDTH=468 HEIGHT=60 ALT="Cultural Banners Exchange"></A>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<br><br>
+<!-- <img src="img/copy.gif" width=650 height=20 border=0 alt="copyrights" usemap="#map2"> -->
+
+<table width="700">
+<tr>
+<td colspan=3><img src="img/copy_big.gif" width=716 height=13 border=0 alt="copyrights"></td>
+</tr><tr>
+<td><font color="#BA9D6D" size="1" face="Arial"><b>Copyright (c) 1998<br> Museum Estate Ostankino</b></font></td><!--  #8E6744 -->
+<td align="center"><font face="Arial" size="1" color="#BA9D6D"><a href="http://www.museum.ru" class="copy">Музеи Петербурга и Москвы</a></td>
+<td align="right"><font face="Arial" size="1" color="#BA9D6D" class="copy"><b><script>document.write('(с) 1998 <a href="http://10t.ru/" style="text-decoration:none;color:black;" title="Создание и размещение сайта">Создание и размещение сайта &mdash;<br>компания 10t.ru</a>');</script></b></td>
+
+</tr>
+</table>
+
+<br><br>
+
+</center>
+
+<map name="map">
+<area shape=rect coords="85,5,150,35" href=1.htm alt="история усадьбы">
+<area shape=rect coords="17,48,236,68" href=1.htm alt="история усадьбы">
+<area shape=rect coords="6,73,223,94" href=2.htm alt="театр в останкино">
+<area shape=rect coords="2,100,220,120" href=3.htm alt="коллекции усадьбы">
+<!-- <area shape=rect coords="8,123,224,145" href=4.htm alt="шереметевы и москва"> -->
+<area shape=rect coords="16,148,239,170" href=5.htm alt="информация о музее">
+</map>
+
+<!--
+<area shape=rect coords="408,46,634,69" href=1_e.htm alt="history of estate">
+<area shape=rect coords="428,72,645,94" href=2_e.htm alt="theatre of ostankino">
+<area shape=rect coords="432,97,648,120" href=3_e.htm alt="museum collections">
+<area shape=rect coords="425,125,645,145" href=4_e.htm alt="sheremetev's and moscow">
+<area shape=rect coords="411,148,637,170" href=5_e.htm alt="information for visitors">
+-->
+
+<map name="map2">
+<area shape=rect coords="452,-5,644,22" href=mailto:internet@museum.ru alt="copyrights">
+<area shape=rect coords="273,-6,376,20" href="http://www.museum.ru/internet/" target="_top">
+</map>
+
+</body>
+</html>

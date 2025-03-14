@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html lang="ru" class="h-100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='cleartype' content='on'>
+<meta name='imagetoolbar' content='no'>
+<meta name='HandheldFriendly' content='True'>
+<meta name='format-detection' content='telephone=no'>
+<meta name='format-detection' content='address=no'>
+<meta name='google' value='notranslate'>
+
+<meta name='msthemecompatible' content='no'>
+<meta name='theme-color' content='#ffffff'>
+<meta name='apple-mobile-web-app-capable' content='yes'>
+<meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
+<meta name='msapplication-tooltip' content=''>
+<meta name='msapplication-TileColor' content='#ffffff'>
+<meta name='msapplication-starturl' content=''>
+<meta name='msapplication-tap-highlight' content='no'>
+<link rel='shortcut icon' sizes='16x16' type='image/x-icon' href='/favicon-16x16.ebe2178a.ico'>    <meta name="yandex-verification" content="1cdb2bdd29373da5" />
+<meta name="yandex-verification" content="bef04c29aa206307"/>
+
+<!--mosfilmgold 90341278-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(90341278, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/90341278" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript">
+    !function () {
+        var t = document.createElement("script");
+        t.type = "text/javascript",
+            t.async = !0,
+            t.src = "https://vk.com/js/api/openapi.js?168",
+            t.onload = function () {
+                VK.Retargeting.Init("VK-RTRG-585011-gbjc1"),
+                    VK.Retargeting.Hit()
+            },
+            document.head.appendChild(t)
+    }();
+</script>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-585011-gbjc1" style="position:fixed; left:-999px;" alt=""/></noscript>
+        <title>Мосфильм. Золотая коллекция – официальный сайт телеканала</title>
+    <meta property="og:title" content="Мосфильм. Золотая коллекция – официальный сайт телеканала">
+<meta name="application-name" content="Мосфильм. Золотая коллекция – официальный сайт телеканала">
+<meta name="apple-mobile-web-app-title" content="Мосфильм. Золотая коллекция – официальный сайт телеканала">
+<meta property="og:description" content="Официальный сайт телекаканала Мосфильм. Золотая Коллекция — это телеканал эксклюзивного и премьерного доступа к золотому фонду отечественного кинем...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://mosfilmgold.ru/">
+<meta name="description" content="Официальный сайт телекаканала Мосфильм. Золотая Коллекция — это телеканал эксклюзивного и премьерного доступа к золотому фонду отечественного кинем...">
+<meta name="keywords" content="">
+<meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="Mk_AYnczE4Cpg026Yt0IQbxCy_2rhQkOZog1U1bR_4ZgN5IyDQRLsOz2F-sV7W107jSS0JzWOzdW4QIbb4KF_g==">
+
+<link href="/dist/main.css?v=1730216323" rel="stylesheet">
+<script src="/assets/1284ede4/js/banner-script.js?v=1698144848"></script>
+<script src="https://yandex.ru/ads/system/context.js" async="async"></script></head>
+<body class="load">
+<section class='wrapper'>
+    <section class="branding">
+        <div class="carousel carousel--branding">
+            <div class="carousel__button carousel__button--prev swiper-button"></div>
+            <div class="carousel__container swiper-container">
+                <div class="carousel__list swiper-wrapper">
+                    <div class="carousel__item swiper-slide" style="background-image: url('/assets/cached/2025/01/thumbnail/1600__q100_fon1.png');"></div>
+                </div>
+            </div>
+            <div class="carousel__button carousel__button--next swiper-button"></div>
+            <div class="carousel__pagination swiper-pagination"></div>
+        </div>
+    </section>
+    <div class="bg container">
+        <header class="header">
+            <div class="header__wrapper">
+                <div class="header__burger">
+                    <button class="burger js-burger">
+                        <div class="burger__lines"> <span class="burger__line burger__line--1"></span> <span class="burger__line burger__line--2"></span> <span class="burger__line burger__line--3"></span> </div>
+                    </button>
+                </div>
+                <div class="header__logo  mobile-hidden">
+                    <a class="logo" href="/"> <img class="w-100" src="https://ct-bank.digitalrussia.tv/files/2025/03/mosfilmgold1.svg" alt="Мосфильм. Золотая коллекция – официальный сайт телеканала"> </a>
+                </div>
+                <div class="header__logo--mobile">
+                    <a class="logo logo--mobile" href="/"><img class="w-100" src="https://ct-bank.digitalrussia.tv/files/2025/03/mosfilmgold1.svg" alt="Мосфильм. Золотая коллекция – официальный сайт телеканала"></a>
+                </div>
+                <div class="header__menu mobile-hidden">
+                    <nav class="menu">
+                        <div class="menu__list">
+
+                            <a class="menu__item " href="/#about" title="О канале">О канале</a>                            <a class="menu__item " href="/program" title="Телепрограмма">Телепрограмма</a>                            <a class="menu__item " href="/news" title="Новости">Новости</a>                            <a class="menu__item " href="/tests" title="Спецпроекты">Спецпроекты</a>                            <a class="menu__item " href="/#contacts" title="Контакты">Контакты</a>                            
+                            <!-- Пункт меню КИНО -->
+                            <a class="menu__item vkino" href="https://kino.mosfilmgold.ru" target="_blank" title="«Золотая коллекция» в кино"><span>В КИНО</span></a>
+
+                        </div>
+                    </nav>
+                </div>
+                <div class="header__social  mobile-hidden">
+                    <div class="social">
+                                                    <div class="social__list">
+                                <a class="social__item" href="https://zen.yandex.ru/id/5f43a6c56c8e847f63ec69ac" alt="zen" title="zen" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-zen.svg" alt="zen"></a><a class="social__item" href="https://vk.com/mosfilmgold" alt="vk" title="vk" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_vk.svg" alt="vk"></a><a class="social__item" href="https://ok.ru/mosfilmgold" alt="ok" title="ok" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_ok.svg" alt="ok"></a><a class="social__item" href="https://t.me/mosfilmgold" alt="Telegram" title="Telegram" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-tg.svg" alt="Telegram"></a>                            </div>
+                                            </div>
+                </div>
+                <div class="header__search  mobile-hidden">
+                    <div class="search">
+                        <form class="search__form" action="/search">
+                            <input class="search__input" placeholder="поиск" type="search" value="" name="search" id="search" /> </form>
+                    </div>
+                </div>
+            </div>
+            <div class="header__panel">
+                <div class="header__wrapper header__wrapper--mobile">
+                    <div class="header__data">
+                        <div class="header__social header__social--mobile">
+                            <div class="social social--mobile">
+                                                                <div class="social__list">
+                                    <a class="social__item" href="https://zen.yandex.ru/id/5f43a6c56c8e847f63ec69ac" alt="zen" title="zen" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-zen.svg" alt="zen"></a><a class="social__item" href="https://vk.com/mosfilmgold" alt="vk" title="vk" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_vk.svg" alt="vk"></a><a class="social__item" href="https://ok.ru/mosfilmgold" alt="ok" title="ok" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_ok.svg" alt="ok"></a><a class="social__item" href="https://t.me/mosfilmgold" alt="Telegram" title="Telegram" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-tg.svg" alt="Telegram"></a>                                </div>
+                                                            </div>
+                        </div>
+                        <div class="header__search header__search--mobile">
+                            <div class="search">
+                                <form class="search__form" action="/search">
+                                    <input class="search__input" placeholder="поиск" type="search" value="" name="search" id="search" /> </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header__menu header__menu--mobile">
+                        <nav class="menu menu--mobile">
+                            <div class="menu__list">
+                                <a class="menu__item " href="/#about" title="О канале">О канале</a>                                <a class="menu__item " href="/program" title="Телепрограмма">Телепрограмма</a>                                <a class="menu__item " href="/news" title="Новости">Новости</a>                                <a class="menu__item " href="/tests" title="Спецпроекты">Спецпроекты</a>                                <a class="menu__item " href="/#contacts" title="Контакты">Контакты</a>                                
+<!-- Пункт меню КИНО -->
+<a class="menu__item vkino" href="https://kino.mosfilmgold.ru" target="_blank" title="«Золотая коллекция» в кино"><span>В КИНО</span></a>
+
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="ads ads_main-top">
+            <div class="ads__banner ads__banner_desktop">
+                <div id="desktop_top"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"desktop_top","type":null,"params":{"p1":"czowk","p2":"hfln"},"platform":"desktop"}
+         )
+    })</script>            </div>
+            <div class="ads__banner ads__banner_mobile">
+                <div id="mobile_top"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"mobile_top","type":null,"params":{"p1":"czoxa"},"platform":"touch"}
+         )
+    })</script>            </div>
+        </div>
+        <section class="container container--1">
+    <section class="container__content">
+        <div class="content">
+            <section class="section section--promo">
+                <div class="section__content">
+                                        <div class="promo">
+                        <div class="promo__carousel">
+                            <div class="carousel carousel--promo">
+                                <div class="carousel__container swiper-container">
+                                    <div id="w0" class="carousel-list swiper-wrapper"><div class="carousel__item item swiper-slide">
+            <div class="item__visual">
+                        <div class="scale-visual-video">
+                <iframe class="scale-visual-video--item" src="https://vkvideo.ru/video_ext.php?oid=-197986916&id=456242045&hd=2&autoplay=1"
+                        frameborder="0" allowfullscreen></iframe>
+            </div>
+                    </div>
+        <div class="item__content">
+        <div class="item__title">Двенадцать стульев </div>
+                    <div class="item__date">Сб, 21:30</div>
+            </div>
+</div>
+<div class="carousel__item item swiper-slide">
+            <div class="item__visual">
+                        <div class="scale-visual-video">
+                <iframe class="scale-visual-video--item" src="https://vkvideo.ru/video_ext.php?oid=-197986916&id=456242044&hd=2&autoplay=1"
+                        frameborder="0" allowfullscreen></iframe>
+            </div>
+                    </div>
+        <div class="item__content">
+        <div class="item__title">Верные друзья </div>
+                    <div class="item__date">Пт, 21:00</div>
+            </div>
+</div>
+<div class="carousel__item item swiper-slide">
+            <div class="item__visual">
+                        <div class="scale-visual-video">
+                <iframe class="scale-visual-video--item" src="https://vkvideo.ru/video_ext.php?oid=-197986916&id=456242046&hd=2&autoplay=1"
+                        frameborder="0" allowfullscreen></iframe>
+            </div>
+                    </div>
+        <div class="item__content">
+        <div class="item__title">Джентльмены удачи </div>
+                    <div class="item__date">Сб, 19:50</div>
+            </div>
+</div>
+<div class="carousel__item item swiper-slide">
+            <div class="item__visual">
+                        <div class="scale-visual-video">
+                <iframe class="scale-visual-video--item" src="https://vkvideo.ru/video_ext.php?oid=-197986916&id=456242010&hd=2"
+                        frameborder="0" allowfullscreen></iframe>
+            </div>
+                    </div>
+        <div class="item__content">
+        <div class="item__title">Весна</div>
+            </div>
+</div></div>                                </div>
+                                <div class="carousel__button carousel__button--next swiper-button">
+                                    <svg class="carousel__icon"></svg>
+                                </div>
+                                <div class="carousel__button carousel__button--prev swiper-button">
+                                    <svg class="carousel__icon"></svg>
+                                </div>
+                                <div class="carousel__pagination swiper-pagination">
+                                    <div class="carousel--promo carousel--promo-pag">
+                                        <div class="promo__pagination"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </section>
+            <section class="section section--schedule">
+                <div class="section__content">
+                    <div class="schedule">
+                        <div class="schedule__carousel schedule__carousel--list">
+                            <div class="carousel carousel--program carousel--program-list">
+                                <div class="carousel__button carousel__button--prev swiper-button"> <img class="carousel__button_img " /> </div>
+                                <div class="carousel__container swiper-container js-schedule-carousel">
+                                    <div class="carousel__list swiper-wrapper" id="programLine">
+                                                                                    <div class="carousel__item item swiper-slide" data-time=12:40>
+    <div class="item__content">
+        <h3 class="item__live">Сейчас в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">12:40</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">1978,
+                </h2>
+                <h2 class="item__title">Сдается квартира с ребенком</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2025/03/thumbnail/287_108_q100_sdaetsya_kvartira_s_rebenkom_1978_1_287x108.jpg" alt="Сдается квартира с ребенком" title="Сдается квартира с ребенком">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                                                                                                            <div class="carousel__item item swiper-slide" data-time=14:05>
+    <div class="item__content">
+        <h3 class="item__live">Смотрите  в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">14:05</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">1988,
+                </h2>
+                <h2 class="item__title">Дорогая Елена Сергеевна</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2023/04/thumbnail/287_108_q100_1747ce9d-8560-4000-8a49-5fba6fc30200_1_.png" alt="Дорогая Елена Сергеевна" title="Дорогая Елена Сергеевна">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                            <div class="carousel__item item swiper-slide" data-time=15:45>
+    <div class="item__content">
+        <h3 class="item__live">Смотрите  в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">15:45</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">1983,
+                </h2>
+                <h2 class="item__title">Чучело</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2023/04/thumbnail/287_108_q100_17676295-23e0-4000-8914-ea29cf6c5f00_1_.jpeg" alt="Чучело" title="Чучело">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                            <div class="carousel__item item swiper-slide" data-time=18:00>
+    <div class="item__content">
+        <h3 class="item__live">Смотрите  в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">18:00</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">2006,
+                </h2>
+                <h2 class="item__title">Тайны следствия-6. Защита свидетеля</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2023/04/thumbnail/287_108_q100_17555c99-cd90-4000-83a3-939ea412dc00_1_.jpeg" alt="Тайны следствия-6. Защита свидетеля" title="Тайны следствия-6. Защита свидетеля">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                            <div class="carousel__item item swiper-slide" data-time=19:45>
+    <div class="item__content">
+        <h3 class="item__live">Смотрите  в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">19:45</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">1986,
+                </h2>
+                <h2 class="item__title">Курьер</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2023/04/thumbnail/287_108_q100_1747d2b2-c4e0-4000-8576-83007a7a1300_1_.png" alt="Курьер" title="Курьер">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                            <div class="carousel__item item swiper-slide" data-time=21:20>
+    <div class="item__content">
+        <h3 class="item__live">Смотрите  в&nbsp;эфире</h3>
+        <div class="item__wrapper">
+            <div class="item__date">12 марта</div>
+            <div class="item__time">21:20</div>
+        </div>
+        <div class="item__wrapper">
+            <div class="item__container"> <span class="item__age">16+</span>
+                <h2 class="item__year">1987,
+                </h2>
+                <h2 class="item__title">Друг</h2> </div>
+            <div class="item__descr"></div>
+        </div>
+        <div class="item__wrapper item__wrapper_img">
+            <img class="item__img" src="/assets/cached/2024/06/thumbnail/287_108_q100_drug_1987_287x108.jpg" alt="Друг" title="Друг">        </div>
+        <div class="item__wrapper">
+            <button class="item__share">
+                <img class="item__share_img" id="imgShare" /> Поделиться</button>
+        </div>
+    </div>
+</div>                                                                                                                        </div>
+                                </div>
+                                <div class="carousel__button carousel__button--next swiper-button">
+                                    <img class="carousel__button_img" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <img class="arc schedule__arc schedule__arc--1" id="arc--1" />
+                    <img class="arc schedule__arc schedule__arc--2" id="arc--2" />
+                </div>
+            </section>
+            <div class="ads ads_main-middle">
+                <div class="ads__banner ads__banner_desktop">
+                    <div id="desktop_middle"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"desktop_middle","type":null,"params":{"p1":"czowl","p2":"etsw"},"lazyLoad":{"fetchMargin":50}}
+         )
+    })</script>                </div>
+                <div class="ads__banner ads__banner_mobile">
+                    <div id="mobile_middle"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"mobile_middle","type":null,"params":{"p1":"czoxb","p2":"hfiu"},"lazyLoad":{"fetchMargin":200,"mobileScaling":2}}
+         )
+    })</script>                </div>
+            </div>
+                        <section class="section section--popular">
+                <div class="container container--3">
+                    <div class="section__header">
+                        <div class="section__title">Главное на неделе</div> <a class="section__title--block" href="/program">Телепрограмма</a> </div>
+                    <div class="section__content">
+                        
+<div class="popular__row ">
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_1747d286-66c0-4000-80ce-da90a66dff00_1_.png" alt="Тегеран-43" title="Тегеран-43">        </div>
+        <div class="card__right card_1">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Тегеран-43</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Художественный фильм</div>
+                    <div class="card__year hidden">1980</div>
+                    <div class="card__text hidden">На Тегеранской конференции 1943 года советским спецслужбам удалось предотвратить покушение на лидеров трех держав антигитлеровской коалиции - Сталина, Рузвельта и Черчилля. Однако организатору покушения и его главному подручному удается бежать. Через тридцать лет интерес к этой истории возрождается - неожиданно появилась считавшаяся утерянной плёнка с кинохроникой террористической операции. Советский разведчик Андрей Бородин, отправляется по следам долгожданной находки, чтобы разоблачить тех, кому удалось уйти от возмездия, и спасти любовь всей своей жизни - Мари Луни, живую свидетельницу событий в Тегеране, на которую охотятся террористы.</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_1747d288-8b10-4000-8aec-e38c6549a900_1_.png" alt="Тегеран-43" title="Тегеран-43">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    </div>
+                        
+<div class="popular__row ">
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_18510537-27c0-4000-839b-aeb357813700_1_.png" alt="Неподдающиеся" title="Неподдающиеся">        </div>
+        <div class="card__right card_2">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Неподдающиеся</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Художественный фильм</div>
+                    <div class="card__year hidden">1959</div>
+                    <div class="card__text hidden">Толя Грачкин и Витя Громобоев давно прослыли неподдающимися ни труду, ни науке, ни воспитанию. Дружки только и делают, что портят репутацию своей заводской бригады. Последняя надежда коллектива - ударница труда комсомолка Надя Берестова, которая и получила партийное задание перевоспитать шалопаев. Притворившись влюбленной в своих подопечных, Надя достигает того, что не смогли сделать ни увещевания, ни просьбы, ни приказы…</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_174f59e5-6a90-4000-88fb-87cfba14b400_1_.png" alt="Неподдающиеся" title="Неподдающиеся">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_179c1cf8-e5a0-4000-8cd8-c168d3442d00_1_.jpeg" alt="Председатель" title="Председатель">        </div>
+        <div class="card__right card_3">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Председатель</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Художественный фильм</div>
+                    <div class="card__year hidden">1964</div>
+                    <div class="card__text hidden">Фронтовик Егор Трубников возвращается в родную деревню Коньково ради новой борьбы, но уже в мирной жизни. Егора ждет большое дело - восстановление разоренного войной хозяйства. Избранный новым председателем, он искренне и горячо стремится поправить дела колхоза и судьбы обездоленных односельчан...</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_179c1cf7-5010-4000-8c5c-6837e5a95c00_1_.jpeg" alt="Председатель" title="Председатель">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    </div>
+                        
+<div class="popular__row ">
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_1783b18b-6110-4000-8fa8-6f8b841e7f00_1_.jpeg" alt="Ко мне, Мухтар!" title="Ко мне, Мухтар!">        </div>
+        <div class="card__right card_4">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Ко мне, Мухтар!</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Художественный фильм</div>
+                    <div class="card__year hidden">1964</div>
+                    <div class="card__text hidden">Овчарка Мухтар, брошенный прямо в вагоне поезда капризной хозяйкой, попадает на перевоспитание в кинологический питомник. Много сил, терпения и любви потребовалось младшему лейтенанту Глазычеву, чтобы "преобразовать" пережившего предательство, озлобленного и недоверчивого питомца в превосходную служебно-розыскную собаку, самоотверженно преданную своему "проводнику" и делу.</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_1783b18d-1110-4000-8968-356da98d2000_1_.jpeg" alt="Ко мне, Мухтар!" title="Ко мне, Мухтар!">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_185d55e8-1f00-4000-885b-bb4a505f4d00_1_.jpg" alt="Место встречи изменить нельзя" title="Место встречи изменить нельзя">        </div>
+        <div class="card__right card_5">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Место встречи изменить нельзя</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Сериал</div>
+                    <div class="card__year hidden">1979</div>
+                    <div class="card__text hidden">Столица только начала возвращаться к мирной жизни после самой жестокой войны XX века. Но и в это непросто время находятся люди, которые предпочитают честному и мирному труду грабежи и разбой. Блюстители порядка, сотрудники МУРа, опытный чекист Глеб Жеглов и новичок Владимир Шарапов, ловят банду «Чёрная кошка», которая чередой дерзких убийств и ограблений взбудоражила всю Москву. Жеглов неумолим: «Вор должен сидеть в тюрьме». Удастся ли напарникам одержать победу в поединке с хладнокровным, безжалостным и хитрым противником? Запутанный клубок событий, засады, погони, перестрелки и роковая спецоперация на месте встречи, которое «изменить нельзя».</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_17442e64-7c00-4000-8296-1f029aaea700_1_.jpeg" alt="Место встречи изменить нельзя" title="Место встречи изменить нельзя">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+        <div class="popular__card card">
+        <div class="card__left">
+            <img class="card__img" src="/assets/cached/2023/04/resize/530_260_q100_175881b2-12a0-4000-8894-e376b88e4200_1_.jpeg" alt="Кортик" title="Кортик">        </div>
+        <div class="card__right card_6">
+            <div class="card__inner_left card__inner">
+                <div class="card__wrapper">
+                    <div class="card__title">Кортик</div>
+                </div>
+                <div class="card__wrapper">
+                    <div class="card__wrapper_inner">
+                        <div class="card__age">
+                            <span class="card__age--value">
+                                16+                            </span>
+                        </div>
+                    </div>
+                    <div class="card__genre">Сериал</div>
+                    <div class="card__year hidden">1973</div>
+                    <div class="card__text hidden">Отважные пионеры Миша Поляков, Генка Петров и Слава Эльдаров пытаются раскрыть тайну офицерского кортика, хранящего шифрованное послание. За загадочным трофеем охотились еще до революции, и теперь коварные бандиты не упустят возможности завладеть бесценным клинком.</div>
+                    <div class="card__short-descr hidden"></div>
+                    <div class="card__full-img hidden">
+                        <img class="card__full-img_img" src="/assets/cached/2023/04/resize/210_260_q100_175881b6-7d70-4000-824a-7589a4538e00_1_.jpeg" alt="Кортик" title="Кортик">                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    </div>
+                    </div>
+                </div>
+            </section>
+                        <section class="golden-collection" id="about"> <img class="arc golden-collection__arc golden-collection__arc--3" id="arc--3" />
+                <video class="golden-collection__video" src="/startvideo.mp4" loop autoplay muted preload="none" playsinline></video>
+                <div class="golden-collection__overlay"></div> <img class="arc golden-collection__arc golden-collection__arc--4" id="arc--4" />
+            </section>
+            <section class="section section--contacts">
+                <div class="section__header">
+                    <div class="section__title" id="contacts">КОНТАКТЫ</div>
+                </div>
+                <div class="section__content">
+                    <div class="contacts">
+                        <div class="contacts__wrapper">
+                            <p>По вопросам заключения договора на трансляцию канала и за дополнительной информацией обращайтесь к официальному дистрибутору - компании «СИГНАЛ МЕДИА»: <a href="tel:+74957807674">+7 (495) 780-76-74</a>, <a href="mailto:contact@signalmedia.ru">contact@signalmedia.ru</a></p><p><strong>Размещение прямой рекламы:</strong> НРА, 121609, Москва, ул. Академика Павлова, д. 25 <a href="tel:+74957378666">+7&nbsp;(495) 737-86-66</a> <a href="mailto:fedsales@nra.media">fedsales@nra.media</a></p><p><strong>По вопросам спонсорства:</strong><i> </i><a href="mailto:rageeva@vgtrk.ru">rageeva@vgtrk.ru</a>, тел. <i>+7 (499) 350-10-80&nbsp; доб.115</i>, <a href="mailto:razizova@digitalrussia.tv">razizova@digitalrussia.tv, </a>тел. <i>+7 (499) 350-10-80&nbsp; доб.116</i>&nbsp;</p><p><strong>Маркетинг:</strong><i> </i><a href="tel:+74993501080">+7&nbsp;(499)&nbsp;350-10-80</a></p><div class="raw-html-embed"></div>                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+</section>        <div class="ads ads_main-bottom">
+            <div class="ads__banner ads__banner_desktop">
+                <div id="desktop_bottom"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"desktop_bottom","type":null,"params":{"p1":"czowm","p2":"exmr"},"lazyLoad":{"fetchMargin":50}}
+         )
+    })</script>            </div>
+        </div>
+        <footer class="footer" style="">
+            <div class="footer__wrapper">
+                <div class="footer__line footer__line_top">
+                    <div class="footer__companions">
+                        <div class="companions companions--icons">
+                            <div class="companions__list"> </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__line footer__line_bottom">
+                    <div class="footer__logo">
+                        <a class="dtr" href="http://digitalrussia.tv/" title="Цифровое телевидение" alt="Цифровое телевидение" target="_blank"> <img class="footer__icon" id="footerDtr" /> </a>
+                    </div>
+                    <div class="footer__copyright">
+                        <div class="copyright"> <div class="raw-html-embed"><span>2025 АО «ЦТВ‎». СВИДЕТЕЛЬСТВО О РЕГИСТРАЦИИ СМИ ЭЛ №ФС77-79319 ОТ 02.11.2020. ВСЕ ПРАВА НА ЛЮБЫЕ МАТЕРИАЛЫ, ОПУБЛИКОВАННЫЕ НА САЙТЕ, ЗАЩИЩЕНЫ В СООТВЕТСТВИИ С РОССИЙСКИМ И МЕЖДУНАРОДНЫМ ЗАКОНОДАТЕЛЬСТВОМ ОБ ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ. ЛЮБОЕ ИСПОЛЬЗОВАНИЕ ТЕКСТОВЫХ, ФОТО, АУДИО И ВИДЕОМАТЕРИАЛОВ ВОЗМОЖНО ТОЛЬКО С СОГЛАСИЯ ПРАВООБЛАДАТЕЛЯ (АО «ЦТВ‎»). ДЛЯ ЛИЦ СТАРШЕ 16 ЛЕТ. СОЗДАНИЕ И ПОДДЕРЖКА САЙТА: ООО «КРЕАТИВ‎».</span></div><p><strong>Акционерное общество «Цифровое Телевидение» / АО «ЦТВ»</strong><br>Адрес места нахождения: 125167, г. Москва, Ленинградский пр-т, 37 А, корп. 4, этаж 10, помещение XXII, комната 1.<br>Адрес электронной почты для обращений — <a href="mailto:dtr@digitalrussia.tv">dtr@digitalrussia.tv</a>&nbsp;</p><div class="raw-html-embed"><p class="privacy-policy"><a target="_blank" href="/files/policy-05-09-2023.pdf">Политика Акционерного общества «Цифровое Телевидение» в отношении обработки персональных данных</a></p></div>                           
+                        </div>
+                    </div>
+                    <div class="footer__social">
+                        <div class="header__social  mobile-hidden">
+                            <div class="social">
+                                                                    <div class="social__list">
+                                        <a class="social__item" href="https://zen.yandex.ru/id/5f43a6c56c8e847f63ec69ac" alt="zen" title="zen" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-zen.svg" alt="zen"></a><a class="social__item" href="https://vk.com/mosfilmgold" alt="vk" title="vk" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_vk.svg" alt="vk"></a><a class="social__item" href="https://ok.ru/mosfilmgold" alt="ok" title="ok" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c_ok.svg" alt="ok"></a><a class="social__item" href="https://t.me/mosfilmgold" alt="Telegram" title="Telegram" target="_blank"><img class="social__icon" src="https://ct-bank.digitalrussia.tv/files/2023/05/c-tg.svg" alt="Telegram"></a>                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="footer_age">
+                        <div class="age"> <span class="age__number">16</span><span class="age__plus">+</span> </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</section>
+
+<div class="schedule-popup">
+    <div class="container">
+        <div class="schedule-popup__overlay">
+            <div class="schedule-popup__left"> <img class="schedule-popup__img" /> </div>
+            <div class="schedule-popup__right"> <img class="schedule-popup__close" />
+                <h2 class="schedule-popup__title">Служебный роман</h2>
+                <div class="schedule-popup__container">
+                    <div class="schedule-popup__wrapper"> <span class="schedule-popup__age">0+</span> <span class="schedule-popup__year">1977</span> <span class="schedule-popup__genre"></span> </div> <span class="schedule-popup__tag">золотая коллекция мосфильма</span> </div>
+                <div class="schedule-popup__container">
+                    <p class="schedule-popup__text">Анатолий Ефремович Новосельцев, рядовой служащий одного статистического управления, — человек робкий и застенчивый. Для него неплохо бы получить вакантное место зав. отделом, но он не знает как подступиться к этому делу. Старый приятель Самохвалов советует ему приударить за Людмилой Прокопьевной Калугиной, — сухарем в юбке и директором заведения…</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/dist/main.js?v=1721934198"></script><div id="fullscreen"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"fullscreen","type":"fullscreen","params":{"p1":"czown","p2":"enli"},"platform":"desktop"}
+         )
+    })</script>
+<div id="branding"></div><script>    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create(
+            {"ownerId":173858,"containerId":"branding","type":null,"params":{"p1":"czowj","p2":"epdp"}}
+         )
+    })</script>
+
+
+
+<div id="mfullscreen"></div>
+<div id="mfloorad"></div>
+<style>
+    #mfloorad {display:none}
+    @media screen and (max-width: 768px) {
+        #mfloorad {display:block}
+    }
+</style>
+<script>
+    var showPostScroll = (function (w, d, oid, S) {
+        var os = (function () {
+            var s = false;
+            try {
+                var o = Object.defineProperty({}, 'passive', {
+                    get: function () { s = !0 }
+                });
+                w.addEventListener('test', null, o);
+            } catch (e) {
+                return s
+            }
+            return s
+        })();
+        var on = (function () {
+            if (os) {
+                return function on (el, n, h, o) {
+                    o = o || {};
+                    o.capture = o.capture || false;
+                    el.addEventListener(n, h, o);
+                };
+            } else {
+                return function on (el, n, h) {
+                    el.addEventListener(n, h, false);
+                };
+            }
+        })();
+        var getScroll = (function (X, Y, O) {
+            O = O || w;
+            if (!(X in w)) {
+                X = 'scrollLeft';
+                Y = 'scrollTop';
+                if (isNumber(d.documentElement[X])) {
+                    O = d.documentElement
+                } else if (isNumber(d.body[X])) {
+                    O = d.body
+                }
+            }
+            return {
+                x: function () {
+                    return O[X] || 0
+                },
+                y: function () {
+                    return O[Y] || 0
+                }
+            }
+        })('pageXOffset', 'pageYOffset');
+        var viewportSize = (function (W, H, O, VW, VH) {
+            O = O || w;
+            if (!(W in w)) {
+                W = 'clientWidth';
+                H = 'clientHeight';
+                if (isNumber(d.documentElement[W])) {
+                    O = d.documentElement
+                } else if (isNumber(d.body[W])) {
+                    O = d.body
+                }
+            }
+            var setSize = function () {
+                VW = O[W] || 0;
+                VH = O[H] || 0;
+            };
+            setSize();
+            onResize(setSize);
+            return {
+                w: function () {
+                    return VW
+                },
+                h: function () {
+                    return VH
+                }
+            };
+        })('innerWidth', 'innerHeight');
+
+        function isNumber (a) {
+            return (typeof a === 'number') && isFinite(a)
+        }
+
+        function checkScrolled (scrollRate) {
+            var scrolled = getScroll.y(),
+                wpheight = viewportSize.h();
+            return (scrolled*100/wpheight) > scrollRate;
+        }
+
+        function onScroll (fn, timeout) {
+            var tick = null,
+                handler = !timeout ? fn : function (e) {
+                    if (tick !== null) {
+                        return
+                    }
+                    tick = setTimeout(function () {
+                        fn(e);
+                        tick = null;
+                    }, timeout);
+                };
+            on(w, 'scroll', handler, { 'passive': true });
+        }
+
+        function onResize(fn, timeout) {
+            var tick = null,
+                handler = !timeout ? fn : function () {
+                    if (tick !== null) {
+                        return
+                    }
+                    tick = setTimeout(function () {
+                        fn();
+                        tick = null;
+                    }, timeout);
+                };
+            on(w, 'resize', handler, { 'passive': true });
+        }
+
+        function call (name, params) {
+            S[name] = S[name] || {};
+            S[name].called = 1;
+            params.ownerId = oid;
+            w.yaContextCb.push(() => {
+                Ya.adfoxCode.create(params);
+            });
+        }
+
+        return function (name, rate, params) {
+            S[name] = S[name] || {};
+            if (!S[name].called && checkScrolled(rate)) {
+                call(name, params);
+            } else {
+                onScroll(function () {
+                    if (!S[name].called && checkScrolled(rate)) {
+                        call(name, params);
+                    }
+                }, 50);
+            }
+        }
+    })(window, document, 173858, {});
+    function callFloorAd (floorAdRate) {
+        showPostScroll('floorad', floorAdRate, {
+            'containerId': 'mfloorad',
+            'params': { 'p1': 'czoxe', 'p2': 'gomz' }
+        });
+    }
+    function callFullScreen (fullScreenRate, floorAdRate) {
+        showPostScroll('fullscreen', fullScreenRate, {
+            'containerId': 'mfullscreen',
+            'platform': 'touch',
+            'type': 'fullscreen',
+            'params': { 'p1': 'czoxd', 'p2': 'fdho' },
+            onStub: function () { callFloorAd(floorAdRate) },
+            onError: function () { callFloorAd(floorAdRate) },
+            onClose: function () { callFloorAd(floorAdRate) }
+        });
+    }
+    callFullScreen(10, 50);
+</script>
+
+</body>
+</html>

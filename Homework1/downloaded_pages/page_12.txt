@@ -1,0 +1,3976 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	    <meta charset="UTF-8">
+    <meta http-equiv="Content-Language" content="ru">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+    <link rel="shortcut icon" type="image/x-icon" href="https://magazines.gorky.media/wp-content/uploads/2019/07/Icon-120x120.png">
+    <link rel="apple-touch-icon" href="https://magazines.gorky.media/wp-content/uploads/2019/05/favicon_180x180.png" sizes="180x180">
+    <link rel="apple-touch-icon" type="image/png" href="https://magazines.gorky.media/wp-content/uploads/2019/07/Icon-32x32.png" sizes="32x32">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="192x192">
+    <link rel="apple-touch-icon" type="image/png" href="https://magazines.gorky.media/wp-content/uploads/2019/07/Icon-96x96.png" sizes="96x96">
+    <link rel="apple-touch-icon" type="image/png" href="https://magazines.gorky.media/wp-content/uploads/2019/07/Icon-16x16.png" sizes="16x16">
+    <link rel="apple-touch-icon" type="image/png" href="https://magazines.gorky.media/wp-content/uploads/2019/07/Icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="60x60">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="72x72">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="76x76">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="114x114">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="120x120">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="144x144">
+    <link rel="apple-touch-icon" type="image/png" href="" sizes="152x152">
+    <link rel="manifest" href="https://magazines.gorky.media/wp-content/themes/jz/front/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">	
+    <meta name="msapplication-TileImage" content="https://magazines.gorky.media/wp-content/themes/jz/front/img/favicon/ms-icon-144x144.png">
+	<meta name="yandex-verification" content="19fa4e83cb8babde" />
+	
+	<title>Журнальный зал &#8212; Русский толстый журнал как эстетический феномен</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/magazines.gorky.media\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://magazines.gorky.media/wp-includes/css/dist/block-library/style.min.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://magazines.gorky.media/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='extendify-gutenberg-patterns-and-templates-utilities-inline-css' type='text/css'>
+.ext-absolute {
+  position: absolute !important;
+}
+
+.ext-relative {
+  position: relative !important;
+}
+
+.ext-top-base {
+  top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-top-lg {
+  top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--top-base {
+  top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--top-lg {
+  top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-right-base {
+  right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-right-lg {
+  right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--right-base {
+  right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--right-lg {
+  right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-bottom-base {
+  bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-bottom-lg {
+  bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--bottom-base {
+  bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--bottom-lg {
+  bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-left-base {
+  left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-left-lg {
+  left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--left-base {
+  left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--left-lg {
+  left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-order-1 {
+  order: 1 !important;
+}
+
+.ext-order-2 {
+  order: 2 !important;
+}
+
+.ext-col-auto {
+  grid-column: auto !important;
+}
+
+.ext-col-span-1 {
+  grid-column: span 1 / span 1 !important;
+}
+
+.ext-col-span-2 {
+  grid-column: span 2 / span 2 !important;
+}
+
+.ext-col-span-3 {
+  grid-column: span 3 / span 3 !important;
+}
+
+.ext-col-span-4 {
+  grid-column: span 4 / span 4 !important;
+}
+
+.ext-col-span-5 {
+  grid-column: span 5 / span 5 !important;
+}
+
+.ext-col-span-6 {
+  grid-column: span 6 / span 6 !important;
+}
+
+.ext-col-span-7 {
+  grid-column: span 7 / span 7 !important;
+}
+
+.ext-col-span-8 {
+  grid-column: span 8 / span 8 !important;
+}
+
+.ext-col-span-9 {
+  grid-column: span 9 / span 9 !important;
+}
+
+.ext-col-span-10 {
+  grid-column: span 10 / span 10 !important;
+}
+
+.ext-col-span-11 {
+  grid-column: span 11 / span 11 !important;
+}
+
+.ext-col-span-12 {
+  grid-column: span 12 / span 12 !important;
+}
+
+.ext-col-span-full {
+  grid-column: 1 / -1 !important;
+}
+
+.ext-col-start-1 {
+  grid-column-start: 1 !important;
+}
+
+.ext-col-start-2 {
+  grid-column-start: 2 !important;
+}
+
+.ext-col-start-3 {
+  grid-column-start: 3 !important;
+}
+
+.ext-col-start-4 {
+  grid-column-start: 4 !important;
+}
+
+.ext-col-start-5 {
+  grid-column-start: 5 !important;
+}
+
+.ext-col-start-6 {
+  grid-column-start: 6 !important;
+}
+
+.ext-col-start-7 {
+  grid-column-start: 7 !important;
+}
+
+.ext-col-start-8 {
+  grid-column-start: 8 !important;
+}
+
+.ext-col-start-9 {
+  grid-column-start: 9 !important;
+}
+
+.ext-col-start-10 {
+  grid-column-start: 10 !important;
+}
+
+.ext-col-start-11 {
+  grid-column-start: 11 !important;
+}
+
+.ext-col-start-12 {
+  grid-column-start: 12 !important;
+}
+
+.ext-col-start-13 {
+  grid-column-start: 13 !important;
+}
+
+.ext-col-start-auto {
+  grid-column-start: auto !important;
+}
+
+.ext-col-end-1 {
+  grid-column-end: 1 !important;
+}
+
+.ext-col-end-2 {
+  grid-column-end: 2 !important;
+}
+
+.ext-col-end-3 {
+  grid-column-end: 3 !important;
+}
+
+.ext-col-end-4 {
+  grid-column-end: 4 !important;
+}
+
+.ext-col-end-5 {
+  grid-column-end: 5 !important;
+}
+
+.ext-col-end-6 {
+  grid-column-end: 6 !important;
+}
+
+.ext-col-end-7 {
+  grid-column-end: 7 !important;
+}
+
+.ext-col-end-8 {
+  grid-column-end: 8 !important;
+}
+
+.ext-col-end-9 {
+  grid-column-end: 9 !important;
+}
+
+.ext-col-end-10 {
+  grid-column-end: 10 !important;
+}
+
+.ext-col-end-11 {
+  grid-column-end: 11 !important;
+}
+
+.ext-col-end-12 {
+  grid-column-end: 12 !important;
+}
+
+.ext-col-end-13 {
+  grid-column-end: 13 !important;
+}
+
+.ext-col-end-auto {
+  grid-column-end: auto !important;
+}
+
+.ext-row-auto {
+  grid-row: auto !important;
+}
+
+.ext-row-span-1 {
+  grid-row: span 1 / span 1 !important;
+}
+
+.ext-row-span-2 {
+  grid-row: span 2 / span 2 !important;
+}
+
+.ext-row-span-3 {
+  grid-row: span 3 / span 3 !important;
+}
+
+.ext-row-span-4 {
+  grid-row: span 4 / span 4 !important;
+}
+
+.ext-row-span-5 {
+  grid-row: span 5 / span 5 !important;
+}
+
+.ext-row-span-6 {
+  grid-row: span 6 / span 6 !important;
+}
+
+.ext-row-span-full {
+  grid-row: 1 / -1 !important;
+}
+
+.ext-row-start-1 {
+  grid-row-start: 1 !important;
+}
+
+.ext-row-start-2 {
+  grid-row-start: 2 !important;
+}
+
+.ext-row-start-3 {
+  grid-row-start: 3 !important;
+}
+
+.ext-row-start-4 {
+  grid-row-start: 4 !important;
+}
+
+.ext-row-start-5 {
+  grid-row-start: 5 !important;
+}
+
+.ext-row-start-6 {
+  grid-row-start: 6 !important;
+}
+
+.ext-row-start-7 {
+  grid-row-start: 7 !important;
+}
+
+.ext-row-start-auto {
+  grid-row-start: auto !important;
+}
+
+.ext-row-end-1 {
+  grid-row-end: 1 !important;
+}
+
+.ext-row-end-2 {
+  grid-row-end: 2 !important;
+}
+
+.ext-row-end-3 {
+  grid-row-end: 3 !important;
+}
+
+.ext-row-end-4 {
+  grid-row-end: 4 !important;
+}
+
+.ext-row-end-5 {
+  grid-row-end: 5 !important;
+}
+
+.ext-row-end-6 {
+  grid-row-end: 6 !important;
+}
+
+.ext-row-end-7 {
+  grid-row-end: 7 !important;
+}
+
+.ext-row-end-auto {
+  grid-row-end: auto !important;
+}
+
+.ext-m-0:not([style*="margin"]) {
+  margin: 0 !important;
+}
+
+.ext-m-auto:not([style*="margin"]) {
+  margin: auto !important;
+}
+
+.ext-m-base:not([style*="margin"]) {
+  margin: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-m-lg:not([style*="margin"]) {
+  margin: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--m-base:not([style*="margin"]) {
+  margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--m-lg:not([style*="margin"]) {
+  margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mx-0:not([style*="margin"]) {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.ext-mx-auto:not([style*="margin"]) {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.ext-mx-base:not([style*="margin"]) {
+  margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mx-lg:not([style*="margin"]) {
+  margin-left: var(--extendify--spacing--large, 3rem) !important;
+  margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mx-base:not([style*="margin"]) {
+  margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mx-lg:not([style*="margin"]) {
+  margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-my-0:not([style*="margin"]) {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.ext-my-auto:not([style*="margin"]) {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+.ext-my-base:not([style*="margin"]) {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-my-lg:not([style*="margin"]) {
+  margin-top: var(--extendify--spacing--large, 3rem) !important;
+  margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--my-base:not([style*="margin"]) {
+  margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--my-lg:not([style*="margin"]) {
+  margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mt-0:not([style*="margin"]) {
+  margin-top: 0 !important;
+}
+
+.ext-mt-auto:not([style*="margin"]) {
+  margin-top: auto !important;
+}
+
+.ext-mt-base:not([style*="margin"]) {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mt-lg:not([style*="margin"]) {
+  margin-top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mt-base:not([style*="margin"]) {
+  margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mt-lg:not([style*="margin"]) {
+  margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mr-0:not([style*="margin"]) {
+  margin-right: 0 !important;
+}
+
+.ext-mr-auto:not([style*="margin"]) {
+  margin-right: auto !important;
+}
+
+.ext-mr-base:not([style*="margin"]) {
+  margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mr-lg:not([style*="margin"]) {
+  margin-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mr-base:not([style*="margin"]) {
+  margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mr-lg:not([style*="margin"]) {
+  margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-mb-0:not([style*="margin"]) {
+  margin-bottom: 0 !important;
+}
+
+.ext-mb-auto:not([style*="margin"]) {
+  margin-bottom: auto !important;
+}
+
+.ext-mb-base:not([style*="margin"]) {
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-mb-lg:not([style*="margin"]) {
+  margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--mb-base:not([style*="margin"]) {
+  margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--mb-lg:not([style*="margin"]) {
+  margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-ml-0:not([style*="margin"]) {
+  margin-left: 0 !important;
+}
+
+.ext-ml-auto:not([style*="margin"]) {
+  margin-left: auto !important;
+}
+
+.ext-ml-base:not([style*="margin"]) {
+  margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-ml-lg:not([style*="margin"]) {
+  margin-left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext--ml-base:not([style*="margin"]) {
+  margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+}
+
+.ext--ml-lg:not([style*="margin"]) {
+  margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+}
+
+.ext-block {
+  display: block !important;
+}
+
+.ext-inline-block {
+  display: inline-block !important;
+}
+
+.ext-inline {
+  display: inline !important;
+}
+
+.ext-flex {
+  display: flex !important;
+}
+
+.ext-inline-flex {
+  display: inline-flex !important;
+}
+
+.ext-grid {
+  display: grid !important;
+}
+
+.ext-inline-grid {
+  display: inline-grid !important;
+}
+
+.ext-hidden {
+  display: none !important;
+}
+
+.ext-w-auto {
+  width: auto !important;
+}
+
+.ext-w-full {
+  width: 100% !important;
+}
+
+.ext-max-w-full {
+  max-width: 100% !important;
+}
+
+.ext-flex-1 {
+  flex: 1 1 0% !important;
+}
+
+.ext-flex-auto {
+  flex: 1 1 auto !important;
+}
+
+.ext-flex-initial {
+  flex: 0 1 auto !important;
+}
+
+.ext-flex-none {
+  flex: none !important;
+}
+
+.ext-flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
+.ext-flex-shrink {
+  flex-shrink: 1 !important;
+}
+
+.ext-flex-grow-0 {
+  flex-grow: 0 !important;
+}
+
+.ext-flex-grow {
+  flex-grow: 1 !important;
+}
+
+.ext-list-none {
+  list-style-type: none !important;
+}
+
+.ext-grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-5 {
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-7 {
+  grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-8 {
+  grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-9 {
+  grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-10 {
+  grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-11 {
+  grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-cols-none {
+  grid-template-columns: none !important;
+}
+
+.ext-grid-rows-1 {
+  grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-3 {
+  grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-4 {
+  grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-5 {
+  grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-6 {
+  grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext-grid-rows-none {
+  grid-template-rows: none !important;
+}
+
+.ext-flex-row {
+  flex-direction: row !important;
+}
+
+.ext-flex-row-reverse {
+  flex-direction: row-reverse !important;
+}
+
+.ext-flex-col {
+  flex-direction: column !important;
+}
+
+.ext-flex-col-reverse {
+  flex-direction: column-reverse !important;
+}
+
+.ext-flex-wrap {
+  flex-wrap: wrap !important;
+}
+
+.ext-flex-wrap-reverse {
+  flex-wrap: wrap-reverse !important;
+}
+
+.ext-flex-nowrap {
+  flex-wrap: nowrap !important;
+}
+
+.ext-items-start {
+  align-items: flex-start !important;
+}
+
+.ext-items-end {
+  align-items: flex-end !important;
+}
+
+.ext-items-center {
+  align-items: center !important;
+}
+
+.ext-items-baseline {
+  align-items: baseline !important;
+}
+
+.ext-items-stretch {
+  align-items: stretch !important;
+}
+
+.ext-justify-start {
+  justify-content: flex-start !important;
+}
+
+.ext-justify-end {
+  justify-content: flex-end !important;
+}
+
+.ext-justify-center {
+  justify-content: center !important;
+}
+
+.ext-justify-between {
+  justify-content: space-between !important;
+}
+
+.ext-justify-around {
+  justify-content: space-around !important;
+}
+
+.ext-justify-evenly {
+  justify-content: space-evenly !important;
+}
+
+.ext-justify-items-start {
+  justify-items: start !important;
+}
+
+.ext-justify-items-end {
+  justify-items: end !important;
+}
+
+.ext-justify-items-center {
+  justify-items: center !important;
+}
+
+.ext-justify-items-stretch {
+  justify-items: stretch !important;
+}
+
+.ext-gap-0 {
+  gap: 0 !important;
+}
+
+.ext-gap-base {
+  gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-lg {
+  gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-gap-x-0 {
+  -moz-column-gap: 0 !important;
+       column-gap: 0 !important;
+}
+
+.ext-gap-x-base {
+  -moz-column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+       column-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-x-lg {
+  -moz-column-gap: var(--extendify--spacing--large, 3rem) !important;
+       column-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-gap-y-0 {
+  row-gap: 0 !important;
+}
+
+.ext-gap-y-base {
+  row-gap: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-gap-y-lg {
+  row-gap: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-justify-self-auto {
+  justify-self: auto !important;
+}
+
+.ext-justify-self-start {
+  justify-self: start !important;
+}
+
+.ext-justify-self-end {
+  justify-self: end !important;
+}
+
+.ext-justify-self-center {
+  justify-self: center !important;
+}
+
+.ext-justify-self-stretch {
+  justify-self: stretch !important;
+}
+
+.ext-rounded-none {
+  border-radius: 0px !important;
+}
+
+.ext-rounded-full {
+  border-radius: 9999px !important;
+}
+
+.ext-rounded-t-none {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
+
+.ext-rounded-t-full {
+  border-top-left-radius: 9999px !important;
+  border-top-right-radius: 9999px !important;
+}
+
+.ext-rounded-r-none {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+
+.ext-rounded-r-full {
+  border-top-right-radius: 9999px !important;
+  border-bottom-right-radius: 9999px !important;
+}
+
+.ext-rounded-b-none {
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-b-full {
+  border-bottom-right-radius: 9999px !important;
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-rounded-l-none {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-l-full {
+  border-top-left-radius: 9999px !important;
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-rounded-tl-none {
+  border-top-left-radius: 0px !important;
+}
+
+.ext-rounded-tl-full {
+  border-top-left-radius: 9999px !important;
+}
+
+.ext-rounded-tr-none {
+  border-top-right-radius: 0px !important;
+}
+
+.ext-rounded-tr-full {
+  border-top-right-radius: 9999px !important;
+}
+
+.ext-rounded-br-none {
+  border-bottom-right-radius: 0px !important;
+}
+
+.ext-rounded-br-full {
+  border-bottom-right-radius: 9999px !important;
+}
+
+.ext-rounded-bl-none {
+  border-bottom-left-radius: 0px !important;
+}
+
+.ext-rounded-bl-full {
+  border-bottom-left-radius: 9999px !important;
+}
+
+.ext-border-0 {
+  border-width: 0px !important;
+}
+
+.ext-border-t-0 {
+  border-top-width: 0px !important;
+}
+
+.ext-border-r-0 {
+  border-right-width: 0px !important;
+}
+
+.ext-border-b-0 {
+  border-bottom-width: 0px !important;
+}
+
+.ext-border-l-0 {
+  border-left-width: 0px !important;
+}
+
+.ext-p-0:not([style*="padding"]) {
+  padding: 0 !important;
+}
+
+.ext-p-base:not([style*="padding"]) {
+  padding: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-p-lg:not([style*="padding"]) {
+  padding: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-px-0:not([style*="padding"]) {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.ext-px-base:not([style*="padding"]) {
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-px-lg:not([style*="padding"]) {
+  padding-left: var(--extendify--spacing--large, 3rem) !important;
+  padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-py-0:not([style*="padding"]) {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.ext-py-base:not([style*="padding"]) {
+  padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-py-lg:not([style*="padding"]) {
+  padding-top: var(--extendify--spacing--large, 3rem) !important;
+  padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pt-0:not([style*="padding"]) {
+  padding-top: 0 !important;
+}
+
+.ext-pt-base:not([style*="padding"]) {
+  padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pt-lg:not([style*="padding"]) {
+  padding-top: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pr-0:not([style*="padding"]) {
+  padding-right: 0 !important;
+}
+
+.ext-pr-base:not([style*="padding"]) {
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pr-lg:not([style*="padding"]) {
+  padding-right: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pb-0:not([style*="padding"]) {
+  padding-bottom: 0 !important;
+}
+
+.ext-pb-base:not([style*="padding"]) {
+  padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pb-lg:not([style*="padding"]) {
+  padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-pl-0:not([style*="padding"]) {
+  padding-left: 0 !important;
+}
+
+.ext-pl-base:not([style*="padding"]) {
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.ext-pl-lg:not([style*="padding"]) {
+  padding-left: var(--extendify--spacing--large, 3rem) !important;
+}
+
+.ext-text-left {
+  text-align: left !important;
+}
+
+.ext-text-center {
+  text-align: center !important;
+}
+
+.ext-text-right {
+  text-align: right !important;
+}
+
+.ext-leading-none {
+  line-height: 1 !important;
+}
+
+.ext-leading-tight {
+  line-height: 1.25 !important;
+}
+
+.ext-leading-snug {
+  line-height: 1.375 !important;
+}
+
+.ext-leading-normal {
+  line-height: 1.5 !important;
+}
+
+.ext-leading-relaxed {
+  line-height: 1.625 !important;
+}
+
+.ext-leading-loose {
+  line-height: 2 !important;
+}
+
+.ext-aspect-square img {
+  aspect-ratio: 1 / 1 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-landscape img {
+  aspect-ratio: 4 / 3 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-landscape-wide img {
+  aspect-ratio: 16 / 9 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-portrait img {
+  aspect-ratio: 3 / 4 !important;
+  -o-object-fit: cover !important;
+     object-fit: cover !important;
+}
+
+.ext-aspect-square .components-resizable-box__container,
+.ext-aspect-landscape .components-resizable-box__container,
+.ext-aspect-landscape-wide .components-resizable-box__container,
+.ext-aspect-portrait .components-resizable-box__container {
+  height: auto !important;
+}
+
+.clip-path--rhombus img {
+  -webkit-clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+          clip-path: polygon(15% 6%, 80% 29%, 84% 93%, 23% 69%) !important;
+}
+
+.clip-path--diamond img {
+  -webkit-clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+          clip-path: polygon(5% 29%, 60% 2%, 91% 64%, 36% 89%) !important;
+}
+
+.clip-path--rhombus-alt img {
+  -webkit-clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+          clip-path: polygon(14% 9%, 85% 24%, 91% 89%, 19% 76%) !important;
+}
+
+/*
+The .ext utility is a top-level class that we use to target contents within our patterns.
+We use it here to ensure columns blocks display well across themes.
+*/
+
+.wp-block-columns[class*="fullwidth-cols"] {
+  /* no suggestion */
+  margin-bottom: unset !important;
+}
+
+.wp-block-column.editor\:pointer-events-none {
+  /* no suggestion */
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .wp-block-column.editor\:pointer-events-none,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .wp-block-column.editor\:pointer-events-none {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .ext-my-0:not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+/* Some popular themes use padding instead of core margin for columns; remove it */
+
+.ext .wp-block-columns .wp-block-column[style*="padding"] {
+  /* no suggestion */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Some popular themes add double spacing between columns; remove it */
+
+.ext
+    .wp-block-columns
+    + .wp-block-columns:not([class*="mt-"]):not([class*="my-"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child,
+[class*="fullwidth-cols"] .wp-block-group:first-child {
+  /* no suggestion */
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child, [class*="fullwidth-cols"] .wp-block-group:first-child {
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:last-child,
+[class*="fullwidth-cols"] .wp-block-group:last-child {
+  /* no suggestion */
+}
+
+[class*="fullwidth-cols"] .wp-block-column:last-child, [class*="fullwidth-cols"] .wp-block-group:last-child {
+  margin-bottom: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column:first-child > * {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column > *:first-child {
+  /* no suggestion */
+  margin-top: 0 !important;
+}
+
+[class*="fullwidth-cols"] .wp-block-column > *:last-child {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+.ext .is-not-stacked-on-mobile .wp-block-column {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+/* Add base margin bottom to all columns */
+
+.wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+    > .wp-block-column:not(:last-child) {
+  /* no suggestion */
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+@media (min-width: 782px) {
+  .wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not(:last-child) {
+    /* no suggestion */
+    margin-bottom: 0 !important;
+  }
+}
+
+/* Remove margin bottom from "not-stacked" columns */
+
+.wp-block-columns[class*="fullwidth-cols"].is-not-stacked-on-mobile
+    > .wp-block-column {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+@media (min-width: 600px) and (max-width: 781px) {
+  .wp-block-columns[class*="fullwidth-cols"]:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:nth-child(even) {
+    /* no suggestion */
+    margin-left: var(--wp--style--block-gap, 2em) !important;
+  }
+}
+
+/*
+    The `tablet:fullwidth-cols` and `desktop:fullwidth-cols` utilities are used
+    to counter the core/columns responsive for at our breakpoints.
+*/
+
+@media (max-width: 781px) {
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+    flex-wrap: wrap !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    margin-left: 0 !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not([style*="margin"]) {
+    /* no suggestion */
+    margin-left: 0 !important;
+  }
+
+  .tablet\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+  }
+}
+
+@media (max-width: 1079px) {
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile) {
+    flex-wrap: wrap !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    margin-left: 0 !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not([style*="margin"]) {
+    /* no suggestion */
+    margin-left: 0 !important;
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column {
+    flex-basis: 100% !important; /* Required to negate core/columns flex-basis */
+  }
+
+  .desktop\:fullwidth-cols.wp-block-columns:not(.is-not-stacked-on-mobile)
+        > .wp-block-column:not(:last-child) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+}
+
+.direction-rtl {
+  direction: rtl !important;
+}
+
+.direction-ltr {
+  direction: ltr !important;
+}
+
+/* Use "is-style-" prefix to support adding this style to the core/list block */
+
+.is-style-inline-list {
+  padding-left: 0 !important;
+}
+
+.is-style-inline-list li {
+  /* no suggestion */
+  list-style-type: none !important;
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+    display: inline !important;
+  }
+}
+
+.is-style-inline-list li:first-child {
+  /* no suggestion */
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li:first-child {
+    margin-left: 0 !important;
+  }
+}
+
+.is-style-inline-list li:last-child {
+  /* no suggestion */
+}
+
+@media (min-width: 782px) {
+  .is-style-inline-list li:last-child {
+    margin-right: 0 !important;
+  }
+}
+
+.bring-to-front {
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+.text-stroke {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--background) !important;
+}
+
+.text-stroke--primary {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--primary) !important;
+}
+
+.text-stroke--secondary {
+  -webkit-text-stroke-width: var(
+        --wp--custom--typography--text-stroke-width,
+        2px
+    ) !important;
+  -webkit-text-stroke-color: var(--wp--preset--color--secondary) !important;
+}
+
+.editor\:no-caption .block-editor-rich-text__editable {
+  display: none !important;
+}
+
+.editor\:no-inserter > .block-list-appender,
+.editor\:no-inserter .wp-block-group__inner-container > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-inserter .wp-block-cover__inner-container > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-inserter .wp-block-column:not(.is-selected) > .block-list-appender {
+  display: none !important;
+}
+
+.editor\:no-resize .components-resizable-box__handle::after,
+.editor\:no-resize .components-resizable-box__side-handle::before,
+.editor\:no-resize .components-resizable-box__handle {
+  display: none !important;
+  pointer-events: none !important;
+}
+
+.editor\:no-resize .components-resizable-box__container {
+  display: block !important;
+}
+
+.editor\:pointer-events-none {
+  pointer-events: none !important;
+}
+
+.is-style-angled {
+  /* no suggestion */
+  align-items: center !important;
+  justify-content: flex-end !important;
+}
+
+.ext .is-style-angled > [class*="_inner-container"] {
+  align-items: center !important;
+}
+
+.is-style-angled .wp-block-cover__image-background,
+.is-style-angled .wp-block-cover__video-background {
+  /* no suggestion */
+  -webkit-clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+          clip-path: polygon(0 0, 30% 0%, 50% 100%, 0% 100%) !important;
+  z-index: 1 !important;
+}
+
+@media (min-width: 782px) {
+  .is-style-angled .wp-block-cover__image-background,
+    .is-style-angled .wp-block-cover__video-background {
+    /* no suggestion */
+    -webkit-clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+            clip-path: polygon(0 0, 55% 0%, 65% 100%, 0% 100%) !important;
+  }
+}
+
+.has-foreground-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--foreground, #000) !important;
+}
+
+.has-foreground-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--foreground, #000) !important;
+}
+
+.has-background-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--background, #fff) !important;
+}
+
+.has-background-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--background, #fff) !important;
+}
+
+.has-primary-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+
+.has-primary-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--primary, #4b5563) !important;
+}
+
+.has-secondary-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+
+.has-secondary-background-color {
+  /* no suggestion */
+  background-color: var(--wp--preset--color--secondary, #9ca3af) !important;
+}
+
+/* Ensure themes that target specific elements use the right colors */
+
+.ext.has-text-color p,
+.ext.has-text-color h1,
+.ext.has-text-color h2,
+.ext.has-text-color h3,
+.ext.has-text-color h4,
+.ext.has-text-color h5,
+.ext.has-text-color h6 {
+  /* no suggestion */
+  color: currentColor !important;
+}
+
+.has-white-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--white, #fff) !important;
+}
+
+.has-black-color {
+  /* no suggestion */
+  color: var(--wp--preset--color--black, #000) !important;
+}
+
+.has-ext-foreground-background-color {
+  /* no suggestion */
+  background-color: var(
+        --wp--preset--color--foreground,
+        var(--wp--preset--color--black, #000)
+    ) !important;
+}
+
+.has-ext-primary-background-color {
+  /* no suggestion */
+  background-color: var(
+        --wp--preset--color--primary,
+        var(--wp--preset--color--cyan-bluish-gray, #000)
+    ) !important;
+}
+
+/* Fix button borders with specified background colors */
+
+.wp-block-button__link.has-black-background-color {
+  /* no suggestion */
+  border-color: var(--wp--preset--color--black, #000) !important;
+}
+
+.wp-block-button__link.has-white-background-color {
+  /* no suggestion */
+  border-color: var(--wp--preset--color--white, #fff) !important;
+}
+
+.has-ext-small-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-small) !important;
+}
+
+.has-ext-medium-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-medium) !important;
+}
+
+.has-ext-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-large) !important;
+  line-height: 1.2 !important;
+}
+
+.has-ext-x-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-x-large) !important;
+  line-height: 1 !important;
+}
+
+.has-ext-xx-large-font-size {
+  /* no suggestion */
+  font-size: var(--wp--preset--font-size--ext-xx-large) !important;
+  line-height: 1 !important;
+}
+
+/* Line height */
+
+.has-ext-x-large-font-size:not([style*="line-height"]) {
+  /* no suggestion */
+  line-height: 1.1 !important;
+}
+
+.has-ext-xx-large-font-size:not([style*="line-height"]) {
+  /* no suggestion */
+  line-height: 1.1 !important;
+}
+
+.ext .wp-block-group > * {
+  /* Line height */
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.ext .wp-block-group > * + * {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: 0 !important;
+}
+
+.ext h2 {
+  margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+.has-ext-x-large-font-size + p,
+.has-ext-x-large-font-size + h3 {
+  margin-top: 0.5rem !important;
+}
+
+.ext .wp-block-buttons > .wp-block-button.wp-block-button__width-25 {
+  width: calc(25% - var(--wp--style--block-gap, 0.5em) * 0.75) !important;
+  min-width: 12rem !important;
+}
+
+/* Classic themes use an inner [class*="_inner-container"] that our utilities cannot directly target, so we need to do so with a few */
+
+.ext .ext-grid > [class*="_inner-container"] {
+  /* no suggestion */
+  display: grid !important;
+}
+
+/* Unhinge grid for container blocks in classic themes, and < 5.9 */
+
+.ext > [class*="_inner-container"] > .ext-grid:not([class*="columns"]),
+.ext
+    > [class*="_inner-container"]
+    > .wp-block
+    > .ext-grid:not([class*="columns"]) {
+  /* no suggestion */
+  display: initial !important;
+}
+
+/* Grid Columns */
+
+.ext .ext-grid-cols-1 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-2 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-3 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-4 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-5 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-6 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-7 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-8 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-9 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-10 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-11 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-12 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-13 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: repeat(13, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-cols-none > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-columns: none !important;
+}
+
+/* Grid Rows */
+
+.ext .ext-grid-rows-1 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(1, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-2 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(2, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-3 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(3, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-4 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(4, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-5 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(5, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-6 > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: repeat(6, minmax(0, 1fr)) !important;
+}
+
+.ext .ext-grid-rows-none > [class*="_inner-container"] {
+  /* no suggestion */
+  grid-template-rows: none !important;
+}
+
+/* Align */
+
+.ext .ext-items-start > [class*="_inner-container"] {
+  align-items: flex-start !important;
+}
+
+.ext .ext-items-end > [class*="_inner-container"] {
+  align-items: flex-end !important;
+}
+
+.ext .ext-items-center > [class*="_inner-container"] {
+  align-items: center !important;
+}
+
+.ext .ext-items-baseline > [class*="_inner-container"] {
+  align-items: baseline !important;
+}
+
+.ext .ext-items-stretch > [class*="_inner-container"] {
+  align-items: stretch !important;
+}
+
+.ext.wp-block-group > *:last-child {
+  /* no suggestion */
+  margin-bottom: 0 !important;
+}
+
+/* For <5.9 */
+
+.ext .wp-block-group__inner-container {
+  /* no suggestion */
+  padding: 0 !important;
+}
+
+.ext.has-background {
+  /* no suggestion */
+  padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+}
+
+/* Fallback for classic theme group blocks */
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"],
+.ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"] {
+  /* no suggestion */
+  max-width: var(--responsive--alignwide-width, 120rem) !important;
+}
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *,
+.ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"]
+    > * {
+  /* no suggestion */
+}
+
+.ext *[class*="inner-container"] > .alignwide *[class*="inner-container"] > *, .ext
+    *[class*="inner-container"]
+    > [data-align="wide"]
+    *[class*="inner-container"]
+    > * {
+  max-width: 100% !important;
+}
+
+/* Ensure image block display is standardized */
+
+.ext .wp-block-image {
+  /* no suggestion */
+  position: relative !important;
+  text-align: center !important;
+}
+
+.ext .wp-block-image img {
+  /* no suggestion */
+  display: inline-block !important;
+  vertical-align: middle !important;
+}
+
+body {
+  /* no suggestion */
+  /* We need to abstract this out of tailwind.config because clamp doesnt translate with negative margins */
+  --extendify--spacing--large: var(
+        --wp--custom--spacing--large,
+        clamp(2em, 8vw, 8em)
+    ) !important;
+  /* Add pattern preset font sizes */
+  --wp--preset--font-size--ext-small: 1rem !important;
+  --wp--preset--font-size--ext-medium: 1.125rem !important;
+  --wp--preset--font-size--ext-large: clamp(1.65rem, 3.5vw, 2.15rem) !important;
+  --wp--preset--font-size--ext-x-large: clamp(3rem, 6vw, 4.75rem) !important;
+  --wp--preset--font-size--ext-xx-large: clamp(3.25rem, 7.5vw, 5.75rem) !important;
+  /* Fallbacks for pre 5.9 themes */
+  --wp--preset--color--black: #000 !important;
+  --wp--preset--color--white: #fff !important;
+}
+
+.ext * {
+  box-sizing: border-box !important;
+}
+
+/* Astra: Remove spacer block visuals in the library */
+
+.block-editor-block-preview__content-iframe
+    .ext
+    [data-type="core/spacer"]
+    .components-resizable-box__container {
+  /* no suggestion */
+  background: transparent !important;
+}
+
+.block-editor-block-preview__content-iframe
+    .ext
+    [data-type="core/spacer"]
+    .block-library-spacer__resize-container::before {
+  /* no suggestion */
+  display: none !important;
+}
+
+/* Twenty Twenty adds a lot of margin automatically to blocks. We only want our own margin added to our patterns. */
+
+.ext .wp-block-group__inner-container figure.wp-block-gallery.alignfull {
+  /* no suggestion */
+  margin-top: unset !important;
+  margin-bottom: unset !important;
+}
+
+/* Ensure no funky business is assigned to alignwide */
+
+.ext .alignwide {
+  /* no suggestion */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Negate blockGap being inappropriately assigned in the editor */
+
+.is-root-container.block-editor-block-list__layout
+    > [data-align="full"]:not(:first-of-type)
+    > .ext-my-0,
+.is-root-container.block-editor-block-list__layout
+    > [data-align="wide"]
+    > .ext-my-0:not([style*="margin"]) {
+  /* no suggestion */
+  margin-top: calc(-1 * var(--wp--style--block-gap, 28px)) !important;
+}
+
+/* Ensure vh content in previews looks taller */
+
+.block-editor-block-preview__content-iframe .preview\:min-h-50 {
+  /* no suggestion */
+  min-height: 50vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-60 {
+  /* no suggestion */
+  min-height: 60vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-70 {
+  /* no suggestion */
+  min-height: 70vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-80 {
+  /* no suggestion */
+  min-height: 80vw !important;
+}
+
+.block-editor-block-preview__content-iframe .preview\:min-h-100 {
+  /* no suggestion */
+  min-height: 100vw !important;
+}
+
+/*  Removes excess margin when applied to the alignfull parent div in Block Themes */
+
+.ext-mr-0.alignfull:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-right: 0 !important;
+}
+
+.ext-ml-0:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-left: 0 !important;
+}
+
+/*  Ensures fullwidth blocks display properly in the editor when margin is zeroed out */
+
+.is-root-container
+    .wp-block[data-align="full"]
+    > .ext-mx-0:not([style*="margin"]):not([style*="margin"]) {
+  /* no suggestion */
+  margin-right: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+  margin-left: calc(1 * var(--wp--custom--spacing--outer, 0)) !important;
+  overflow: hidden !important;
+  width: unset !important;
+}
+
+@media (min-width: 782px) {
+  .tablet\:ext-absolute {
+    position: absolute !important;
+  }
+
+  .tablet\:ext-relative {
+    position: relative !important;
+  }
+
+  .tablet\:ext-top-base {
+    top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-top-lg {
+    top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--top-base {
+    top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--top-lg {
+    top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-right-base {
+    right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-right-lg {
+    right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--right-base {
+    right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--right-lg {
+    right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-bottom-base {
+    bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-bottom-lg {
+    bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--bottom-base {
+    bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--bottom-lg {
+    bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-left-base {
+    left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-left-lg {
+    left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--left-base {
+    left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--left-lg {
+    left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-order-1 {
+    order: 1 !important;
+  }
+
+  .tablet\:ext-order-2 {
+    order: 2 !important;
+  }
+
+  .tablet\:ext-m-0:not([style*="margin"]) {
+    margin: 0 !important;
+  }
+
+  .tablet\:ext-m-auto:not([style*="margin"]) {
+    margin: auto !important;
+  }
+
+  .tablet\:ext-m-base:not([style*="margin"]) {
+    margin: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-m-lg:not([style*="margin"]) {
+    margin: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--m-base:not([style*="margin"]) {
+    margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--m-lg:not([style*="margin"]) {
+    margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mx-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .tablet\:ext-mx-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .tablet\:ext-mx-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mx-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mx-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mx-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-my-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .tablet\:ext-my-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }
+
+  .tablet\:ext-my-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-my-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--my-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--my-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mt-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+  }
+
+  .tablet\:ext-mt-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+  }
+
+  .tablet\:ext-mt-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mt-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mt-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mt-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mr-0:not([style*="margin"]) {
+    margin-right: 0 !important;
+  }
+
+  .tablet\:ext-mr-auto:not([style*="margin"]) {
+    margin-right: auto !important;
+  }
+
+  .tablet\:ext-mr-base:not([style*="margin"]) {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mr-lg:not([style*="margin"]) {
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mr-base:not([style*="margin"]) {
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mr-lg:not([style*="margin"]) {
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-mb-0:not([style*="margin"]) {
+    margin-bottom: 0 !important;
+  }
+
+  .tablet\:ext-mb-auto:not([style*="margin"]) {
+    margin-bottom: auto !important;
+  }
+
+  .tablet\:ext-mb-base:not([style*="margin"]) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-mb-lg:not([style*="margin"]) {
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--mb-base:not([style*="margin"]) {
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--mb-lg:not([style*="margin"]) {
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-ml-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+  }
+
+  .tablet\:ext-ml-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+  }
+
+  .tablet\:ext-ml-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-ml-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext--ml-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .tablet\:ext--ml-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .tablet\:ext-block {
+    display: block !important;
+  }
+
+  .tablet\:ext-inline-block {
+    display: inline-block !important;
+  }
+
+  .tablet\:ext-inline {
+    display: inline !important;
+  }
+
+  .tablet\:ext-flex {
+    display: flex !important;
+  }
+
+  .tablet\:ext-inline-flex {
+    display: inline-flex !important;
+  }
+
+  .tablet\:ext-grid {
+    display: grid !important;
+  }
+
+  .tablet\:ext-inline-grid {
+    display: inline-grid !important;
+  }
+
+  .tablet\:ext-hidden {
+    display: none !important;
+  }
+
+  .tablet\:ext-w-auto {
+    width: auto !important;
+  }
+
+  .tablet\:ext-w-full {
+    width: 100% !important;
+  }
+
+  .tablet\:ext-max-w-full {
+    max-width: 100% !important;
+  }
+
+  .tablet\:ext-flex-1 {
+    flex: 1 1 0% !important;
+  }
+
+  .tablet\:ext-flex-auto {
+    flex: 1 1 auto !important;
+  }
+
+  .tablet\:ext-flex-initial {
+    flex: 0 1 auto !important;
+  }
+
+  .tablet\:ext-flex-none {
+    flex: none !important;
+  }
+
+  .tablet\:ext-flex-shrink-0 {
+    flex-shrink: 0 !important;
+  }
+
+  .tablet\:ext-flex-shrink {
+    flex-shrink: 1 !important;
+  }
+
+  .tablet\:ext-flex-grow-0 {
+    flex-grow: 0 !important;
+  }
+
+  .tablet\:ext-flex-grow {
+    flex-grow: 1 !important;
+  }
+
+  .tablet\:ext-list-none {
+    list-style-type: none !important;
+  }
+
+  .tablet\:ext-grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+  }
+
+  .tablet\:ext-grid-cols-none {
+    grid-template-columns: none !important;
+  }
+
+  .tablet\:ext-flex-row {
+    flex-direction: row !important;
+  }
+
+  .tablet\:ext-flex-row-reverse {
+    flex-direction: row-reverse !important;
+  }
+
+  .tablet\:ext-flex-col {
+    flex-direction: column !important;
+  }
+
+  .tablet\:ext-flex-col-reverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .tablet\:ext-flex-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .tablet\:ext-flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+  }
+
+  .tablet\:ext-flex-nowrap {
+    flex-wrap: nowrap !important;
+  }
+
+  .tablet\:ext-items-start {
+    align-items: flex-start !important;
+  }
+
+  .tablet\:ext-items-end {
+    align-items: flex-end !important;
+  }
+
+  .tablet\:ext-items-center {
+    align-items: center !important;
+  }
+
+  .tablet\:ext-items-baseline {
+    align-items: baseline !important;
+  }
+
+  .tablet\:ext-items-stretch {
+    align-items: stretch !important;
+  }
+
+  .tablet\:ext-justify-start {
+    justify-content: flex-start !important;
+  }
+
+  .tablet\:ext-justify-end {
+    justify-content: flex-end !important;
+  }
+
+  .tablet\:ext-justify-center {
+    justify-content: center !important;
+  }
+
+  .tablet\:ext-justify-between {
+    justify-content: space-between !important;
+  }
+
+  .tablet\:ext-justify-around {
+    justify-content: space-around !important;
+  }
+
+  .tablet\:ext-justify-evenly {
+    justify-content: space-evenly !important;
+  }
+
+  .tablet\:ext-justify-items-start {
+    justify-items: start !important;
+  }
+
+  .tablet\:ext-justify-items-end {
+    justify-items: end !important;
+  }
+
+  .tablet\:ext-justify-items-center {
+    justify-items: center !important;
+  }
+
+  .tablet\:ext-justify-items-stretch {
+    justify-items: stretch !important;
+  }
+
+  .tablet\:ext-justify-self-auto {
+    justify-self: auto !important;
+  }
+
+  .tablet\:ext-justify-self-start {
+    justify-self: start !important;
+  }
+
+  .tablet\:ext-justify-self-end {
+    justify-self: end !important;
+  }
+
+  .tablet\:ext-justify-self-center {
+    justify-self: center !important;
+  }
+
+  .tablet\:ext-justify-self-stretch {
+    justify-self: stretch !important;
+  }
+
+  .tablet\:ext-p-0:not([style*="padding"]) {
+    padding: 0 !important;
+  }
+
+  .tablet\:ext-p-base:not([style*="padding"]) {
+    padding: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-p-lg:not([style*="padding"]) {
+    padding: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-px-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .tablet\:ext-px-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-px-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-py-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .tablet\:ext-py-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-py-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pt-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+  }
+
+  .tablet\:ext-pt-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pt-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pr-0:not([style*="padding"]) {
+    padding-right: 0 !important;
+  }
+
+  .tablet\:ext-pr-base:not([style*="padding"]) {
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pr-lg:not([style*="padding"]) {
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pb-0:not([style*="padding"]) {
+    padding-bottom: 0 !important;
+  }
+
+  .tablet\:ext-pb-base:not([style*="padding"]) {
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pb-lg:not([style*="padding"]) {
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-pl-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+  }
+
+  .tablet\:ext-pl-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .tablet\:ext-pl-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .tablet\:ext-text-left {
+    text-align: left !important;
+  }
+
+  .tablet\:ext-text-center {
+    text-align: center !important;
+  }
+
+  .tablet\:ext-text-right {
+    text-align: right !important;
+  }
+}
+
+@media (min-width: 1080px) {
+  .desktop\:ext-absolute {
+    position: absolute !important;
+  }
+
+  .desktop\:ext-relative {
+    position: relative !important;
+  }
+
+  .desktop\:ext-top-base {
+    top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-top-lg {
+    top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--top-base {
+    top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--top-lg {
+    top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-right-base {
+    right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-right-lg {
+    right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--right-base {
+    right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--right-lg {
+    right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-bottom-base {
+    bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-bottom-lg {
+    bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--bottom-base {
+    bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--bottom-lg {
+    bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-left-base {
+    left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-left-lg {
+    left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--left-base {
+    left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--left-lg {
+    left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-order-1 {
+    order: 1 !important;
+  }
+
+  .desktop\:ext-order-2 {
+    order: 2 !important;
+  }
+
+  .desktop\:ext-m-0:not([style*="margin"]) {
+    margin: 0 !important;
+  }
+
+  .desktop\:ext-m-auto:not([style*="margin"]) {
+    margin: auto !important;
+  }
+
+  .desktop\:ext-m-base:not([style*="margin"]) {
+    margin: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-m-lg:not([style*="margin"]) {
+    margin: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--m-base:not([style*="margin"]) {
+    margin: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--m-lg:not([style*="margin"]) {
+    margin: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mx-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .desktop\:ext-mx-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .desktop\:ext-mx-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mx-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mx-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mx-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-my-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .desktop\:ext-my-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+  }
+
+  .desktop\:ext-my-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-my-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--my-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--my-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mt-0:not([style*="margin"]) {
+    margin-top: 0 !important;
+  }
+
+  .desktop\:ext-mt-auto:not([style*="margin"]) {
+    margin-top: auto !important;
+  }
+
+  .desktop\:ext-mt-base:not([style*="margin"]) {
+    margin-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mt-lg:not([style*="margin"]) {
+    margin-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mt-base:not([style*="margin"]) {
+    margin-top: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mt-lg:not([style*="margin"]) {
+    margin-top: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mr-0:not([style*="margin"]) {
+    margin-right: 0 !important;
+  }
+
+  .desktop\:ext-mr-auto:not([style*="margin"]) {
+    margin-right: auto !important;
+  }
+
+  .desktop\:ext-mr-base:not([style*="margin"]) {
+    margin-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mr-lg:not([style*="margin"]) {
+    margin-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mr-base:not([style*="margin"]) {
+    margin-right: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mr-lg:not([style*="margin"]) {
+    margin-right: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-mb-0:not([style*="margin"]) {
+    margin-bottom: 0 !important;
+  }
+
+  .desktop\:ext-mb-auto:not([style*="margin"]) {
+    margin-bottom: auto !important;
+  }
+
+  .desktop\:ext-mb-base:not([style*="margin"]) {
+    margin-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-mb-lg:not([style*="margin"]) {
+    margin-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--mb-base:not([style*="margin"]) {
+    margin-bottom: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--mb-lg:not([style*="margin"]) {
+    margin-bottom: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-ml-0:not([style*="margin"]) {
+    margin-left: 0 !important;
+  }
+
+  .desktop\:ext-ml-auto:not([style*="margin"]) {
+    margin-left: auto !important;
+  }
+
+  .desktop\:ext-ml-base:not([style*="margin"]) {
+    margin-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-ml-lg:not([style*="margin"]) {
+    margin-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext--ml-base:not([style*="margin"]) {
+    margin-left: calc(var(--wp--style--block-gap, 1.75rem) * -1) !important;
+  }
+
+  .desktop\:ext--ml-lg:not([style*="margin"]) {
+    margin-left: calc(var(--extendify--spacing--large, 3rem) * -1) !important;
+  }
+
+  .desktop\:ext-block {
+    display: block !important;
+  }
+
+  .desktop\:ext-inline-block {
+    display: inline-block !important;
+  }
+
+  .desktop\:ext-inline {
+    display: inline !important;
+  }
+
+  .desktop\:ext-flex {
+    display: flex !important;
+  }
+
+  .desktop\:ext-inline-flex {
+    display: inline-flex !important;
+  }
+
+  .desktop\:ext-grid {
+    display: grid !important;
+  }
+
+  .desktop\:ext-inline-grid {
+    display: inline-grid !important;
+  }
+
+  .desktop\:ext-hidden {
+    display: none !important;
+  }
+
+  .desktop\:ext-w-auto {
+    width: auto !important;
+  }
+
+  .desktop\:ext-w-full {
+    width: 100% !important;
+  }
+
+  .desktop\:ext-max-w-full {
+    max-width: 100% !important;
+  }
+
+  .desktop\:ext-flex-1 {
+    flex: 1 1 0% !important;
+  }
+
+  .desktop\:ext-flex-auto {
+    flex: 1 1 auto !important;
+  }
+
+  .desktop\:ext-flex-initial {
+    flex: 0 1 auto !important;
+  }
+
+  .desktop\:ext-flex-none {
+    flex: none !important;
+  }
+
+  .desktop\:ext-flex-shrink-0 {
+    flex-shrink: 0 !important;
+  }
+
+  .desktop\:ext-flex-shrink {
+    flex-shrink: 1 !important;
+  }
+
+  .desktop\:ext-flex-grow-0 {
+    flex-grow: 0 !important;
+  }
+
+  .desktop\:ext-flex-grow {
+    flex-grow: 1 !important;
+  }
+
+  .desktop\:ext-list-none {
+    list-style-type: none !important;
+  }
+
+  .desktop\:ext-grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-5 {
+    grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-7 {
+    grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-8 {
+    grid-template-columns: repeat(8, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-9 {
+    grid-template-columns: repeat(9, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-10 {
+    grid-template-columns: repeat(10, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-11 {
+    grid-template-columns: repeat(11, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr)) !important;
+  }
+
+  .desktop\:ext-grid-cols-none {
+    grid-template-columns: none !important;
+  }
+
+  .desktop\:ext-flex-row {
+    flex-direction: row !important;
+  }
+
+  .desktop\:ext-flex-row-reverse {
+    flex-direction: row-reverse !important;
+  }
+
+  .desktop\:ext-flex-col {
+    flex-direction: column !important;
+  }
+
+  .desktop\:ext-flex-col-reverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .desktop\:ext-flex-wrap {
+    flex-wrap: wrap !important;
+  }
+
+  .desktop\:ext-flex-wrap-reverse {
+    flex-wrap: wrap-reverse !important;
+  }
+
+  .desktop\:ext-flex-nowrap {
+    flex-wrap: nowrap !important;
+  }
+
+  .desktop\:ext-items-start {
+    align-items: flex-start !important;
+  }
+
+  .desktop\:ext-items-end {
+    align-items: flex-end !important;
+  }
+
+  .desktop\:ext-items-center {
+    align-items: center !important;
+  }
+
+  .desktop\:ext-items-baseline {
+    align-items: baseline !important;
+  }
+
+  .desktop\:ext-items-stretch {
+    align-items: stretch !important;
+  }
+
+  .desktop\:ext-justify-start {
+    justify-content: flex-start !important;
+  }
+
+  .desktop\:ext-justify-end {
+    justify-content: flex-end !important;
+  }
+
+  .desktop\:ext-justify-center {
+    justify-content: center !important;
+  }
+
+  .desktop\:ext-justify-between {
+    justify-content: space-between !important;
+  }
+
+  .desktop\:ext-justify-around {
+    justify-content: space-around !important;
+  }
+
+  .desktop\:ext-justify-evenly {
+    justify-content: space-evenly !important;
+  }
+
+  .desktop\:ext-justify-items-start {
+    justify-items: start !important;
+  }
+
+  .desktop\:ext-justify-items-end {
+    justify-items: end !important;
+  }
+
+  .desktop\:ext-justify-items-center {
+    justify-items: center !important;
+  }
+
+  .desktop\:ext-justify-items-stretch {
+    justify-items: stretch !important;
+  }
+
+  .desktop\:ext-justify-self-auto {
+    justify-self: auto !important;
+  }
+
+  .desktop\:ext-justify-self-start {
+    justify-self: start !important;
+  }
+
+  .desktop\:ext-justify-self-end {
+    justify-self: end !important;
+  }
+
+  .desktop\:ext-justify-self-center {
+    justify-self: center !important;
+  }
+
+  .desktop\:ext-justify-self-stretch {
+    justify-self: stretch !important;
+  }
+
+  .desktop\:ext-p-0:not([style*="padding"]) {
+    padding: 0 !important;
+  }
+
+  .desktop\:ext-p-base:not([style*="padding"]) {
+    padding: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-p-lg:not([style*="padding"]) {
+    padding: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-px-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .desktop\:ext-px-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-px-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-py-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  .desktop\:ext-py-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-py-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pt-0:not([style*="padding"]) {
+    padding-top: 0 !important;
+  }
+
+  .desktop\:ext-pt-base:not([style*="padding"]) {
+    padding-top: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pt-lg:not([style*="padding"]) {
+    padding-top: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pr-0:not([style*="padding"]) {
+    padding-right: 0 !important;
+  }
+
+  .desktop\:ext-pr-base:not([style*="padding"]) {
+    padding-right: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pr-lg:not([style*="padding"]) {
+    padding-right: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pb-0:not([style*="padding"]) {
+    padding-bottom: 0 !important;
+  }
+
+  .desktop\:ext-pb-base:not([style*="padding"]) {
+    padding-bottom: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pb-lg:not([style*="padding"]) {
+    padding-bottom: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-pl-0:not([style*="padding"]) {
+    padding-left: 0 !important;
+  }
+
+  .desktop\:ext-pl-base:not([style*="padding"]) {
+    padding-left: var(--wp--style--block-gap, 1.75rem) !important;
+  }
+
+  .desktop\:ext-pl-lg:not([style*="padding"]) {
+    padding-left: var(--extendify--spacing--large, 3rem) !important;
+  }
+
+  .desktop\:ext-text-left {
+    text-align: left !important;
+  }
+
+  .desktop\:ext-text-center {
+    text-align: center !important;
+  }
+
+  .desktop\:ext-text-right {
+    text-align: right !important;
+  }
+}
+
+</style>
+<link rel='stylesheet' id='slick-css' href='https://magazines.gorky.media/wp-content/themes/jz/front/assets/slick.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='screen-css' href='https://magazines.gorky.media/wp-content/themes/jz/front/css/screen.css?ver=1566864000' type='text/css' media='all' />
+<link rel='stylesheet' id='gfonts-css' href='https://fonts.googleapis.com/css?family=Oswald%7CPT+Serif%3A300%2C400%2C400i%2C700%2C700i&#038;display=swap&#038;subset=cyrillic&#038;ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jz-css' href='https://magazines.gorky.media/wp-content/themes/jz/style.css?ver=1566864000' type='text/css' media='all' />
+<meta name="generator" content="Redux 4.3.20" /><meta name="developer" content="https://itron.pro" />
+
+		<script type="text/javascript">!function(){function e(e){return r.indexOf(e)>-1}function n(e){return t.indexOf(e)>-1}function o(e){return d.indexOf(e)>-1}var i=[],a=navigator,r=a.platform.toLowerCase(),t=a.userAgent.toLowerCase(),d=a.appName.toLowerCase(),s=document.documentElement,m=(localStorage,n("iphone")||n("ipod")||n("ipad")||n("android")||n("iemobile")||n("blackberry")||n("bada")?"_mobile":"_desktop");i.push(m);var p="";n("ipad")||n("iphone")||n("ipod")?p="_ios":n("android")?p="_android":e("win")?p="_win":e("mac")?p="_mac":e("linux")&&(p="_linux"),i.push(p);var c="";n("firefox")?c="_ff":n("opr")?c="_opera":n("yabrowser")?c="_yandex":n("edge")?c="_edge":n("trident")||o("explorer")||o("msie")?c="_ie":n("safari")&&!n("chrome")?c="_safari":n("chrome")&&(c="_chrome"),i.push(c),window.environmentObject={platform:m,os:p,browser:c},s.className+=" "+i.join(" ");}();</script>		
+		</head>
+<body class="home blog page-template-default">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>	<div id="page" class="site">
+        <header id="masthead" class="site-header" role="banner">
+            <div>
+                <!-- Лого, название/слоган -->
+                <div class="logo-block">
+                    <a href="https://magazines.gorky.media" class="logo-block__icon"><svg width="56" height="32" viewBox="0 0 56 32" fill="none"> <path d="M11.3967 3.94798L19.8406 14.3792V0H7.46179C8.92931 0.980545 10.1791 2.42556 11.3967 3.94798Z" fill="#FEFDFC" /> <path d="M24.1622 14.3792L31.9997 4.69791V2.04334C31.9997 0.914423 31.1256 0 30.0468 0H24.1622V14.3792Z" fill="#FEFDFC" /> <path d="M32.0001 17.3928V8.90332L28.6329 13.1384L32.0001 17.3928Z" fill="#FEFDFC" /> <path d="M5.93297 25.0596L15.3702 13.1382L7.67141 3.45211C5.71526 0.973329 3.75749 0.170185 1.80134 0.00891113C0.793428 0.0895481 0 0.968491 0 2.04419V29.9252C1.96583 28.9963 4.22839 27.2013 5.93297 25.0596Z" fill="#FEFDFC" /> <path d="M19.8404 31.5159V31.1321V15.124L11.3965 26.0519C7.75353 30.7418 4.11215 31.8417 1.80927 31.9917C1.85604 31.9949 1.90442 31.9997 1.95119 31.9997H19.8404V31.5159Z" fill="#FEFDFC" /> <path d="M24.1622 15.124V31.1321V31.5159V31.9997H30.0468C31.1256 31.9997 31.9997 31.0853 31.9997 29.9564V25.2665L24.1622 15.124Z" fill="#FEFDFC" /> <path d="M38.2892 14.8572H42.66C46.8 14.8572 50.48 12.5716 50.48 8.22816C50.48 3.88472 47.0292 1.82848 43.58 1.82848C39.2092 1.82848 35.9892 4.5712 34.84 9.1424H33.92C33.92 6.39968 33.92 4.5712 35.0692 3.19984C36.7252 1.18851 40.5892 0 43.8092 0C48.4092 0 54.8492 1.1436 54.8492 8.45752C54.8492 11.4296 52.7784 14.1723 48.4092 15.5437C54.1584 16.6857 56 19.43 56 23.3147C56 30.3993 49.1 32 44.04 32C39.44 32 35.76 30.6286 33 26.2852L33.92 25.6003C35.9908 28.343 38.98 30.1715 43.3508 30.1715C48.18 30.1715 51.4016 27.6582 51.4016 23.5425C51.4016 19.199 48.4124 16.6857 42.6616 16.6857H38.2908V14.8572H38.2892Z" fill="#FEFDFC" /> </svg></a>
+                    <h6 class="logo-block__text">
+                        <span class="logo-block__text-inner _long">Русский толстый журнал как эстетический феномен</span>
+                        <span class="logo-block__text-inner _short">Журнальный зал</span>
+                    </h6>
+                </div>
+					<!-- Навигация, основное меню (вертикальное)-->
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+
+		<ul id="menu-mainmenu" class="menu">
+			<!-- Первый пункт меню "Главная" в десктопе не виден, появляется в мобильной версии-->
+			<li class="menu-item current-menu-item">
+				<a href="https://magazines.gorky.media">Главная</a>
+			</li>
+						<li class="menu-item ">
+				<a href="https://magazines.gorky.media/authors/a">Авторы</a>
+			</li>
+			<!-- пункты меню "Библиотека" и "Журналы" есть только в десктоп, не видны в мобильной версии-->
+			<li class="menu-item" id="menu-item-lib">
+				<a  href="https://magazines.gorky.media/library">Библиотека</a>
+			</li>
+			<li class="menu-item " id="menu-item-mag">
+				<a  href="https://magazines.gorky.media">Журналы</a>
+			</li>
+			<li class="menu-item ">
+				<a href="https://magazines.gorky.media/page/search">Поиск</a>
+			</li>
+
+			<!-- Список журналов (<a> - наименование журнала, <p> - категория журналов)-->
+			<li class="menu-item menu-item-has-children _border-top">
+				<div class="menu-item-has-children__opener">Список журналов</div>
+				<ul class="sub-menu">
+				<li class="menu-item"><a href="https://magazines.gorky.media/prosodia">Prosōdia</a></li><li class="menu-item"><a href="https://magazines.gorky.media/vestnik">Вестник Европы</a></li><li class="menu-item"><a href="https://magazines.gorky.media/volga">Волга</a></li><li class="menu-item"><a href="https://magazines.gorky.media/ra">Дети Ра</a></li><li class="menu-item"><a href="https://magazines.gorky.media/druzhba">Дружба Народов</a></li><li class="menu-item"><a href="https://magazines.gorky.media/zvezda">Звезда</a></li><li class="menu-item"><a href="https://magazines.gorky.media/zerkalo">Зеркало</a></li><li class="menu-item"><a href="https://magazines.gorky.media/zin">Зинзивер</a></li><li class="menu-item"><a href="https://magazines.gorky.media/znamia">Знамя</a></li><li class="menu-item"><a href="https://magazines.gorky.media/ier">Иерусалимский журнал</a></li><li class="menu-item"><a href="https://magazines.gorky.media/inostran">Иностранная литература</a></li><li class="menu-item"><a href="https://magazines.gorky.media/interpoezia">Интерпоэзия</a></li><li class="menu-item"><a href="https://magazines.gorky.media/kreschatik">Крещатик</a></li><li class="menu-item"><a href="https://magazines.gorky.media/neva">Нева</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nz">Неприкосновенный запас</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nlo">НЛО</a></li><li class="menu-item"><a href="https://magazines.gorky.media/bereg">Новый берег</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nj">Новый Журнал</a></li><li class="menu-item"><a href="https://magazines.gorky.media/novyi_mi">Новый Мир</a></li><li class="menu-item"><a href="https://magazines.gorky.media/ural">Урал</a></li><li class="menu-item"><a href="https://magazines.gorky.media/unost">Юность</a></li><li class="menu-item"><p>Архив</p></li><li class="menu-item"><a href="https://magazines.gorky.media/sp">©оюз Писателей</a></li><li class="menu-item"><a href="https://magazines.gorky.media/homo_legens">Homo Legens</a></li><li class="menu-item"><a href="https://magazines.gorky.media/arion">Арион</a></li><li class="menu-item"><a href="https://magazines.gorky.media/volga21">ВОЛГА-ХХI век</a></li><li class="menu-item"><a href="https://magazines.gorky.media/din">День и ночь</a></li><li class="menu-item"><a href="https://magazines.gorky.media/zz">Зарубежные записки</a></li><li class="menu-item"><a href="https://magazines.gorky.media/continent">Континент</a></li><li class="menu-item"><a href="https://magazines.gorky.media/km">Критическая Масса</a></li><li class="menu-item"><a href="https://magazines.gorky.media/logos">Логос</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nrk">Новая Русская Книга</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nov_yun">Новая Юность</a></li><li class="menu-item"><a href="https://magazines.gorky.media/nlik">Новый ЛИК</a></li><li class="menu-item"><a href="https://magazines.gorky.media/october">Октябрь</a></li><li class="menu-item"><a href="https://magazines.gorky.media/oz">Отечественные записки</a></li><li class="menu-item"><a href="https://magazines.gorky.media/sib">Сибирские огни</a></li><li class="menu-item"><a href="https://magazines.gorky.media/slovo">СловоWord</a></li><li class="menu-item"><a href="https://magazines.gorky.media/slo">Старое литературное обозрение</a></li><li class="menu-item"><a href="https://magazines.gorky.media/studio">Студия</a></li><li class="menu-item"><a href="https://magazines.gorky.media/urnov">Уральская новь</a></li>				</ul>
+			</li>
+			<li class="menu-item _border-top"></li>
+			<li id="menu-item-227130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227130"><a href="https://magazines.gorky.media/page/proekt-egipetskie-nochi">Проект «Египетские ночи»</a></li>
+<li id="menu-item-225644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225644"><a href="https://magazines.gorky.media/page/portal-zhz">Портал ЖЗ</a></li>
+		</ul>
+	</nav>
+	            </div>
+        </header><!-- #masthead -->
+
+        <!-- Плавающий блок с бургер-меню/поиском для мобильной версии-->
+        <div class="mobile-menu-toggle-block">
+            <button class="menu-toggle burger" aria-controls="toggle-primary-menu" aria-expanded="false">
+                <i class="burger__item"></i>
+                <i class="burger__item"></i>
+                <i class="burger__item"></i>
+                <i class="burger__item"></i>
+            </button> <!-- Кнопка "Меню", раскрывающая меню для мобильных экранов -->
+            <div class="info-block">
+                <span class="_menu-opened">Содержание</span>
+                <span class="_menu-closed">Журнальный зал</span>
+            </div>
+            <a href="https://magazines.gorky.media/page/search" class="menu-search">
+                <svg class="menu-search__icon">
+                    <use xlink:href="#icon-search"></use>
+                </svg>
+            </a>
+        </div>
+		<div id="content" class="site-content ">
+			<div id="primary" class="content-area" data-loading="Загрузка..."> 
+	<section class="magazineSection">
+		<div class="magazine-list">
+			<div class="magazine-list__container inner-list-js">
+				<div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/zin/2025/1" class="mag-link"><img width="273" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/03/zinziver_11452025-273x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Зинзивер 2025/1" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/03/zinziver_11452025-273x300.jpg 273w, https://magazines.gorky.media/wp-content/uploads/2025/03/zinziver_11452025.jpg 600w" sizes="(max-width: 273px) 100vw, 273px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/zin/2025/1" class="mag-link">
+				<h6>Номер 1, 2025</h6>
+				<h3>Зинзивер</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Валерий Скобло <a href="https://magazines.gorky.media/zin/2025/1/stihi-iz-czikla-gorod-i-okrestnosti.html">«Стихи из цикла «Город и окрестности»</a></li><li>Валентин Нервин <a href="https://magazines.gorky.media/zin/2025/1/do-zvezdnogo-neba-i-ssudnogo-dnya.html">«До звездного неба и ссудного дня»</a></li><li>Константин Кедров-Челищев <a href="https://magazines.gorky.media/zin/2025/1/zerkalnyj-orkestr.html">«Зеркальный оркестр»</a></li><li>Евгений Разумов <a href="https://magazines.gorky.media/zin/2025/1/vyjti-k-reke.html">«Выйти к реке»</a></li><li>Любовь Березкина <a href="https://magazines.gorky.media/zin/2025/1/odinnadczat-stihotvorenij.html">«Одиннадцать стихотворений»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/znamia/2025/3" class="mag-link"><img width="193" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25-193x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Знамя 2025/3" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25-193x300.jpg 193w, https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25-658x1024.jpg 658w, https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25-768x1196.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25-987x1536.jpg 987w, https://magazines.gorky.media/wp-content/uploads/2025/03/obl-3-25.jpg 1306w" sizes="(max-width: 193px) 100vw, 193px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/znamia/2025/3" class="mag-link">
+				<h6>Номер 3, 2025</h6>
+				<h3>Знамя</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Александр Переверзин <a href="https://magazines.gorky.media/znamia/2025/3/izh-yupiter-3.html">«Иж Юпитер-3»</a></li><li>Георгий Давыдов <a href="https://magazines.gorky.media/znamia/2025/3/gospozha-yume-2.html">«Госпожа Юме»</a></li><li>Алексей Улюкаев <a href="https://magazines.gorky.media/znamia/2025/3/odinnadczat.html">«Одиннадцать»</a></li><li>Степан Гаврилов <a href="https://magazines.gorky.media/znamia/2025/3/gul.html">«Гул»</a></li><li>Виталий Симанков <a href="https://magazines.gorky.media/znamia/2025/3/dolgoterpenie.html">«Долготерпение»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/novyi_mi/2025/1" class="mag-link"><img width="191" height="300" src="https://magazines.gorky.media/wp-content/uploads/2019/06/obl-Novyj-mir-191x300.jpg" class="attachment-medium size-medium" alt="Новый Мир" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2019/06/obl-Novyj-mir-191x300.jpg 191w, https://magazines.gorky.media/wp-content/uploads/2019/06/obl-Novyj-mir-768x1205.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2019/06/obl-Novyj-mir-653x1024.jpg 653w, https://magazines.gorky.media/wp-content/uploads/2019/06/obl-Novyj-mir.jpg 956w" sizes="(max-width: 191px) 100vw, 191px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/novyi_mi/2025/1" class="mag-link">
+				<h6>Номер 1, 2025</h6>
+				<h3>Новый Мир</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li><a href="https://magazines.gorky.media/novyi_mi/2025/1/dorogie-chitateli-avtory-druzya-zhurnala.html">«Дорогие читатели, авторы, друзья журнала!»</a></li><li>Александр Кушнер <a href="https://magazines.gorky.media/novyi_mi/2025/1/ne-narushaya-ritm-i-slog.html">«Не нарушая ритм и слог»</a></li><li>Вл. Новиков <a href="https://magazines.gorky.media/novyi_mi/2025/1/rechevoj-lider.html">«Речевой лидер»</a></li><li>Светлана Кекова <a href="https://magazines.gorky.media/novyi_mi/2025/1/vremya-portnyh.html">«Время портных»</a></li><li>Юрий Буйда <a href="https://magazines.gorky.media/novyi_mi/2025/1/krasnoe-slovo.html">«Красное слово»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/unost/2024/9" class="mag-link"><img width="225" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/02/oblozhka-1-225x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Юность 2024/9" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/02/oblozhka-1-225x300.jpg 225w, https://magazines.gorky.media/wp-content/uploads/2025/02/oblozhka-1.jpg 644w" sizes="(max-width: 225px) 100vw, 225px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/unost/2024/9" class="mag-link">
+				<h6>Номер 9, 2024</h6>
+				<h3>Юность</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Марина Ерофеевская <a href="https://magazines.gorky.media/unost/2024/9/stihi-3668.html">«Стихи»</a></li><li>Григорий Князев <a href="https://magazines.gorky.media/unost/2024/9/stihi-3669.html">«Стихи»</a></li><li>Александр Курапцев <a href="https://magazines.gorky.media/unost/2024/9/stihi-3670.html">«Стихи»</a></li><li>Татьяна Пискарева <a href="https://magazines.gorky.media/unost/2024/9/stihi-3671.html">«Стихи»</a></li><li>Олег Мошников <a href="https://magazines.gorky.media/unost/2024/9/stihi-3672.html">«Стихи»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/druzhba/2025/2" class="mag-link"><img width="199" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1-199x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Дружба Народов 2025/2" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1-199x300.jpg 199w, https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1-679x1024.jpg 679w, https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1-768x1158.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1-1019x1536.jpg 1019w, https://magazines.gorky.media/wp-content/uploads/2025/02/cover2-2025_1.jpg 1053w" sizes="(max-width: 199px) 100vw, 199px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/druzhba/2025/2" class="mag-link">
+				<h6>Номер 2, 2025</h6>
+				<h3>Дружба Народов</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Сергей Попов <a href="https://magazines.gorky.media/druzhba/2025/2/ochnaya-stavka.html">«Очная ставка»</a></li><li>Мария Бушуева <a href="https://magazines.gorky.media/druzhba/2025/2/tomskij-telegrafist.html">«Томский телеграфист»</a></li><li>Анастасия Каменская <a href="https://magazines.gorky.media/druzhba/2025/2/zveri-kotorye-luchshe-chem-lyudi.html">«Звери, которые лучше, чем люди»</a></li><li>Иван Гобзев <a href="https://magazines.gorky.media/druzhba/2025/2/kompulsii.html">«Компульсии»</a></li><li>Игорь Малышев <a href="https://magazines.gorky.media/druzhba/2025/2/priznak-chego-to-vernogo.html">«Признак чего-то верного»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/ural/2025/2" class="mag-link"><img width="196" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/01/journal-2025-02-196x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Урал 2025/2" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/01/journal-2025-02-196x300.jpg 196w, https://magazines.gorky.media/wp-content/uploads/2025/01/journal-2025-02.jpg 419w" sizes="(max-width: 196px) 100vw, 196px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/ural/2025/2" class="mag-link">
+				<h6>Номер 2, 2025</h6>
+				<h3>Урал</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Алексей Воронин <a href="https://magazines.gorky.media/ural/2025/2/put-trubadura.html">«Путь трубадура»</a></li><li>Герман Власов <a href="https://magazines.gorky.media/ural/2025/2/besshovnoe-oblako.html">«Бесшовное облако»</a></li><li>Владислав Пасечник <a href="https://magazines.gorky.media/ural/2025/2/lovczy-chelovekov.html">«Ловцы человеков»</a></li><li>Ирина Васьковская <a href="https://magazines.gorky.media/ural/2025/2/1079.html">«1079»</a></li><li>Алексей Коровашко <a href="https://magazines.gorky.media/ural/2025/2/net-ya-ne-avtor-ya-geroj.html">«Нет, я не автор, я герой&#8230;»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/zvezda/2025/2" class="mag-link"><img width="187" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/02/zvezda-2-187x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Звезда 2025/2" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/02/zvezda-2-187x300.jpg 187w, https://magazines.gorky.media/wp-content/uploads/2025/02/zvezda-2.jpg 458w" sizes="(max-width: 187px) 100vw, 187px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/zvezda/2025/2" class="mag-link">
+				<h6>Номер 2, 2025</h6>
+				<h3>Звезда</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Владимир Рецептер <a href="https://magazines.gorky.media/zvezda/2025/2/stihi-3664.html">«Стихи»</a></li><li>Елена Елагина. <a href="https://magazines.gorky.media/zvezda/2025/2/stihi-3665.html">«Стихи»</a></li><li>Татьяна Апраксина <a href="https://magazines.gorky.media/zvezda/2025/2/iskusstvo-byt-rekoj.html">«Искусство быть рекой»</a></li><li>Евгений Чигрин <a href="https://magazines.gorky.media/zvezda/2025/2/fantasticheskoe.html">«Фантастическое»</a></li><li>Андрей Дмитриев <a href="https://magazines.gorky.media/zvezda/2025/2/stihi-3666.html">«Стихи»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/ra/2025/1" class="mag-link"><img width="223" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/02/detira_12122025-223x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Дети Ра 2025/1" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/02/detira_12122025-223x300.jpg 223w, https://magazines.gorky.media/wp-content/uploads/2025/02/detira_12122025.jpg 600w" sizes="(max-width: 223px) 100vw, 223px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/ra/2025/1" class="mag-link">
+				<h6>Номер 1, 2025</h6>
+				<h3>Дети Ра</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Евгений Каминский <a href="https://magazines.gorky.media/ra/2025/1/ne-tak-i-malo.html">«Не так и мало»</a></li><li>Наташа Кинугава <a href="https://magazines.gorky.media/ra/2025/1/marshrutka-zhizn.html">«Маршрутка-жизнь»</a></li><li>Александр Трунин <a href="https://magazines.gorky.media/ra/2025/1/medlennyj-snegopad.html">«Медленный снегопад»</a></li><li>Анна Долгарева <a href="https://magazines.gorky.media/ra/2025/1/postoyannoe-eto-lyubov.html">«Постоянное — это любовь»</a></li><li>Полина Потапова <a href="https://magazines.gorky.media/ra/2025/1/snov-nevozmozhnaya-drozh.html">«Снов невозможная дрожь»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/nlo/2024/6" class="mag-link"><img width="193" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/01/nlo190-193x300.png" class="attachment-medium size-medium wp-post-image" alt="НЛО 2024/6" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/01/nlo190-193x300.png 193w, https://magazines.gorky.media/wp-content/uploads/2025/01/nlo190.png 363w" sizes="(max-width: 193px) 100vw, 193px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/nlo/2024/6" class="mag-link">
+				<h6>Номер 6, 2024</h6>
+				<h3>НЛО</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Карина Лукьянова <a href="https://magazines.gorky.media/nlo/2024/6/propushhennyj-vyzov-epohi.html">«Пропущенный вызов эпохи»</a></li><li>Константин Шавловский <a href="https://magazines.gorky.media/nlo/2024/6/serdcze-nad-gorizontom.html">«Сердце над горизонтом»</a></li><li>Николай Вахтин, Елена Лярская <a href="https://magazines.gorky.media/nlo/2024/6/pisma-iz-polya-princzipy-leningradskoj-etnograficheskoj-shkoly-i-sovetskaya-realnost.html">«Письма из поля: принципы ленинградской этнографической школы и советская реальность»</a></li><li>Мария Момзикова <a href="https://magazines.gorky.media/nlo/2024/6/pisma-posle-polya-sovetskie-issledovateli-nganasanskie-korrespondenty-i-soproizvodstvo-antropologicheskogo-znaniya-v-recziproknom-dialoge.html">«Письма после поля: советские исследователи, нганасанские корреспонденты и (со)производство антропологического знания в реципрокном диалоге»</a></li><li>Светлана Подрезова <a href="https://magazines.gorky.media/nlo/2024/6/v-pismah-vsego-ne-napishesh-arhiv-revolyuczionnoj-pesni-v-pismah.html">«В письмах всего не напишешь». Архив революционной песни в письмах»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/bereg/2025/85" class="mag-link"><img width="221" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/02/novyj-bereg_oblozhka-221x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Новый берег 2025/85" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/02/novyj-bereg_oblozhka-221x300.jpg 221w, https://magazines.gorky.media/wp-content/uploads/2025/02/novyj-bereg_oblozhka-755x1024.jpg 755w, https://magazines.gorky.media/wp-content/uploads/2025/02/novyj-bereg_oblozhka-768x1041.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2025/02/novyj-bereg_oblozhka.jpg 914w" sizes="(max-width: 221px) 100vw, 221px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/bereg/2025/85" class="mag-link">
+				<h6>Номер 85, 2025</h6>
+				<h3>Новый берег</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Алла Дубровская <a href="https://magazines.gorky.media/bereg/2025/85/otvetnyj-hod.html">«Ответный ход»</a></li><li>Александр Бабушкин <a href="https://magazines.gorky.media/bereg/2025/85/mamenkin-synok-2.html">«Маменькин сынок»</a></li><li>Алексей Александров <a href="https://magazines.gorky.media/bereg/2025/85/v-teploj-shapke-so-zvezdoj.html">«В теплой шапке со звездой»</a></li><li>Вячеслав Попов <a href="https://magazines.gorky.media/bereg/2025/85/zhizn-geroya.html">«Жизнь героя»</a></li><li>Гилберт Кит Честертон <a href="https://magazines.gorky.media/bereg/2025/85/stihi-3656.html">«Стихи»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/neva/2025/1" class="mag-link"><img width="198" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-198x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Нева 2025/1" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-198x300.jpg 198w, https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-676x1024.jpg 676w, https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-768x1164.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-1014x1536.jpg 1014w, https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-1352x2048.jpg 1352w, https://magazines.gorky.media/wp-content/uploads/2025/01/cover_neva_01_2025_colour-scaled.jpg 1690w" sizes="(max-width: 198px) 100vw, 198px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/neva/2025/1" class="mag-link">
+				<h6>Номер 1, 2025</h6>
+				<h3>Нева</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Лилия Газизова <a href="https://magazines.gorky.media/neva/2025/1/stihi-3644.html">«Стихи»</a></li><li>Артемий Леонтьев <a href="https://magazines.gorky.media/neva/2025/1/vzglyad-snizu-2.html">«Взгляд снизу»</a></li><li>Вита Пшеничная <a href="https://magazines.gorky.media/neva/2025/1/a-my-predpolagaem-zhit.html">«А мы предполагаем жить&#8230;»</a></li><li>Мария Ворошилова <a href="https://magazines.gorky.media/neva/2025/1/sonechka.html">«Сонечка»</a></li><li>Мария Праведникова <a href="https://magazines.gorky.media/neva/2025/1/stihi-3649.html">«Стихи»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/volga/2025/1" class="mag-link"><img width="188" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-188x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Волга 2025/1-2" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-188x300.jpg 188w, https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-643x1024.jpg 643w, https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-768x1223.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-964x1536.jpg 964w, https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-1286x2048.jpg 1286w, https://magazines.gorky.media/wp-content/uploads/2025/01/1-2-thic-scaled.jpg 1607w" sizes="(max-width: 188px) 100vw, 188px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/volga/2025/1" class="mag-link">
+				<h6>Номер 1, 2025</h6>
+				<h3>Волга</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Владимир Аристов <a href="https://magazines.gorky.media/volga/2025/1/techenie-nochi.html">«Течение ночи»</a></li><li>Михаил Токарев <a href="https://magazines.gorky.media/volga/2025/1/priklyucheniya-frezerovshhika-v-strane-oz.html">«Приключения фрезеровщика в стране Оз»</a></li><li>Ирма Гендернис <a href="https://magazines.gorky.media/volga/2025/1/smeshannye-misheni.html">«Смешанные мишени»</a></li><li>Сергей Попов <a href="https://magazines.gorky.media/volga/2025/1/mama-6.html">«Мама»</a></li><li>Дмитрий Волковой <a href="https://magazines.gorky.media/volga/2025/1/ugasanie.html">«Угасание»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/nz/2024/3" class="mag-link"><img width="192" height="300" src="https://magazines.gorky.media/wp-content/uploads/2025/01/nz-155-192x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Неприкосновенный запас 2024/3" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2025/01/nz-155-192x300.jpg 192w, https://magazines.gorky.media/wp-content/uploads/2025/01/nz-155.jpg 338w" sizes="(max-width: 192px) 100vw, 192px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/nz/2024/3" class="mag-link">
+				<h6>Номер 3, 2024</h6>
+				<h3>Неприкосновенный запас</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Олег Бэйда, Игорь Петров <a href="https://magazines.gorky.media/nz/2024/3/krov-i-pochva-dve-zhizni-doktora-bejtelshpahera.html">«Кровь и почва: две жизни доктора Бейтельшпахера»</a></li><li>Анатолий Воронин <a href="https://magazines.gorky.media/nz/2024/3/vtoroe-zadanie-zhizn-i-smert-very-voloshinoj.html">«Второе задание: жизнь и смерть Веры Волошиной»</a></li><li>Иван Курилла <a href="https://magazines.gorky.media/nz/2024/3/pamyat-o-soyuznike-po-vtoroj-mirovoj-vojne-rossijsko-amerikanskie-zarisovki.html">«Память о союзнике по Второй мировой войне: российско-американские зарисовки»</a></li><li>Марк Эделе <a href="https://magazines.gorky.media/nz/2024/3/sovetskie-veterany-vtoroj-mirovoj-vojny-dvadczat-let-spustya.html">«Советские ветераны Второй мировой войны»: двадцать лет спустя»</a></li><li>Алексей Левинсон <a href="https://magazines.gorky.media/nz/2024/3/skazhi-mne-kto-tvoj-drug.html">«Скажи мне, кто твой друг&#8230;»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/nj/2024/317" class="mag-link"><img width="193" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-193x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Новый Журнал 2024/317" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-193x300.jpg 193w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-660x1024.jpg 660w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-768x1191.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-990x1536.jpg 990w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2-1321x2048.jpg 1321w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-317-color-2.jpg 1650w" sizes="(max-width: 193px) 100vw, 193px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/nj/2024/317" class="mag-link">
+				<h6>Номер 317, 2024</h6>
+				<h3>Новый Журнал</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Владимир Батшев <a href="https://magazines.gorky.media/nj/2024/317/belym-po-chernomu-2.html">«Белым по черному»</a></li><li>Александр Немировский <a href="https://magazines.gorky.media/nj/2024/317/stihi-3637.html">«Стихи»</a></li><li>Сергей Попов <a href="https://magazines.gorky.media/nj/2024/317/poruchenie.html">«Поручение»</a></li><li>Владимир Гандельсман <a href="https://magazines.gorky.media/nj/2024/317/tretya-storona-medali.html">«Третья сторона медали»</a></li><li>Людмила Оболенская-Флам <a href="https://magazines.gorky.media/nj/2024/317/viki-russkaya-knyaginya-vo-franczuzskom-soprotivlenii-2.html">«Вики – русская княгиня во Французском Сопротивлении»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/interpoezia/2024/4" class="mag-link"><img width="200" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-200x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Интерпоэзия 2024/4" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-200x300.jpg 200w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-683x1024.jpg 683w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-768x1152.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-1024x1536.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-1365x2048.jpg 1365w, https://magazines.gorky.media/wp-content/uploads/2024/12/cover-2024-4-scaled.jpg 1707w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/interpoezia/2024/4" class="mag-link">
+				<h6>Номер 4, 2024</h6>
+				<h3>Интерпоэзия</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Галина Нерпина <a href="https://magazines.gorky.media/interpoezia/2024/4/hrupkie-dni.html">«Хрупкие дни»</a></li><li>Слава Полищук <a href="https://magazines.gorky.media/interpoezia/2024/4/peta.html">«Пьета»</a></li><li>Галина Климова <a href="https://magazines.gorky.media/interpoezia/2024/4/druzheskie-poslaniya-poetam.html">«Дружеские послания поэтам»</a></li><li>Евгений Абдуллаев <a href="https://magazines.gorky.media/interpoezia/2024/4/prosto-slova-pokachivayushhiesya-v-gorle.html">«Просто слова, покачивающиеся в горле»</a></li><li>Шамшад Абдуллаев <a href="https://magazines.gorky.media/interpoezia/2024/4/v-seredine-leta.html">«В середине лета»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/inostran/2023/12" class="mag-link"><img width="198" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-198x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Иностранная литература 2023/12" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-198x300.jpg 198w, https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-676x1024.jpg 676w, https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-768x1164.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-1013x1536.jpg 1013w, https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1-1351x2048.jpg 1351w, https://magazines.gorky.media/wp-content/uploads/2024/12/il-2023-12-oblozhka-1.jpg 1526w" sizes="(max-width: 198px) 100vw, 198px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/inostran/2023/12" class="mag-link">
+				<h6>Номер 12, 2023</h6>
+				<h3>Иностранная литература</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Джон Эшбери <a href="https://magazines.gorky.media/inostran/2023/12/stihi-i-tri-esse.html">«Стихи и три эссе»</a></li><li>Дженис Ли <a href="https://magazines.gorky.media/inostran/2023/12/uchitelnicza-muzyki-2.html">«Учительница музыки»</a></li><li>Уильям Стэнли Мервин <a href="https://magazines.gorky.media/inostran/2023/12/stihi-3643.html">«Стихи»</a></li><li>Луиза Эрдрич <a href="https://magazines.gorky.media/inostran/2023/12/polye-deti.html">«Полые дети»</a></li><li>Рик Коппл <a href="https://magazines.gorky.media/inostran/2023/12/parovye-realnosti.html">«Паровые реальности»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/zerkalo/2024/64" class="mag-link"><img width="212" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/11/atifa-64-212x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Зеркало 2024/64" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/11/atifa-64-212x300.jpg 212w, https://magazines.gorky.media/wp-content/uploads/2024/11/atifa-64-722x1024.jpg 722w, https://magazines.gorky.media/wp-content/uploads/2024/11/atifa-64-768x1089.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2024/11/atifa-64.jpg 1003w" sizes="(max-width: 212px) 100vw, 212px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/zerkalo/2024/64" class="mag-link">
+				<h6>Номер 64, 2024</h6>
+				<h3>Зеркало</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Евгений Беляков <a href="https://magazines.gorky.media/zerkalo/2024/64/palindromy-i-dr.html">«Палиндромы и др.»</a></li><li>Настя Верховенцева <a href="https://magazines.gorky.media/zerkalo/2024/64/nevspahannaya-zemlya.html">«Невспаханная земля»</a></li><li>Андрей Гришаев <a href="https://magazines.gorky.media/zerkalo/2024/64/stihotvoreniya-335.html">«Стихотворения»</a></li><li>Сергей Кудрин <a href="https://magazines.gorky.media/zerkalo/2024/64/alkashtrihi.html">«Алка(ш)трихи»</a></li><li>Виктор Непомнящих <a href="https://magazines.gorky.media/zerkalo/2024/64/stihotvoreniya-336.html">«Стихотворения»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/prosodia/2023/20" class="mag-link"><img width="240" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/06/prosodiya20-240x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Prosōdia 2023/20" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/06/prosodiya20-240x300.jpg 240w, https://magazines.gorky.media/wp-content/uploads/2024/06/prosodiya20.jpg 679w" sizes="(max-width: 240px) 100vw, 240px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/prosodia/2023/20" class="mag-link">
+				<h6>Номер 20, 2023</h6>
+				<h3>Prosōdia</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li><a href="https://magazines.gorky.media/prosodia/2023/20/istoriya-russkoj-poezii-v-voprosah-i-otvetah-ili-kakoj-istorii-poezii-u-nas-eshhe-net.html">«История русской поэзии в вопросах и ответах, или Какой истории поэзии у нас еще нет»</a></li><li>Анна Кузнецова <a href="https://magazines.gorky.media/prosodia/2023/20/vasilij-zhukovskij-rodonachalnik-russkogo-romantizma.html">«Василий Жуковский – родоначальник русского романтизма»</a></li><li>Владимир Козлов <a href="https://magazines.gorky.media/prosodia/2023/20/pushkin-kak-poet-nasledie-vseotzyvchivosti.html">«Пушкин как поэт – наследие всеотзывчивости»</a></li><li>Анна Кузнецова <a href="https://magazines.gorky.media/prosodia/2023/20/mihail-lermontov-romantik-kak-kritik-mirozdaniya.html">«Михаил Лермонтов: романтик как критик мироздания»</a></li><li>Анна Кузнецова <a href="https://magazines.gorky.media/prosodia/2023/20/tyutchev-poet-kosmicheskoj-mysli.html">«Тютчев – поэт космической мысли»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/ier/2024/70" class="mag-link"><img width="176" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/04/70-cover-p1-176x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Иерусалимский журнал 2024/70" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/04/70-cover-p1-176x300.jpg 176w, https://magazines.gorky.media/wp-content/uploads/2024/04/70-cover-p1-600x1024.jpg 600w, https://magazines.gorky.media/wp-content/uploads/2024/04/70-cover-p1-768x1311.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2024/04/70-cover-p1.jpg 800w" sizes="(max-width: 176px) 100vw, 176px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/ier/2024/70" class="mag-link">
+				<h6>Номер 70, 2024</h6>
+				<h3>Иерусалимский журнал</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li><a href="https://magazines.gorky.media/ier/2024/70/proshhayas.html">«Прощаясь»</a></li><li><a href="https://magazines.gorky.media/ier/2024/70/epigraf.html">«эпиграф»</a></li><li><a href="https://magazines.gorky.media/ier/2024/70/k-nashim-chitatelyam-6.html">«К нашим читателям»</a></li><li>Игорь Бяльский <a href="https://magazines.gorky.media/ier/2024/70/vremya-skladyvat-kamni-2.html">«Время складывать камни»</a></li><li>Игорь Бяльский <a href="https://magazines.gorky.media/ier/2024/70/chem-smogu-opravdatsya-pered-b-gom.html">«Чем смогу оправдаться перед Б-гом&#8230;»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/vestnik/2023/60" class="mag-link"><img width="227" height="300" src="https://magazines.gorky.media/wp-content/uploads/2023/01/cover_vestnik-60-227x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Вестник Европы 2023/60" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/01/cover_vestnik-60-227x300.jpg 227w, https://magazines.gorky.media/wp-content/uploads/2023/01/cover_vestnik-60.jpg 593w" sizes="(max-width: 227px) 100vw, 227px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/vestnik/2023/60" class="mag-link">
+				<h6>Номер 60, 2023</h6>
+				<h3>Вестник Европы</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Путь журнала. Егор Гайдар <a href="https://magazines.gorky.media/vestnik/2023/60/osobost-rossii-xi-xx-vv-2.html">«Особость России. XI-XX вв.*»</a></li><li>Виктор Ярошенко <a href="https://magazines.gorky.media/vestnik/2023/60/sila-i-slava.html">«Сила и слава»</a></li><li>Андрей Нечаев <a href="https://magazines.gorky.media/vestnik/2023/60/sinusoida-rossijskih-reform.html">«Синусоида российских реформ»</a></li><li>Марек Домбровски <a href="https://magazines.gorky.media/vestnik/2023/60/dve-transformaczii-rossii.html">«Две трансформации России»</a></li><li>Павел Гутионтов <a href="https://magazines.gorky.media/vestnik/2023/60/hroniki-svinczovogo-vremeni.html">«Хроники свинцового времени»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div><div class="magazine-list-item">
+	<a href="https://magazines.gorky.media/kreschatik/2022/1" class="mag-link"><img width="262" height="300" src="https://magazines.gorky.media/wp-content/uploads/2022/01/Kreshatik_95--262x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Крещатик 2022/1" decoding="async" srcset="https://magazines.gorky.media/wp-content/uploads/2022/01/Kreshatik_95--262x300.jpg 262w, https://magazines.gorky.media/wp-content/uploads/2022/01/Kreshatik_95--768x879.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2022/01/Kreshatik_95--894x1024.jpg 894w, https://magazines.gorky.media/wp-content/uploads/2022/01/Kreshatik_95-.jpg 1481w" sizes="(max-width: 262px) 100vw, 262px" /></a>
+	<article>
+		<header>
+			<a href="https://magazines.gorky.media/kreschatik/2022/1" class="mag-link">
+				<h6>Номер 1, 2022</h6>
+				<h3>Крещатик</h3>
+			</a>
+		</header>
+		<div class="entry-content">
+			<ul>
+				<li>Артур Бондаренко <a href="https://magazines.gorky.media/kreschatik/2022/1/dolgoe-strannoe-puteshestvie.html">«Долгое, странное путешествие»</a></li><li>Римма Маркова <a href="https://magazines.gorky.media/kreschatik/2022/1/czarskie-lozhki.html">«Царские ложки»</a></li><li>Сергей Смирнов <a href="https://magazines.gorky.media/kreschatik/2022/1/chasovye-rasskazy.html">«Часовые рассказы»</a></li><li>Марк Зайчик <a href="https://magazines.gorky.media/kreschatik/2022/1/angel-smerti-bogoglyada.html">«Ангел смерти Богогляда»</a></li><li>Игорь Шестков <a href="https://magazines.gorky.media/kreschatik/2022/1/podzemele.html">«Подземелье»</a></li>
+				<li>и другие</li>
+			</ul>
+		</div>
+		<footer> </footer>
+	</article>
+</div>			</div>
+			<div class="load-more">
+	<button class="load-more__btn default-btn">Показать&nbsp;ещё</button>
+	<div class="load-more__info">
+		<div class="load-more__loading">Загрузка...</div>
+		<div class="load-more__loaded">Все данные загружены</div>
+	</div>
+</div>		</div>
+		<!-- Вертикальная плашка-переход на раздел "Журналы"-->
+		<a href="/" id="magLink" class="vert-title">
+			<p>Журналы</p><span class="arrow"><svg class=""><use xlink:href="#icon-arrow"></use></svg></span>
+		</a>
+	</section>
+	<!-- section библиотека -->
+	<section class="librarySection">
+		<div class="articles-list" >
+			<div class="articles-list__container inner-list-js">
+				<a href="https://magazines.gorky.media/library/kak-zdes-chitat" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Как здесь читать?</h2>
+		</header>
+		<div class="entry-content" style="">Руководство пользователя</div>
+		<footer><img width="300" height="200" src="https://magazines.gorky.media/wp-content/uploads/2022/03/pexels-ann-h-2646533-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="Как здесь читать?" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2022/03/pexels-ann-h-2646533-300x200.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2022/03/pexels-ann-h-2646533-768x512.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2022/03/pexels-ann-h-2646533-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/chto-chitali-v-zhurnalnom-zale" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Что читали в Журнальном Зале</h2>
+		</header>
+		<div class="entry-content" style="">Ежемесячные рейтинги новинок, статистика, послесловия</div>
+		<footer><img width="300" height="190" src="https://magazines.gorky.media/wp-content/uploads/2021/03/rating-4068907_1280-300x190.jpg" class="attachment-medium size-medium wp-post-image" alt="Что читали в Журнальном Зале" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2021/03/rating-4068907_1280-300x190.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2021/03/rating-4068907_1280-768x487.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2021/03/rating-4068907_1280-1024x649.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2021/03/rating-4068907_1280.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/biblioteka-soderzhanie-razdela" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Библиотека. Содержание раздела</h2>
+		</header>
+		<div class="entry-content" style="">Выбор читателей, выбор критиков, выбор редакций</div>
+		<footer><img width="212" height="300" src="https://magazines.gorky.media/wp-content/uploads/2021/10/biblioteka-212x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Библиотека. Содержание раздела" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2021/10/biblioteka-212x300.jpg 212w, https://magazines.gorky.media/wp-content/uploads/2021/10/biblioteka-768x1086.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2021/10/biblioteka-724x1024.jpg 724w, https://magazines.gorky.media/wp-content/uploads/2021/10/biblioteka.jpg 1316w" sizes="(max-width: 212px) 100vw, 212px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/roman-po-ponedelnikam" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Роман по понедельникам</h2>
+		</header>
+		<div class="entry-content" style="">Спецпроект ЖЗ</div>
+		<footer><img width="300" height="269" src="https://magazines.gorky.media/wp-content/uploads/2021/07/pisatel-300x269.jpg" class="attachment-medium size-medium wp-post-image" alt="Роман по понедельникам" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2021/07/pisatel-300x269.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2021/07/pisatel-768x688.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2021/07/pisatel-e1625245957563.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/yurij-maleczkij-pamyati-tryoh-tovarishhej-eriha-marii-remarka" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Юрий Малецкий. Памяти трёх товарищей Эриха Марии Ремарка</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="285" height="300" src="https://magazines.gorky.media/wp-content/uploads/2024/01/k-mal-285x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Юрий Малецкий. Памяти трёх товарищей Эриха Марии Ремарка" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2024/01/k-mal-285x300.jpg 285w, https://magazines.gorky.media/wp-content/uploads/2024/01/k-mal.jpg 644w" sizes="(max-width: 285px) 100vw, 285px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/272158" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Андрей Немзер. Замечательное десятилетие. О русской прозе 90-х годов</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="185" src="https://magazines.gorky.media/wp-content/uploads/2023/12/nemzer-300x185.jpg" class="attachment-medium size-medium wp-post-image" alt="Андрей Немзер. Замечательное десятилетие. О русской прозе 90-х годов" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/12/nemzer-300x185.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/12/nemzer-1024x633.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2023/12/nemzer-768x474.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/12/nemzer.jpg 1180w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/boris-hazanov-tvorcheskij-put-gebbelsa" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Борис Хазанов. Творческий путь Геббельса</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="171" src="https://magazines.gorky.media/wp-content/uploads/2023/11/-1-300x171.jpg" class="attachment-medium size-medium wp-post-image" alt="Борис Хазанов. Творческий путь Геббельса" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/11/-1-300x171.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/11/-1-1024x585.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2023/11/-1-768x439.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/11/-1.jpg 1411w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/olga-edelman-proczess-iosifa-brodskogo" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Ольга Эдельман. Процесс Иосифа Бродского</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="189" src="https://magazines.gorky.media/wp-content/uploads/2023/09/brrrrr-300x189.jpeg" class="attachment-medium size-medium wp-post-image" alt="Ольга Эдельман. Процесс Иосифа Бродского" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/09/brrrrr-300x189.jpeg 300w, https://magazines.gorky.media/wp-content/uploads/2023/09/brrrrr-1024x645.jpeg 1024w, https://magazines.gorky.media/wp-content/uploads/2023/09/brrrrr-768x484.jpeg 768w, https://magazines.gorky.media/wp-content/uploads/2023/09/brrrrr.jpeg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/lev-timofeev-oppozicziya-1987-ili-poslednij-dissident-povest-v-dokumentah" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Лев Тимофеев. Оппозиция-1987, или «Последний диссидент» Повесть в документах</h2>
+		</header>
+		<div class="entry-content" style="">Со страниц журнала "Знамя"</div>
+		<footer><img width="300" height="220" src="https://magazines.gorky.media/wp-content/uploads/2023/09/lev-timofeev-300x220.jpg" class="attachment-medium size-medium wp-post-image" alt="Лев Тимофеев. Оппозиция-1987, или «Последний диссидент» Повесть в документах" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/09/lev-timofeev-300x220.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/09/lev-timofeev-1024x751.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2023/09/lev-timofeev-768x563.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/09/lev-timofeev.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/evgenij-iz-rasskazy-prislannye-iz-luganska" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Евгений Из.  Рассказы, присланные из Луганска</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="300" src="https://magazines.gorky.media/wp-content/uploads/2023/08/1-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Евгений Из.  Рассказы, присланные из Луганска" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/08/1-300x300.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/08/1-150x150.jpg 150w, https://magazines.gorky.media/wp-content/uploads/2023/08/1.jpg 526w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/olga-shamborant-priznaki-zhizni" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Ольга Шамборант. Признаки жизни</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="221" height="300" src="https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-221x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Ольга Шамборант. Признаки жизни" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-221x300.jpg 221w, https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-754x1024.jpg 754w, https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-768x1042.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-1132x1536.jpg 1132w, https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant-1509x2048.jpg 1509w, https://magazines.gorky.media/wp-content/uploads/2023/07/shamborant.jpg 1654w" sizes="(max-width: 221px) 100vw, 221px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/mihail-ardov-legendarnaya-ordynka" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Михаил Ардов. Легендарная Ордынка</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="225" height="300" src="https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2-225x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Михаил Ардов. Легендарная Ордынка" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2-225x300.jpg 225w, https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2-768x1024.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2-1152x1536.jpg 1152w, https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2-1536x2048.jpg 1536w, https://magazines.gorky.media/wp-content/uploads/2023/06/ardov-2.jpg 1620w" sizes="(max-width: 225px) 100vw, 225px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/vladimir-ivanovich-novikov-vysoczkij-glavy-iz-knigi" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Владимир Иванович Новиков. Высоцкий. Главы из книги</h2>
+		</header>
+		<div class="entry-content" style="">Со страниц журнала "Новый мир" </div>
+		<footer><img width="300" height="263" src="https://magazines.gorky.media/wp-content/uploads/2023/05/vladimir_vysoczkij-300x263.jpg" class="attachment-medium size-medium wp-post-image" alt="Владимир Иванович Новиков. Высоцкий. Главы из книги" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/05/vladimir_vysoczkij-300x263.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/05/vladimir_vysoczkij-768x672.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/05/vladimir_vysoczkij.jpg 908w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/suhbat-aflatuni-glinyanye-bukvy-plyvushhie-yabloki-povest-pritcha" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Сухбат Афлатуни. Глиняные буквы, плывущие яблоки. Повесть-притча</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="252" src="https://magazines.gorky.media/wp-content/uploads/2023/04/abdudlaev-300x252.jpg" class="attachment-medium size-medium wp-post-image" alt="Сухбат Афлатуни. Глиняные буквы, плывущие яблоки. Повесть-притча" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/04/abdudlaev-300x252.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/04/abdudlaev-768x644.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/04/abdudlaev.jpg 850w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/sergej-zalygin-moya-demokratiya-zametki-po-hodu-zhizni" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Сергей Залыгин Моя демократия. Заметки по ходу жизни</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="225" src="https://magazines.gorky.media/wp-content/uploads/2023/04/sergej-zalygin-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="Сергей Залыгин Моя демократия. Заметки по ходу жизни" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/04/sergej-zalygin-300x225.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/04/sergej-zalygin.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/literaturnaya-premiya-im-marka-aldanova-2023" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Литературная премия им. Марка Алданова. 2023</h2>
+		</header>
+		<div class="entry-content" style="">"Новый журнал" представляет: </div>
+		<footer><img width="290" height="300" src="https://magazines.gorky.media/wp-content/uploads/2021/04/Aldanov-award-2-290x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Литературная премия им. Марка Алданова. 2023" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2021/04/Aldanov-award-2-290x300.jpg 290w, https://magazines.gorky.media/wp-content/uploads/2021/04/Aldanov-award-2-768x795.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2021/04/Aldanov-award-2-e1617262568913.jpg 300w" sizes="(max-width: 290px) 100vw, 290px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/valentin-hromov-vulkan-parnas-samografiya" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Валентин Хромов. Вулкан Парнас. Самография</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="201" src="https://magazines.gorky.media/wp-content/uploads/2023/03/hromov-300x201.jpg" class="attachment-medium size-medium wp-post-image" alt="Валентин Хромов. Вулкан Парнас. Самография" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/03/hromov-300x201.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/03/hromov.jpg 560w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/vyacheslav-peczuh-gorod-glupov-v-poslednie-desyat-let" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Вячеслав Пьецух. Город Глупов в последние десять лет</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="176" src="https://magazines.gorky.media/wp-content/uploads/2023/03/mice-burying-the-cat-300x176.jpg" class="attachment-medium size-medium wp-post-image" alt="Вячеслав Пьецух. Город Глупов в последние десять лет" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/03/mice-burying-the-cat-300x176.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/03/mice-burying-the-cat-1024x601.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2023/03/mice-burying-the-cat-768x451.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/03/mice-burying-the-cat.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/sasha-sokolov-ya-vsyu-zhizn-vybirayu-luchshee-chashhe-vsego-bessoznatelno-beseda-iriny-vrubel-golubkinoj-s-sashej-sokolovym" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Саша Соколов «Я всю жизнь выбираю лучшее. Чаще всего бессознательно…» Беседа Ирины Врубель-Голубкиной с Сашей Соколовым</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="169" src="https://magazines.gorky.media/wp-content/uploads/2023/03/sokolov-300x169.jpg" class="attachment-medium size-medium wp-post-image" alt="Саша Соколов «Я всю жизнь выбираю лучшее. Чаще всего бессознательно…» Беседа Ирины Врубель-Голубкиной с Сашей Соколовым" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/03/sokolov-300x169.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/03/sokolov-768x433.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2023/03/sokolov.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/sasha-filipenko-kremulyator-roman" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Саша Филипенко. Кремулятор. Роман</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="200" src="https://magazines.gorky.media/wp-content/uploads/2023/03/filipenko-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="Саша Филипенко. Кремулятор. Роман" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/03/filipenko-300x200.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/03/filipenko.jpg 720w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/schastelovka-traktat-zhurnalnyj-variant" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Андрей Левкин (22 декабря 1954, Рига — 13 февраля 2023). Счастьеловка. Трактат</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="192" src="https://magazines.gorky.media/wp-content/uploads/2023/02/levkin-300x192.jpg" class="attachment-medium size-medium wp-post-image" alt="Андрей Левкин (22 декабря 1954, Рига — 13 февраля 2023). Счастьеловка. Трактат" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/02/levkin-300x192.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/02/levkin.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/aleksandr-goldshtejn-aspekty-duhovnogo-braka-fragmenty-knigi" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Александр Гольдштейн. Аспекты духовного брака. Фрагменты книги</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="225" src="https://magazines.gorky.media/wp-content/uploads/2023/01/goldshtejn-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="Александр Гольдштейн. Аспекты духовного брака. Фрагменты книги" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/01/goldshtejn-300x225.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/01/goldshtejn.jpg 340w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/aleksej-slapovskij" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Алексей Слаповский (1957 &#8212; 2023). Из последних публикаций</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="300" height="186" src="https://magazines.gorky.media/wp-content/uploads/2023/01/slapovskij-1-300x186.jpg" class="attachment-medium size-medium wp-post-image" alt="Алексей Слаповский (1957 &#8212; 2023). Из последних публикаций" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2023/01/slapovskij-1-300x186.jpg 300w, https://magazines.gorky.media/wp-content/uploads/2023/01/slapovskij-1.jpg 590w" sizes="(max-width: 300px) 100vw, 300px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/vadim-murathanov-izbrannye-stihotvoreniya" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Вадим Муратханов. Избранные стихотворения</h2>
+		</header>
+		<div class="entry-content" style="">Библиотека ЖЗ представляет</div>
+		<footer><img width="225" height="300" src="https://magazines.gorky.media/wp-content/uploads/2022/12/murathanov-1-225x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Вадим Муратханов. Избранные стихотворения" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2022/12/murathanov-1-225x300.jpg 225w, https://magazines.gorky.media/wp-content/uploads/2022/12/murathanov-1.jpg 450w" sizes="(max-width: 225px) 100vw, 225px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/angelina-zlobina-shnyaga-roman" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Ангелина Злобина. Шняга. Роман</h2>
+		</header>
+		<div class="entry-content" style="">Со страниц журнала "Урал" </div>
+		<footer><img width="200" height="300" src="https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga-200x300.jpg" class="attachment-medium size-medium wp-post-image" alt="Ангелина Злобина. Шняга. Роман" decoding="async" loading="lazy" srcset="https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga-200x300.jpg 200w, https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga-683x1024.jpg 683w, https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga-768x1152.jpg 768w, https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga-1024x1536.jpg 1024w, https://magazines.gorky.media/wp-content/uploads/2022/12/shnyaga.jpg 1182w" sizes="(max-width: 200px) 100vw, 200px" /></footer>
+	</article>
+</a><a href="https://magazines.gorky.media/library/rejting-zhurnalnogo-zala-za-oktyabr-2022" class="masonry-brick articles-list-item">
+	<article>
+		<header>
+			<h6></h6>
+			<h2>Рейтинг Журнального Зала за октябрь 2022</h2>
+		</header>
+		<div class="entry-content" style="font-size: 19px;">Новинки месяца</div>
+		<footer></footer>
+	</article>
+</a>			</div>
+			<div class="load-more">
+	<button class="load-more__btn default-btn">Показать&nbsp;ещё</button>
+	<div class="load-more__info">
+		<div class="load-more__loading">Загрузка...</div>
+		<div class="load-more__loaded">Все данные загружены</div>
+	</div>
+</div>		</div>
+		<a href="/library" id="libLink" class="vert-title">
+			<p>Библиотека</p><span class="arrow"><svg class=""><use xlink:href="#icon-arrow"></use></svg></span>
+		</a>
+	</section>
+
+	<!-- MOBILE -->
+	<section class="magazineSection">
+		<div class="magazine-list"></div>
+	</section>
+	<section class="librarySection" >
+		<div class="articles-list"></div>
+	</section>
+
+		</div><!-- #primary --> 
+	</div><!-- #content --> 
+		<footer class="site-footer">
+		<section class="footer-content">
+			<div class="footer-info">
+				<div class="logo-gorky">
+					<a href="https://gorky.media" target="_blank" class="logo-gorky__link">
+						<svg class="logo-gorky__icon">
+							<use xlink:href="#icon-gorky"></use>
+						</svg>
+						<span class="logo-gorky__text">«Горький», 18+</span>
+					</a>
+					<h6 class="info"></h6>
+				</div>
+				<ul class="footer-menu">
+					<li id="menu-item-217291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217291"><a href="https://magazines.gorky.media/page/about-us">О проекте</a></li>
+<li id="menu-item-217289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217289"><a href="https://magazines.gorky.media/page/contacts">Контакты</a></li>
+<li id="menu-item-217290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217290"><a href="https://magazines.gorky.media/page/help-us">Нам помогают</a></li>
+					<li class="hidden-xs">
+						<a href="" id="subscribe-link" class="subscribe-link-js">
+							<span class="_desktop">Подписаться на рассылку</span>
+							<span class="_tablet">Рассылка</span>
+						</a>
+					</li>
+				</ul>
+				
+				<section class="subscribe subscribe-js">
+	<form class="subscribe__form" action="https://sendsay.ru/form/x_1558365163232657/1/" method="post">
+		<input type="email" name="_member_email" placeholder="Ваш e-mail" required />
+		<button type="submit" class="subscribe-btn">Подписаться</button>
+	</form>
+	<h4 class="subscribe__thx">Спасибо за подписку! Проверьте почту</h4>
+	<button type="button" class="close-btn"></button>
+</section>				<ul class="social">
+			<li class="social__item">
+		<a href="https://vk.com/magazines.russ" class="_vk share-link">
+			<svg class="share-link__icon">
+				<use xlink:href="#icon-vk"></use>
+			</svg>
+		</a>
+	</li>
+				<li class="social__item">
+		<a href="https://ok.ru/group/58320671080501" class="_ok share-link">
+			<svg class="share-link__icon">
+				<use xlink:href="#icon-ok"></use>
+			</svg>
+		</a>
+	</li>
+	</ul>
+
+			</div>
+			<div class="copyright">
+				<div class="license">© Горький Медиа</div>
+				<div class="legal-info"><a href="https://magazines.gorky.media/page/legal-info">Юридическая информация</a></div>
+			</div>
+		</section>
+	</footer>
+</div><!-- #page --> 
+  
+<div class="invisible-container"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><symbol id="icon-arrow-small" viewBox="0 0 11 12"><path d="M6 10.667L1.333 6 6 1.333M10.667 6H2h8.667z" stroke="#333" stroke-linecap="round"/></symbol><symbol id="icon-arrow"><path d="M32.354 4.354a.5.5 0 0 0 0-.708L29.172.464a.5.5 0 1 0-.707.708L31.293 4l-2.828 2.828a.5.5 0 1 0 .707.708l3.182-3.182zM0 4.5h32v-1H0v1z" fill="#EB5160"/></symbol><symbol id="icon-close-white"><path d="M24 8L8 24M8 8l16 16" stroke="#FEFDFC" stroke-width="2" stroke-linecap="square"/></symbol><symbol id="icon-close"><path d="M24 8L8 24M8 8l16 16" stroke="#171615" stroke-width="2" stroke-linecap="square"/></symbol><symbol id="icon-fb" viewBox="0 0 8 16"><path d="M7.476 8.932l.414-2.874H5.297V4.193c0-.786.362-1.552 1.524-1.552H8V.194S6.93 0 5.907 0C3.77 0 2.374 1.376 2.374 3.868v2.19H0v2.874h2.374v6.947a8.876 8.876 0 0 0 2.923 0V8.932h2.179z"/></symbol><symbol id="icon-gorky" viewBox="0 0 20 24"><path d="M19.848 0H9.57C7.2 0 4.926.346 3.077 1.394 1.283 2.41 0 4.29 0 6.862c0 3.847 3.458 6.45 8.091 6.45.61 0 .838.26.838 1.146v3.718c0 3.814-1.25 4.581-2.175 4.581-.74 0-1.316-.443-1.316-1.242 0-.508.348-.951.446-1.178-.13-.54-.99-1.113-2.24-1.08-.48.161-1.056.896-1.056 1.944 0 2 1.827 2.799 3.426 2.799.925 0 1.947-.162 2.621-.67 1.566-1.178 1.98-3.371 1.98-6.386V3.404c0-.81.021-1.243.206-1.502h2.958c.457 0 .86.021 1.186.054.337.032.63.108.87.205.25.108.467.249.674.432.196.195.413.443.63.746.403.584.751 1.372 1.023 2.377H20L19.848 0z" fill="#fff"/></symbol><symbol id="icon-link" viewBox="0 0 18 18"><path d="M7.5 9.75a3.75 3.75 0 0 0 5.655.405l2.25-2.25a3.75 3.75 0 0 0-5.303-5.302l-1.29 1.282"/><path d="M10.5 8.25a3.75 3.75 0 0 0-5.655-.405l-2.25 2.25a3.75 3.75 0 0 0 5.302 5.303l1.283-1.283"/></symbol><symbol id="icon-logo"><path d="M11.397 3.948l8.444 10.431V0H7.46c1.468.98 2.718 2.426 3.936 3.948zM24.162 14.38L32 4.697V2.043C32 .914 31.126 0 30.047 0h-5.885v14.38zM32 17.393v-8.49l-3.367 4.235L32 17.393zM5.933 25.06l9.437-11.922-7.699-9.686C5.715.973 3.757.17 1.801.01.793.089 0 .969 0 2.044v27.881c1.966-.929 4.228-2.724 5.933-4.865zM19.84 31.516V15.124l-8.444 10.928c-3.642 4.69-7.284 5.79-9.587 5.94.047.003.095.008.142.008h17.89v-.484zM24.162 15.124V32h5.885C31.126 32 32 31.085 32 29.956v-4.69l-7.838-10.142zM38.29 14.857h4.37c4.14 0 7.82-2.285 7.82-6.629 0-4.343-3.45-6.4-6.9-6.4-4.37 0-7.59 2.743-8.74 7.314h-.92c0-2.742 0-4.57 1.15-5.942C36.724 1.189 40.59 0 43.81 0c4.6 0 11.04 1.144 11.04 8.458 0 2.972-2.072 5.714-6.44 7.086 5.748 1.142 7.59 3.886 7.59 7.77C56 30.4 49.1 32 44.04 32c-4.6 0-8.28-1.371-11.04-5.715l.92-.685c2.07 2.743 5.06 4.572 9.43 4.572 4.83 0 8.052-2.514 8.052-6.63 0-4.343-2.99-6.856-8.74-6.856H38.29v-1.829h-.002z" fill="#FEFDFC"/></symbol><symbol id="icon-menu"><path d="M1 1h16M1 17h16" stroke="#FEFDFC" stroke-width="2" stroke-linecap="square"/></symbol><symbol id="icon-ok" viewBox="0 0 9 16"><path d="M4.5 8.258c2.211 0 4.01-1.851 4.01-4.128C8.51 1.852 6.711 0 4.5 0 2.288 0 .49 1.852.49 4.13c0 2.276 1.798 4.128 4.01 4.128zm0-5.838c.915 0 1.66.767 1.66 1.71 0 .942-.745 1.709-1.66 1.709-.915 0-1.66-.767-1.66-1.71 0-.942.745-1.709 1.66-1.709zM6.122 11.626a7.373 7.373 0 0 0 2.329-.993 1.23 1.23 0 0 0 .368-1.668 1.154 1.154 0 0 0-1.62-.38 4.967 4.967 0 0 1-5.398 0 1.153 1.153 0 0 0-1.62.38 1.229 1.229 0 0 0 .368 1.668c.725.47 1.512.802 2.328.993l-2.24 2.309a1.236 1.236 0 0 0 0 1.71 1.152 1.152 0 0 0 1.66 0L4.5 13.377l2.204 2.268a1.15 1.15 0 0 0 1.66 0c.46-.473.46-1.239 0-1.71l-2.242-2.309z"/></symbol><symbol id="icon-search-black"><path d="M14.667 25.333c5.89 0 10.666-4.775 10.666-10.666S20.558 4 14.667 4 4 8.776 4 14.667c0 5.89 4.776 10.666 10.667 10.666zM28 28l-5.8-5.8" stroke="#171615" stroke-width="2"/></symbol><symbol id="icon-search"><path d="M14.667 25.333c5.89 0 10.666-4.775 10.666-10.666S20.558 4 14.667 4 4 8.776 4 14.667c0 5.89 4.776 10.666 10.667 10.666zM28 28l-5.8-5.8" stroke-width="2"/></symbol><symbol id="icon-share" viewBox="0 0 32 32"><path d="M22.667 11.667a3.333 3.333 0 1 0 0-6.667 3.333 3.333 0 0 0 0 6.667zM9.333 19.444a3.333 3.333 0 1 0 0-6.667 3.333 3.333 0 0 0 0 6.667zM22.667 27.222a3.333 3.333 0 1 0 0-6.667 3.333 3.333 0 0 0 0 6.667zM12.21 17.789l7.59 4.422M19.789 10.01l-7.578 4.423" stroke="#FEFDFC" stroke-width="2"/></symbol><symbol id="icon-tg" viewBox="0 0 18 15"><path d="M6.77 14.098c.413 0 .593-.192.827-.411.359-.343 4.965-4.799 4.965-4.799l-2.827-.685-2.62 1.645-.345 4.113v.137z"/><path d="M7.044 9.903l6.675 4.894c.758.412 1.31.206 1.503-.699l2.717-12.723C18.215.265 17.51-.229 16.78.1L.838 6.215c-1.09.439-1.076 1.042-.193 1.302L4.74 8.792l9.474-5.936c.441-.274.855-.123.524.178L7.044 9.903z"/></symbol><symbol id="icon-vk" viewBox="0 0 16 10"><path d="M15.623.866c.12-.376 0-.649-.525-.649h-1.745c-.44 0-.644.24-.763.495 0 0-.898 2.187-2.152 3.605-.406.41-.593.546-.813.546-.119 0-.271-.136-.271-.512V.849C9.354.405 9.218.2 8.845.2H6.1a.422.422 0 0 0-.44.41c0 .427.627.53.694 1.725v2.597c0 .563-.101.666-.322.666C5.44 5.598 4 3.394 3.135.883 2.965.388 2.796.2 2.355.2H.593C.085.2 0 .44 0 .695c0 .462.593 2.785 2.762 5.86 1.44 2.1 3.49 3.228 5.338 3.228 1.118 0 1.254-.256 1.254-.683V7.51c0-.512.101-.598.457-.598.255 0 .712.137 1.746 1.145 1.186 1.195 1.39 1.742 2.05 1.742h1.745c.509 0 .746-.256.61-.752-.152-.495-.728-1.212-1.474-2.067-.406-.478-1.017-1.007-1.203-1.264-.254-.341-.186-.478 0-.785-.017 0 2.118-3.041 2.338-4.066z"/></symbol><symbol id="icon-zen" viewBox="0 0 12 32"><path d="M.386 17.871l8.985-7.369 2.28 3.002-8.943 7.402-2.322-3.035z" fill="#FEFDFC" fill-opacity=".5" opacity=".698"/><path fill-rule="evenodd" clip-rule="evenodd" d="M4.797 31.955a15.914 15.914 0 0 1-4.625-1.05l9.107-7.863 2.373 2.976-6.855 5.937zM7.044.034c1.717.11 3.36.491 4.888 1.101L2.753 8.542.386 5.357 7.044.034z" fill="#FEFDFC" fill-opacity=".5"/><path fill-rule="evenodd" clip-rule="evenodd" d="M.386 5.358l11.266 4.404v3.743L.386 9.138v-3.78zM.386 17.872s11.266 4.38 11.266 4.403v3.744L.386 21.651v-3.78z" fill="#FEFDFC"/></symbol></svg></div><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-82430416-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-82430416-1');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3XESJ90HR0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3XESJ90HR0');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53861011, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53861011" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->				<script>window.fbAsyncInit=function(){FB.init({appId:"357619894872600",autoLogAppEvents:!0,xfbml:!0,version:"v2.11"})},function(e,t,n){var o,s=e.getElementsByTagName(t)[0];e.getElementById(n)||(o=e.createElement(t),o.id=n,o.src="https://connect.facebook.net/ru_RU/sdk.js",s.parentNode.insertBefore(o,s))}(document,"script","facebook-jssdk");</script>		
+		<script type='text/javascript' id='js-js-extra'>
+/* <![CDATA[ */
+var wpData = {"navi":{"currID":false,"nextArtUrl":"https:\/\/magazines.gorky.media\/wp-json\/front\/navigation\/nextArticle\/","nextABiblioUrl":"https:\/\/magazines.gorky.media\/wp-json\/front\/navigation\/nextBiblio\/","issueSiblingsUrl":"https:\/\/magazines.gorky.media\/wp-json\/front\/navigation\/issueSiblings\/"},"afterload":{"frontMagazines":"https:\/\/magazines.gorky.media\/wp-json\/front\/afterload\/frontMagazines\/","frontBiblio":"https:\/\/magazines.gorky.media\/wp-json\/front\/afterload\/frontBiblio\/","frontData":"https:\/\/magazines.gorky.media\/wp-json\/front\/afterload\/frontData\/"},"lib_slug":"library"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://magazines.gorky.media/wp-content/themes/jz/front/js/bundle.js?ver=1566864000' id='js-js'></script>
+</body>
+</html>

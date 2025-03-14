@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html lang="ru" class="ie8"></html>
+<![endif]-->
+<!--[if IE 9]>
+<html lang="ru" class="ie9"></html>
+<![endif]-->
+<!--if gt IE 9-->
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!--[if IE 8]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="fDeJPa4uDUbeoeOpkUQlqU97lZeG0odAgloUshlgbrBOc_pJ3XlqdobHh9PQJxfwOj3zorSd7BjuCV7-VCQg2A==">
+	<title>Официальный сайт Малого театра</title>
+	<!--<meta property="og:url"           content="http://www.your-domain.com/your-page.html" /> -->
+	<meta property="og:type" content="website"/>
+	<meta property="og:locale" content="ru_RU"/>
+			
+	<script defer src="https://culturaltracking.ru/static/js/spxl.js?pixelId=5085" data-pixel-id="5085"></script>
+	<link href="/assets/9fa53766/themes/smoothness/jquery-ui.css?v=1474004875" rel="stylesheet">
+<link href="/assets/da911773/css/bootstrap.css?v=1550073338" rel="stylesheet">
+<link href="/assets/deb31cc3/css/font-awesome.min.css?v=1421950182" rel="stylesheet">
+<script src="/assets/5e8a3272/jquery.js?v=1693229950"></script>
+<script src="/assets/180dd496/yii.js?v=1721332200"></script>
+<script src="/dist/main.bundle.js?v=1740671261"></script>	<script src="//staticc7.dircont3.com/nvc273.js" async></script>
+
+	<!-- favicon -->
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<!-- / favicon -->
+	
+	<!-- BVI -->
+	<link rel="stylesheet" href="/bvi/css/bvi.css" type="text/css">
+</head>
+<body class="page ">
+	<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function () {
+			try {
+				w.yaCounter33606504 = new Ya.Metrika({
+					id                  : 33606504,
+					clickmap            : true,
+					trackLinks          : true,
+					accurateTrackBounce : true,
+					webvisor            : true,
+					ecommerce           : "dataLayer"
+				});
+			}
+			catch (e) {
+			}
+		});
+
+		var n   = d.getElementsByTagName("script")[0],
+		    s   = d.createElement("script"),
+		    f   = function () {
+			    n.parentNode.insertBefore(s, n);
+		    };
+		s.type  = "text/javascript";
+		s.async = true;
+		s.src   = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		}
+		else {
+			f();
+		}
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+	<div><img src="https://mc.yandex.ru/watch/33606504" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- GA -->
+<script>
+	(function (i, s, o, g, r, a, m) {
+		i['GoogleAnalyticsObject'] = r;
+		i[r] = i[r] || function () {
+			(i[r].q = i[r].q || []).push(arguments);
+		}, i[r].l = 1 * new Date();
+		a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0];
+		a.async = 1;
+		a.src   = g;
+		m.parentNode.insertBefore(a, m);
+	})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+	ga('create', 'UA-70148668-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55191240-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-55191240-1');
+</script>
+<div class="page__container">
+	
+<script>
+	function changeLang() {
+		if (document.documentElement.lang === 'ru') {
+			window.location = '/en';
+		}
+		if (document.documentElement.lang === 'en') {
+			window.location = '/';
+		}
+	}
+
+</script>
+<div class="top-header desktop-only">
+	<div class="top-controls">
+		
+				
+		<div class="top-switch pull-right">
+			<a href="/">РУС</a>
+			<a href="/en">ENG</a>
+		</div>
+		<div class="social pull-right">
+			<a target="_blank" class="social__item" href="https://ok.ru/maly.ru"><img src="/images/s_media/header/icon-OK-18px.svg"></a>
+			<a target="_blank" class="social__item" href="https://zen.yandex.ru/maly_theatre"><img src="/images/s_media/header/icon-ZEN2-18px.svg"></a>
+			<a target="_blank" class="social__item" href="https://www.youtube.com/user/MalyTeatr"><img src="/images/s_media/header/icon-YOU-18px.svg"></a>
+			<a target="_blank" class="social__item" href="https://vk.com/club21180513"><img src="/images/s_media/header/icon-VK-18px.svg"></a>
+			<a target="_blank" class="social__item" href="https://t.me/maly_theatre"><img src="/images/s_media/header/icon-TG-18px.svg"></a>
+		</div>
+		
+		<a href="/buy-tickets/#/profile" class="enter pull-right">
+			<img src="/images/profile.svg"
+			style="height: 15px; margin-top: -6px;"
+	        alt="Личный кабинет"></a>
+		
+	</div>
+	<div class="clearfix"></div>
+	<div class="page__wider">
+		<div class="nav">
+			<div class="pull-left">
+				<a href="/">Главная</a>
+				<a href="/pages?name=teatr">О театре</a>
+				<a href="/pages?name=history">История</a>
+
+			</div>
+			<a class="site-header-logo bvi-hide" href="/"></a>
+			<div class="pull-right">
+				<a href="/news">Новости</a>
+				<a href="/tickets">Билеты</a>
+				<a href="/address">Контакты</a>			</div>
+		</div>
+		<div class="season align-center">
+			<img src="/logos/season_269_ru.png" style="width: 85px;">
+		</div>
+	</div>
+</div>
+
+<header class="adaptive--top-header mobile-only no-print full-width">
+	<div class="container">
+		<div class="header__body">
+			<a class="header-logo" href="/"></a>
+			
+			<div class="lang-switch">
+				<input type="checkbox" checked onclick="changeLang()">
+			</div>
+
+			<div class="header__burger">
+				<span class="full-width"></span>
+			</div>
+			<nav class="header__menu full-width">
+				<ul class="menu__list">
+					<li><a class="menu__link" href="/">Главная</a></li>
+					<li class="menu__arrow__container active">
+						<div class="sub-menu-container"><a class="menu__link">Афиша и билеты</a>
+							<span class="menu__arrow"></span></div>
+						<ul class="menu__sub-list">
+							<li><a class="menu__sub-link" href="/tickets">Афиша</a></li>
+							<li><a class="menu__sub-link" href="/pages?name=events">Гастроли</a></li>
+							<li><a class="menu__sub-link" href="/news?search=zamena">Изменения в афише</a></li>
+							<li><a class="menu__sub-link" href="/tickets/rules">Правила покупки и возврата билетов</a></li>
+						</ul>
+					</li>
+					
+					<li><a class="menu__link" href="/repertory">Спектакли</a></li>
+					<li class="menu__arrow__container">
+						<div class="sub-menu-container">
+							<a class="menu__link">О театре</a>
+							<span class="menu__arrow"></span>
+						</div>
+						<ul class="menu__sub-list">
+							<li><a class="menu__sub-link" href="/pages?name=teatr">Актеры</a></li>
+							<li><a class="menu__sub-link" href="/pages?name=history">История театра</a>
+							</li>
+							<li><a class="menu__sub-link" href="/employees?category=11">Руководство театра</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=12">Режиссеры</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=101">Художники</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=orkestr">Оркестр</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=103">Репертуарный отдел</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=16">Режиссерский отдел</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=13">Пресс-служба</a></li>
+							<li><a class="menu__sub-link" href="/employees?category=14">Музейно-информационный центр</a>
+							</li>
+							<li><a class="menu__sub-link"
+							       href="/employees?category=17">Художественно-постановочная часть</a></li>
+						</ul>
+					</li>
+					<li><a class="menu__link" href="/news">Новости</a></li>
+					<li><a class="menu__link" href="/address">Контакты</a></li>
+									</ul>
+								<div class="align-center margin-vertical-big" >
+					<a class="btn btn-big" href="/buy-tickets/#/profile">Войти/Зарегистрироваться</a>
+				</div>
+								<div class="header-soc-mob flex-row-space-between">
+					<a target="_blank" class="s_item" href="https://ok.ru/maly.ru"><img src="/images/s_media/header/icon-OK-menu.svg"></a>
+					<a target="_blank" class="s_item" href="https://zen.yandex.ru/maly_theatre"><img src="/images/s_media/header/icon-ZEN2-menu.svg"></a>
+					<a target="_blank" class="s_item" href="https://www.youtube.com/user/MalyTeatr"><img src="/images/s_media/header/icon-YOU-menu.svg"></a>
+					<a target="_blank" class="s_item" href="https://vk.com/club21180513"><img src="/images/s_media/header/icon-VK-menu.svg"></a>
+					<a target="_blank" class="s_item" href="https://t.me/maly_theatre"><img src="/images/s_media/header/icon-TG-menu.svg"></a>
+				</div>
+			</nav>
+		</div>
+	</div>
+</header>
+
+	
+	<div class="page__wider">
+	<style>
+	#slider-dates {
+		bottom: 34px;
+		font-size: 24px;
+		position: absolute;
+		left: 550px;
+		z-index: 2;
+		max-width: 240px;
+	}
+</style>
+
+	<div onclick="return { mainSlider: {}}; " class="main-slider js-widget desktop-only">
+		<div class="main-slider__in">
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/338/1740147818img.jpg" alt=""><span id="slider-dates">14.03, 28.03, 13.04, 20.04, 4.05, 24.05, 14.06, 25.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=497">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/336/1732890397img.jpg" alt=""><span id="slider-dates">16.03, 3.04, 15.04, 3.05, 16.05, 15.06, 27.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=484">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/334/1718791046img.jpg" alt=""><span id="slider-dates">15.03, 26.03, 2.04, 24.04, 17.05, 24.05, 1.06, 15.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=476">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/331/1713529663img.jpg" alt=""><span id="slider-dates">26.03, 9.04, 29.04, 14.05, 11.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=475">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/332/1717486956img.jpg" alt=""><span id="slider-dates">13.03, 23.03, 2.04, 18.04, 17.05, 26.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=468">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/333/1737382791img.jpg" alt=""><span id="slider-dates">15.03, 30.03, 10.04, 27.04, 18.05, 1.06, 26.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=478">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/328/1732891265img.jpg" alt=""><span id="slider-dates">23.03, 20.04, 17.05, 31.05, 28.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=467">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/327/1707817315img.jpg" alt=""><span id="slider-dates">22.03, 23.04, 18.05, 21.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=469">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/325/1733756159img.jpg" alt=""><span id="slider-dates">12.03, 3.04, 12.04, 16.05, 28.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=462">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/322/1733756239img.jpg" alt=""><span id="slider-dates">17.04, 28.05, 28.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=461">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/303/1724944002img.jpg" alt=""><span id="slider-dates">29.03, 26.04, 8.05, 7.06</span><a class="main-slider__buy" href="/checkout/select-date?performance_id=412">Купить билет</a></div>
+				</div>
+							<div class="main-slider__item">
+					<div><img class="main-slider__img" src="https://static.dev.maly.ru/slider/desktop/288/1662981764img.jpg" alt=""><span id="slider-dates"></span></div>
+				</div>
+					</div>
+	</div>
+
+
+	<div onclick="return { mainSlider: {}}; " class="main-slider js-widget mobile-only">
+		<div class="main-slider__in">
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=bezvinyvinovatye">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/338/1740148418img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.Н. Островский</div>
+						<a href="/spectacle/view?name=bezvinyvinovatye">
+							<div class="main-slider__item__title">БЕЗ ВИНЫ ВИНОВАТЫЕ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">14.03, 28.03, 13.04, 20.04, 4.05, 24.05, 14.06, 25.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=497">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=gurych">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/336/1732878037img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">Д.Т. Ленский</div>
+						<a href="/spectacle/view?name=gurych">
+							<div class="main-slider__item__title">ЛЕВ ГУРЫЧ СИНИЧКИН, ИЛИ ПРОВИНЦИАЛЬНАЯ ДЕБЮТАНТКА</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">16.03, 3.04, 15.04, 3.05, 16.05, 15.06, 27.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=484">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=01bespridannica">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/334/1718791046img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.Н.Островский</div>
+						<a href="/spectacle/view?name=01bespridannica">
+							<div class="main-slider__item__title">БЕСПРИДАННИЦА</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">15.03, 26.03, 2.04, 24.04, 17.05, 24.05, 1.06, 15.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=476">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=vchuzhompirupohmelye">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/331/1713524006img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.Н.Островский</div>
+						<a href="/spectacle/view?name=vchuzhompirupohmelye">
+							<div class="main-slider__item__title">В ЧУЖОМ ПИРУ ПОХМЕЛЬЕ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">26.03, 9.04, 29.04, 14.05, 11.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=475">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=malenkietragedii">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/332/1717487523img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.С.Пушкин</div>
+						<a href="/spectacle/view?name=malenkietragedii">
+							<div class="main-slider__item__title">МАЛЕНЬКИЕ ТРАГЕДИИ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">13.03, 23.03, 2.04, 18.04, 17.05, 26.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=468">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=noch_nezhna">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/333/1737382791img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">Ф. Скотт Фицджеральд</div>
+						<a href="/spectacle/view?name=noch_nezhna">
+							<div class="main-slider__item__title">НОЧЬ НЕЖНА. ДИК И НИКОЛЬ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">15.03, 30.03, 10.04, 27.04, 18.05, 1.06, 26.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=478">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=dvaklena">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/328/1710852663img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">Евгений Шварц</div>
+						<a href="/spectacle/view?name=dvaklena">
+							<div class="main-slider__item__title">СКАЗКА О БАБЕ-ЯГЕ И ВАСИЛИСЕ-РАБОТНИЦЕ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">23.03, 20.04, 17.05, 31.05, 28.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=467">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=moynezhnyzver">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/327/1707817315img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.П.Чехов</div>
+						<a href="/spectacle/view?name=moynezhnyzver">
+							<div class="main-slider__item__title">МОЙ НЕЖНЫЙ ЗВЕРЬ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">22.03, 23.04, 18.05, 21.06</span>								<span class="main-slider__is-premiere">ПРЕМЬЕРА </span> 						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=469">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=svetitdanegreet">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/325/1701256581img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">А.Н.Островский и Н.Я.Соловьев</div>
+						<a href="/spectacle/view?name=svetitdanegreet">
+							<div class="main-slider__item__title">СВЕТИТ, ДА НЕ ГРЕЕТ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">12.03, 3.04, 12.04, 16.05, 28.06</span>						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=462">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=donhuanilikamennypir">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/322/1701337581img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">Ж.Б.Мольер</div>
+						<a href="/spectacle/view?name=donhuanilikamennypir">
+							<div class="main-slider__item__title">ДОН ЖУАН, ИЛИ КАМЕННЫЙ ПИР</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">17.04, 28.05, 28.06</span>						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=461">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="/spectacle/view?name=zhuravli">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/303/1684511094img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author">В.С.Розов</div>
+						<a href="/spectacle/view?name=zhuravli">
+							<div class="main-slider__item__title">ЛЕТЯТ ЖУРАВЛИ</div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates">29.03, 26.04, 8.05, 7.06</span>						</div>
+						<div class="main-slider__item__btn"><a class="btn btn-bold btn-big" href="/checkout/select-date?performance_id=412">Купить билет</a></div>
+					</div>
+				</div>
+							<div class="main-slider__item">
+																<a href="https://www.maly.ru/afisha">
+							<div class="main-slider__mobile-img-container"><img class="main-slider__img" src="https://static.dev.maly.ru/slider/mobile/288/1665649758img.jpg" alt=""></div>
+						</a>
+										<div class="main-slider__item__desc">
+						<div class="main-slider__item__author"></div>
+						<a href="https://www.maly.ru/afisha">
+							<div class="main-slider__item__title"></div>
+						</a>
+						<div class="main-slider__item__type">
+							<span class="main-slider__item-dates"></span>						</div>
+						<div class="main-slider__item__btn"></div>
+					</div>
+				</div>
+					</div>
+	</div>
+	<div class="poster desktop-only">
+	<div class="poster__nav">
+		<a href="/afisha">Афиша</a>
+		<a href="/news?search=zamena">Изменения в афише</a>
+		<a href="/premieres">Премьеры</a>
+		<a href="/pages?name=events">Гастроли</a>
+		<a href="/repertory">Репертуар</a>
+		<a href="/pages?name=programmka">Программка</a>
+	</div>
+	<div class="poster__previews">
+		<div class="poster_row">
+			
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=dni" class="col-4-image" style="background-image: url(/images/performances/588218a5bcf1d.jpg)"></a>
+                    <div class="poster__preview-title">ДЕНЬ НА ДЕНЬ НЕ ПРИХОДИТСЯ</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Малая сцена на Ордынке </span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">12.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=28" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=svetitdanegreet" class="col-4-image" style="background-image: url(/images/performances/655fa45f01eb4.jpg)"></a>
+                    <div class="poster__preview-title">СВЕТИТ, ДА НЕ ГРЕЕТ</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Сцена на Б.Ордынке</span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">12.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=462" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=revizor" class="col-4-image" style="background-image: url(/images/performances/64106a59919df.jpg)"></a>
+                    <div class="poster__preview-title">РЕВИЗОР</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Основная сцена </span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">12.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=5" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            			<div class="clearfix"></div>
+		</div>
+		<div class="poster_row">
+			
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=mesyac" class="col-4-image" style="background-image: url(/images/performances/6563af45d9e20.jpg)"></a>
+                    <div class="poster__preview-title">МЕСЯЦ В ДЕРЕВНЕ</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Малая сцена на Ордынке </span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">13.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=355" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=madridsecret" class="col-4-image" style="background-image: url(/images/performances/6053650840dbd.jpg)"></a>
+                    <div class="poster__preview-title">ТАЙНЫ МАДРИДСКОГО ДВОРА</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Сцена на Б.Ордынке</span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">13.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=18" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            
+                <div class="poster__preview">
+                    <a href="/spectacle/view?name=malenkietragedii" class="col-4-image" style="background-image: url(/images/performances/665f72d14a1e4.jpg)"></a>
+                    <div class="poster__preview-title">МАЛЕНЬКИЕ ТРАГЕДИИ</div>
+                    <div class="poster__preview-details">
+                        <span class="poster__preview-scene">Основная сцена </span>
+                    </div>
+                    <div class="poster__preview-details" style="top:215px;">
+                        <span class="poster__preview-date">13.03.2025</span>
+                        <a href="/checkout/select-date?performance_id=468" class="poster__preview-buy">Купить билет</a>
+                    </div>
+                </div>
+            			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+
+<div class="main-page-repertory primary-grid mobile-only">
+			
+			<div class="rep__item primary-flex">
+				<a href="/spectacle/view?name=dni"><div class="img-block" style="background-image: url(/images/performances/588218a5bcf1d.jpg)"></div>
+				</a>
+				<div class="text-block">
+					<h2 class="rep__title">ДЕНЬ НА ДЕНЬ НЕ ПРИХОДИТСЯ</h2>
+					<div class="flex-row-space-between">
+						<div class="bold">12.03.2025</div>
+						<div class="rep__item__hall">Малая сцена на Ордынке </div>
+					</div>
+				</div>
+				<a href="/checkout/select-date?performance_id=28" class="btn btn-primary">Купить билет</a>
+			</div>
+					
+			<div class="rep__item primary-flex">
+				<a href="/spectacle/view?name=svetitdanegreet"><div class="img-block" style="background-image: url(/images/performances/655fa45f01eb4.jpg)"></div>
+				</a>
+				<div class="text-block">
+					<h2 class="rep__title">СВЕТИТ, ДА НЕ ГРЕЕТ</h2>
+					<div class="flex-row-space-between">
+						<div class="bold">12.03.2025</div>
+						<div class="rep__item__hall">Сцена на Б.Ордынке</div>
+					</div>
+				</div>
+				<a href="/checkout/select-date?performance_id=462" class="btn btn-primary">Купить билет</a>
+			</div>
+					
+			<div class="rep__item primary-flex">
+				<a href="/spectacle/view?name=revizor"><div class="img-block" style="background-image: url(/images/performances/64106a59919df.jpg)"></div>
+				</a>
+				<div class="text-block">
+					<h2 class="rep__title">РЕВИЗОР</h2>
+					<div class="flex-row-space-between">
+						<div class="bold">12.03.2025</div>
+						<div class="rep__item__hall">Основная сцена </div>
+					</div>
+				</div>
+				<a href="/checkout/select-date?performance_id=5" class="btn btn-primary">Купить билет</a>
+			</div>
+					
+			<div class="rep__item primary-flex">
+				<a href="/spectacle/view?name=mesyac"><div class="img-block" style="background-image: url(/images/performances/6563af45d9e20.jpg)"></div>
+				</a>
+				<div class="text-block">
+					<h2 class="rep__title">МЕСЯЦ В ДЕРЕВНЕ</h2>
+					<div class="flex-row-space-between">
+						<div class="bold">13.03.2025</div>
+						<div class="rep__item__hall">Малая сцена на Ордынке </div>
+					</div>
+				</div>
+				<a href="/checkout/select-date?performance_id=355" class="btn btn-primary">Купить билет</a>
+			</div>
+			</div>
+<div class="align-center margin-vertical-big mobile-only">
+	<a class="btn btn-big btn-bold " href="/tickets">Все события</a>
+</div>	
+</div>
+
+
+<div class="main-news clearfix desktop-only">
+	<div class="main-side">
+							<a href="/feedback" class="main-side__item">Отзывы</a>
+					<a href="/kogalym" class="main-side__item">Филиал в Когалыме</a>
+					<a href="/children/events" class="main-side__item">Малый - детям</a>
+					<a href="/pages/festival" class="main-side__item">Фестиваль «Островский в Доме Островского»</a>
+					<a href="https://www.maly.ru/pages/laboratoriya" class="main-side__item">Режиссёрская лаборатория</a>
+					<a href="/yuzhin" class="main-side__item">Мемориальная квартира А.И. Сумбатова-Южина</a>
+					<a href="/pages/studiya" class="main-side__item">Детская студия Малого театра</a>
+					<a href="/pages/survey" class="main-side__item">Онлайн-опросы</a>
+					<a href="https://vk.com/video/@malytheatre" class="main-side__item">Малый ТВ</a>
+					<a href="pages/kinostudiya" class="main-side__item">Киностудия Малого театра</a>
+					<a href="/pages/gazeta" class="main-side__item">Газета «Малый театр»</a>
+					<a href="pages/excursions" class="main-side__item">Экскурсии по Малому театру</a>
+					<a href="/documents" class="main-side__item">Открытая информация</a>
+					<a href="https://www.maly.ru/pages/pravila_posesheniya" class="main-side__item">Правила посещения Малого театра</a>
+					<a href="https://www.maly.ru/pages/dostupnaya_sreda" class="main-side__item">Доступная среда</a>
+				<div class="banners">
+			<div class="main-side__item-banner"><div class="banner-ru">
+<div class="text-center" style="padding: 15px 25px;">
+<div style="font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    margin-top: 25px;">Учредитель театра</div>
+<a href="/pages?name=mkrf" target="_blank"><img class="img-responsive" src="/logos/MINCULT_RUS_RGB.png" loading="lazy" alt="Министерство Культуры РФ"></a>
+
+</div>
+</div></div><div class="main-side__item-banner"><div class="banner-ru">
+<div class="text-center" style="padding: 15px 25px;">
+<div style="font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    margin-top: 25px;">Пушкинская карта</div>
+<a href="https://xn--80atoqz.xn--p1ai/" target="_blank"><img class="img-responsive" src="http://static.dev.maly.ru/files/pictures/slajder-na-sajt_-puskinskaa-karta_zeltyj.jpg"></a>
+
+</div>
+</div></div><div class="main-side__item-banner"><div class="banner-ru">
+<div class="text-center" style="padding: 15px 25px;">
+<div style="font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    margin-top: 25px;">Год Семьи в России</div>
+<a href="https://vk.com/family_year" target="_blank"><img class="img-responsive" src="https://static.dev.maly.ru/files/logo_god_sem_i.jpg "></a>
+
+</div>
+</div>
+</div><div class="main-side__item-banner"><script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 3}, 21180513);
+</script></div>		</div>
+	</div>
+
+
+	<div class="main-news-body clearfix">
+		<h2 class="main-news__title align-center"><span>Новости</span></h2>
+		<!--$i++ here, not $i += columns, because we want to have $item = $news[$i] below-->
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11877">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67d0246b523d7.jpg);"></div>
+								<div class="main-news-item__date">12.03.2025</div>
+								<div class="main-news-item__title">ВВОД В СПЕКТАКЛЬ</div>
+							</a>
+							<div class="main-news-item__desc">13 марта на Сцене на Ордынке в спектакле «Месяц в деревне» И.С. Тургенева роль Аркадия Сергеича Ислаева впервые сыграет заслуженный артист России Василий Дахненко. Желаем успеха!</div>
+							<p><a class="news-link-more" href=" /news/11877">Подробнее...</a>
+							</p>
+						</div>
+																										<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11873">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67cab352dc723.jpg);"></div>
+								<div class="main-news-item__date">11.03.2025</div>
+								<div class="main-news-item__title">НОВЫЙ СПЕКТАКЛЬ «БЕЗ ВИНЫ ВИНОВАТЫЕ» В МАЛОМ ТЕАТРЕ ДЛЯ ТЕХ, КТО УСТАЛ ОТ МОДНЫХ ИНТЕРПРИТАЦИЙ КЛАСС ...</div>
+							</a>
+							<div class="main-news-item__desc">Лидия Вележева дебютировала в Малом театре в спектакле «Без вины виноватые». Ольга Штраус, «Российская газета», 26.02.2025</div>
+							<p><a class="news-link-more" href=" /news/11873">Подробнее...</a>
+							</p>
+						</div>
+												</div>
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11876">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67d00a77745ad.jpg);"></div>
+								<div class="main-news-item__date">10.03.2025</div>
+								<div class="main-news-item__title">«МАЛЕНЬКАЯ ОПЕРА»: ПУТЬ К ПРЕМЬЕРЕ</div>
+							</a>
+							<div class="main-news-item__desc">Премьера спектакля «Маленькая опера» Славы Сэ состоится уже 22 марта. ​На репетиции побывал наш фотограф Евгений Люлюкин.<br />
+<br />
+</div>
+							<p><a class="news-link-more" href=" /news/11876">Подробнее...</a>
+							</p>
+						</div>
+																										<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11872">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c9af5e9506b.jpg);"></div>
+								<div class="main-news-item__date">06.03.2025</div>
+								<div class="main-news-item__title">«ТЕАТРАЛЬНАЯ СРЕДА» С МАРИНОЙ РАЙКИНОЙ: «БЕЗ ВИНЫ ВИНОВАТЫЕ»</div>
+							</a>
+							<div class="main-news-item__desc">В новом выпуске программы «Театральная среда» ведущая Марина Райкина рассказывает о последней премьере Малого театра.</div>
+							<p><a class="news-link-more" href=" /news/11872">Подробнее...</a>
+							</p>
+						</div>
+												</div>
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11864">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c9a2aaeabd6.jpg);"></div>
+								<div class="main-news-item__date">06.03.2025</div>
+								<div class="main-news-item__title">«ОТ РАДОСТИ НЕ УМИРАЮТ!»</div>
+							</a>
+							<div class="main-news-item__desc">Премьера «Без вины виноватых» в Малом театре. Режиссеру В.М. Бейлису удалось достучаться до сердец зрителей, поскольку он развил мысли драматурга о происхождении зла в том ключе, в котором их в свое время ставил перед религиозными философами Фома Аквинский. Андрес Ландабасо Ангуло, «Э-Вести», 01.03.2025<br />
+</div>
+							<p><a class="news-link-more" href=" /news/11864">Подробнее...</a>
+							</p>
+						</div>
+																										<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11871">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c950417d642.jpeg);"></div>
+								<div class="main-news-item__date">06.03.2025</div>
+								<div class="main-news-item__title">«МАЛЕНЬКАЯ ОПЕРА»: В ОЖИДАНИИ ПРЕМЬЕРЫ</div>
+							</a>
+							<div class="main-news-item__desc">Художник-постановщик спектакля Мария Шуплецова рассказала о своей работе над постановкой. Предлагаем вашему вниманию эскизы костюмов.</div>
+							<p><a class="news-link-more" href=" /news/11871">Подробнее...</a>
+							</p>
+						</div>
+												</div>
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11869">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c73a86a09bf.jpg);"></div>
+								<div class="main-news-item__date">04.03.2025</div>
+								<div class="main-news-item__title">«ВЕСЬМА ОСТРОУМНАЯ И ПРЕВЕСЁЛАЯ КОМЕДИЯ О ВИНДЗОРСКИХ ЖЁНУШКАХ» – С НАЧАЛОМ!</div>
+							</a>
+							<div class="main-news-item__desc">​Дорогие друзья! У нас для вас прекрасная новость – Уильям Шекспир возвращается на сцену Малого театра! </div>
+							<p><a class="news-link-more" href=" /news/11869">Подробнее...</a>
+							</p>
+						</div>
+																										<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11867">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c713eb351df.jpg);"></div>
+								<div class="main-news-item__date">04.03.2025</div>
+								<div class="main-news-item__title">ВВОД В СПЕКТАКЛЬ</div>
+							</a>
+							<div class="main-news-item__desc">6 марта на Сцене на Ордынке в спектакле «Горячее сердце» А.Н. Островского роль Барина с большими усами впервые сыграет Игнатий Кузнецов. Желаем успеха!</div>
+							<p><a class="news-link-more" href=" /news/11867">Подробнее...</a>
+							</p>
+						</div>
+												</div>
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11865">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c6f7b1019ab.jpeg);"></div>
+								<div class="main-news-item__date">04.03.2025</div>
+								<div class="main-news-item__title">ЗАМЕНА СПЕКТАКЛЯ</div>
+							</a>
+							<div class="main-news-item__desc">​5 марта на Сцене на Ордынке в связи с болезнью артиста пойдёт спектакль «Бесприданница» А.Н. Островского (вместо спектакля «Бедность не порок»).</div>
+							<p><a class="news-link-more" href=" /news/11865">Подробнее...</a>
+							</p>
+						</div>
+																										<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11863">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c56e5cc773b.jpg);"></div>
+								<div class="main-news-item__date">03.03.2025</div>
+								<div class="main-news-item__title">«БЕЗ ВИНЫ ВИНОВАТЫХ» АЛЕКСАНДРА ОСТРОВСКОГО ПОЙМУТ ВСЕ ЛЮБИТЕЛИ МЫЛЬНЫХ ОПЕР</div>
+							</a>
+							<div class="main-news-item__desc">На сцену Малого театра спустя почти полвека вернулась не лишённая мелодраматического элемента комедия Александра Островского. Наталья Бабахина, газета «Метро», 26.02.2025</div>
+							<p><a class="news-link-more" href=" /news/11863">Подробнее...</a>
+							</p>
+						</div>
+												</div>
+								<div class="row hadashot-row">
+				<!--i++ here, so we always have $item = $news[$i].  !-->
+																					<div class="col-xs-6 col-news-item">
+							<a style="display: block;" href="/news/11858">
+								<div class="mainpage-news-image"
+								     style="background-image: url(/images/news2/67c1b25b4a94a.jpg);"></div>
+								<div class="main-news-item__date">02.03.2025</div>
+								<div class="main-news-item__title">ТАМАРА МИХАЙЛОВА: «ТЕАТР – ЭТО ЭГОИСТ, ТРЕБУЮЩИЙ ПОСТОЯННОГО СЕБЕ ПОДЧИНЕНИЯ»</div>
+							</a>
+							<div class="main-news-item__desc">Директор Государственного академического Малого театра Тамара Михайлова пришла в Малый ровно 15 лет назад. За это время ей пришлось заниматься самым масштабным за сто лет ремонтом, созданием нового театра в Когалыме, преодолением серьезнейших испытаний и вызовов.  Обо всех этих этапах «большого пути», и не только о них, читайте в большом интервью журналу «Театрал».</div>
+							<p><a class="news-link-more" href=" /news/11858">Подробнее...</a>
+							</p>
+						</div>
+																					</div>
+				<div class="main-news__all main-news-item">
+			<a href="/news">Все новости</a>
+		</div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+<div class="main-page-news mobile-only">
+	<div class="main-page-news__title">Новости</div>
+	<div class="main-page-news__items primary-grid">
+								<div class="main-page-news__item primary-flex">
+				
+								<div class="main-page-news__img" style="background-image: url(/images/news2/67d0246b523d7.jpg);"></div>				
+				<div>12.03.2025</div>
+
+				<div class="news-item__desc">
+					<h2 class="news-item__title"><a href="/news/11877">ВВОД В СПЕКТАКЛЬ</a></h2>
+					<div class="news-item__text news-item__desc">13 марта на Сцене на Ордынке в спектакле «Месяц в деревне» И.С. Тургенева роль Аркадия Сергеича Ислаева впервые сыграет заслуженный артист России Василий Дахненко. Желаем успеха!</div>
+				</div>
+
+				<div class="spacer"></div>
+				<a href="/news/11877"
+				   class="main-page__news-item__link btn btn-primary">Подробнее ></a>
+			</div>
+								<div class="main-page-news__item primary-flex">
+				
+								<div class="main-page-news__img" style="background-image: url(/images/news2/67cab352dc723.jpg);"></div>				
+				<div>11.03.2025</div>
+
+				<div class="news-item__desc">
+					<h2 class="news-item__title"><a href="/news/11873">НОВЫЙ СПЕКТАКЛЬ «БЕЗ ВИНЫ ВИНОВАТЫЕ» В МАЛОМ ТЕАТРЕ ДЛЯ ТЕХ, КТО УСТАЛ ОТ МОДНЫХ ИНТЕРПРИТАЦИЙ КЛАССИКИ  </a></h2>
+					<div class="news-item__text news-item__desc">Лидия Вележева дебютировала в Малом театре в спектакле «Без вины виноватые». Ольга Штраус, «Российская газета», 26.02.2025</div>
+				</div>
+
+				<div class="spacer"></div>
+				<a href="/news/11873"
+				   class="main-page__news-item__link btn btn-primary">Подробнее ></a>
+			</div>
+								<div class="main-page-news__item primary-flex">
+				
+								<div class="main-page-news__img" style="background-image: url(/images/news2/67d00a77745ad.jpg);"></div>				
+				<div>10.03.2025</div>
+
+				<div class="news-item__desc">
+					<h2 class="news-item__title"><a href="/news/11876">«МАЛЕНЬКАЯ ОПЕРА»: ПУТЬ К ПРЕМЬЕРЕ</a></h2>
+					<div class="news-item__text news-item__desc">Премьера спектакля «Маленькая опера» Славы Сэ состоится уже 22 марта. ​На репетиции побывал наш фотограф Евгений Люлюкин.
+
+</div>
+				</div>
+
+				<div class="spacer"></div>
+				<a href="/news/11876"
+				   class="main-page__news-item__link btn btn-primary">Подробнее ></a>
+			</div>
+								<div class="main-page-news__item primary-flex">
+				
+								<div class="main-page-news__img" style="background-image: url(/images/news2/67c9af5e9506b.jpg);"></div>				
+				<div>06.03.2025</div>
+
+				<div class="news-item__desc">
+					<h2 class="news-item__title"><a href="/news/11872">«ТЕАТРАЛЬНАЯ СРЕДА» С МАРИНОЙ РАЙКИНОЙ: «БЕЗ ВИНЫ ВИНОВАТЫЕ»</a></h2>
+					<div class="news-item__text news-item__desc">В новом выпуске программы «Театральная среда» ведущая Марина Райкина рассказывает о последней премьере Малого театра.</div>
+				</div>
+
+				<div class="spacer"></div>
+				<a href="/news/11872"
+				   class="main-page__news-item__link btn btn-primary">Подробнее ></a>
+			</div>
+			</div>
+	<div class="align-center margin-vertical-big">
+		<a class="btn btn-bold btn-big" href="/news">Все новости</a>
+	</div>
+</div>
+	
+	<style>
+	.wider-foot {
+		width: 21% !important;
+	}
+
+	.along_foot {
+		width: 16% !important;
+	}
+</style>
+<script>
+	function desktopToMobile() {
+		document.cookie = "siteLayoutWidthMode=mobile";
+		document.location.reload();
+	}
+	function mobileToDesktop() {
+		document.cookie = "siteLayoutWidthMode=desktop";
+		document.location.reload();
+	}
+</script>
+<div class="footer desktop-only">
+	<div class="leader align-center">Художественный руководитель Малого театра &mdash;
+		<span class="rip">
+		народный артист СССР Юрий Мефодьевич Соломин
+		</span>
+	
+	</div>
+
+	<div class="pull-right">
+		<form action="/search" class="search">
+			<div class="search__title">Поиск по сайту</div>
+			<input name="q" type="search" placeholder="Введите слово" class="search__input">
+			<button type="submit" class="search__submit" style="display: none;">Искать</button>
+		</form>
+		<div class="mobile-version-change-button pull-right" >
+			<button class="btn btn-secondary" onclick="desktopToMobile()">Включить мобильную версию</button>
+		</div>
+	</div>
+
+
+
+	<div class="nav-bottom">
+		<div class="nav-bottom__item along_foot">
+			<a href="/" class="nav-bottom__title">Главная</a>
+
+			<a href="/news" class="nav-bottom__link">Новости</a>
+			<a href="/news?search=zamena"
+			   class="nav-bottom__link">Изменения в афише</a>
+			<a href="/premieres" class="nav-bottom__link">Премьеры</a>
+			<a href="/pages?name=events"
+			   class="nav-bottom__link">Гастроли</a>
+			<a href="/repertory" class="nav-bottom__link">Репертуар</a>
+			<a href="/feedback" class="nav-bottom__link">Отзывы</a>
+			<a href="/pages/festival"
+			   class="nav-bottom__link">Фестиваль "Островский в доме Островского"</a>
+			<a href="http://ether.tv/player/maly/" class="nav-bottom__link">Малый ТВ</a>
+			<a href="/pages/gazeta"
+			   class="nav-bottom__link">Газета "Малый театр"</a>
+			<a href="/documents"
+			   class="nav-bottom__link">Открытая информация</a>
+<!--			<a href="--><!--"-->
+<!--			   class="nav-bottom__link">Виртуальная экскурсия</a>-->
+			<a href="/partners" class="nav-bottom__link">Партнёры</a>
+		</div>
+		<div class="nav-bottom__item wider-foot">
+			<a href="/pages?name=teatr" class="nav-bottom__title">О театре</a>
+
+			<a href="/employees?category=30"
+			   class="nav-bottom__link">Попечительский совет</a>
+			<a href="/employees?category=11"
+			   class="nav-bottom__link">Руководство театра</a>
+			<a href="/o_teatre"
+			   class="nav-bottom__link">Актёры</a>
+			<a href="/employees?category=12"
+			   class="nav-bottom__link">Режиссеры</a>
+			<a href="/employees?category=101"
+			   class="nav-bottom__link">Художники</a>
+			<a href="/employees?category=orkestr"
+			   class="nav-bottom__link">Оркестр</a>
+			<a href="/employees?category=103"
+			   class="nav-bottom__link">Репертуарный отдел</a>
+			<a href="/employees?category=16"
+			   class="nav-bottom__link">Режиссёрский отдел</a>
+			<a href="/employees?category=13"
+			   class="nav-bottom__link">Пресс-служба</a>
+			<a href="/employees?category=14"
+			   class="nav-bottom__link">Музейно-информационный центр</a>
+			<a href="/employees?category=17"
+			   class="nav-bottom__link">Художественно-постановочная часть</a>
+			<a href="/yuzhin" class="nav-bottom__link">Мемориальная квартира А.И. Сумбатова-Южина</a>
+			<a href="/employees?category=108"
+			   class="nav-bottom__link">Филиал в Когалыме</a>
+			<a href="http://shepkinskoe.ru"
+			   class="nav-bottom__link">Щепкинское училище</a>
+		</div>
+		<div class="nav-bottom__item wider-foot">
+			<a href="/pages?name=history" class="nav-bottom__title">История</a>
+
+			<a href="/pages?name=zdanie"
+			   class="nav-bottom__link">Здание Малого театра</a>
+			<a href="/pages?name=repertuar"
+			   class="nav-bottom__link">Репертуар с 1824 г.</a>
+			<a href="/pages?name=shepka_hist"
+			   class="nav-bottom__link">Театральное училище</a>
+			<a href="/pages?name=repertuar"
+			   class="nav-bottom__link">Спектакли</a>
+			<a href="/pages?name=truppa_17"
+			   class="nav-bottom__link">Труппа театра с 1824 года</a>
+			<a href="/pages?name=truppa_new"
+			   class="nav-bottom__link">Труппа театра с 1917 года</a>
+			<a href="/people_list?category=10" class="nav-bottom__link">Актеры</a>
+			<a href="/people_list?category=18"
+			   class="nav-bottom__link">Режиссеры</a>
+			<a href="/people_list?category=19"
+			   class="nav-bottom__link">Художники</a>
+			<a href="/pages?name=sound-archive"
+			   class="nav-bottom__link">Звуковой архив</a>
+			<a href="/news?search=2war"
+			   class="nav-bottom__link">1941-1945</a>
+			<a href="/pages?name=shelykovo"
+			   class="nav-bottom__link">Щелыково</a>
+			<a href="/pages?name=bibl"
+			   class="nav-bottom__link">Библиотека Малого театра</a>
+			<a href="/pages?name=etiket"
+			   class="nav-bottom__link">Правила вежливости и этикета</a>
+			<a href="/news?search=history"
+			   class="nav-bottom__link">Публикации</a>
+			<a href="/pages?name=pamyatnik"
+			   class="nav-bottom__link">Памятник А.Н. Островскому</a>
+
+		</div>
+		<div class="nav-bottom__item along_foot">
+			<a href="/checkout/select-performance" class="nav-bottom__title">Билеты</a>
+
+			<a href="/afisha" class="nav-bottom__link">Купить билет</a>
+			<a href="/checkout/select-performance"
+			   class="nav-bottom__link">Текущий репертуар</a>
+			<a href="/tickets/rules"
+			   class="nav-bottom__link">Правила продажи билетов</a>
+			<a href="/tickets/cash-offices"
+			   class="nav-bottom__link">Покупка билетов в кассах театра</a>
+			<a href="/tickets/payment-steps"
+			   class="nav-bottom__link">Оплата картой на сайте</a>
+			<a href="/tickets/support"
+			   class="nav-bottom__link">Техническая поддержка</a>
+			<a href="/tickets/collective-visits"
+			   class="nav-bottom__link">Коллективные посещения</a>
+			<a href="/tickets/discount-visits"
+			   class="nav-bottom__link">Льготные посещения</a>
+			<a href="/halls" class="nav-bottom__link">Схема залов</a>
+		</div>
+		<div class="nav-bottom__item wider-foot">
+			<a href="/address" class="nav-bottom__title">Контакты</a>
+
+			<a href="/address#hall1"
+			   class="nav-bottom__link">Основная сцена</a>
+			<a href="/address#hall2"
+			   class="nav-bottom__link">Сцена на Ордынке</a>
+			<a href="/address#hall7"
+			   class="nav-bottom__link">Сцена в Когалыме</a>
+			<a href="/address#hall6"
+			   class="nav-bottom__link">Мемориальная квартира А.И. Сумбатова-Южина</a>
+			<a href="/address#phones"
+			   class="nav-bottom__link">Телефоны сотрудников</a>
+			<a href="/address#techsupport"
+			   class="nav-bottom__link">Техническая поддержка</a>
+			<a href="/address#contactus"
+			   class="nav-bottom__link">Связаться с нами</a>
+			<a href="/address#logotypes"
+			   class="nav-bottom__link">Логотипы</a>
+			<a href="/address#jobs" class="nav-bottom__link">Вакансии</a>
+		</div>
+
+		<div class="clearfix"></div>
+	</div>
+	<div class="partners-footer-row-container">
+					<div class="partners partners-footer-row">
+				<h2 class="partners__title">Партнеры</h2>
+									<a target="_blank" class="partner-link" href="http://www.lukoil.ru/">
+						<img style="height: 30px;" title=""
+						     src="https://static.dev.maly.ru/partners/4/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://ad.adriver.ru/cgi-bin/click.cgi?sid=1&bt=103&ad=743756&pid=3475427&bid=8295270&bn=8295270&exss=&erir=%5Berir_token%5D&rn">
+						<img style="height: 60px;" title=""
+						     src="https://static.dev.maly.ru/partners/20/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+							</div>
+					<div class="partners partners-footer-row">
+				<h2 class="partners__title">Информационная поддержка</h2>
+									<a target="_blank" class="partner-link" href="https://radiovesti.ru/">
+						<img style="height: 30px;" title=""
+						     src="https://static.dev.maly.ru/partners/22/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://www.mskagency.ru/">
+						<img style="height: 50px;" title=""
+						     src="https://static.dev.maly.ru/partners/21/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://www.culture.ru/">
+						<img style="height: 90px;" title=""
+						     src="https://static.dev.maly.ru/partners/24/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://www.kp.ru/afisha/msk/">
+						<img style="height: 120px;" title=""
+						     src="https://static.dev.maly.ru/partners/31/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://profile.ru/">
+						<img style="height: 30px;" title=""
+						     src="https://static.dev.maly.ru/partners/32/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://expert.ru/">
+						<img style="height: 40px;" title=""
+						     src="https://static.dev.maly.ru/partners/27/logo.png">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://govoritmoskva.ru/">
+						<img style="height: 40px;" title=""
+						     src="https://static.dev.maly.ru/partners/28/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="">
+						<img style="height: 40px;" title=""
+						     src="https://static.dev.maly.ru/partners/29/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+									<a target="_blank" class="partner-link" href="https://otr-online.ru/">
+						<img style="height: 40px;" title=""
+						     src="https://static.dev.maly.ru/partners/33/logo.jpg">
+						<br><span class="partner-title"></span>
+					</a>
+				
+							</div>
+			</div>
+
+
+	<div class="page__wider">
+		<div class="page__footer">
+			<a class="pull-right no-print" href="/address">Как добраться?</a>&copy; 2025 Пресс-служба:
+			<a href="mailto:press@maly.ru">press@maly.ru</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			Заказ билетов (web-касса) (495) 624-40-46
+		</div>
+	</div>
+</div>
+
+
+<div class="divider-gray"></div>
+<div class="footer mobile-only">
+	<form action="/search" class="search full-width align-center">
+		<input name="q" type="search" placeholder="Найти на сайте" class="search__input" style="padding-left:10px">
+		<button type="submit" class="search__submit" style="display: none;">Искать</button>
+	</form>
+	<div class="footer-logos flex-row-space-between" >
+		<div><a href="/"><img src="/images/footer/maly_logo_footer_mobil_vers.svg"></a></div>
+		<div><a target="_blank" href="https://culture.gov.ru/"><img src="/images/footer/min_cult.svg"></a></div>
+	</div>
+	<div class="footer-intermediate primary-grid">
+
+		<div class="footer-intermediate__buttons full-width">
+							<a class="btn btn-big full-width" href="/site/login">Вход/Регистрация</a>
+			
+			<div class="spacer"></div>
+			<a class="btn btn-big full-width" href="/pages/pravila_posesheniya">Правила посещения театра</a>
+			<a class="btn btn-big full-width" href="/feedback">Отзывы</a>
+			<button class="btn btn-big full-width" style="white-space: normal;" onclick="mobileToDesktop()">Десктопная версия</button>
+		</div>
+
+		<div class="footer-intermediate__quality primary-flex align-center">
+			<div><a target="_blank" href="http://quality.mkrf.ru/"><img src="/images/footer/quality.svg"></a></div>
+			<div class="spacer"></div>
+			<div>Оценка качества услуг учреждений культуры</div>
+		</div>
+	</div>
+	<div class="footer__sub-title">Адрес театра:</div>
+	<div class="footer-contacts primary-grid">
+		<div>
+			<div>Москва, Театральный проезд д. 1</div>
+		</div>
+		<div>
+			<div>телефон: <a href="tel: (495)624-42-01">(495)624-42-01</a></div>
+		</div>
+	</div>
+	<div class="footer__sub-title">Мы в соцсетях:</div>
+	<div class="footer-soc-med">
+		<a target="_blank" class="s_item" href="https://ok.ru/maly.ru"><img src="/images/s_media/footer/icon-OK-mobile.svg"></a>
+		<a target="_blank" class="s_item" href="https://zen.yandex.ru/maly_theatre"><img src="/images/s_media/footer/icon-ZEN2-mobile.svg"></a>
+		<a target="_blank" class="s_item" href="https://www.youtube.com/user/MalyTeatr"><img src="/images/s_media/footer/icon-YOU-mobile.svg"></a>
+		<a target="_blank" class="s_item" href="https://vk.com/club21180513"><img src="/images/s_media/footer/icon-VK-mobile.svg"></a>
+		<a target="_blank" class="s_item" href="https://t.me/maly_theatre"><img src="/images/s_media/footer/icon-TG-mobile.svg"></a>
+	</div>
+	<div class="footer__sub-title">Партнёры:</div>
+	<div class="footer-partners flex-row-space-between">
+		<div><a target="_blank" href="https://www.gazprombank.ru"><img src="/images/footer/gazprom.png"></a></div>
+		<div><a target="_blank" href="https://lukoil.ru"><img src="/images/footer/lukoil.png"></a></div>
+	</div>
+	<div class="footer__sub-title">Информационная поддержка</div>
+	<div class="footer-support">
+		<div class="footer-support-row">
+			<div class="_vestifm">
+				<a target="_blank" href="https://radiovesti.ru"><img src="/images/footer/VestiFM-mobile.png"></a>
+			</div>
+			<div class="_agn">
+				<a target="_blank" href="https://www.mskagency.ru"><img src="/images/footer/AGN-Moskva-mobile.png"></a>
+			</div>
+		</div>
+
+		<div class="footer-support-row">
+			<div class="_kultura">
+				<a target="_blank" href="https://www.culture.ru"><img src="/images/footer/kulturaRF-mobile.png"></a>
+			</div>
+			<div class="_expert">
+				<a target="_blank" href="https://expert.ru"><img src="/images/footer/Expert-mobile.png"></a>
+			</div>
+		</div>
+
+		<div class="footer-support-row">
+			<div class="_hello">
+				<a target="_blank" href="https://hellomagrussia.ru"><img src="/images/footer/Hello-mobile.png"></a>
+			</div>
+			<div class="_govorit">
+				<a target="_blank" href="https://govoritmoskva.ru"><img src="/images/footer/GovoritMoskva-mobile.png"></a>
+			</div>
+		</div>
+
+		<div class="footer-support-row">
+			<div class="_profile_logo_mobile">
+				<a target="_blank" href="https://profile.ru"><img src="/images/footer/profil_logo_mobile.png"></a>
+			</div>
+			<div class="_afisha_logo_mobile">
+				<a target="_blank" href="https://www.kp.ru/afisha/msk/"><img src="/images/footer/afisha_logo_profile.png"></a>
+			</div>
+		</div>
+		
+		<div class="footer-support-row">
+			<div class="_otr_logo_mobile">
+				<a target="_blank" href="https://otr-online.ru/"><img src="/images/footer/OTR-mobile.png"></a>
+			</div>
+		</div>
+	</div>
+</div>
+	
+
+<div class="hoverbutton screen-only"
+     id="hoverbutton-top"
+     title="Наверх"
+     onclick="window.scrollTo(0,0);"><i class="fa fa-arrow-up"></i></div>
+
+<style>
+	.hoverbutton {
+		position: fixed;
+		opacity: 0.3;
+		display: none;
+
+		width: 64px;
+		height: 64px;
+		font-size: 48px;
+		line-height: 64px;
+		cursor: pointer;
+		text-align: center;
+
+	}
+
+	.hoverbutton:hover {
+		opacity: 0.7;
+
+	}
+
+	.hoverbutton.debug {
+		background: red;
+		border: 1px solid black;
+	}
+
+	#hoverbutton-top {
+		bottom: 40px;
+		right: 40px;
+
+		color: #777;
+	}
+
+	@media print {
+		.hoverbutton {
+			display: none;
+		}
+	}
+</style>
+
+<script>
+	$(function () {
+		var hoverVisible = false;
+		$(window).scroll(function () {
+			if ($(window).scrollTop() > 300) {
+				if (!hoverVisible) {
+					$('#hoverbutton-top').slideDown();
+					hoverVisible = true;
+				}
+			}
+			else {
+				if (hoverVisible) {
+					$('#hoverbutton-top').slideUp();
+					hoverVisible = false;
+				}
+			}
+		});
+	});
+</script>	
+</div>
+
+<script async src="https://maly.iui.ubsystem.ru/assets/afisha.js" crossorigin charset="UTF-8"></script>
+
+<script src="/assets/9fa53766/jquery-ui.js?v=1474004875"></script>
+<script src="/assets/9fa53766/ui/i18n/datepicker-ru.js?v=1474004875"></script>
+<!-- BVI (Visually Impaired button) -->
+<script src="/bvi/js/bvi.js"></script>
+<script>
+	new isvek.Bvi({
+		target          : '.bvi-toggle-button',
+		'theme'         : 'white',
+		'font'          : 'arial',
+		'fontSize'      : 16,
+		'letterSpacing' : 'normal',
+		'lineHeight'    : 'normal',
+		'images'        : true,
+		'reload'        : false,
+		'speech'        : false,
+		'builtElements' : true,
+		'panelHide'     : false,
+		'panelFixed'    : true,
+		'lang'          : 'ru-RU'
+	});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VEV258WCTY"></script>
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'G-VEV258WCTY');
+</script>
+</body>
+</html>

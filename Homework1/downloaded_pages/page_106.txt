@@ -1,0 +1,99 @@
+
+<script type="text/javascript" src="//s200.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.32338147192511"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+   			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s200",site_type:"narod",site_lng:"RU",rndid:"cPvnOzz",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"1",isgoogle:"0",isyandex:"0",ismobile:"0"},
+   			geo:{city:"Moscow",region:"Moskva"},
+   			urls:{
+   				adprru:[],
+   				adprci:[]
+   			}
+   		},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s200",site_type:"narod",site_lng:"RU",rndid:"cPvnOzz",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"1",isgoogle:"0",isyandex:"0",ismobile:"0"},
+			geo:{city:"Moscow",region:"Moskva"},
+			urls:{
+				adprru:[],
+				adprci:[]
+			}
+		};*/
+	window.u_accountclicks = {active : 0, trackobj : {}, init : function() {window.u_accountclicks.active=1}, code : function(obj){if(obj) window.u_accountclicks.trackobj=obj; else if(window.u_accountclicks.active==1){window.u_accountclicks.trackobj.ClickTracking.forEach(function(element) {new Image().src = element;}); if(window.u_accountclicks.trackobj.ClickThrough) window.open(window.u_accountclicks.trackobj.ClickThrough, '_blank'); window.u_accountclicks = null;}}};
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s200.ucoz.net/bnr/blocks/ads.js?0.12968217491515" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//musorgskiy1839.narod.ru/DR1/TJbgh79plp?6OCUpJVR6CcDmydd0r9HfU%5EPOEa4lwiUj%21mKQ2ES1%21c5r9ZpUe%217xqOxmPVkpm451iv2YkUyiyBLtCRuhryI"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_abandoned_sites?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript">
+if(typeof(u_global_data)!='object') u_global_data={};
+function ug_clund(){
+	if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>0 || (u_global_data && u_global_data.is_u_main_h)){
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget already loaded');
+		return;
+	}
+	u_global_data.clunduse=1;
+	if('0'=='1'){
+		var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=2; path=/; expires='+d;
+		if(location.search.indexOf('clk2398502361292193773143=1')==-1){
+			return;
+		}
+	}else{
+		window.addEventListener("click", function(event){
+			if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>1) return;
+			if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget click');
+			var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=1; path=/; expires='+d;
+			u_global_data.clunduse=2;
+			new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_click?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+		});
+	}
+	
+	new Image().src = "//counter.yadro.ru/hit;desktop_click_load?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+}
+
+setTimeout(function(){
+	if(typeof(u_global_data.preroll_video_57322)=='object' && u_global_data.preroll_video_57322.active_video=='adbetnet') {
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget suspend, preroll active');
+		setTimeout(ug_clund,8000);
+	}
+	else ug_clund();
+},3000);
+</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narodadst1?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narod_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript" src="//musorgskiy1839.narod.ru/.s/src/jquery-3.3.1.min.js"></script><script type="text/javascript" src="//s200.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.390574602406009"></script>
+<html><head><meta http-equiv="Content-Language" content="ru"><title>Модест Мусоргский - русский композитор (Modest Mussorgsky mp3, midi)</title><meta name="description" content="Модест Мусоргский (Modest Mussorgsky mp3, midi) - русский комрозитор, сайт о жизни и творчестве"><link rel="shortcut icon" href="favicon.ico">
+</head>
+<body bgcolor="#800000" text="#FFFFFF" link="#FFFFCC" vlink="#FFCC99" alink="#CCCCCC"><STYLE>A {
+	TEXT-DECORATION: none
+}
+</STYLE>
+<STYLE fprolloverstyle>A:hover {color: #ffffff; text-decoration: underline}
+</STYLE>
+<div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="840" height="832"><tr><td align="center" valign="top" colspan="5" width="836" height="111"><h1 align="center"><font size="7">&nbsp;</font>Модест Мусоргский<font size="6"><br></font><font size="5">русский композитор</font></h1><p><font size="5">&quot;Школьное дополнительное образование: классическая музыка&quot;</font><p align="left"><font color="#CC00CC"><b>&quot;...Считаю Мусоргского самым гениальным создателем оперного реализма. Ни до, ни после него не было равных&nbsp; ему по вдохновению и творческому гению художника.&quot;<br>Ф.И. Шаляпин</b></font></td></tr><tr><td width="112" height="1"></td><td width="51" height="1"></td><td width="663" height="1"></td><td width="10" height="1"></td><td width="4" height="1"></td></tr><tr><td valign="top" width="112" height="721"><p align="right"><b><a href="noch_na_lyisoy_gore.htm">&quot;Ночь на Лысой горе&quot;</a></b><p align="right"><b><a href="kartinki.htm">&quot;Картинки с выставки&quot;</a><br></b><br><b><a href="boris.htm">Опера &quot;Борис Годунов&quot;</a><br></b><br><b><a href="/hov.htm">Опера &quot;Хованщина&quot;</a></b><p align="right"><b><a href="/sj.htm">Опера &quot;Сорочинская ярмарка&quot;</a></b><p align="right"><b><a href="shost.htm">Воспоминания Шостаковича</a></b><p align="right"><b><a href="/links.htm">Ссылки</a></b></td><td width="51" height="721"></td><td valign="top" width="663" height="721"><font size="5" face="Arial"><b>Мусоргский Модест Петрович</b>, </font><font size="4" face="Arial"><img border="0" src="musorgskiy.jpg" align="left" alt="Модест Мусоргский - русский композитор (Modest Mussorgsky)" width="260" height="309">родился 21 марта 1839 года в имении своего отца, небогатого помещика, в селе Карево Торопецкого уезда (ныне Куньинского района) на Псковщине, умер 28 марта1881 года в Петербурге), русский композитор, участник &quot;<a target="_blank" href="http://balakirev1837.narod.ru/mk.htm">Могучей кучки</a>&quot;. Детские годы провёл в имении родителей; в автобиографии Мусоргский писал: &quot;... ознакомление с духом народной жизни было главным импульсом музыкальных импровизаций до начала ознакомления ещё с самыми элементарными правилами игры на фортепиано&quot;. Шести лет Мусоргский начал заниматься музыкой под руководством матери. В 1849 поступил в Петропавловскую школу в Петербурге, в 1852-56 учился в Школе гвардейских подпрапорщиков. Одновременно брал уроки музыки у пианиста А. А. Герке. В 1852 было издано первое произведение Мусоргского - полька для фортепиано &quot;Подпрапорщик&quot;. В 1856-57 он познакомился с А. С. Даргомыжским, В. В. Стасовым и М. А. <a target="_blank" href="http://www.skill21.ru/">Балакиревым</a>, которые оказали глубокое влияние на его общее и музыкальное развитие. Под руководством Балакирева Мусоргский начал серьёзно заниматься композицией; решив посвятить себя музыке, в 1858 ушёл с военной службы. В конце 50 - начале 60-х гг. Мусоргский написал ряд романсов и инструментальных произведений, в которых уже проявились своеобразные черты его творческой индивидуальности. В 1863-66 работал над оперой &quot;Саламбо&quot; (по одноименному роману Г. Флобера, не окончена), отличающейся драматизмом народно-массовых сцен. К середине 60-х гг. складывается мировоззрение Мусоргского как художника-реалиста, близкого идеям революционных демократов. Обращаясь к актуальной, социально заострённой тематике из народной жизни, он создал песни и романсы на слова Н. А. Некрасова, Т. Г. Шевченко, А. Н. Островского и на собственные тексты (&quot;Калистрат&quot;, &quot;Колыбельная Ерёмушки&quot;, &quot;Спи, усни, крестьянский сын&quot;, &quot;Сиротка&quot;, &quot;Семинарист&quot; и др.), в которых проявились его дар бытописателя, умение создавать ярко характерные человеческие образы. Богатством и сочностью звуковых красок отличается симфоническая картина &quot;Ночь на Лысой горе&quot; (1867), созданная по мотивам народных сказок и легенд. Смелым экспериментом явилась неоконченная опера Мусоргского &quot;Женитьба&quot; (на неизмененный текст комедии Н. В. Гоголя, 1868), вокальные партии которой основаны на непосредственном претворении интонаций живой разговорной речи.<br>&nbsp;&nbsp;&nbsp; Все эти работы подготовили Мусоргского к созданию одного из величайших его творений - оперы &quot;Борис Годунов&quot; (по трагедии <a target="_blank" href="http://skill-21.narod.ru/">А. С. Пушкина</a>). Первая редакция оперы (1869) не была принята к постановке дирекцией императорских театров. После переработки &quot;Борис Годунов&quot; был поставлен в петербургском Мариинском театре (1874), но с большими сокращениями. В 70-х гг. Мусоргский работал над грандиозной по замыслу &quot;народной музыкальной драмой&quot; из эпохи стрелецких бунтов конца 17 в. &quot;Хованщина&quot; (либретто М., начата в 1872), идея которой была ему подсказана В. В. Стасовым, и комической оперой &quot;Сорочинская ярмарка&quot; (по повести Гоголя, 1874-80). Одновременно создал вокальные циклы &quot;Без солнца&quot; (1874), &quot;Песни и пляски смерти&quot; (1875-77), сюиту для фортепиано &quot;Картинки с выставки&quot; (1874) и др. В последние годы жизни Мусоргский испытывал тяжёлую депрессию, вызванную непризнанием его творчества, одиночеством, бытовыми и материальными затруднениями. Умер он в бедности в Николаевском солдатском госпитале. Неоконченная композитором &quot;Хованщина&quot; была завершена после его смерти Римским-Корсаковым, над &quot;Сорочинской ярмаркой&quot; работали А. К. Лядов, Ц. А. Кюи и др. В 1896 Римским-Корсаковым была сделана новая редакция &quot;Бориса Годунова&quot;. В советское время Д. Д. Шостаковичем заново отредактированы и оркестрованы &quot;Борис Годунов&quot; и &quot;Хованщина&quot; (1959). Самостоятельный вариант завершения &quot;Сорочинской ярмарки&quot; принадлежит В. Я. Шебалину (1930).<br><br>&nbsp;&nbsp;&nbsp; Великий гуманист, демократ и правдолюбец, Мусоргский стремился деятельно служить своим творчеством народу. С огромной силой отразил он острые социальные конфликты, создал могучие, полные драматизма образы восставшего и борющегося за свои права народа. Вместе с тем Мусоргский был чутким психологом, знатоком человеческой души. В музыкальных драмах &quot;Борис Годунов&quot; и &quot;Хованщина&quot; необычайно динамичные, красочные массовые народные сцены сочетаются с разнообразием индивидуальных характеристик, психологической глубиной и сложностью отдельных образов. В сюжетах из отечественного прошлого Мусоргский искал ответа на животрепещущие вопросы современности. &quot;Прошедшее в настоящем - вот моя задача&quot;, - писал он Стасову, работая над &quot;Хованщиной&quot;. Как гениальный драматург проявил себя Мусоргский и в произведениях малой формы. Некоторые из его песен представляют собой подобие небольших драматических сценок, в центре которых - живой и законченный человеческий образ. Вслушиваясь в интонации разговорной речи и в мелодии русской народной песни, Мусоргский создал глубоко оригинальный, выразительный музыкальный язык, отличающийся острой реалистической характерностью, тонкостью и многообразием психологических оттенков. Творчество его оказало большое влияние на многих композиторов: С. С. Прокофьева, Д. Д. Шостаковича, Л. Яначека, К. Дебюсси и др. </font><p align="center"><font size="4" face="Arial">Могила Модеста Петровича Мусоргского</font></p><p align="center"><img border="0" src="musorgskiy_mogila.jpg" width="180" height="247" alt="Могила Модеста Петровича Мусоргского"></p><p align="center"><font size="4" face="Arial">Юбилейная монета</font></p><p align="center"><font size="4" face="Arial"><img border="0" src="musorsky_dengi.jpg" alt="Юилейная монета (рубль)" width="192" height="208"></font><p align="left"><font size="4" face="Arial"><br><br>Соч.: Литературное наследие, сост. А. А. Орлова и М. С. Пекелис, [кн. 1-2], Мусоргский, 1971-72.<br><br>Лит.: Стасов В. В., Собрание статей о Мусоргском и его произведениях, М. - П., 1922; Мусоргский. [Статьи и исследования], т. 1- &quot;Борис Годунов&quot;, М., 1930; М. П. Мусоргский. К 50-летию со дня смерти. Статьи и материалы, М., 1932 (лит.); Туманина Н., М. П. Мусоргский, М. - Л., 1939; Асафьев Б. В., Избр. труды, т. 3, М., 1954; Орлова А., Труды и дни М. П. Мусоргского. Летопись жизни и творчества, М., 1963: Хубов Г., Мусоргский, М., 1969.<br><br>&nbsp;</font></td><td width="10" height="721"></td><td valign="top" width="4" height="721">&nbsp;</td></tr></table></center></div><p><font color="#FFCC99">Автор сайта: Соловьев Евгений </font><font size="2" face="Arial" color="#FFCC99">© Copyright 2006 </font><a href="mailto:evgenu93@mail.ru">evgenu93@mail.ru</a> </font></p><p><em><font face="Arial" size="2" color="#FFCC99">Мои сайты:</font></em></p><p><font face="Arial" size="2" color="#FFCC99"><em><a href="http://www.skill21.ru/"><font color="#FFCC99">Милий Алексеевич Балакирев</font></a></em></font></p><p><em><font face="Arial" size="2" color="#FFCC99"><a href="http://www.borodin1833.ru/"><font color="#FFCC99">Бородин Александр</font></a></font></em></p><p><font face="Arial" size="2" color="#FFCC99"><em><a href="http://www.glinka1804-rus.ru/"><font color="#FFCC99">Глинка Михаил</font></a></em></font></p><p><font face="Arial" size="2" color="#FFCC99"><em><font color="#FFCC99"><a href="http://rachmaninov1873-rus.ru/"><font color="#FFCC99">Рахманинов Сергей</font></a></em></p>
+<p><font face="Arial" color="#ffcc99"><em style="FONT-STYLE: normal"><a href="http://www.msso.ru/"><font size="2" color="#FFCC99">поэзия</font></a></em></p><p><a href="http://www.stihi-rus.ru/"><font color="#FFCC99">стихи о любви</font></a></font></em><font face="Arial" color="#FFCC99"></p><p><a href="http://stihi.net.ru/" style="text-decoration: none"><font size="2" color="#FFCC99">Стихи. нет.ру - стихи о любви, поэзия, альманах</font></a><font size="2" color="#FFCC99"> и <a href="http://stihi.net.ru/name.htm" style="text-decoration: none">имена</a>.</font></p><font color="#FFCC99" face="Arial" size="2"><p align="left">&nbsp;</p><p align="left">&nbsp;</p><p align="left">&nbsp;</p><p align="left">Modest Mussorgsky</p><p align="right"><a href="/0.htm" style="text-decoration: none"><font color="#FFCC99">о</font></a></p>
+<br>
+<!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1033630"'+
+' target=_top><img src="http://d5.cc.bf.a0.top.list.ru/counter'+
+'?id=1033630;t=219;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=1033630"><img
+src="http://d5.cc.bf.a0.top.list.ru/counter?js=na;id=1033630;t=219"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER--></p>
+
+<!-- copyright (i2) --><div align="center"><a href="http://www.ucoz.ru/" title="Создать сайт бесплатно"><img style="margin:0;padding:0;border:0;" alt="Hosted by uCoz" src="http://s200.ucoz.net/img/cp/6.gif" width="80" height="15" title="Hosted by uCoz" /></a><br /></div><!-- /copyright -->
+</body></html>

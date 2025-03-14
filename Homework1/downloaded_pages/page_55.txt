@@ -1,0 +1,50 @@
+<html>
+<head>
+	<title>Палех - Palekh</title>
+<LINK REL="stylesheet" TYPE="text/css" HREF="def.css">
+</head>
+
+<body onLoad="openVote(1);" bgcolor="Black" leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 link="#FFF6CA" vlink="#FFF6CA" alink="#FFF6CA">
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://srv.museum.ru/vote.asp?id=W847&t=7"></SCRIPT>
+
+<center>
+
+<br><br><br>
+	
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td valign="top"><a href="defrus.htm" class="tit"><img src="img/tit.gif" width=335 height=47 border=0 alt=""><br><img src="img/tit_line.gif" width=558 height=2 border=0 alt=""><br>РУССКАЯ ВЕРСИЯ</font></td>
+</tr><tr>
+	<td align="center"><br><br><img src="img/pic_tit.gif" width=419 height=205 border=0 alt=""><br><br>&nbsp;</td>
+</tr><tr>
+	<td align="right"><a href="defrus.htm" class="tit">ENGLISH VERSION</font><br><img src="img/tit_line.gif" width=558 height=2 border=0 alt=""><br><img src="img/tit_e.gif" width=345 height=48 border=0 alt=""></a></td>
+</tr><tr>
+	<td align="left"><script language="javascript">document.write(MRVote);</script> &nbsp; &nbsp; &nbsp; &nbsp;
+	 <A HREF="http://www.museum.ru/" target="_parent"><IMG SRC="http://srv.museum.ru/img/IMR3.gif" width=88 height=31 BORDER=0 ALT="Музеи России - Museums of Russia - WWW.MUSEUM.RU"></A></td>
+</tr>
+</table>
+
+<br><br>
+
+<table><td align="right" valign="top">
+<font size="1" face="Arial" color="#FFF6CA"><i>Создание сайта «ПАЛЕХ»<br>
+финансируется Институтом Открытое Общество,<br>
+Фондом Содействия,<br>
+Российской Сетью Культурного Наследия</i>
+</font>
+</td><td width=15></td><td valign="top">
+<font size="1" face="Arial" color="#FFF6CA"><i>The creation of site "PALEKH"<br>
+is financed by Open Society Institute,<br>
+Assistance Foundation,<br>
+Russian Culture Heritage Network</i>
+</font>
+</td></table>
+
+<br><br><br>
+
+<font size="1" face="Arial" color="#FFF6CA"><a href="http://www.museum.ru/internet/" class="copyr">дизайн и программирование ЗАО "Internet"</a></font>
+
+<center>
+
+</body>
+</html>

@@ -1,0 +1,725 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Archi.ru – Архитектура России и мира</title>
+<meta name="description" content="Архи.ру – российский интернет-портал в сфере архитектуры. Существует с 1999 года." />
+<meta property="fb:app_id" content="381350765277031" />
+<meta property="og:title" content="Архитектура России" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://archi.ru/" />
+<meta property="og:site_name" content="Архи Ру" />
+<meta property="og:description" content="Архи.ру – российский интернет-портал в сфере архитектуры. Существует с 1999 года." />
+<meta property="og:image" content="https://archi.ru/img/logo_og.png" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="310" />
+<meta name="cmsmagazine" content="11c9463b9bd5970e1f7da9649e12a0c1" />
+<meta name="yandex-verification" content="96301aa9aa45713c" />
+
+<link rel="shortcut icon" href="https://archi.ru/img/favicon.ico" type="image/x-icon">
+<link href="https://archi.ru/files/index_page/css/style.css?r=1185557773" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]><link href="css/ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if lte IE 8]>
+<script type="text/javascript" src="js/PIE.js"></script>
+<script type="text/javascript" src="js/html5support.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://archi.ru/files/index_page/js/jquery.js"></script>
+<script type="text/javascript" async src="https://archi.ru/files/misc/css_js/index_elements/jquery.slides.min.js"></script>
+<script type="text/javascript" async src="https://archi.ru/files/index_page/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" async src="https://archi.ru/files/index_page/js/jquery.main.js"></script>
+<script language="JavaScript" src="https://archi.ru/files/misc/css_js/index_elements/adriver.core.2.js"></script>
+<meta name="google-site-verification" content="rdhMj4_lgJ8X7-CJWmi4Arx2Q4cgiv1TVuOlkS1XkQU" />
+<!-- hypercomments-JxAfwdev26uzpn23 -->
+</head>
+<body>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HS0JDXEVMM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HS0JDXEVMM');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(95849989, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/95849989" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<div id="pagemain_z0_s10" style="width:100%; margin-left:auto; margin-right:auto; text-align:center; margin-bottom:10px;" adr="pagemain_z0_s10"></div>
+<script type="text/javascript">new adriver("pagemain_z0_s10", {sid: 172493, bt:52, sz:'main_page', bn:10, pz:1});</script>
+<div class="wrapper">
+  <div class="container">
+    <header class="header">
+      <div class="logo"><a href="https://archi.ru"><img src="https://archi.ru/files/index_page/img/logo.png" width="145" height="34" alt="www.archi.ru"></a></div>
+	  	  <ul class="menu">
+        <li class="hold"><a class="link" href="https://archi.ru/russia"><span >Россия</span></a>
+        </li>
+
+
+        <li class="hold"><a class="link" href="https://archi.ru/world"><span >Мир</span></a>
+        </li>
+
+
+
+        <li class="hold"><a class="link" href="https://archi.ru/tech"><span >Технологии</span></a>
+          <!-- end .sub--> 
+        </li>
+        <li class="hold"><a class="link" href="https://archi.ru/press"><span>Пресса</span></a>
+          <!-- end .sub--> 
+        </li>
+        <li class="hold"><a class="link" href="https://archi.ru/architects"><span>Архитекторы</span></a>
+        </li>
+        <li class="hold"><a class="link" href="https://archi.ru/projects"><span>Проекты</span></a>
+        </li>
+        <li class="hold"><a class="link" href="https://archi.ru/contests"><span >Конкурсы</span></a>
+		</li>
+        <li class="hold"><a class="link" href="https://archi.ru/events"><span >События</span></a>
+        </li>
+		<li class="hold"><a class="link" href="https://archi.ru/lib/index_html?fl=5&sl=5"><span>книги</span></a>
+		<li class="hold"><a class="link" href="https://archi.ru/vacancy/list.html"><span>вакансии</span></a>
+		</li>
+      </ul>
+      <!-- end .menu-->	  <form class="search" action="https://archi.ru/events/search/search.html" method="get">
+ <fieldset>
+  <input type="text" name="q">
+  <input value="" type="submit">
+ </fieldset>
+</form>      <div class="line"></div>
+    </header>
+    <!-- end .header-->
+    <div class="header-place"></div>
+    <div class="header-bg"></div>
+    <nav class="top-links">
+
+    </nav>
+    <!-- end .top-links-->
+    <div class="content move-aside">
+      <section class="mainContent">
+        <div class="hline-t"></div>
+        <nav class="sort-hold">
+          <ul class="sort">
+          </ul>
+          <!-- end .sort-->
+          <ul class="sort">
+                      </ul>
+          <!-- end .sort-->
+          <ul class="sections-nav">
+		  <li><a href="?article_type=16">in memoriam</a></li><li><a href="?article_type=18">send.project</a></li><li><a href="?article_type=15">Анонсы конкурсов</a></li><li><a href="?article_type=13">Блог</a></li><li><a href="?article_type=17">Журнал</a></li><li><a href="?article_type=1">Интервью</a></li><li><a href="?article_type=7">Исследование</a></li><li><a href="?article_type=5">Мнение</a></li><li><a href="?article_type=3">Обзор</a></li><li><a href="?article_type=12">Объект</a></li><li><a href="?article_type=33">Петиция</a></li><li><a href="?article_type=14">Результаты конкурса</a></li><li><a href="?article_type=2">Репортаж</a></li><li><a href="?article_type=4">Рецензия</a></li>&nbsp;&nbsp;&nbsp;<li><a href="?article_topic=12">Архитектура</a></li><li><a href="?article_topic=23">Выставка</a></li><li><a href="?article_topic=6">Дизайн</a></li><li><a href="?article_topic=8">Иностранцы в России</a></li><li><a href="?article_topic=21">Интерьер</a></li><li><a href="?article_topic=15">Книги</a></li><li><a href="?article_topic=1">Наследие</a></li><li><a href="?article_topic=16">Образование</a></li><li><a href="?article_topic=4">Урбанистика / Градостроительство</a></li><li><a href="?article_topic=17">Эко</a></li>&nbsp;&nbsp;&nbsp;          </ul>
+          
+        </nav>
+        <!-- end .sort-hold-->
+
+
+
+<div class="thirds articles-hold2 semiheight02"><section class="third height-box"><div class="dashed-block"><div class="dashed-in"><article class="article1">
+									<div class="photo rounded" style="background-image:url(https://i.archi.ru/news/large2300/650/462304.jpg); background-size: cover;"><a href="https://moskvichmag.ru/lyudi/ochevidno-chto-ya-neudobna-so-mnoj-tyazhelo-rabotat-iskusstvoved-elizaveta-lihacheva?fbclid=IwY2xjawI9bcBleHRuA2FlbQIxMQABHdZ0WZOcI5zIGlS8DSKV7ngZXaGfcGFRyLwbu1IO2azhA37W67zfRcv_yw_aem_M2SyMvMmdDwnPGNOLUNOzA" rel="nofollow" target="_blank"></a></div><header><span class="blue2">Пресса:</span> <a href="https://moskvichmag.ru/lyudi/ochevidno-chto-ya-neudobna-so-mnoj-tyazhelo-rabotat-iskusstvoved-elizaveta-lihacheva?fbclid=IwY2xjawI9bcBleHRuA2FlbQIxMQABHdZ0WZOcI5zIGlS8DSKV7ngZXaGfcGFRyLwbu1IO2azhA37W67zfRcv_yw_aem_M2SyMvMmdDwnPGNOLUNOzA" rel="nofollow" target="_blank">«Очевидно, что я неудобна. Со мной тяжело работать» — искусствовед Елизавета Лихачева <img src="/img/icon_external_link.png" style="margin-top:7px"></a></header>
+									<div class="text1">На вопрос «Как вас сейчас представить?» Елизавета Лихачева ответила кратко: «Искусствовед». Позади шесть лет директором Музея архитектуры, музеефикация дома Мельникова, год и девять месяцев у руля Музея изобразительных искусств имени Пушкина. Работы достаточно и сегодня. Мы с трудом нашли время для разговора в ее плотном деловом графике.</div>
+									<div class="sep"></div>
+									<div class="info"><a class="blue" href="https://archi.ru/press/issue_present.html?id=2493">Москвич Mag</a></div>
+									<ul class="info-list"><li>сегодня / 10 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19158>Ксения Басилашвили</a></li></ul>
+									</article></div></div></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100735/na-puti-k-osoznannosti"><img src="https://i.archi.ru/news/main_images/280x280/462196.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100735/na-puti-k-osoznannosti">На пути к осознанности</a></header>Бюро BIG представило проект Международного аэропорта Гелепху – ключевую часть своего мастерплана «Город осознанности» для Бутана.<div class="sep"></div>
+<div class="info info_2">BIG</div>
+						<ul class="info-list"><li>вчера</li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section><section class="third height-box"><div class="block1" style="overflow:hidden; cursor: s-resize;"><div class="widgetSN" style="overflow:auto; width:274px; height:465px; margin-top:-25px;"><header class="title1 blue" style="margin:25px 0 10px -35px;">новости <img src="https://archi.ru/files/index_page/img/scroll.gif" style="display:block; margin:-25px 0 0 250px;"></header><section class="articles1"><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">5 марта </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100722/dnei-do-zaversheniya-zayavochnoi-kampanii-smotra-konkursa-na-premiyu-zolotoe-sechenie"><img src="https://i.archi.ru/i/150_150/461870.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100722/dnei-do-zaversheniya-zayavochnoi-kampanii-smotra-konkursa-na-premiyu-zolotoe-sechenie">10 дней до завершения заявочной кампании смотра-конкурса на премию «Золотое сечение»</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">3 марта </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100712/obyyavleno-golosovanie-po-koncepciyam-bolshogo-moskovskogo-cirka-stroit-ego-teper-planiruyut-v-mnevnikovskoi-poime"><img src="https://i.archi.ru/i/150_150/461668.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100712/obyyavleno-golosovanie-po-koncepciyam-bolshogo-moskovskogo-cirka-stroit-ego-teper-planiruyut-v-mnevnikovskoi-poime">Объявлено голосование по концепциям Большого московского цирка. Строить его теперь планируют в Мневниковской пойме</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">1 марта </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100709/otkryt-priem-zayavok-na-uchastie-v-konkursnoi-programme-molodezhnogo-arkhitekturnogo-praktikuma-arhneva-v-sankt-peterburge"><img src="https://i.archi.ru/i/150_150/461662.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100709/otkryt-priem-zayavok-na-uchastie-v-konkursnoi-programme-molodezhnogo-arkhitekturnogo-praktikuma-arhneva-v-sankt-peterburge">Открыт прием заявок на участие в конкурсной программе Молодежного Архитектурного Практикума АРХНЕВА в Санкт-Петербурге</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">27 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100701/institut-genplana-moskvy-nachinaet-priem-zayavok-na-studencheskuyu-praktiku"><img src="https://i.archi.ru/i/150_150/461475.png" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100701/institut-genplana-moskvy-nachinaet-priem-zayavok-na-studencheskuyu-praktiku">Институт Генплана Москвы начинает прием заявок на студенческую практику – 2025</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">26 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100698/arh-moskva-prodlila-srok-podachi-zayavok-na-uchastie-v-knizhnoi-premii"><img src="https://i.archi.ru/i/150_150/458186.png" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100698/arh-moskva-prodlila-srok-podachi-zayavok-na-uchastie-v-knizhnoi-premii">АРХ Москва продлила срок подачи заявок на участие в Книжной премии</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">25 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100696/raasn-opublikoval-protokol-zasedaniya-akademicheskogo-soveta-posvyaschennogo"><img src="https://i.archi.ru/i/150_150/461185.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100696/raasn-opublikoval-protokol-zasedaniya-akademicheskogo-soveta-posvyaschennogo">РААСН опубликовал протокол заседания Академического совета, посвященного сохранению модернизма и конструктивизма</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">21 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100692/v-nikola-lenivce-na-maslenicu-sozhgut-pochti--melnic"><img src="https://i.archi.ru/i/150_150/460924.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100692/v-nikola-lenivce-na-maslenicu-sozhgut-pochti--melnic">В Никола-Ленивце на Масленицу сожгут почти 30 мельниц</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">20 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100688/otkryt-priem-zayavok-na-mosbuild-architecture--design-award"><img src="https://i.archi.ru/i/150_150/460651.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100688/otkryt-priem-zayavok-na-mosbuild-architecture--design-award">Открыт прием заявок на MosBuild Architecture & Design Award 2025</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">18 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100680/v-dome-radio-nachali-vosstanavlivat-istoricheskuyu-krovlyu"><img src="https://i.archi.ru/i/150_150/460441.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100680/v-dome-radio-nachali-vosstanavlivat-istoricheskuyu-krovlyu">В Доме Радио начали восстанавливать историческую кровлю</a></div><div style="clear:both"></div></header></article><article class="article_ns" style="margin-right:23px"><br><span style="margin-left:48px">17 февраля </span><header style="margin-top:3px;"><div style="float:left"><a href="https://archi.ru/news/100677/opredeleny-finalisty-specproekta-arkh-moskvy-next"><img src="https://i.archi.ru/i/150_150/460400.jpg" width="40" height="40" class="image rounded"></a></div><div style="float:right; width:180px"><a href="https://archi.ru/news/100677/opredeleny-finalisty-specproekta-arkh-moskvy-next">Определены финалисты спецпроекта Арх Москвы NEXT</a></div><div style="clear:both"></div></header></article></section><div class="sep"></div><nav class="all" id="widgetPressBot" style="padding-top:35px;"><a href="https://archi.ru/news">Все новости</a></nav></div></div></section></div><article class="article-big"><a href="https://archi.ru/russia/100726/zhenskaya-dolya-chto-govoryat-arkhitektory"><img src="https://i.archi.ru/news/main_images/920x613/462137.jpg" alt=" "></a>
+								<section class="text-type2"><a class="section-link" href="?article_type=1">Интервью</a>
+								<div class="bg"><header><a href="https://archi.ru/russia/100726/zhenskaya-dolya-chto-govoryat-arkhitektory">Женская доля: что говорят архитекторы</a></header>Задали несколько вопросов женщинам-архитекторам. У нас – 27 ответов. О том, мешает ли гендер работе или, наоборот, помогает; о том, как побеждать, не сражаясь. Сила – у кого в упорстве, у кого в многозадачности, у кого в сдержанности... А в рядах идеалов бесспорно лидирует Заха Хадид. Хотя кто-то назвал и соотечественниц. 
+								
+<div class="info-list bg-author">APRELarchitects, ATRIUM, GAFA Architects, KLAUZURA, MAD architects, Megabudka, NZ-group, Osetskaya.Salov (ранее Archslon), PSCulture, VOX architects, YoYo bureau, АБ Рождественка, Алексей Бавыкин и партнёры, Архитектурная группа DNK ag, Архитектурная мастерская Кашириных, Архитектурное бюро FANTALIS, Архитектурное Бюро GREN., Архитектурное бюро UTRO, АТОМ <sup>га</sup>, Бюро Чехарда, НИиПИ Спецреставрация, Проектное бюро «ДА»</div>
+								<ul class="info-list"><li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19793>Алёна Кузнецова</a> <a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a> <a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15387>Елена Петухова</a></span></li><li>8 марта </li>
+								</ul></div></section></article><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100714/klassika-dlya-statusa"><img src="https://i.archi.ru/news/main_images/280x280/461381.jpg" class="img31 w_280px"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100714/klassika-dlya-statusa">Классика для статуса</a></header>По проекту архитектурной студии AN Architects отель в Великом Новгороде поднял свой статус с трех звезд до уверенных пяти. В интерьерах много мрамора и натурального дерева, номера оформлены в английском стиле, в ресторане же используются русские мотивы: резные наличники, традиционный орнамент, кольчуга.<div class="sep"></div>
+<div class="info info_2">АН АРХИТЕКТС</div>
+						<ul class="info-list"><li>вчера</li><li></li></ul></article></section><section class="third2 height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100729/studencheskii-lug"><img src="https://i.archi.ru/news/main_images/580x280/461930.jpg" class="w_580px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100729/studencheskii-lug">Акценты для луга</a></header>Мы раньше и города такого не знали, Княгинино. А там каждый пятый житель студент, прямо мечта Азимова. Реализованный по проекту ГОРА «Студенческий луг» расположен далековато от университета, зато близко к центру. Главный акцент – покрытая гонтом вышка-«обсерватория». Существенно еще то, что, согласно плану, каждый павильон закреплен за одним из факультетов Нижегородского государственного инженерно-экономического университета.<div class="sep"></div>
+<div class="info info_2">Архитектурное бюро С. Горшунова ГОРА</div>
+						<ul class="info-list"><li>7 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></li></ul></article></section></div><div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/100725/aristokratizm-privatnost-premialnost-raznoobrazie"><img src="https://i.archi.ru/news/main_images/580x580/456637.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=41">Архитектура в девелопменте</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/100725/aristokratizm-privatnost-premialnost-raznoobrazie">«Аристократизм, приватность, de luxe… разнообразие»</a></header>У Мытного двора в Петербурге не так давно, примерно полгода назад, сменился владелец, класс жилья, проект и архитектор. О проекте мы уже рассказывали по итогам рассмотрения на Градостроительном совете Петербурга. А сегодня беседуем с представителями девелопера о ЖК «Евгеньевский», теперь – de luxe, авторства Евгения Герасимова. Он построен на теме аристократизма и отсылках к разным видам исторической архитектуры, по части которых бюро «Евгений Герасимов и партнеры» – большие мастера.   
+						  <div class="sep"></div>
+						  
+<div class="info">Евгений Герасимов и партнеры</div>
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=21277>Дарья Горелова</a></span></li>
+							<li>7 марта </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/world/100731/poleznye-svyazi"><img src="https://i.archi.ru/news/main_images/280x280/461899.jpg" class="img1 w_280px" id="461899.jpg"></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div>
+								  <header><a href="https://archi.ru/world/100731/poleznye-svyazi">Полезные связи</a></header>Zaha Hadid Architects представили проект мастерплана Наполи-Порта-Эст, который призван оживить заброшенные промышленные кварталы Неаполя и соединить их с центральной частью города.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>7 марта </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=17699>Анна Старостина</a></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/world/100728/arkhitektura-v-relefe"><img src="https://i.archi.ru/news/main_images/280x280/461960.jpg" class="img1 w_280px" id="461960.jpg"></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div>
+								  <header><a href="https://archi.ru/world/100728/arkhitektura-v-relefe">Архитектура в рельефе</a></header>Трансформация исторического здания педагогического института в отель и офисы по проекту CBA architectes дала городу Руан новую смотровую площадку.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>6 марта </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></span></li>
+								  </ul>              
+								</article></section></div><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><div class="dashed-block"><div class="dashed-in"><article class="article1">
+									<div class="photo rounded" style="background-image:url(https://i.archi.ru/news/large2300/650/1710.jpg); background-size: cover;"><a href="https://www.theartnewspaper.ru/posts/20250304-wjfl/" rel="nofollow" target="_blank"></a></div><header><span class="blue2">Пресса:</span> <a href="https://www.theartnewspaper.ru/posts/20250304-wjfl/" rel="nofollow" target="_blank">Советский модернизм, который мы теряем <img src="/img/icon_external_link.png" style="margin-top:7px"></a></header>
+									<div class="text1">Общественная дискуссия вокруг судьбы Большого Московского цирка и сноса комплекса зданий бывшего СЭВа вновь привлекла внимание к проблеме сохранения архитектуры послевоенного модернизма</div>
+									<div class="sep"></div>
+									<div class="info"><a class="blue" href="https://archi.ru/press/issue_present.html?id=1235">The Art Newspaper Россия</a></div>
+									<ul class="info-list"><li>6 марта  / 4 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=14716>Александр Змеул</a></li></ul>
+									</article></div></div></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100724/let-ozhidaniya"><img src="https://i.archi.ru/news/main_images/280x280/461829.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100724/let-ozhidaniya">18 лет ожидания</a></header>Стартовала реализация проекта Zaha Hadid Architects, начатого еще в 2007-м: это Центр средиземноморской культуры для южноитальянского города Реджо-ди-Калабрия.<div class="sep"></div>
+<div class="info info_2">Zaha Hadid Architects</div>
+						<ul class="info-list"><li>5 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section><section class="third height-box"><div class="block1"><header class="title1"><a class="blue" id="wPressNews" onclick="getOutData(1);">пресса</a></header><section class="articles1" id="wPress"><article><header><a href="https://my.mail.ru/community/blog_ant0052/0873F0722ACE2D0C.html" rel="nofollow">Кукольная история Волгограда</a></header>Александр  Антоненко <img src="https://archi.ru/img/icon_external_link.png" style="margin:1px 0 0 2px"></article><article><header><a href="https://www.gipernn.ru/zhurnal/razvitie-regiona/stati/krt-glazami-studentov-kakoy-vidyat-ploshhad-sennuyu-budushhie-arhitektory" rel="nofollow">КРТ глазами студентов: какой видят площадь Сенную будущие архитекторы?</a></header>Gipernn.ru, Мария Носырева <img src="https://archi.ru/img/icon_external_link.png" style="margin:1px 0 0 2px"></article><article><header><a href="https://vsluh.ru/novosti/nedvizhimost/u-tyumenskogo-kampusa-poyavitsya-svoya-gavan-i-mayak-_411857/" rel="nofollow">У тюменского кампуса появится своя гавань и маяк</a></header>Вслух.ru <img src="https://archi.ru/img/icon_external_link.png" style="margin:1px 0 0 2px"></article><article><header><a href="https://www.forbes.ru/forbeslife/518482-sohranit-nasledie-kak-volontery-vosstanavlivaut-pamatniki-stariny-v-gorodah-rossii" rel="nofollow">Сохранить наследие: как волонтеры восстанавливают памятники старины в городах России</a></header>Forbes Life, Дмитрий Курбатский <img src="https://archi.ru/img/icon_external_link.png" style="margin:1px 0 0 2px"></article></section><div class="sep"></div><nav class="all" id="widgetPressBot"><a href="https://archi.ru/press">Посмотреть всю прессу </a></nav></div></section></div><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100713/zdorovyi-dukh"><img src="https://i.archi.ru/news/main_images/280x280/461132.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100713/zdorovyi-dukh">Здоровый дух</a></header>Для спортивной базы в Зеленогорске бюро «Луч» предложило корпуса, которые свободно размещаются в сосновом лесу, гармонируя с ним скатными кровлями, природными материалами и цветовой гаммой. Также проект предусматривает приспособление бывшего финского усадебного дома, сохранившегося на участке. <div class="sep"></div>
+<div class="info info_2">Проектное бюро ЛУЧ</div>
+						<ul class="info-list"><li>5 марта </li><li></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100716/arkhigibkost-derevyannoi-arkhitektury"><img src="https://i.archi.ru/news/main_images/280x280/461779.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=14">Результаты конкурса<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100716/arkhigibkost-derevyannoi-arkhitektury">Архигибкость деревянной архитектуры</a></header>Конкурс для начинающих архитекторов и студентов архиГИБКОСТЬ был организован фестивалем «Древолюция». Задачей было – придумать малогабаритные быстровозмодимые дома оригинальной формы, доступные для последующего воспроизводства в туристической отрасли. Показываем шесть проектов-победителей. <div class="sep"></div>
+						<ul class="info-list"><li>5 марта </li><li></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100721/strategiya-vmesto-stilya"><img src="https://i.archi.ru/news/main_images/280x280/461862.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=25">Премия<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100721/strategiya-vmesto-stilya">Стратегия вместо стиля</a></header>Очередным лауреатом Притцкеровской премии стал китайский архитектор Лю Цзякунь.<div class="sep"></div>
+						<ul class="info-list"><li>4 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section></div>      </section>
+      <!-- end .mainContent-->
+            <aside class="aside">
+
+				<div class="contacts_sl">
+			<a href="//archi.ru/contacts">КОНТАКТЫ РЕДАКЦИИ</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="//archi.ru/en">ENGLISH VERSION</a>
+			<ul class="socials">
+				<li><a class="tel" href="https://t.me/archi_ru" title="Telegram">Telegram</a></li>
+ 	            				<li><a class="tw" href="https://twitter.com/archiru_portal" title="Twitter">Twitter</a></li>
+                				<li><a class="vk" href="https://vk.com/archiru" title="Вконтакте">Вконтакте</a></li>
+				<li><a class="rss" href="https://archi.ru/rss.xml" title="RSS">RSS</a></li>
+				<li><a class="ma" href="https://archi.ru/user/user_new.html" title="Рассылка новостей">Mail</a></li>
+			</ul>
+			<!-- end .socials-->
+		</div>
+		<div class="border_line">&nbsp;</div><div id="adriver_banner1" class="place" adr="pagemain_z1_s1"></div>
+<script type="text/javascript">new adriver("adriver_banner1", {sid:172493, bt:52, sz:'main_page', bn:1, pz:2});</script>
+<div id="adriver_banner2" class="place" adr="pagemain_z1_s2"></div>
+<script type="text/javascript">new adriver("adriver_banner2", {sid:172493, bt:52, sz:'main_page', bn:2, pz:2});</script>
+<div id="adriver_banner5" class="place" adr="pagemain_z1_s5"></div>
+<script type="text/javascript">new adriver("adriver_banner5", {sid:172493, bt:52, sz:'main_page', bn:5, pz:2});</script>
+<div id="adriver_banner12" class="place" adr="pagemain_z1_s12"></div>
+<script type="text/javascript">new adriver("adriver_banner12", {sid:172493, bt:52, sz:'main_page', bn:12, pz:2});</script>
+<div id="adriver_banner3" class="place" adr="pagemain_z1_s3"></div>
+<script type="text/javascript">new adriver("adriver_banner3", {sid:172493, bt:52, sz:'main_page', bn:3, pz:2});</script>
+<div id="adriver_banner6" class="place" adr="pagemain_z1_s6"></div>
+<script type="text/javascript">new adriver("adriver_banner6", {sid:172493, bt:52, sz:'main_page', bn:6, pz:2});</script>
+<div id="adriver_banner4" class="place" adr="pagemain_z1_s4"></div>
+<script type="text/javascript">new adriver("adriver_banner4", {sid:172493, bt:52, sz:'main_page', bn:4, pz:2});</script>
+<div id="adriver_banner10" class="place" adr="pagemain_z1_s10"></div>
+<script type="text/javascript">new adriver("adriver_banner10", {sid:172493, bt:52, sz:'main_page', bn:10, pz:2});</script>
+<div id="adriver_banner13" class="place" adr="pagemain_z1_s13"></div>
+<script type="text/javascript">new adriver("adriver_banner13", {sid:172493, bt:52, sz:'main_page', bn:13, pz:2});</script>
+<div id="adriver_banner8" class="place" adr="pagemain_z1_s8"></div>
+<script type="text/javascript">new adriver("adriver_banner8", {sid:172493, bt:52, sz:'main_page', bn:8, pz:2});</script>
+<div id="adriver_banner11" class="place" adr="pagemain_z1_s11"></div>
+<script type="text/javascript">new adriver("adriver_banner11", {sid:172493, bt:52, sz:'main_page', bn:11, pz:2});</script>
+<div id="adriver_banner7" class="place" adr="pagemain_z1_s7"></div>
+<script type="text/javascript">new adriver("adriver_banner7", {sid:172493, bt:52, sz:'main_page', bn:7, pz:2});</script>
+<div id="adriver_banner9" class="place" adr="pagemain_z1_s9"></div>
+<script type="text/javascript">new adriver("adriver_banner9", {sid:172493, bt:52, sz:'main_page', bn:9, pz:2});</script>
+<section class="partners">
+	<header>Архитекторы — партнеры Архи.ру</header>
+	<!-- end header-->
+<ul>
+	<li><a href="https://archi.ru/architects/russia/11362/anastasiya-abasheva" rel="nofollow">Анастасия Абашева</a></li>
+	<li><a href="https://archi.ru/architects/russia/10233/pavel-andreev" rel="nofollow">Павел Андреев</a></li>
+	<li><a href="https://archi.ru/architects/russia/10328/andrei-asadov" rel="nofollow">Андрей Асадов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10172/aleksandr-asadov" rel="nofollow">Александр Асадов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11187/rais-baishev" rel="nofollow">Раис Баишев</a></li>
+	<li><a href="https://archi.ru/architects/russia/11219/zurab-basariya" rel="nofollow">Зураб Басария</a></li>
+	<li><a href="https://archi.ru/architects/russia/24098/erlan-bekmukhamedov" rel="nofollow">Ерлан Бекмухамедов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11373/stanislav-belykh" rel="nofollow">Станислав Белых</a></li>
+	<li><a href="https://archi.ru/architects/russia/10626/yulii-borisov" rel="nofollow">Юлий Борисов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10282/vera-butko" rel="nofollow">Вера Бутко</a></li>
+	<li><a href="https://archi.ru/architects/russia/10490/dmitrii-bush" rel="nofollow">Дмитрий Буш</a></li>
+	<li><a href="https://archi.ru/architects/russia/10288/yurii-vissarionov" rel="nofollow">Юрий Виссарионов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11015/polina-voevodina" rel="nofollow">Полина Воеводина</a></li>
+	<li><a href="https://archi.ru/architects/russia/23238/grigorios-gavalidis" rel="nofollow">Григориос Гавалидис</a></li>
+	<li><a href="https://archi.ru/architects/russia/10584/aleksei-ginzburg" rel="nofollow">Алексей Гинзбург</a></li>
+	<li><a href="https://archi.ru/architects/russia/10323/andrei-gnezdilov" rel="nofollow">Андрей Гнездилов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24717/roman-gribanov" rel="nofollow">Роман Грибанов</a></li>
+	<li><a href="https://archi.ru/architects/russia/23694/tatyana-guk" rel="nofollow">Татьяна Гук</a></li>
+	<li><a href="https://archi.ru/architects/russia/24230/mikhail-davydov" rel="nofollow">Михаил Давыдов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24695/marina-egorova" rel="nofollow">Марина Егорова</a></li>
+	<li><a href="https://archi.ru/architects/russia/24532/evgenii-zelenov" rel="nofollow">Евгений Зеленов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11375/tatyana-zulkharneeva" rel="nofollow">Татьяна Зульхарнеева</a></li>
+	<li><a href="https://archi.ru/architects/russia/24200/anna-ivanova" rel="nofollow">Анна Иванова</a></li>
+	<li><a href="https://archi.ru/architects/russia/11218/mikhail-kanunnikov" rel="nofollow">Михаил Канунников</a></li>
+	<li><a href="https://archi.ru/architects/russia/24658/nikolai-kikava" rel="nofollow">Николай Кикава</a></li>
+	<li><a href="https://archi.ru/architects/russia/11403/ivan-kozhin" rel="nofollow">Иван Кожин</a></li>
+	<li><a href="https://archi.ru/architects/russia/23646/aleksandr-kotenkov" rel="nofollow">Александр Котенков</a></li>
+	<li><a href="https://archi.ru/architects/russia/11360/vasilii-krapivin" rel="nofollow">Василий Крапивин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10333/sergei-kuznecov" rel="nofollow">Сергей Кузнецов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10289/ekaterina-kuznecova" rel="nofollow">Екатерина Кузнецова</a></li>
+	<li><a href="https://archi.ru/architects/russia/11250/aleksandra-kuzmina" rel="nofollow">Александра Кузьмина</a></li>
+	<li><a href="https://archi.ru/architects/russia/10293/roman-leonidov" rel="nofollow">Роман Леонидов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10949/stepan-lipgart" rel="nofollow">Степан Липгарт</a></li>
+	<li><a href="https://archi.ru/architects/russia/10510/daniil-lorenc" rel="nofollow">Даниил Лоренц</a></li>
+	<li><a href="https://archi.ru/architects/russia/11069/valerii-lukomskii" rel="nofollow">Валерий Лукомский</a></li>
+</ul>
+<ul>
+	<li><a href="https://archi.ru/architects/russia/11316/anton-lukomskii" rel="nofollow">Антон Лукомский</a></li>
+	<li><a href="https://archi.ru/architects/russia/23640/vitalii-lutc" rel="nofollow">Виталий Лутц</a></li>
+	<li><a href="https://archi.ru/architects/russia/10212/ilya-mashkov" rel="nofollow">Илья Машков</a></li>
+	<li><a href="https://archi.ru/architects/russia/11216/vsevolod-medvedev" rel="nofollow">Всеволод Медведев</a></li>
+	<li><a href="https://archi.ru/architects/russia/11217/oleg-medinskii" rel="nofollow">Олег Мединский</a></li>
+	<li><a href="https://archi.ru/architects/russia/23405/andrei-mikhailov" rel="nofollow">Андрей Михайлов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24510/grigorii-mustafin" rel="nofollow">Григорий Мустафин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10283/anton-nadtochii" rel="nofollow">Антон Надточий</a></li>
+	<li><a href="https://archi.ru/architects/russia/11291/sergei-nikeshkin" rel="nofollow">Сергей Никешкин</a></li>
+	<li><a href="https://archi.ru/architects/russia/24097/aleksei-orlov" rel="nofollow">Алексей Орлов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11314/sergei-pereslegin" rel="nofollow">Сергей Переслегин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10945/nikolai-pereslegin" rel="nofollow">Николай Переслегин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10165/vladimir-plotkin" rel="nofollow">Владимир Плоткин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10352/evgenii-podgornov" rel="nofollow">Евгений Подгорнов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24592/aleksei-polischuk" rel="nofollow">Алексей Полищук</a></li>
+	<li><a href="https://archi.ru/architects/russia/10291/andrei-romanov" rel="nofollow">Андрей Романов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11376/aleksandr-samarin" rel="nofollow">Александр Самарин</a></li>
+	<li><a href="https://archi.ru/architects/russia/10511/natalya-sidorova" rel="nofollow">Наталья Сидорова</a></li>
+	<li><a href="https://archi.ru/architects/russia/10148/aleksandr-skokan" rel="nofollow">Александр Скокан</a></li>
+	<li><a href="https://archi.ru/architects/russia/10190/sergei-skuratov" rel="nofollow">Сергей Скуратов</a></li>
+	<li><a href="https://archi.ru/architects/russia/23983/endi-snou" rel="nofollow">Энди Сноу</a></li>
+	<li><a href="https://archi.ru/architects/russia/23821/yuliya-soldatenkova" rel="nofollow">Юлия Солдатенкова</a></li>
+	<li><a href="https://archi.ru/architects/russia/10507/dmitrii-sukhov" rel="nofollow">Дмитрий Сухов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24384/konstantin-taranov" rel="nofollow">Константин Таранов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11315/georgii-trofimov" rel="nofollow">Георгий Трофимов</a></li>
+	<li><a href="https://archi.ru/architects/russia/11014/sergei-trukhanov" rel="nofollow">Сергей Труханов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10628/yuliya-tryaskina" rel="nofollow">Юлия Тряскина</a></li>
+	<li><a href="https://archi.ru/architects/russia/10509/konstantin-hodnev" rel="nofollow">Константин Ходнев</a></li>
+	<li><a href="https://archi.ru/architects/russia/11377/rostislav-caizer" rel="nofollow">Ростислав Цайзер</a></li>
+	<li><a href="https://archi.ru/architects/russia/23683/igor-chlenov" rel="nofollow">Игорь Членов</a></li>
+	<li><a href="https://archi.ru/architects/russia/10332/sergei-choban" rel="nofollow">Сергей Чобан</a></li>
+	<li><a href="https://archi.ru/architects/russia/23530/andrei-chuikov" rel="nofollow">Андрей Чуйков</a></li>
+	<li><a href="https://archi.ru/architects/russia/11076/igor-shvarcman" rel="nofollow">Игорь Шварцман</a></li>
+	<li><a href="https://archi.ru/architects/russia/11273/nataliya-shilova" rel="nofollow">Наталия Шилова</a></li>
+	<li><a href="https://archi.ru/architects/russia/10358/nikita-yavein" rel="nofollow">Никита Явейн</a></li>
+	<li><a href="https://archi.ru/architects/russia/11404/anton-yar-skryabin" rel="nofollow">Антон Яр-Скрябин</a></li>
+</ul>
+
+<ul style="margin-top:20px">
+	<li><a href="https://archi.ru/architects/russia/10506/levon-airapetov" rel="nofollow">Левон Айрапетов</a></li>
+	<li><a href="https://archi.ru/architects/russia/24638/vladislav-andreev" rel="nofollow">Владислав Андреев</a></li>
+	<li><a href="https://archi.ru/architects/russia/11195/aleksandr-brovkin" rel="nofollow">Александр Бровкин</a></li>
+</ul>
+<ul style="margin-top:20px">
+	<li><a href="https://archi.ru/architects/russia/11067/oleg-karlson" rel="nofollow">Олег Карлсон</a></li>
+	<li><a href="https://archi.ru/architects/russia/11319/nikolai-makarov" rel="nofollow">Николай Макаров</a></li>
+	<li><a href="https://archi.ru/architects/russia/10960/valeriya-preobrazhenskaya" rel="nofollow">Валерия Преображенская</a></li>
+	<li><a href="https://archi.ru/architects/russia/10205/ilya-utkin" rel="nofollow">Илья Уткин</a></li>
+</ul>
+
+</section>
+				
+		<a href="https://archi.ru/files/sendproject">
+			<div class="sp_con">Присылайте<br>проекты и постройки.
+ 				<div class="line">&nbsp;</div><br>Рассмотрим. Изучим. Опубликуем.
+			</div>
+		</a>
+
+		
+        <div class="place ad_2">
+
+		
+        <div class="slideBlock2">
+<div id="adriver_banner_200_400_1" ard="pagemain_z3_s_1" style="margin:30px 30px"></div>
+</div>
+<script type="text/javascript">new adriver("adriver_banner_200_400_1", {sid: 172493, bt:52, sz:'main_page', bn:2, pz:3});</script><div id="adriver_banner_200_400_2" ard="pagemain_z3_s_2" style="margin:0 30px"></div>
+<script type="text/javascript">new adriver("adriver_banner_200_400_2", {sid: 172493, bt:52, sz:'main_page', bn:3, pz:3});</script>		</div>
+        <!-- end .place--> 
+      </aside>
+      <!-- end .aside-->            <div class="vline-c"></div>
+      <div class="vline-l"></div>
+    </div>
+    <!-- end .content-->
+	<div class="content grey-block"><a name="tech"></a><ul class="sections-nav"><li><a href="https://archi.ru/tech/">Статьи</a></li><li><a href="https://archi.ru/tech/companies.php">Компании</a></li><li><a href="https://archi.ru/tech/news">Новости</a></li></ul><h2><a href="https://archi.ru/tech">Технологии и<br>дизайн</a></h2><section class="mainContent"><div class="thirds hidden"><section class="third2"><section class="articles3"><article><div class="photo"><a href="https://archi.ru/tech/100717/v-germanii-vypustili-ekzoskelet-kotoryi-prevraschaet-noshu-vesom--kg-v--kilogrammovuyu"><img src="https://i.archi.ru/news/main_images/280x280/461804.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100717/v-germanii-vypustili-ekzoskelet-kotoryi-prevraschaet-noshu-vesom--kg-v--kilogrammovuyu">В Германии выпустили экзоскелет, который «превращает» ношу весом 32 кг в 4-килограммовую</a>
+                <div class="info"></div>
+                <ul class="info-list">
+                  <li>11 марта </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100665/fakro-resheniya-dlya-krovli-kotorye-menyayut-prostranstvo/?erid=2VSb5xpnCTz"><img src="https://i.archi.ru/news/main_images/280x280/460025.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100665/fakro-resheniya-dlya-krovli-kotorye-menyayut-prostranstvo/?erid=2VSb5xpnCTz">FAKRO: Решения для кровли, которые меняют пространство</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=561>ФАКРО-Россия</a></div></div>
+                <ul class="info-list">
+                  <li>5 марта </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100699/proektirovanie-dostupnoi-sredy--besplatnykh-sposoba-oblegchit-sebe-rabotu/?erid=2VSb5wswL16"><img src="https://i.archi.ru/news/main_images/280x280/461486.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100699/proektirovanie-dostupnoi-sredy--besplatnykh-sposoba-oblegchit-sebe-rabotu/?erid=2VSb5wswL16">Проектирование доступной среды: 3 бесплатных способа облегчить себе работу</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=4066>Доступная страна</a></div></div>
+                <ul class="info-list">
+                  <li>4 марта </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100584/evolyuciya-steklopaketa-ot-prozrachnosti-k-intellektu/?erid=2VSb5wjJBRa"><img src="https://i.archi.ru/news/main_images/280x280/461112.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100584/evolyuciya-steklopaketa-ot-prozrachnosti-k-intellektu/?erid=2VSb5wjJBRa">Эволюция стеклопакета: от прозрачности к интеллекту</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=3753>RGC - Российская стекольная компания | X-ONE</a></div></div>
+                <ul class="info-list">
+                  <li>3 марта </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100695/londonskoe-byuro-plp-vyrastilo-stroitelnye-kirpichi-iz-miceliya"><img src="https://i.archi.ru/news/main_images/280x280/461097.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100695/londonskoe-byuro-plp-vyrastilo-stroitelnye-kirpichi-iz-miceliya">Лондонское бюро PLP вырастило строительные «кирпичи» из мицелия</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=1219>PLP Architecture</a></div></div>
+                <ul class="info-list">
+                  <li>27 февраля </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100690/arkhitekturnyi-stol-i-dekorativnaya-peregorodka-iz-briz-blokov-mesterra-cobogo/?erid=2VSb5xLwEvk"><img src="https://i.archi.ru/news/main_images/280x280/460863.png" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100690/arkhitekturnyi-stol-i-dekorativnaya-peregorodka-iz-briz-blokov-mesterra-cobogo/?erid=2VSb5xLwEvk">Архитектурный стол и декоративная перегородка из бриз-блоков Mesterra Cobogo</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=569>Компания Славдом</a></div></div>
+                <ul class="info-list">
+                  <li>26 февраля </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100635/tekhnologii-rooflong-innovacii-v-falcevoi-krovle/?erid=2VSb5wyiswN"><img src="https://i.archi.ru/news/main_images/280x280/459105.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100635/tekhnologii-rooflong-innovacii-v-falcevoi-krovle/?erid=2VSb5wyiswN">&#8203;Технологии Rooflong: инновации в фальцевой кровле</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=4005>Rooflong</a></div></div>
+                <ul class="info-list">
+                  <li>24 февраля </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100566/arkhitekturnye-vozmozhnosti-formata-kollekcii-trotuarnoi-plitki-braer/?erid=2VSb5w7tDKe"><img src="https://i.archi.ru/news/main_images/280x280/459909.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100566/arkhitekturnye-vozmozhnosti-formata-kollekcii-trotuarnoi-plitki-braer/?erid=2VSb5w7tDKe">Архитектурные возможности формата: коллекции тротуарной плитки BRAER</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=553>Группа компаний BRAER</a></div></div>
+                <ul class="info-list">
+                  <li>14 февраля </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100609/polet-arkhitekturnoi-mysli-sibalux-v-stroitelstve-aeroportov/?erid=2VSb5wKHv1n"><img src="https://i.archi.ru/news/main_images/280x280/458541.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100609/polet-arkhitekturnoi-mysli-sibalux-v-stroitelstve-aeroportov/?erid=2VSb5wKHv1n">Полет архитектурной мысли: SIBALUX в строительстве аэропортов</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=3600>СИБАЛЮКС</a></div></div>
+                <ul class="info-list">
+                  <li>12 февраля </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100562/v-virdzhinii-data-centry-stroyat-iz-clt-panelei-vmesto-privychnogo-zhelezobetona"><img src="https://i.archi.ru/news/main_images/280x280/460256.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100562/v-virdzhinii-data-centry-stroyat-iz-clt-panelei-vmesto-privychnogo-zhelezobetona">В Вирджинии дата-центры строят из CLT-панелей вместо привычного железобетона</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=767>Gensler</a></div></div>
+                <ul class="info-list">
+                  <li>29 января </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100561/arkhitektura-promyshlennogo-kompleksa-sinergiya-tekhnologii-i-dizaina/?erid=2VSb5xYYgsA"><img src="https://i.archi.ru/news/main_images/280x280/457725.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100561/arkhitektura-promyshlennogo-kompleksa-sinergiya-tekhnologii-i-dizaina/?erid=2VSb5xYYgsA">Архитектура промышленного комплекса: синергия технологий и дизайна</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=4030>Юнигрин Энерджи</a>, <a href=https://archi.ru/tech/firms/company.php?id=798>Архитектурное бюро ASADOV</a></div></div>
+                <ul class="info-list">
+                  <li>27 января </li>
+                </ul>
+              </article><article><div class="photo"><a href="https://archi.ru/tech/100505/tekstura-goroda-kirpichnaya-oblicovka-na-fasadakh-mnogoetazhnykh-zdanii/?erid=2VSb5w7tDKe"><img src="https://i.archi.ru/news/main_images/280x280/396395.jpg" width="180" alt=" "></a></div>
+                <a href="https://archi.ru/tech/100505/tekstura-goroda-kirpichnaya-oblicovka-na-fasadakh-mnogoetazhnykh-zdanii/?erid=2VSb5w7tDKe">Текстура города: кирпичная облицовка на фасадах многоэтажных зданий</a>
+                <div class="info"><div style="white-space: normal; width:170px;"><a href=https://archi.ru/tech/firms/company.php?id=553>Группа компаний BRAER</a>, <a href=https://archi.ru/tech/firms/company.php?id=2942>PRSPKT.Architects</a>, <a href=https://archi.ru/tech/firms/company.php?id=898>СПИЧ</a>, <a href=https://archi.ru/tech/firms/company.php?id=4020>СтройПроектКонсалтинг</a></div></div>
+                <ul class="info-list">
+                  <li>24 января </li>
+                </ul>
+              </article></section></section><section class="third"><div class="dark-block"><header class="title1">новости компаний</header><section class="articles2"><article><a href="https://archi.ru/tech/100732/sibalyuks-priglashaet-na-art-techno-forum/?erid=2VSb5xHnBmz">СИБАЛЮКС приглашает на ART-TECHNO FORUM 2025</a><div class="info">11 марта  / <a href=https://archi.ru/tech/firms/company.php?id=3600>СИБАЛЮКС</a></div></article><article><a href="https://archi.ru/tech/100707/bezopasnost-podvesnykh-potolkov-klyuchevye-rekomendacii-ot-albes/?erid=2VSb5x1LbXN">Безопасность подвесных потолков: ключевые рекомендации от АЛБЕС</a><div class="info">10 марта  / <a href=https://archi.ru/tech/firms/company.php?id=591>АЛБЕС</a></div></article><article><a href="https://archi.ru/tech/100663/kompaniya-elit-fasad-realizovala-fasady-iz-steklofibrobetona-v-zhk-ostrov/?erid=2VSb5xJzibr">Компания Элит Фасад реализовала фасады из стеклофибробетона в ЖК «Остров»</a><div class="info">10 марта  / <a href=https://archi.ru/tech/firms/company.php?id=3424>Элит Фасад/Elit Fasad </a></div></article><article><a href="https://archi.ru/tech/100720/kompaniya-rgc-vypustila-broshyuru-c-aktualnoi-podborkoi-svoikh-produktov-steklopaketov-i-stekloizdelii/?erid=2VSb5yPomrg">Компания RGC выпустила брошюру c актуальной подборкой своих продуктов – стеклопакетов и стеклоизделий</a><div class="info">5 марта  / <a href=https://archi.ru/tech/firms/company.php?id=3753>RGC - Российская стекольная компания | X-ONE</a></div></article><article><a href="https://archi.ru/tech/100694/dolgovechnye-fasadnye-sistemy-baumit-na-sibirskoi-stroitelnoi-nedele/?erid=2VSb5yn3b5r">Долговечные фасадные системы Baumit на Сибирской строительной неделе</a><div class="info">5 марта  / <a href=https://archi.ru/tech/firms/company.php?id=2301>Baumit</a></div></article><article><a href="https://archi.ru/tech/100705/nauchnaya-detskaya-ploschadka-v-kaliningrade-ot-kompanii-novye-gorizonty/?erid=2VSb5w9CTwe">Научная детская площадка в Калининграде от компании «Новые Горизонты»</a><div class="info">28 февраля  / <a href=https://archi.ru/tech/firms/company.php?id=2798>Новые горизонты</a></div></article><article><a href="https://archi.ru/tech/100686/steklofibrobeton-v-otdelke-fasadov-zhk-shagal/?erid=2VSb5x78pM6">&#8203;Стеклофибробетон в отделке фасадов ЖК Shagal</a><div class="info">24 февраля  / <a href=https://archi.ru/tech/firms/company.php?id=3424>Элит Фасад/Elit Fasad </a></div></article><article><a href="https://archi.ru/tech/100679/v-ssha-napechatali-plity-perekrytiya-iz-bioplastika-i-drevesnoi-muki">В США напечатали плиты перекрытия из биопластика и древесной муки</a><div class="info">19 февраля  / <a href=https://archi.ru/tech/firms/company.php?id=1294>SHoP</a></div></article><article><a href="https://archi.ru/tech/100615/henning-larsen-vypustilo-ekoustoichivyi-katalog-stroimaterialov">Henning Larsen выпустило «экоустойчивый» каталог стройматериалов</a><div class="info">14 февраля  / <a href=https://archi.ru/tech/firms/company.php?id=1369>Henning Larsen Architects</a></div></article><article><a href="https://archi.ru/tech/100636/doodle-novaya-kollekciya-mikroarkhitektury-ot-puntogroup-i-wowhaus-na-kazanysh/?erid=2VSb5yyVJ8g">DOODLE: Новая коллекция микроархитектуры от PUNTOGROUP и Wowhaus на Казаныш</a><div class="info">4 февраля  / <a href=https://archi.ru/tech/firms/company.php?id=3239>PUNTOGROUP</a></div></article><article><a href="https://archi.ru/tech/100624/rgc-zapuskaet-seriyu-obrazovatelnykh-video-o-steklopaketakh-i-ikh-proizvodstve/?erid=2VSb5wASfwv">RGC запускает серию образовательных видео о стеклопакетах и их производстве</a><div class="info">29 января  / <a href=https://archi.ru/tech/firms/company.php?id=3753>RGC - Российская стекольная компания | X-ONE</a></div></article><article><a href="https://archi.ru/tech/100607/spros-na-cement-snizitsya-pochti-na-procentov-v-techenie--let-prognoz-vsemirnoi-cementnoi-associacii">Спрос на цемент снизится почти на 30% в течение 25 лет – прогноз Всемирной цементной ассоциации</a><div class="info">26 января </div></article><article><a href="https://archi.ru/tech/100585/v-rossii-vypustili-edinyi-sbornik-tekhnicheskikh-reshenii-po-stroitelnoi-akustike/?erid=2VSb5yHnSGG">В России выпустили единый сборник технических решений по строительной акустике</a><div class="info">23 января  / <a href=https://archi.ru/tech/firms/company.php?id=520>РОКВУЛ</a></div></article><article><a href="https://archi.ru/tech/100555/kolumbiicy-izobreli-syemnuyu-krasku-dlya-mebeli-i-sten-sdiraetsya-kak-mandarinovaya-kozhura">Колумбийцы изобрели «съемную» краску для мебели и стен: сдирается как мандариновая кожура</a><div class="info">22 января </div></article></section></div></section></div><div style="margin:10px auto; padding:0 40%;" class="all2"><a href="https://archi.ru/tech">другие статьи</a></div><section class="partners2"><header>партнеры</header><ul><li><a href="https://archi.ru/tech/firms/company.php?id=2532&erid=LatgC5ZjV" class="compT"><img src="https://i.archi.ru/news/small/434423.gif" alt="Arlight" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=2301&erid=2VSb5xSVc8p" class="compT"><img src="https://i.archi.ru/news/small/293705.gif" alt="Baumit" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=651&erid=2VSb5xfgWvL" class="compT"><img src="https://i.archi.ru/news/small/383639.gif" alt="Cladding Solutions" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=2514&erid=LatgBdMBV" class="compT"><img src="https://i.archi.ru/news/small/314775.gif" alt="HILTI" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=649&erid=LatgC6pxK" class="compT"><img src="https://i.archi.ru/news/small/404287.gif" alt="Larta Glass" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3239&erid=2VSb5ywoDfe" class="compT"><img src="https://i.archi.ru/news/small/458184.gif" alt="PUNTOGROUP" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3753&erid=LatgBjT9c" class="compT"><img src="https://i.archi.ru/news/small/429256.gif" alt="RGC - Российская стекольная компания | X-ONE" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=4005&erid=2VSb5xkGC1E" class="compT"><img src="https://i.archi.ru/news/small/455829.gif" alt="Rooflong" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3578&erid=LatgByuyQ" class="compT"><img src="https://i.archi.ru/news/small/408543.gif" alt="Tarkett" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=2523&erid=LatgBf668" class="compT"><img src="https://i.archi.ru/news/small/401421.gif" alt="UNISTEM" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=591&erid=LatgC7FHx" class="compT"><img src="https://i.archi.ru/news/small/401061.gif" alt="АЛБЕС" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=516&erid=2VSb5w4HdeY" class="compT"><img src="https://i.archi.ru/news/small/425124.gif" alt="АО «Фирма «КИРИЛЛ»" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=4015&erid=2VSb5z7HjaY" class="compT"><img src="https://i.archi.ru/news/small/456198.gif" alt="Богандинский кирпичный завод" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3792&erid=2VSb5w4GH7W" class="compT"><img src="https://i.archi.ru/news/small/458662.gif" alt="ГК «Керма»" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=553&erid=2VSb5xHShhA" class="compT"><img src="https://i.archi.ru/news/small/424992.gif" alt="Группа компаний BRAER" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=574&erid=2VSb5xExc2L" class="compT"><img src="https://i.archi.ru/news/small/439671.gif" alt="КНАУФ ГИПС" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=569&erid=2VSb5wGd5KE" class="compT"><img src="https://i.archi.ru/news/small/260394.gif" alt="Компания Славдом" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=2798&erid=2VSb5xmcU3i" class="compT"><img src="https://i.archi.ru/news/small/400510.gif" alt="Новые горизонты" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=566&erid=2VSb5zE7m7N" class="compT"><img src="https://i.archi.ru/news/small/150774.gif" alt="ОртОст-Фасад" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=2858&erid=2VSb5yHGDgc" class="compT"><img src="https://i.archi.ru/news/small/405005.gif" alt="РЕХАУ" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=520&erid=LatgBgktb" class="compT"><img src="https://i.archi.ru/news/small/421955.gif" alt="РОКВУЛ" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3600&erid=LatgC8KBr" class="compT"><img src="https://i.archi.ru/news/small/453815.gif" alt="СИБАЛЮКС" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=561&erid=2VSb5wUHszY" class="compT"><img src="https://i.archi.ru/news/small/406404.gif" alt="ФАКРО-Россия" class="compTImg"></a></li><li><a href="https://archi.ru/tech/firms/company.php?id=3424&erid=2VSb5yBooyA" class="compT"><img src="https://i.archi.ru/news/small/428723.gif" alt="Элит Фасад/Elit Fasad " class="compTImg"></a></li></ul></section></section><aside class="aside"><section class="articles5">
+<div class="gallery2"><div class="bg"><!--<div class="prev slidesjs-previous slidesjs-navigation"></div><div class="next slidesjs-next slidesjs-navigation"></div>--><h4>Проекты</h4><div class="hold"><ul id="slides"><div class="prev slidesjs-previous slidesjs-navigation"></div><div class="next slidesjs-next slidesjs-navigation"></div><li><div class="photo"><a href=https://archi.ru/projects/world/object_current.html?oid=6242><img src="https://i.archi.ru/i/650/53733.jpg" width="371" alt="Стадион команды Dalian Shide - конкурсный проект" title="Стадион команды Dalian Shide - конкурсный проект"></a></div><header><a href=https://archi.ru/projects/world/object_current.html?oid=6242>Стадион команды Dalian Shide - конкурсный проект</a></header><div class="misc1">NBBJ</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=14963><img src="https://i.archi.ru/i/650/303907.jpg" width="371" alt="Концептуальный проект зданий стационарных организаций социального обслуживания граждан старших возрастных групп" title="Концептуальный проект зданий стационарных организаций социального обслуживания граждан старших возрастных групп"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=14963>Концептуальный проект зданий стационарных организаций социального обслуживания граждан старших возрастных групп</a></header><div class="misc1">АМ Сергей Киселев и Партнеры</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=7105><img src="https://i.archi.ru/i/650/88174.jpg" width="371" alt="Центр оптовой торговли Метро Кеш энд Керри" title="Центр оптовой торговли Метро Кеш энд Керри"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=7105>Центр оптовой торговли Метро Кеш энд Керри</a></header><div class="misc1">ОАО «ИПРОМАШПРОМ»</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=8385><img src="https://i.archi.ru/i/650/149105.jpg" width="371" alt="Парк «Зарядье». Конкурсный проект консорциума ТПО «Резерв» + Maxwan + Latz und Partner" title="Парк «Зарядье». Конкурсный проект консорциума ТПО «Резерв» + Maxwan + Latz und Partner"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=8385>Парк «Зарядье». Конкурсный проект консорциума ТПО «Резерв» + Maxwan + Latz und Partner</a></header><div class="misc1">ТПО «Резерв»</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=17142><img src="https://i.archi.ru/i/650/362010.jpg" width="371" alt="Начальная школа №15 в Щелково" title="Начальная школа №15 в Щелково"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=17142>Начальная школа №15 в Щелково</a></header><div class="misc1">АРТ проект</div></li><li><div class="photo"><a href=https://archi.ru/projects/world/object_current.html?oid=7491><img src="https://i.archi.ru/i/650/101066.jpg" width="371" alt="Лыжная деревня Коуталаки" title="Лыжная деревня Коуталаки"></a></div><header><a href=https://archi.ru/projects/world/object_current.html?oid=7491>Лыжная деревня Коуталаки</a></header><div class="misc1">BIG</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=6601><img src="https://i.archi.ru/i/650/211970.jpg" width="371" alt="Многофункциональный спортивно-общественный центр в Олимпийской деревне «Новогорск»" title="Многофункциональный спортивно-общественный центр в Олимпийской деревне «Новогорск»"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=6601>Многофункциональный спортивно-общественный центр в Олимпийской деревне «Новогорск»</a></header><div class="misc1">Архитектуриум</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=14810><img src="https://i.archi.ru/i/650/296212.jpg" width="371" alt="Ресторанный комплекс «7 Небо»" title="Ресторанный комплекс «7 Небо»"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=14810>Ресторанный комплекс «7 Небо»</a></header><div class="misc1">Т+Т Architects</div></li><li><div class="photo"><a href=https://archi.ru/projects/world/object_current.html?oid=7278><img src="https://i.archi.ru/i/650/93830.jpg" width="371" alt="Павильон La Ville Intelligente" title="Павильон La Ville Intelligente"></a></div><header><a href=https://archi.ru/projects/world/object_current.html?oid=7278>Павильон La Ville Intelligente</a></header><div class="misc1">Jakob + MacFarlane</div></li><li><div class="photo"><a href=https://archi.ru/projects/russia/object_current.html?id=7796><img src="https://i.archi.ru/i/650/116804.jpg" width="371" alt="Интерьеры  нового офиса &amp;#147;TNK BP&amp;#148; на Беговой" title="Интерьеры  нового офиса &amp;#147;TNK BP&amp;#148; на Беговой"></a></div><header><a href=https://archi.ru/projects/russia/object_current.html?id=7796>Интерьеры  нового офиса &#147;TNK BP&#148; на Беговой</a></header><div class="misc1">ABD architects</div></li></ul></div></div><div class="bg place1"></div><div class="bg place2"></div></div><section class="articles5"><article><header><a href="https://archi.ru/events/20851/kazanysh">Казаныш 2023</a></header>Казань<br>5 декабря 2023 – 7 декабря 2023 2023<br></article><article><header><a href="https://archi.ru/events/20900/kavkazbuild">KavkazBuild 2024</a></header>Минеральные Воды<br>6 февраля 2024 – 8 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20901/airvent">AIRVent 2024</a></header>Москва<br>6 февраля 2024 – 9 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20902/aquatherm-moscow">Aquatherm Moscow 2024</a></header>Москва<br>6 февраля 2024 – 9 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20903/siberian-building-week">Siberian Building Week 2024</a></header>Новосибирск<br>13 февраля 2024 – 16 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20487/artdom">ARTDOM 2024</a></header>Москва<br>16 февраля 2024 – 18 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20951/building-skin-russia--dni-okna-v-rossii">Building Skin Russia 2024 - Дни окна в России 2024</a></header>Москва<br>28 февраля 2024 – 29 февраля 2024 2024<br></article><article><header><a href="https://archi.ru/events/20918/mir-klimata-ekspo">Мир Климата Экспо 2024</a></header>Москва<br>27 февраля 2024 – 1 марта 2024 2024<br></article><article><header><a href="https://archi.ru/events/20905/interlakokraska">Интерлакокраска 2024</a></header>Москва<br>27 февраля 2024 – 1 марта 2024 2024<br></article><article><header><a href="https://archi.ru/events/20916/rosbuild">RosBuild 2024</a></header>Москва<br>27 февраля 2024 – 1 марта 2024 2024<br></article><article><header><a href="https://archi.ru/events/20650/homedeco">HomeDeco 2024</a></header>Алматы (Алма-Ата)<br>4 марта 2024 – 6 марта 2024 2024<br></article><article><header><a href="https://archi.ru/events/20917/mosbuild">MosBuild 2024</a></header>Москва<br>13 мая 2024 – 16 мая 2024 2024<br></article><nav class="all2"><a href="https://archi.ru/events">Все события</a></nav></section></aside><div class="shad-t"></div><div class="shad-b"></div></div>    <div class="content tind">
+      <section class="mainContent">
+<div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/99701/vysota"><img src="https://i.archi.ru/news/main_images/580x580/431057.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=12">Объект</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/99701/vysota">Высота 5642</a></header>Институт Генплана Москвы подготовил проект комплексного развития трех горнолыжных курортов Кавказа, получивших статус особых экономических зон туристско-рекреационного типа. Первая из них – Эльбрус. На горе построят новые трассы, канатные дороги и гостиницы, модернизируют станции и приведут в порядок туристическую поляну Азау. Для расширения аудитории и всесезоннной привлекательности развивается сеть экотроп. Рассказываем обо всех этапах подробнее.  
+
+						  <div class="sep"></div>
+						  
+<div class="info">Институт Генплана Москвы</div>
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19793>Алёна Кузнецова</a></span></li>
+							<li>4 марта </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100718/steklyannaya-granica-optimuma"><img src="https://i.archi.ru/news/main_images/280x280/461425.jpg" class="img1 w_280px" id="461425.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100718/steklyannaya-granica-optimuma">Стеклянная граница оптимума</a></header>Очень маленький дом с оптимальной планировкой – 21 м2 – тем не менее включает две роскошные вещи. Во-первых, сауну, хотя и в виде кабины; во-вторых, угол из структурного стекла, изнутри стекло – от пола до потолка. Вот это, правда, роскошь для дома с фанерным конструктивом, что признает и сам автор.  <div class="sep"></div>
+								  <ul class="info-list">
+									<li>4 марта </li>
+									<li><span></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100711/schepotka-nostalgii"><img src="https://i.archi.ru/news/main_images/280x280/447983.jpg" class="img1 w_280px" id="447983.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100711/schepotka-nostalgii">Щепотка ностальгии</a></header>Кафе-кулинария по проекту студии архитектуры и дизайна OBJCT открылось в Волгограде в здании бывшего Тракторного завода, который сейчас играет роль бизнес-парка. Чтобы воссоздать дух советского времени, архитекторы использовали мозаику, стеклоблоки, растения в кадках, а также терраццо. Фанера и красные акценты сделали интерьер светлым и свежим. <div class="sep"></div>
+								  <ul class="info-list">
+									<li>3 марта </li>
+									<li><span></span></li>
+								  </ul>              
+								</article></section></div><div class="thirds articles-hold2 semiheight02"><section class="third2 height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100675/it-gorodok"><img src="https://i.archi.ru/news/main_images/580x280/458622.jpg" class="w_580px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100675/it-gorodok">ИТ-городок</a></header>На примере первой реализованной очереди квартала «Ю» разбираемся, как будет устроен новый микрорайон Иннополиса. Бюро Т+Т Architects и HADAA сформировали и сбалансировали остроумный мастер-план с разными типами жилья, зеленой артерией, системой площадей и парком в центральной части.<div class="sep"></div>
+<div class="info info_2">Т+Т Architects, HADAA ARCHITECTS</div>
+						<ul class="info-list"><li>3 марта </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19793>Алёна Кузнецова</a></li></ul></article></section><section class="third height-box"><div class="dashed-block"><div class="dashed-in"><article class="article1">
+									<div class="photo rounded" style="background-image:url(https://i.archi.ru/i/150_150/240423.jpg); background-size: cover;"><a href="https://snob.ru/history/aleksandr-skokan-uzhas-v-tom-chto-aushvits-idealnyi-gradostroitelnyi-proekt/" rel="nofollow" target="_blank"></a></div><header><span class="blue2">Пресса:</span> <a href="https://snob.ru/history/aleksandr-skokan-uzhas-v-tom-chto-aushvits-idealnyi-gradostroitelnyi-proekt/" rel="nofollow" target="_blank">Александр Скокан: «Ужас в том, что “Аушвиц” — идеальный градостроительный проект» <img src="/img/icon_external_link.png" style="margin-top:7px"></a></header>
+									<div class="text1">В начале 1945 года советские войска освободили польский город Освенцим, а с ним и самый известный лагерь смерти, одно из главных свидетельств Холокоста — «Аушвиц». 40 лет спустя архитектор Александр Скокан и художник Иван Лубенников разработали проект реконструкции советского раздела музея-мемориала. Обновленная экспозиция открылась 8 мая 1985 года и просуществовала вплоть до 2013-го, когда ее в очередной раз осовременили. По просьбе «Сноба» публицист, соучредитель и бывший главред архитектурного журнала «Проект Россия» Анатолий Белов встретился с Александром Скоканом, чтобы узнать о правоверном модернизме проектировщиков «Аушвица», искусстве добывать стройматериалы в эпоху позднего застоя и о том, каково жилось в бывшей гостинице для офицеров СС.</div>
+									<div class="sep"></div>
+									<div class="info"><a class="blue" href="https://archi.ru/press/issue_present.html?id=486">Сноб.ру </a></div>
+									<ul class="info-list"><li>1 марта  / 27 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15223>Анатолий Белов</a></li></ul>
+									</article></div></div></section></div><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100708/dolgozhdannyi-geroi"><img src="https://i.archi.ru/news/main_images/280x280/461513.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100708/dolgozhdannyi-geroi">Долгожданный герой</a></header>Открытия библиотеки в своем районе жители Северного Боулдера в штате Колорадо ждали больше 25 лет. Архитекторы WORKac создали для них удобный и гостеприимный общественный центр.<div class="sep"></div>
+<div class="info info_2">WORKac</div>
+						<ul class="info-list"><li>28 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=17699>Анна Старостина</a></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100684/tyaga-k-remeslu"><img src="https://i.archi.ru/news/main_images/280x280/455026.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100684/tyaga-k-remeslu">Тяга к ремеслу</a></header>По проекту бюро KIDZ в Тель-Авиве открылась нео-изакая. Учитывая равнодушие горожан к сложным дизайнерским решениям, архитекторы сосредоточились на материалах, освещении и мебели. Такой подход соотносится с японскими понятиями «шокунин» и «коадавари», означающими искусного мастера и внимание к деталям. Единственным предметом декора стала лаковая миниатюра, найденная на блошином рынке. <div class="sep"></div>
+<div class="info info_2">KIDZ</div>
+						<ul class="info-list"><li>28 февраля </li><li></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100702/kompaktnoe-postroenie"><img src="https://i.archi.ru/news/main_images/280x280/460894.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100702/kompaktnoe-postroenie">Компактное построение</a></header>В буколическом окружении рисовых полей престижного района Бали Pererenan, на возвышении с видом на океан, Антон Кочуркин и 8Lines, выиграв конкурс, спроектировали апарт-отель. Его уже начали строить. Особенность проекта – оптимальные компактные планировки, он рассчитан на средний достаток.<div class="sep"></div>
+<div class="info info_2">Проектная группа «8 линий»</div>
+						<ul class="info-list"><li>28 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=21277>Дарья Горелова</a></li></ul></article></section></div><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100704/chernyi-butik"><img src="https://i.archi.ru/news/main_images/280x280/461493.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100704/chernyi-butik">Черный бутик</a></header>Пекинское бюро Fon Studio спроектировало временный концепт-бутик для марки авангардной одежды TBHNP в Шанхае.<div class="sep"></div>
+<div class="info info_2">Fon Studio</div>
+						<ul class="info-list"><li>27 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100700/arkheologicheskii-podkhod"><img src="https://i.archi.ru/news/main_images/280x280/461396.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100700/arkheologicheskii-podkhod">Археологический подход</a></header>Конкурс на проект реконструкции западного крыла Британского музея в Лондоне выиграла Лина Готме, архитектор Национального музея Эстонии в Тарту.<div class="sep"></div>
+<div class="info info_2">Studio Weave</div>
+						<ul class="info-list"><li>26 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100683/bolshoi-brat"><img src="https://i.archi.ru/news/main_images/280x280/459819.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100683/bolshoi-brat">Большой брат</a></header>Жилой комплекс Architecton построен в Екатеринбурге по проекту бюро Archinform на месте техникума 1930-х годов. Снос конструктивистского здания стал потерей для города, которую архитекторы попытались восполнить, сохраняя память места через эксперимент с формой.<div class="sep"></div>
+<div class="info info_2">ARCHINFORM</div>
+						<ul class="info-list"><li>26 февраля </li><li></li></ul></article></section></div><div class="thirds articles-hold2 semiheight02"><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/world/100697/lenty-i-skladki"><img src="https://i.archi.ru/news/main_images/280x280/461207.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div><header class="height-title" ><a href="https://archi.ru/world/100697/lenty-i-skladki">Ленты и складки</a></header>Выставочный центр по проекту Zaha Hadid Architects в Пекине реализован как модульное сооружение, что сократило затраты на строительство и его сроки.<div class="sep"></div>
+<div class="info info_2">Zaha Hadid Architects</div>
+						<ul class="info-list"><li>25 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100682/krasnyi-kon"><img src="https://i.archi.ru/news/main_images/280x280/459961.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100682/krasnyi-kon">Красный конь</a></header>Суперграфика на фасадах жилого комплекса, построенного в Екатеринбурге по проекту бюро «План Б», вдохновлена мезенской росписью. Красный пигмент для 23-этажной башни выбрали не только как акцентный, но и устойчивый в штукатурке. Не менее яркими получились вестибюли подъездов, оформленные приемом color block.  <div class="sep"></div>
+<div class="info info_2">План Б</div>
+						<ul class="info-list"><li>25 февраля </li><li></li></ul></article></section><section class="third height-box"><article class="article1"><div class="photo"><div class="hold"><a href="https://archi.ru/russia/100693/pamyati-aleksandra-rappaporta"><img src="https://i.archi.ru/news/main_images/280x280/461011.jpg" class="w_280px" ></a></div><a class="label-link" href="?article_type=16">in memoriam<em></em></a></div><header class="height-title" ><a href="https://archi.ru/russia/100693/pamyati-aleksandra-rappaporta">Памяти Александра Раппапорта</a></header>Человек, «глубоко мыслящий и всесторонне одаренный»; «ренессансный гений – уникальный эрудит, мудрый философ, тончайший поэт, виртуозный музыкант и проницательный художник»; «один из последних архитекторов, входивших в интеллектуальную элиту»... С нами больше нет Александра Раппапорта. <div class="sep"></div>
+						<ul class="info-list"><li>24 февраля </li><li><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></li></ul></article></section></div><div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/100637/glavnoe-vnutri"><img src="https://i.archi.ru/news/main_images/580x580/459526.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=12">Объект</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/100637/glavnoe-vnutri">Главное – внутри</a></header>Здание второй очереди гимназии имени Евгения Примакова было отмечено многими наградами еще на стадии проектирования. Сейчас оно завершено. И хотя не все нюансы были учтены: прежде всего конструкциям перекрытия не следовало оставаться открытыми, – но в силу приоритета объемного построения это не кажется существенным. Более важен «Ах!», вызываемый пространством. 
+						  <div class="sep"></div>
+						  
+<div class="info">Студия 44</div>
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></span></li>
+							<li>24 февраля </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100657/proizvodstvo-znanii"><img src="https://i.archi.ru/news/main_images/280x280/457932.jpg" class="img1 w_280px" id="457932.jpg"></a></div><a class="label-link" href="?article_type=20">Конкурс<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100657/proizvodstvo-znanii">Производство знаний</a></header>Компания «Даль» заняла второе место в конкурсе на редевелопмент Главного корпуса Ижевского завода. Команда предложила будущим инвесторам на выбор два сценария развития территории – межвузовский кампус или бизнес-хаб, но в обоих случаях отвела историческому зданию Семёна Дудина роль центра популяризации наук. Внушительное предпроектное исследование определило архитектурные решения.  <div class="sep"></div>
+								  <ul class="info-list">
+									<li>24 февраля </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19793>Алёна Кузнецова</a></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/world/100691/fialki-kazhdyi-den"><img src="https://i.archi.ru/news/main_images/280x280/460805.jpg" class="img1 w_280px" id="460805.jpg"></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div>
+								  <header><a href="https://archi.ru/world/100691/fialki-kazhdyi-den">Фиалки каждый день</a></header>Архитекторы HEMAA расширили комплекс начальной школы Les Violettes в парижском предместье Марей-Марли, соединив в своем проекте состаренную древесину, зеркальные алюминиевые панели и прозрачное стекло.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>21 февраля </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=17699>Анна Старостина</a></span></li>
+								  </ul>              
+								</article></section></div><div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/100669/sily-magnetizma"><img src="https://i.archi.ru/news/main_images/580x580/460177.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=12">Объект</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/100669/sily-magnetizma">Силы магнетизма</a></header>«Крылатская 33» – первый крупный жилой комплекс среди микрорайонов 1980-х, счастливо соседствующих с лесами, рекой, склонами, спортивной инфраструктурой... Архитекторам АБ «Остоженка» удалось превратить его, при всей масштабности проекта, в «деликатную доминанту». Во-первых, «вырастить», ориентируясь на стилистику и высотность соседних микрорайонов; во-вторых, снабдив паузой в самой высотной части, сформировать композиционное напряжение – прямо на градостроительной оси района. 
+						  <div class="sep"></div>
+						  
+<div class="info">АБ «Остоженка»</div>
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></span></li>
+							<li>21 февраля </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/99692/daleko-glyazhu"><img src="https://i.archi.ru/news/main_images/280x280/458682.jpg" class="img1 w_280px" id="458682.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/99692/daleko-glyazhu">Далеко гляжу</a></header>В жилом комплексе New Питер в Ленинградской области по проекту «БалтИнвест-Проект» построен детский сад. Его отличает довольно строгий кирпичный фасад, уютная ниша входа, а также групповые ячейки с панорамными эркерами, из которых дети могут наблюдать друг за другом и жизнью на улице. <div class="sep"></div>
+								  <ul class="info-list">
+									<li>20 февраля </li>
+									<li><span></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/world/100689/dokazatelnoe-proektirovanie"><img src="https://i.archi.ru/news/main_images/280x280/460664.jpg" class="img1 w_280px" id="460664.jpg"></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div>
+								  <header><a href="https://archi.ru/world/100689/dokazatelnoe-proektirovanie">Доказательное проектирование</a></header>Психиатрическая клиника при Университетской больнице в Тампере по проекту C. F. M&#248;ller задумана как комфортная, снижающая напряжение и тревожность у пациентов среда.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>20 февраля </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></span></li>
+								  </ul>              
+								</article></section></div><div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/100661/poyas-oriona"><img src="https://i.archi.ru/news/main_images/580x580/458266.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=12">Объект</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/100661/poyas-oriona">Пояс Ориона</a></header>Офисный комплекс Stone Ходынка 2, спроектированный Kleinewelt Architekten для компании Stone, внутри устроен эргономично, по правилам healthy building: свет, проветривание, все возможности для эффективной офисной планировки. И снаружи похож, как сейчас принято, на айфон: блеск, свечение, стекло, металл, скругления. Тем не менее он чутко реагирует на контекст Ходынки, главный сюжет – контраст вертикалей и горизонтали, а главной интригой становится устройства «стилобата» как навесного перехода, раскрывающего пространство под ним для свободного передвижения. 
+						  <div class="sep"></div>
+						  
+<div class="info">Kleinewelt Architekten</div>
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=19793>Алёна Кузнецова</a> <a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></span></li>
+							<li>20 февраля </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100687/vremya-kak-teatr"><img src="https://i.archi.ru/news/main_images/280x280/460536.jpg" class="img1 w_280px" id="460536.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100687/vremya-kak-teatr">Время как театр</a></header>Проект Зои Рюриковой и ее бюро «ДА» выиграл конкурс на благоустройство Театральной площади по Владимире. Он основан на идее регенерации исторической застройки, а по форме представляет собой вариант «театрального романтического неомодернизма». Арки служат «видоискателями», в том числе для городского театра Драмы 1971 года. <div class="sep"></div>
+								  <ul class="info-list">
+									<li>19 февраля </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15139>Юлия Тарабарина</a></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/world/100681/shedovyi-fasad"><img src="https://i.archi.ru/news/main_images/280x280/460417.jpg" class="img1 w_280px" id="460417.jpg"></a></div><a class="label-link" href="?article_type=12">Объект<em></em></a></div>
+								  <header><a href="https://archi.ru/world/100681/shedovyi-fasad">Шедовый фасад</a></header>Жилой дом в районе Бёйкслотерхам напоминает об индустриальном прошлом этой части Амстердама решением фасада. Авторы проекта – Studioninedots.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>18 февраля </li>
+									<li><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=15258>Нина Фролова</a></span></li>
+								  </ul>              
+								</article></section></div><div class="thirds semiheight01"><section class="third2 height-box-first">
+					<article><div class="gallery"><div class="hold">
+						  <article><a href="https://archi.ru/russia/100673/proschanie-s-sev"><img src="https://i.archi.ru/news/main_images/580x580/460308.jpg"></a></article>
+						</div>
+						  </div>
+						  <section class="text-type1">
+						<a class="section-link" href="?article_type=7">Исследование</a>
+						<div class="bg">
+						  <header><a href="https://archi.ru/russia/100673/proschanie-s-sev">Прощание с СЭВ</a></header>Александр Змеул рассказывает историю проектирования, строительства и перепроектирования здания СЭВ – безусловной градостроительной доминанты западного направления и символа послевоенной Москвы, размноженного в советском «мерче», всем хорошо знакомого. В ходе рассказа мы выясняем, что, когда в 1980-е комплексу потребовалось расширение, градсовет предложил очень деликатные варианты; и еще, что в 2003 году здесь проектировали башню, но тоже без сноса «книжки». Статья иллюстрирована архивными материалами, часть публикуется впервые; благодарим Музей архитектуры за предоставленные изображения.
+						  <div class="sep"></div>
+						  
+						  <ul class="info-list">
+							<li class="r"><span><a class="bg-author" href=https://archi.ru/press/journalist_present.html?id=14716>Александр Змеул</a></span></li>
+							<li>18 февраля </li>
+						  </ul>
+						</div>
+						  </section>
+						</article>
+					  </section><section class="third height-box-second"><article class="article1" ><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100641/retro-picceriya"><img src="https://i.archi.ru/news/main_images/280x280/444480.jpg" class="img1 w_280px" id="444480.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100641/retro-picceriya">Ретро-пиццерия</a></header>По проекту cтудии дизайна MODGI Group на территории апарт-отеля VALO в Санкт-Петербурге открылась компактная пиццерия в ретро-стиле. Теплую и сочную цветовую гамму дополняет винтажная мебель и свет, а одним из главных предметов декора стали конверты для виниловых пластинок. <div class="sep"></div>
+								  <ul class="info-list">
+									<li>18 февраля </li>
+									<li><span></span></li>
+								  </ul>              
+								</article><article class="article1" style="margin-top:22px"><div class="photo1"><div class="hold1"><a href="https://archi.ru/russia/100645/bereg-meleuza"><img src="https://i.archi.ru/news/main_images/280x280/445072.jpg" class="img1 w_280px" id="445072.jpg"></a></div><a class="label-link" href="?article_type=18">send.project<em></em></a></div>
+								  <header><a href="https://archi.ru/russia/100645/bereg-meleuza">Берег Мелеуза</a></header>По проекту Института развития городов и сел Башкортостана и бюро Affinum в Мелеузе благоустроена набережная одноименной реки, которая играет роль центрального объекта города. Событийную площадь и торговые павильоны дополнил тихий променад, выходы к реке и детские площадки среди деревьев.<div class="sep"></div>
+								  <ul class="info-list">
+									<li>17 февраля </li>
+									<li><span></span></li>
+								  </ul>              
+								</article></section></div>	 </section>
+     	  <aside class="aside slideBlock" style="position: relative; top: 0px; left: 0px;">
+       <section class="articles4">
+<!--
+		<a href="http://archi.ru/contests"><img src="http://archi.ru/files/index_page/img/temp/banner_contests.png" style="padding:25px 0 0 17px" alt="Лучшие международные конкурсы на портале Архи.ру" title="Лучшие международные конкурсы на портале Архи.ру"></a>
+		<iframe src="http://www.facebook.com/plugins/recommendations.php?site=archi.ru&amp;width=420&amp;height=300&amp;header=true&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:294px; height:300px; padding-left:20px; padding-top:30px;" allowtransparency="true"></iframe>
+-->
+		<!-- VK Widget -->
+<!--
+		<script type="text/javascript" async src="//vk.com/js/api/openapi.js?75"></script>
+		<div id="vk_groups" style="margin:30px 0 0 20px"></div>
+		<script type="text/javascript">
+		VK.Widgets.Group("vk_groups", {mode: 0, width: "295", height: "290"}, 47510434);
+		</script>
+-->
+
+       </section>
+      </aside>
+      <!-- end .aside-->      <div class="vline-c"></div>
+      <div class="vline-l"></div>
+      <div class="corner-br"></div>
+    </div>
+
+    <!-- end .content-->
+
+    <nav class="pagination">
+	&nbsp;&nbsp;<strong>1</strong><a href="?offset=2" class="">2</a><a href="?offset=3" class="">3</a><a href="?offset=4" class="">4</a><a href="?offset=5" class="">5</a><a href="?offset=6" class="">6</a><a href="?offset=7" class="">7</a><a href="?offset=8" class="">8</a><a href="?offset=9" class="">9</a><a href="?offset=10" class="">10</a>&nbsp;
+<a href="?offset=2" class="listing">...</a>	</nav>
+
+    <!-- end .pagination-->
+    <div class="footer-place"></div>
+  </div>
+  <!-- end .container--> 
+</div>
+<!-- end .wrapper-->
+
+<footer class="footer">
+  <div class="container">
+    <div class="start-date">с 20 июля 1999 г.</div>
+    <!-- end .start-->
+    <div class="clearfix ind">
+	      <div class="r">Дизайн — <strong>творческая студия</strong> <a href="https://funkypunky.ru" target="_blank">FNKPNK</a></div>
+	      <strong>© ООО «Архи.ру»</strong>. Все права защищены.<br>
+      архи.ру<sup>®</sup>, archi.ru<sup>®</sup> зарегистрированные торговые марки 
+	  
+	  </div>
+    <!-- end .ind-->
+    <nav class="bmenu">
+      <section><strong>О проекте:</strong>
+        <ul>
+	          <li><a href="https://archi.ru/files/about/we.htm">Редакция</a></li>
+          <li><a href="https://archi.ru/contacts">Контакты</a></li>
+          <li><a href="https://archi.ru/russia/copyright.html">Правила использования</a></li>
+          <li><a href="https://archi.ru/files/about/legal_info.html">Правовая информация</a></li>
+          		</ul>
+      </section>
+      <!-- end section-->
+      <section><strong>Архив проектов:</strong>
+        <ul>
+          <li><a href="https://archi.ru/photo/index.htm">Фотогалерея</a></li>
+          <li><a href="https://archi.ru/files/publications/index.htm">Научные публикации</a></li>
+                  </ul>
+      </section>
+      <!-- end section-->
+     </nav>
+    <!-- end .bmenu-->
+    <div class="r2">
+      <div class="clearfix">
+        <ul class="socials2">
+                    <li><a class="vk" href="https://vk.com/archiru" target="_blank" title="Вконтакте">Вконтакте</a></li>
+                    <li><a class="rss" href="https://archi.ru/rss.xml" target="_blank" title="RSS">RSS</a></li>
+		  <li><a class="tel" href="https://t.me/archi_ru" target="_blank" title="Telegram" >Telegram</a></li>
+        </ul>
+        <!-- end .socials2-->
+        <ul class="counters">
+          <li>
+		  					<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t14.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "19773", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=19773;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Rating@Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=19773">
+<img src="//top-fwz1.mail.ru/counter?id=19773;t=280;l=1" 
+style="border:0;" height="31" width="38" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+					  </li>
+        </ul>
+        <!-- end .counters-->
+	  </div>
+
+    </div>
+    <!-- end .r2--> 
+  </div>
+  <!-- end .container-->
+  <div class="shad-t"></div>
+</footer>
+<!-- end .footer-->
+</body>
+</html>

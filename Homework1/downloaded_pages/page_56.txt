@@ -1,0 +1,1641 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' vk.com *.vk.com bitrix.info *.yandex.ru culturaltracking.ru yastatic.net *.yandex.net data:;">-->
+    <link rel="stylesheet" href="/local/templates/500na700/css/libs/swiper-bundle.min.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="Музей, Великий Устюг" />
+<meta name="description" content="Крупный многопрофильный музейный комплекс, объединяющий 16 памятников архитектуры федерального значения Великого Устюга" />
+<link href="/bitrix/cache/css/s1/500na700/page_440b8bfc91c888f14d7ae5e5a74c3f6d/page_440b8bfc91c888f14d7ae5e5a74c3f6d_v1.css?16905496317431" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/500na700/template_7e847470417040b85273c609e013a5ad/template_7e847470417040b85273c609e013a5ad_v1.css?1690549631185724" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1690212130220477"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'0','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1741772728','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'bb7db262037d451b799cfed6e8e1ccee'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/500na700/kernel_main/kernel_main_v1.js?1690549598152878"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/local/templates/500na700/components/bitrix/news.detail/main_banner/script.js','/local/templates/500na700/components/bitrix/news.list/museum_slider/script.js','/local/templates/500na700/js/libs/jquery-3.6.4.min.js','/local/templates/500na700/js/libs/swiper-bundle.min.js','/local/templates/500na700/js/libs/fancybox.umd.js','/local/templates/500na700/js/libs/jquery.mask.js','/local/templates/500na700/js/libs/intlTelInput.js','/local/templates/500na700/components/bitrix/news.list/ustug_notification/script.js','/local/components/custom/my.feedback/templates/contact_us/script.js','/local/templates/500na700/components/bitrix/news.list/cookie/script.js','/local/templates/500na700/js/bvi/js/js.cookie.min.js','/local/templates/500na700/js/bvi/js/bvi.min.js','/local/templates/500na700/js/index.js','/local/templates/500na700/js/fancybox.js','/local/templates/500na700/js/swiperMainPage.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/local/templates/500na700/components/bitrix/news.detail/main_banner/style.css','/local/templates/500na700/components/bitrix/news.list/museum_slider/style.css','/local/templates/500na700/components/bitrix/news.list/main_links/style.css','/local/templates/500na700/components/bitrix/news.detail/main_small_banner/style.css','/local/templates/500na700/components/bitrix/news.list/main_news/style.css','/local/templates/500na700/components/bitrix/news.detail/main_card/style.css','/local/templates/500na700/components/bitrix/news.list/map/style.css','/local/templates/500na700/css/style.css','/local/templates/500na700/components/bitrix/news.list/ustug_notification/style.css','/local/templates/500na700/components/bitrix/news.list/menu/style.css','/local/components/custom/my.feedback/templates/contact_us/style.css','/local/templates/500na700/components/bitrix/news.list/cookie/style.css','/local/templates/500na700/components/bitrix/main.feedback/subscribe_form/style.css','/local/templates/500na700/components/bitrix/news.list/footer_social/style.css','/local/templates/500na700/components/bitrix/news.list/menu_footer/style.css','/local/templates/500na700/components/bitrix/news.list/footer_documents/style.css','/local/templates/500na700/js/bvi/css/bvi.css','/local/templates/500na700/css/index.css','/local/templates/500na700/css/libs/fancybox.css']);</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/500na700/template_55e62e38d445d0690e688daf3e358584/template_55e62e38d445d0690e688daf3e358584_v1.js?1690549729621542"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/500na700/page_a5b8a40f3207152e28122a2bd5d4cfd0/page_a5b8a40f3207152e28122a2bd5d4cfd0_v1.js?16905496311230"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "ceadf9e9020bdaab4384d3bcaac175da"]); _ba.push(["host", "ustyug-museum.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+	<!-- Yandex.Metrika counter --> 
+	<script type="text/javascript" > 
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; 
+	m[i].l=1*new Date(); 
+	for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} 
+	k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) 
+	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); 
+	
+	ym(2216809, "init", { 
+			clickmap:true, 
+			trackLinks:true, 
+			accurateTrackBounce:true 
+	}); 
+	</script> 
+	<noscript><div><img src="https://mc.yandex.ru/watch/2216809" style="position:absolute; left:-9999px;" alt="" /></div></noscript> 
+	<!-- /Yandex.Metrika counter --> 
+	<!-- Код счетчика PRO Культура -->
+	<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=29526" data-pixel-id="29526"></script>
+	<!-- /Код счетчика PRO Культура -->
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=2c20eae7-6d76-436c-bd69-e052d233c8f9&amp;lang=ru_RU" type="text/javascript"></script>
+    <title>Великоустюгский государственный музей-заповедник</title>
+</head>
+<body>
+		<div id="panel">
+					</div>
+        <div class="page-container">
+            
+<div class="message message_hidden">
+    <div class="container">
+                <p class="message__title">С 1 марта Музей новогодней и рождественской игрушки, Детский музейный центр работают с двумя выходными: воскресенье, понедельник.</p>
+                <p class="message__title">С 6 по 11 марта Музей древнерусского искусства не работает.</p>
+                <button class="message__close-btn"><img src="/local/templates/500na700/img/close-btn.svg" alt="Закрыть" width="14" height="14"></button>
+    </div>
+</div>
+            <header class="header">
+                <div class="container">
+                    <div class="header__container"><a class="header__logo" href="/"><img src="/local/templates/500na700/img/logo.png" alt="Логотип" width="165" height="50"></a>
+                        <div class="header__panel">
+                            <a class="header__panel-link feedback" >связаться с нами</a>
+                            <a class="header__panel-link"
+                               href="https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik"
+                               target="_blank"
+                               rel="nofollow noopener"
+                            >Купить билет</a>
+                            <a class="bvi-open bvi-hide header__panel-link" href="#">
+                                <svg width="20" height="14">
+                                    <use xlink:href="#blind"></use>
+                                </svg>
+                            </a>
+                            <a class="header__panel-link" href="/search/">
+                                <svg width="20" height="14">
+                                    <use xlink:href="#search"></use>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+<div class="header__nav nav">
+    <div class="container">
+        <ul class="nav__list">
+                            <li class="nav__item" tabindex="0">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="#" tabindex="-1">Посетителям</a>
+                    </div>
+                    <div class="nav__submenu submenu">
+                        <div class="submenu__container container">
+                            <div class="submenu__list">
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/programms/"
+                                                                                    >Экскурсии и программы</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/prices/muzey-prirody-kraya/"
+                                                                                    >Цены и льготы</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/"
+                                                                                    >Режим работы</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/kontakty/"
+                                                                                    >Контакты</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/news/"
+                                                                                    >Новости и события</a>
+                                    </div>
+                                                                    </div>
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/turfirmam/"
+                                                                                    >Турфирмам</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museum-online/"
+                                                                                    >Музей-онлайн</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/inklyuzivnyy-muzey/"
+                                                                                    >Инклюзивный музей</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/monuments/"
+                                                                                    >Архитектурные объекты</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/report-a-problem"
+                                                                                    >Сообщить о проблеме</a>
+                                    </div>
+                                                                    </div>
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/chasto-zadavaemye-voprosy/"
+                                                                                    >Часто задаваемые вопросы</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/pravila-poseshcheniya/"
+                                                                                    >Правила посещения</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/pages/pravila-pokupki-i-vozvrata-biletov/"
+                                                                                    >Правила покупки и возврата билетов</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/publications/"
+                                                                                    >Издания</a>
+                                    </div>
+                                                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="nav__item" tabindex="0">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="#" tabindex="-1">Музеи</a>
+                    </div>
+                    <div class="nav__submenu submenu">
+                        <div class="submenu__container container">
+                            <div class="submenu__list">
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/muzey-istorii-i-kultury-velikogo-ustyuga/"
+                                                                                    >Музей истории и культуры Великого Устюга</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/muzey-drevnerusskogo-iskusstva/"
+                                                                                    >Музей древнерусского искусства</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/muzey-novogodney-i-rozhdestvenskoy-igrushki/"
+                                                                                    >Музей новогодней и рождественской игрушки</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/detskiy-muzeynyy-tsentr/"
+                                                                                    >Детский музейный центр</a>
+                                    </div>
+                                                                    </div>
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/muzey-prirody-kraya/"
+                                                                                    >Музей природы края</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/muzey-etnografii/"
+                                                                                    >Музей этнографии</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/depozitariy/"
+                                                                                    >Депозитарий</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/vystavochnyy-zal/"
+                                                                                    >Выставочный зал</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/ansambl-troitse-gledenskogo-monastyrya/"
+                                                                                    >Ансамбль Троице-Гледенского монастыря</a>
+                                    </div>
+                                                                    </div>
+                                                                <div class="submenu__column">
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/sobor-uspeniya-presvyatoy-bogoroditsy-i-kolokolnya-uspenskogo-sobora/"
+                                                                                    >Собор Успения Пресвятой Богородицы и колокольня</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/sobor-prokopiya-pravednogo/"
+                                                                                    >Собор Прокопия Праведного</a>
+                                    </div>
+                                                                        <div class="submenu__item">
+                                        <a class="submenu__link"
+                                           href="/museums/sobor-arkhangela-mikhaila/"
+                                                                                    >Собор Архангела Михаила</a>
+                                    </div>
+                                                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </li>
+                            <li class="nav__item">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="/programms/?set_filter=y&arrFilter_23_2982134865=Y&arrFilter_23_79196097=Y&arrFilter_23_3752021533=Y"
+                                                    >Детям</a>
+                    </div>
+                </li>
+                            <li class="nav__item">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="/pages/kollektsii/"
+                                                    >Коллекции</a>
+                    </div>
+                </li>
+                            <li class="nav__item">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="/projects/"
+                                                    >Проекты</a>
+                    </div>
+                </li>
+                            <li class="nav__item">
+                    <div class="nav__link-container">
+                        <a class="nav__link" href="/pages/donations/"
+                                                    >Поддержать музей</a>
+                    </div>
+                </li>
+                    </ul>
+    </div>
+</div>
+<div class="header__mob container"><a class="header__mob-logo" href="/">
+        <svg class="header__mob-logo" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M47.9991 11.5176C46.7191 11.5176 45.1191 12.9882 45.1191 15.4393C45.1191 17.4001 46.3991 18.8708 47.9991 19.1976V11.5176Z" fill="#1E1E1E"></path>
+            <path d="M19.2012 0V0.631233V3.94521H19.9968V1.8937C19.9968 1.73589 20.1559 1.42027 20.315 1.26247C20.6332 1.10466 21.1106 1.10466 21.4288 1.26247H21.5879L36.7039 5.6811L20.9514 13.7293C20.7923 13.8871 20.4741 13.8871 20.315 13.7293C19.9968 13.4137 19.9968 12.9403 19.9968 12.7825V11.2044H19.2012V16.2542V23.04H19.9968V20.9885C19.9968 20.6729 20.1559 20.3573 20.4741 20.0416C20.9514 19.726 21.5879 19.4104 21.5879 19.4104L43.3868 8.04822C43.5459 7.89041 43.8642 7.89041 44.3415 7.89041C44.8189 7.89041 45.4553 8.20603 45.4553 8.20603L48.0012 8.99507V8.04822L21.1106 0H19.2012Z" fill="#1E1E1E"></path>
+            <path d="M0.467533 42.3896H0V48H26.8052V46.4416C26.8052 45.039 27.4286 44.7273 27.7403 44.5714C27.8961 44.5714 28.052 44.5714 28.2078 44.5714C28.8312 44.5714 29.2987 44.7273 29.6104 45.1948C30.0779 45.6623 30.5455 46.2857 31.3247 46.7533C31.7922 47.0649 32.7273 48 36.3117 48C38.6494 48 42.3896 47.0649 44.5714 45.8182C47.3766 44.1039 48 41.9221 48 39.8961C48 38.026 47.2208 36.4675 45.6623 35.0649C44.1039 33.6623 42.0779 33.1948 39.5844 32.5714C41.2987 32.4156 43.4805 31.6364 44.8831 30.3896C45.974 29.2987 46.7533 27.7403 46.7533 26.026C46.7533 24.3117 46.1299 22.9091 43.7922 21.6623C42.0779 20.7273 39.5844 19.9481 37.7143 19.9481C36 19.9481 34.9091 20.2597 33.6623 20.7273C32.8831 21.039 31.9481 21.8182 31.013 22.9091C30.8571 23.0649 30.7013 23.0649 30.5455 23.0649C30.2338 22.9091 30.2338 22.4416 30.2338 22.2857V20.8831H29.6104V28.2078H30.3896C30.7013 24.3117 31.3247 22.7532 33.6623 21.5065C34.4416 21.039 35.5325 20.8831 36.9351 20.8831C38.961 20.8831 39.8961 22.1299 40.2078 22.9091C40.6753 23.6883 40.8312 24.7792 40.8312 26.026C40.8312 26.961 40.6753 28.3636 40.5195 29.1429C40.2078 30.2338 39.7403 31.1688 38.4935 31.9481C36.9351 30.7013 35.8442 30.5455 34.9091 30.5455C32.7273 30.5455 32.1039 31.6364 32.1039 32.2597C32.1039 32.8831 32.4156 34.1299 34.7532 34.1299C35.6883 34.1299 36.7792 33.974 38.4935 32.7273C39.5844 33.3507 40.3636 34.1299 40.8312 35.2208C41.1429 35.8442 41.4545 37.2468 41.4545 39.2727C41.4545 39.8961 41.4545 43.4805 40.052 45.039C39.4286 45.8182 38.6494 46.5974 37.4026 46.5974C35.3766 46.5974 34.2857 45.039 33.8182 44.1039C33.3507 43.3247 32.8831 42.8571 32.4156 42.2338C31.7922 41.6104 31.3247 41.1429 30.0779 41.1429C28.987 40.987 28.2078 41.2987 27.4286 41.9221C27.1169 42.2338 26.8052 42.3896 26.6494 42.7013V41.2987V38.3377H25.8701V39.2727C25.8701 39.7403 25.7143 40.2078 25.5584 40.3636C25.4026 40.5195 25.2468 40.6753 24.4675 40.6753C24.3117 40.6753 23.8442 40.5195 23.5325 40.5195H23.3766L12 37.5584L26.6494 30.0779V22.5974H25.8701V22.7532V23.5325V24.1558V24.3117C25.8701 24.6234 25.8701 24.9351 25.5584 25.2468C25.0909 25.7143 24.3117 25.7143 23.5325 25.7143H12C12.6234 25.5584 13.0909 25.4026 13.5584 25.2468C16.987 24 18.0779 21.3507 18.0779 19.1688C18.0779 16.5195 16.6753 14.961 15.5844 14.1818C14.3377 13.2468 13.0909 12.6234 10.2857 12.1558C13.7143 11.8442 16.987 9.66234 16.987 5.92208C16.987 1.55844 13.2468 0.311688 10.4416 0H0V25.0909V26.3377V28.6753C0.155844 27.7403 0.467532 27.4286 0.779221 27.2727C0.779221 27.2727 0.935065 27.1169 1.09091 27.1169C1.24675 27.1169 1.4026 27.1169 1.55844 27.1169C1.71429 27.1169 1.87013 27.1169 2.02597 27.1169H21.6623L2.96104 36.7792L24.9351 42.3896H0.467533ZM35.0649 33.6623C34.1299 33.6623 33.974 33.1948 33.974 32.7273C33.974 32.4156 34.1299 31.7922 35.2208 31.7922C35.5325 31.7922 36.4675 31.7922 37.7143 32.7273C36.9351 33.1948 35.8442 33.6623 35.0649 33.6623ZM5.45455 1.87013C5.45455 1.55844 5.45455 1.24675 5.76623 0.935065C5.92208 0.779221 6.23377 0.467533 7.48052 0.467533C8.1039 0.467533 9.19481 0.467533 9.97403 1.24675C11.2208 2.49351 11.3766 4.67532 11.3766 5.92208C11.3766 6.85714 11.3766 7.79221 11.0649 8.72727C10.9091 9.50649 10.5974 10.2857 9.81818 10.9091C9.66234 11.0649 9.03896 11.5325 7.79221 11.8442C7.48052 11.8442 7.16883 11.8442 6.85714 11.8442H5.45455V1.87013ZM9.97403 24.7792C9.19481 25.4026 7.94805 25.5584 7.01299 25.5584C6.23377 25.5584 5.76623 25.4026 5.61039 25.0909C5.45455 24.7792 5.45455 23.8442 5.45455 23.2208V12.6234H7.16883C7.48052 12.6234 7.79221 12.6234 7.94805 12.6234C8.57143 12.7792 9.03896 12.9351 9.50649 13.0909C10.9091 13.8701 12 15.4286 12 19.1688C12 20.4156 12 21.974 11.2208 23.2208C10.9091 23.8442 10.5974 24.4675 9.97403 24.7792Z" fill="#1E1E1E"></path>
+        </svg></a>
+    <button class="header__mob-btn">
+        <svg width="30" height="12" viewBox="0 0 30 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M0 0H30V2H0V0ZM0 5H30V7H0V5ZM0 10H30V12H0V10Z" fill="black"></path>
+        </svg>
+    </button>
+</div>
+<div class="header__nav-mob nav-mob">
+    <div class="nav-mob__container">
+        <div class="nav-mob__header">
+            <div class="nav-mob__links"><a class="nav-mob__header-link bvi-open bvi-hide" href="#">
+                    <svg width="20" height="14" viewBox="0 0 20 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M10 4.09091C10.7233 4.09091 11.417 4.37825 11.9285 4.88971C12.4399 5.40117 12.7273 6.09486 12.7273 6.81818C12.7273 7.5415 12.4399 8.23519 11.9285 8.74666C11.417 9.25812 10.7233 9.54545 10 9.54545C9.27668 9.54545 8.58299 9.25812 8.07153 8.74666C7.56006 8.23519 7.27273 7.5415 7.27273 6.81818C7.27273 6.09486 7.56006 5.40117 8.07153 4.88971C8.58299 4.37825 9.27668 4.09091 10 4.09091ZM10 0C14.5455 0 18.4273 2.82727 20 6.81818C18.4273 10.8091 14.5455 13.6364 10 13.6364C5.45455 13.6364 1.57273 10.8091 0 6.81818C1.57273 2.82727 5.45455 0 10 0ZM1.98182 6.81818C3.48182 9.87273 6.58182 11.8182 10 11.8182C13.4182 11.8182 16.5182 9.87273 18.0182 6.81818C16.5182 3.76364 13.4182 1.81818 10 1.81818C6.58182 1.81818 3.48182 3.76364 1.98182 6.81818Z" fill="#FFFFFF"></path>
+                    </svg></a><a class="nav-mob__header-link" href="/search/">
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6.5 0.25C8.22391 0.25 9.87721 0.934819 11.0962 2.15381C12.3152 3.37279 13 5.02609 13 6.75C13 8.36 12.41 9.84 11.44 10.98L11.71 11.25H12.5L17.5 16.25L16 17.75L11 12.75V11.96L10.73 11.69C9.59 12.66 8.11 13.25 6.5 13.25C4.77609 13.25 3.12279 12.5652 1.90381 11.3462C0.684819 10.1272 0 8.47391 0 6.75C0 5.02609 0.684819 3.37279 1.90381 2.15381C3.12279 0.934819 4.77609 0.25 6.5 0.25ZM6.5 2.25C4 2.25 2 4.25 2 6.75C2 9.25 4 11.25 6.5 11.25C9 11.25 11 9.25 11 6.75C11 4.25 9 2.25 6.5 2.25Z" fill="#FFFFFF"></path>
+                    </svg></a></div>
+            <button class="nav-mob__close-btn">
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M14 1.41L12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41Z" fill="white"></path>
+                </svg>
+            </button>
+        </div>
+        <ul class="nav-mob__list">
+                        <li class="nav-mob__item accordion">
+                <div class="nav-mob__link accordion__header"><span class="accordion__title">Посетителям</span>
+                    <svg class="nav-mob__icon accordion__icon" width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.41 0.0800781L6 4.67008L10.59 0.0800781L12 1.50008L6 7.50008L0 1.50008L1.41 0.0800781Z" fill="white"></path>
+                    </svg>
+                </div>
+                <div class="accordion__body">
+                    <ul class="nav-mob__subnav subnav-mob accordion__content">
+
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/programms/"
+                                                            >Экскурсии и программы</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/prices/muzey-prirody-kraya/"
+                                                            >Цены и льготы</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/"
+                                                            >Режим работы</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/kontakty/"
+                                                            >Контакты</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/news/"
+                                                            >Новости и события</a>
+                        </li>
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/turfirmam/"
+                                                            >Турфирмам</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museum-online/"
+                                                            >Музей-онлайн</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/inklyuzivnyy-muzey/"
+                                                            >Инклюзивный музей</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/monuments/"
+                                                            >Архитектурные объекты</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/report-a-problem"
+                                                            >Сообщить о проблеме</a>
+                        </li>
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/chasto-zadavaemye-voprosy/"
+                                                            >Часто задаваемые вопросы</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/pravila-poseshcheniya/"
+                                                            >Правила посещения</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/pages/pravila-pokupki-i-vozvrata-biletov/"
+                                                            >Правила покупки и возврата билетов</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/publications/"
+                                                            >Издания</a>
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="nav-mob__item accordion">
+                <div class="nav-mob__link accordion__header"><span class="accordion__title">Музеи</span>
+                    <svg class="nav-mob__icon accordion__icon" width="12" height="8" viewBox="0 0 12 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.41 0.0800781L6 4.67008L10.59 0.0800781L12 1.50008L6 7.50008L0 1.50008L1.41 0.0800781Z" fill="white"></path>
+                    </svg>
+                </div>
+                <div class="accordion__body">
+                    <ul class="nav-mob__subnav subnav-mob accordion__content">
+
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/muzey-istorii-i-kultury-velikogo-ustyuga/"
+                                                            >Музей истории и культуры Великого Устюга</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/muzey-drevnerusskogo-iskusstva/"
+                                                            >Музей древнерусского искусства</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/muzey-novogodney-i-rozhdestvenskoy-igrushki/"
+                                                            >Музей новогодней и рождественской игрушки</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/detskiy-muzeynyy-tsentr/"
+                                                            >Детский музейный центр</a>
+                        </li>
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/muzey-prirody-kraya/"
+                                                            >Музей природы края</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/muzey-etnografii/"
+                                                            >Музей этнографии</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/depozitariy/"
+                                                            >Депозитарий</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/vystavochnyy-zal/"
+                                                            >Выставочный зал</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/ansambl-troitse-gledenskogo-monastyrya/"
+                                                            >Ансамбль Троице-Гледенского монастыря</a>
+                        </li>
+                                                                            <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/sobor-uspeniya-presvyatoy-bogoroditsy-i-kolokolnya-uspenskogo-sobora/"
+                                                            >Собор Успения Пресвятой Богородицы и колокольня</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/sobor-prokopiya-pravednogo/"
+                                                            >Собор Прокопия Праведного</a>
+                        </li>
+                                                <li class="subnav-mob__item">
+                            <a class="subnav-mob__link" href="/museums/sobor-arkhangela-mikhaila/"
+                                                            >Собор Архангела Михаила</a>
+                        </li>
+                                            </ul>
+                </div>
+            </li>
+                        <li class="nav-mob__item">
+                <a class="nav-mob__link subnav-mob__link" href="/programms/?set_filter=y&arrFilter_23_2982134865=Y&arrFilter_23_79196097=Y&arrFilter_23_3752021533=Y"
+                                    >Детям</a>
+            </li>
+                        <li class="nav-mob__item">
+                <a class="nav-mob__link subnav-mob__link" href="/pages/kollektsii/"
+                                    >Коллекции</a>
+            </li>
+                        <li class="nav-mob__item">
+                <a class="nav-mob__link subnav-mob__link" href="/projects/"
+                                    >Проекты</a>
+            </li>
+                        <li class="nav-mob__item">
+                <a class="nav-mob__link subnav-mob__link" href="/pages/donations/"
+                                    >Поддержать музей</a>
+            </li>
+                    </ul>
+        <div class="nav-mob__footer"><a class="nav-mob__footer-link feedback">Связаться с нами</a>
+			<a class="nav-mob__footer-link" href="https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik"
+               target="_blank"
+               rel="nofollow noopener"
+            >Купить билет</a>
+		</div>
+    </div>
+</div>            </header>
+
+            <main class="page">
+
+						<section class="banner">
+    <div class="banner__container">
+        <div class="banner__swiper swiper" id="banner-slider">
+            <div class="swiper-wrapper">                <div class="banner-item swiper-slide">
+
+                    <div class="banner-item__img">
+                        <img
+                            class="banner-item__img"
+                            src="/upload/resize_cache/iblock/130/1200_800_0/p4jc9zqluv8njqpfu68or0gcl2r010wr.jpg"
+                            alt="" width="720" height="550">
+                    </div>
+                </div>
+                                <div class="banner-item swiper-slide">
+
+                    <div class="banner-item__img">
+                        <img
+                            class="banner-item__img"
+                            src="/upload/resize_cache/iblock/e4e/1200_800_0/1j9njz8q0dxybnupsays71sp3s0ggn8g.jpg"
+                            alt="" width="720" height="550">
+                    </div>
+                </div>
+                                <div class="banner-item swiper-slide">
+
+                    <div class="banner-item__img">
+                        <img
+                            class="banner-item__img"
+                            src="/upload/resize_cache/iblock/eb2/1200_800_0/ptujivkg9n24g6yri8brjcizl35ynobs.jpg"
+                            alt="" width="720" height="550">
+                    </div>
+                </div>
+                                <div class="banner-item swiper-slide">
+
+                    <div class="banner-item__img">
+                        <img
+                            class="banner-item__img"
+                            src="/upload/resize_cache/iblock/84c/1200_800_0/b6lquzvigyjanuehohhs0b8s1so3ugjt.jpg"
+                            alt="" width="720" height="550">
+                    </div>
+                </div>
+                            </div>
+            <div class="banner-item__pagination swiper-pagination bvi-background-image"></div>
+        </div>
+        <div class="banner-item__info">
+            <div class="banner-item__primary-info">
+                <h1 class="banner-item__title">Великоустюгский государственный музей-заповедник</h1>
+                <div class="banner-item__text">
+                    Подать заявку на экскурсионное обслуживание: <br />
+&#43; 7 &#40;81738&#41; 2-35-76; <a class="txttohtmllink" href="mailto:excursion@ustyug-museum.ru" title="Написать письмо">excursion@ustyug-museum.ru</a><br />
+<br />
+КУПИТЬ БИЛЕТ<br />
+<a class="txttohtmllink" href="https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik">https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik</a>                </div>
+            </div>
+            <div class="banner-item__more">
+                <a class="banner-item__button button button_text button_filled button_filled_white"
+                   href="pages/about-museum/" tabindex="0">
+                    Читать подробнее                </a>
+            </div>
+        </div>
+    </div>
+    <div class="banner-item__btns-container container bvi-background-image">
+        <button class="banner-item__prev-btn button button_arrow button_arrow_back button_filled button_filled_white">
+            <svg width="14" height="14">
+                <use xlink:href="#arrow-fwd"></use>
+            </svg>
+        </button>
+        <button class="banner-item__next-btn button button_arrow button_filled button_filled_white">
+            <svg width="14" height="14">
+                <use xlink:href="#arrow-fwd"></use>
+            </svg>
+        </button>
+    </div>
+</section> 
+<section class="museums section">
+    <div class="container">
+        <div class="museums__header section__header"><span class="museums__title">Музеи и памятники архитектуры</span>
+            <div class="section__buttons-container section__buttons-container_header">
+                <button class="museums__button button button_text button_outlined button_outlined_green museums__map-btn" >Музеи на карте города
+                    <svg width="20" height="20">
+                        <use xlink:href="#geo"></use>
+                    </svg>
+                </button>
+                <a class="museums__button button button_text button_outlined button_outlined_green" href="/monuments/">Архитектурные объекты
+                    <svg width="19" height="20">
+                        <use xlink:href="#museum"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+        <div class="museums__body section__body">
+            <div class="museums__swiper swiper" id="museums-swiper">
+                <div class="swiper-wrapper">
+
+                                        <a class="museums__link swiper-slide" href="/museums/muzey-istorii-i-kultury-velikogo-ustyuga/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Музей истории и культуры Великого Устюга</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/1c6/wskc2iyk17ir3qlfxk8cj9un8fxft3ao.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/533/p8dnr61rxelxtcehj37jbkfhybd22c29.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/muzey-drevnerusskogo-iskusstva/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Музей древнерусского искусства</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/8f6/dtgqy2wic40kau96dklb1q2nh0vgrgt5.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/9b0/a1k0j1vkbf9yt9k21xjeyf00knmiz992.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/muzey-novogodney-i-rozhdestvenskoy-igrushki/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Музей новогодней и рождественской игрушки</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/49d/vgtos2fhizl56c2skvridsg4ihsd8vk7.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/fa8/5x1k84kjol5c8tr0tdirysp441ckesoi.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/detskiy-muzeynyy-tsentr/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Детский музейный центр</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/957/z9q6ownrgi85n9okpou03lad5s5qg9sn.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/d36/hmn4qit0eg3l41p8gog8slhnt5fw1psw.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/muzey-prirody-kraya/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Музей природы края</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/67b/v7g1c54n39222q9i6mf0xadoe33xii40.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/7f5/dejxl0pl0xzrckoiq7fajmurdq6qrqrx.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/muzey-etnografii/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Музей этнографии</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/dda/r3mdm4l8ivn5bhlw8tzcyiblyz9mnyuj.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/285/jrf9x05yu3he02lncu99h21dqxc8abjt.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/depozitariy/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Депозитарий</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/8b4/9gqg0d9ojz3jtl5py3oo8g5lbjmgnbw3.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/186/dkxrdrfrppuve9lxljj0h8bejxe8jv5i.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/vystavochnyy-zal/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Выставочный зал</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/878/nq6fudseeojcz1ojlci1676ob08sr30y.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/5a7/cnpqs7vvfddlp5h1vm5oqz1lplkc2blf.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/ansambl-troitse-gledenskogo-monastyrya/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Ансамбль Троице-Гледенского монастыря</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/3ae/b5sq4yw9kki7lh60erffn748nfxp6stf.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/fcc/95ltydgogrh3qp9yufceopejne7soklf.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/sobor-arkhangela-mikhaila/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Собор Архангела Михаила</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/963/plfeottj2bvdpzcidrr6s2u9hcfv1sq7.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/71e/zq2bgptvxde97zy67wbtvlcche4uij54.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/sobor-prokopiya-pravednogo/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Собор Прокопия Праведного</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/3e1/8vhj2uovzx49pfkp20u4pml6fqje7ih7.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/70c/xisd8jwnnh5c0djr7wnvw3k41aqyyl3g.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                        <a class="museums__link swiper-slide" href="/museums/sobor-uspeniya-presvyatoy-bogoroditsy-i-kolokolnya-uspenskogo-sobora/">
+                        <div class="museums__item">
+                            <p class="museums__item-title">
+                                <span>Собор Успения Пресвятой Богородицы и колокольня</span>
+                            </p>
+                            <div class="museums__img-container">
+                                <img class="museums__img museums__img_outlined"
+                                     src="/upload/iblock/b8d/l70xvvpo05e679smkk4tn1aqrtytj7z7.svg"
+                                     alt="">
+                                <img class="museums__img museums__img_filled"
+                                     src="/upload/iblock/a54/2c110wlm1vc3720rlgxw489v27b1ih0k.svg"
+                                     alt="">
+                            </div>
+                        </div>
+                    </a>
+                                    </div>
+            </div>
+            <button class="museums__prev-btn button button_arrow button_arrow_back button_outlined button_outlined_green">
+                <svg width="14" height="14">
+                    <use xlink:href="#arrow-fwd"></use>
+                </svg>
+            </button>
+            <button class="museums__next-btn button button_arrow button_outlined button_outlined_green">
+                <svg width="14" height="14">
+                    <use xlink:href="#arrow-fwd"></use>
+                </svg>
+            </button>
+            <div class="section__buttons-container section__buttons-container_body">
+                <button class="museums__button button button_text button_outlined button_outlined_green museums__map-btn">Музеи на карте города
+                    <svg width="20" height="20">
+                        <use xlink:href="#geo"></use>
+                    </svg>
+                </button>
+                <a class="museums__button button button_text button_outlined button_outlined_green" href="/monuments/">Архитектурные объекты
+                    <svg width="19" height="20">
+                        <use xlink:href="#museum"></use>
+                    </svg></a>
+            </div>
+        </div>
+    </div>
+</section>
+ <section class="questions">
+    <div class="questions__container container">
+
+                <a class="questions__link" href="https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Купить билет</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/c7d/u9st6q5osf71gvnpblbc9900e9jsx6yl.png" width="80" height="80" alt="Купить билет">
+            </div>
+        </a>
+                <a class="questions__link" href="museums/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Часы работы музеев</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/466/evk5p8zebfwid7tej3hfpgvc7j8ahwoc.jpg" width="80" height="80" alt="Часы работы музеев">
+            </div>
+        </a>
+                <a class="questions__link" href="pages/kontakty/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Контакты</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/71e/s9m5go9s0l6o00own3gk1s9a34fo3pl8.jpg" width="80" height="80" alt="Контакты">
+            </div>
+        </a>
+                <a class="questions__link" href="pages/pushkinskaya-karta/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Пушкинская карта</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/d83/plwca2vuy63uz3j9f3ccbzxytnbz9w1p.png" width="80" height="80" alt="Пушкинская карта">
+            </div>
+        </a>
+                <a class="questions__link" href="museum-online/?set_filter=y&arrFilter_90=2944839123">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Подкаст</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/7e7/073tj5n14aat9v9gxq6u4udw72gtpdmu.jpg" width="80" height="80" alt="Подкаст">
+            </div>
+        </a>
+                <a class="questions__link" href="pages/ekskursii-po-gorodu/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Экскурсии по городу</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/d0b/ofhrn32c7ad3qseelpz3o5u4kiaf6hil.png" width="80" height="80" alt="Экскурсии по городу">
+            </div>
+        </a>
+                <a class="questions__link" href="pages/kak-dobratsya/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Как добраться?</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/b9b/sd3ty1of4zrp7o0q1mzmz7cweet65n3t.jpg" width="80" height="80" alt="Как добраться?">
+            </div>
+        </a>
+                <a class="questions__link" href="programms/">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Куда пойти с детьми?</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/90d/ie9we1xs9z1vtf2enoduin6mq38lefej.jpg" width="80" height="80" alt="Куда пойти с детьми?">
+            </div>
+        </a>
+                <a class="questions__link" href="https://forms.mkrf.ru/e/2579/xTPLeBU7/?ap_orgcode=113834">
+            <div class="questions__item">
+                <span class="questions__title">
+                    <span>Оценить качество услуг музея</span>
+                </span>
+                <img class="questions__img" src="/upload/iblock/878/qy2447uyi5g30s2d4j8q2wln9ysw6cvj.png" width="80" height="80" alt="Оценить качество услуг музея">
+            </div>
+        </a>
+            </div>
+</section><section class="info">
+    <div class="info__container container">
+        <div class="info__item banner-item">
+            <div class="banner-item__info">
+                <div class="banner-item__primary-info">
+                    <div class="banner-item__title">Великий Уcтюг — город с историей</div>
+                    <div class="banner-item__text">Историки утверждают, что первое упоминание о Великом Устюге относится к 1147 году. К концу XIV века, войдя в состав Московского княжества, Устюг стал центром северных земель.</div>
+                </div>
+                <div class="banner-item__more">
+                    <a class="info__button banner-item__button button button_text button_outlined button_outlined_white"
+                       href="pages/about-city/">
+                        Читать подробнее                    </a>
+                </div>
+            </div>
+            <div class="banner-item__img">
+                <img src="/upload/iblock/244/afdjlcq9papbpy7loj4is8g51vghq7iu.jpg"
+                     alt="Великий Уcтюг — город с историей"
+                     width="2000"
+                     height="1500"
+                     loading="lazy">
+            </div>
+        </div>
+    </div>
+</section>
+ <section class="news section">
+    <div class="container section__container">
+        <div class="news__header section__header">
+            <span class="news__header-title section__title">Новости и события</span>
+            <a class="news__header-btn section__button section__button_header button button_text button_outlined_green" href="/news/">Все новости
+                <svg width="14" height="14">
+                    <use xlink:href="#arrow-fwd"></use>
+                </svg></a></div>
+    </div>
+<div class="container container_full-on-mobile">
+    <div class="news__body section__body">
+        <div class="news__list cards-grid section__cards-grid">
+                                            <div class="card card_full-width cards-grid__item">
+                    <a class="card__img card_full-width__img" href="/news/vystavka-geroi-i-simvoly-velikoy-pobedy/">
+                                                    <img
+                                border="0"
+                                src="/upload/iblock/2e4/0zpwbvfb7o53unaqzd2g7sr803ao7w10.jpg"
+                                width="730"
+                                height="577"
+                                alt="Выставка «Герои и символы Великой Победы»"
+                                title="Выставка «Герои и символы Великой Победы»"
+                            />
+                                            </a>
+                    <div class="card__info card_full-width__info">
+                        <div class="card__desc card_full-width__desc">
+                                                            <div class="card__type card__type_color_gold">27 февраля 2025 г. – 6 сентября 2025 г.</div>
+                                                        <div class="card__age-limit card_full-width__age-limit">6+</div>
+                        </div>
+                                                    <a class="card__title card_full-width__title" href="/news/vystavka-geroi-i-simvoly-velikoy-pobedy/"><span>Выставка «Герои и символы Великой Победы»</span></a>
+                                                                        <a class="card__category card_full-width__category tag" href=""></a><a class="card__button card_full-width__button button button_text button_outlined_green" href="/news/vystavka-geroi-i-simvoly-velikoy-pobedy/">Читать подробнее
+                            <svg width="14" height="14">
+                                <use xlink:href="#arrow-fwd"></use>
+                            </svg></a>
+                    </div>
+                </div>
+                                                        <div class="card card_small cards-grid__item cards-grid__item_small">
+                    <a class="card__img" href="/news/vystavka-beryezovyy-vernisazh/">
+                                                    <img
+                                border="0"
+                                src="/upload/iblock/89e/730z2n0eo7z5yh3e2ob93q00bb51tuxe.jpg"
+                                width="800"
+                                height="748"
+                                alt="Выставка «Берёзовый вернисаж»"
+                                title="Выставка «Берёзовый вернисаж»"
+                                loading="lazy"
+                            />
+                                            </a>
+                    <div class="card__info">
+                        <div class="card__desc">
+                                                            <div class="card__type card__type_color_gold">2 января 2025 г. – 30 июня 2025 г.</div>
+                                                        <div class="card__age-limit">0+</div>
+                        </div>
+                                                    <a class="card__title" href="/news/vystavka-beryezovyy-vernisazh/"><span>Выставка «Берёзовый вернисаж»</span></a>
+                                                <a class="card__category tag" href=""></a>
+                    </div>
+                </div>
+                                            <div class="card card_small cards-grid__item cards-grid__item_small">
+                    <a class="card__img" href="/news/vystavka-velikoustyuzhskaya-rospis-traditsii-i-sovremennost/">
+                                                    <img
+                                border="0"
+                                src="/upload/iblock/167/kxw9epll8funeeutj71xzburttto0us7.jpg"
+                                width="799"
+                                height="566"
+                                alt="Выставка «Великоустюжская роспись. Традиции и современность»"
+                                title="Выставка «Великоустюжская роспись. Традиции и современность»"
+                                loading="lazy"
+                            />
+                                            </a>
+                    <div class="card__info">
+                        <div class="card__desc">
+                                                            <div class="card__type card__type_color_gold">2 января 2025 г. – 28 февраля 2026 г.</div>
+                                                        <div class="card__age-limit">0+</div>
+                        </div>
+                                                    <a class="card__title" href="/news/vystavka-velikoustyuzhskaya-rospis-traditsii-i-sovremennost/"><span>Выставка «Великоустюжская роспись. Традиции и современность»</span></a>
+                                                <a class="card__category tag" href=""></a>
+                    </div>
+                </div>
+                                            <div class="card card_small cards-grid__item cards-grid__item_small">
+                    <a class="card__img" href="/news/vystavka-kruzhevnaya-skazka/">
+                                                    <img
+                                border="0"
+                                src="/upload/iblock/0d5/oq3taerqmyas9w9zouhsa3s0h8w0u5km.jpg"
+                                width="2000"
+                                height="1562"
+                                alt="Выставка «Кружевная сказка»"
+                                title="Выставка «Кружевная сказка»"
+                                loading="lazy"
+                            />
+                                            </a>
+                    <div class="card__info">
+                        <div class="card__desc">
+                                                            <div class="card__type card__type_color_gold">2 января 2025 г. – 10 марта 2025 г.</div>
+                                                        <div class="card__age-limit">0+</div>
+                        </div>
+                                                    <a class="card__title" href="/news/vystavka-kruzhevnaya-skazka/"><span>Выставка «Кружевная сказка»</span></a>
+                                                <a class="card__category tag" href=""></a>
+                    </div>
+                </div>
+                                            <div class="card card_small cards-grid__item cards-grid__item_small">
+                    <a class="card__img" href="/news/za-suvenirami-v-muzey/">
+                                                    <img
+                                border="0"
+                                src="/upload/iblock/2c2/m5lerx6i2zjx4liehb566gzzvde5c82e.jpg"
+                                width="2000"
+                                height="1414"
+                                alt="В музей за сувенирами"
+                                title="В музей за сувенирами"
+                                loading="lazy"
+                            />
+                                            </a>
+                    <div class="card__info">
+                        <div class="card__desc">
+                                                            <div class="card__type card__type_color_grey">Новость</div>
+                                                        <div class="card__age-limit">0+</div>
+                        </div>
+                                                    <a class="card__title" href="/news/za-suvenirami-v-muzey/"><span>В музей за сувенирами</span></a>
+                                                <a class="card__category tag" href=""></a>
+                    </div>
+                </div>
+                    </div>
+            </div>
+    <div class="container"><a class="section__button section__button_body button button_text button_outlined button_outlined_green" href="/news/">Все новости
+            <svg width="14" height="14">
+                <use xlink:href="#arrow-fwd"></use>
+            </svg></a></div>
+</section> <section class="card-info">
+    <div class="card-info__background">
+        <div class="card-info__container container">
+            <div class="card-info__info-container">
+                <p class="card-info__title">Пушкинская карта</p>
+                <p class="card-info__description">
+                    В нашем музее вы можете приобрести билеты по «Пушкинской карте» <br />
+<br />
+<br />
+<br />
+                </p>
+                 <a class="card-info__button button button_text button_filled button_filled_white"
+                   href="https://afisha.cultinfo.ru/organizers/1-buk-vo-velikoustyugskij-gosudarstvennyj-muzej-zapovednik"
+                >
+                    Выбрать мероприятие                    <svg width="14" height="14">
+                        <use xlink:href="#arrow-fwd"></use>
+                    </svg>
+                </a>
+            </div>
+            <div class="card-info__img-container">
+                <img class="card-info__img"
+                     src="/upload/iblock/fd8/9xbxehto8xggmlld9fqhufzcfk9shb36.png"
+                     alt="Пушкинская карта" loading="lazy"
+                >
+            </div>
+        </div>
+    </div>
+</section><div class="map-popup">
+    <div class="map-popup__container container">
+        <div class="map-popup__map" id="map">
+            <button class="map-popup__close-btn button button_arrow button_outlined_green">
+                <svg width="14" height="14">
+                    <use xlink:href="#map-popup-close-btn"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+</div>
+
+<script>
+    var museums = [{"NAME":"\u041c\u0443\u0437\u0435\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0412\u0435\u043b\u0438\u043a\u043e\u0433\u043e \u0423\u0441\u0442\u044e\u0433\u0430","X":"60.758453","Y":"46.302188","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/muzey-istorii-i-kultury-velikogo-ustyuga\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u041c\u0443\u0437\u0435\u0439 \u0434\u0440\u0435\u0432\u043d\u0435\u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0430","X":"60.755517","Y":"46.310084","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/muzey-drevnerusskogo-iskusstva\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u041c\u0443\u0437\u0435\u0439 \u043d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u0435\u0439 \u0438\u00a0\u0440\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0435\u043d\u0441\u043a\u043e\u0439 \u0438\u0433\u0440\u0443\u0448\u043a\u0438","X":"60.752963","Y":"46.311665","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/muzey-novogodney-i-rozhdestvenskoy-igrushki\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u043c\u0443\u0437\u0435\u0439\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440","X":"60.761688","Y":"46.297652","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/detskiy-muzeynyy-tsentr\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u041c\u0443\u0437\u0435\u0439 \u043f\u0440\u0438\u0440\u043e\u0434\u044b \u043a\u0440\u0430\u044f","X":"60.758295","Y":"46.303006","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/muzey-prirody-kraya\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u041c\u0443\u0437\u0435\u0439 \u044d\u0442\u043d\u043e\u0433\u0440\u0430\u0444\u0438\u0438","X":"60.756739","Y":"46.305144","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/muzey-etnografii\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0414\u0435\u043f\u043e\u0437\u0438\u0442\u0430\u0440\u0438\u0439","X":"60.762026","Y":"46.296293","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/depozitariy\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0412\u044b\u0441\u0442\u0430\u0432\u043e\u0447\u043d\u044b\u0439 \u0437\u0430\u043b","X":"60.760743","Y":"46.297247","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":false,"HOURS":"10:00 - 18:00","LINK":"\/museums\/vystavochnyy-zal\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0422\u0440\u043e\u0438\u0446\u043a\u0438\u0439 \u0441\u043e\u0431\u043e\u0440 \u0422\u0440\u043e\u0438\u0446\u0435-\u0413\u043b\u0435\u0434\u0435\u043d\u0441\u043a\u043e\u0433\u043e \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044f","X":"60.718559","Y":"46.309752","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":true,"HOURS":"10:00 - 18:00","LINK":"\/museums\/ansambl-troitse-gledenskogo-monastyrya\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0421\u043e\u0431\u043e\u0440 \u041f\u0440\u043e\u043a\u043e\u043f\u0438\u044f \u041f\u0440\u0430\u0432\u0435\u0434\u043d\u043e\u0433\u043e","X":"60.760365","Y":"46.297912","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":true,"HOURS":"10:00 - 18:00","LINK":"\/museums\/sobor-prokopiya-pravednogo\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0421\u043e\u0431\u043e\u0440 \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u0430 \u041c\u0438\u0445\u0430\u0438\u043b\u0430","X":"60.762677","Y":"46.305018","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":true,"HOURS":"10:00 - 18:00","LINK":"\/museums\/sobor-arkhangela-mikhaila\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false},{"NAME":"\u0421\u043e\u0431\u043e\u0440 \u0423\u0441\u043f\u0435\u043d\u0438\u044f \u041f\u0440\u0435\u0441\u0432\u044f\u0442\u043e\u0439 \u0411\u043e\u0433\u043e\u0440\u043e\u0434\u0438\u0446\u044b \u0438 \u043a\u043e\u043b\u043e\u043a\u043e\u043b\u044c\u043d\u044f","X":"60.760848","Y":"46.298559","PRICE":"\u0411\u0438\u043b\u0435\u0442\u044b \u043e\u0442 100 \u0440\u0443\u0431.","GREEN_ICON":true,"HOURS":"10:00 - 18:00","LINK":"\/museums\/sobor-uspeniya-presvyatoy-bogoroditsy-i-kolokolnya-uspenskogo-sobora\/","LINK_TEXT":"\u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043c\u0443\u0437\u0435\u044f","OPENED":false}];
+    function initMap() {
+        const mapPopupOpenBtns = document.querySelectorAll('.museums__map-btn')
+        const mapPopupCloseBtn = document.querySelector('.map-popup__close-btn')
+        const mapPopup = document.querySelector('.map-popup')
+
+        let scrollPosition = 0
+
+        function blockScroll() {
+            scrollPosition = window.pageYOffset
+            const mainPage = document.querySelector('.page-container')
+            mainPage.style.top = `-${scrollPosition}px`
+            document.documentElement.classList.add('overlay-scroll-block')
+        }
+
+        function unblockScroll() {
+            document.documentElement.classList.remove('overlay-scroll-block')
+            window.scrollTo({
+                left: 0,
+                top: scrollPosition,
+                behavior: 'instant'
+            })
+            const mainPage = document.querySelector('.page-container')
+            mainPage.style.top = ""
+        }
+
+        mapPopupOpenBtns.forEach((btn) => {
+            btn.addEventListener('click', () => {
+                mapPopup.classList.add('map-popup_opened')
+                blockScroll()
+            })
+        })
+
+        mapPopupCloseBtn.addEventListener('click', () => {
+            mapPopup.classList.remove('map-popup_opened')
+            unblockScroll()
+        })
+
+        mapPopup.addEventListener('click', (e) => {
+            if (e.target === mapPopup) {
+                mapPopup.classList.remove('map-popup_opened')
+                unblockScroll()
+            }
+        })
+
+        let activeMarker = null
+        let activeCathedralMarker = null
+
+        ymaps.ready(init)
+
+
+        function init() {
+            const myMap = new ymaps.Map("map", {
+                    center: [60.758453, 46.302188],
+                    zoom: 15,
+                    controls: []
+                }, {
+                    yandexMapDisablePoiInteractivity: true
+                }),
+
+                MyBalloonLayout = ymaps.templateLayoutFactory.createClass(
+                    '<div class="balloon">' +
+                    '<a class="balloon__close-btn" href="#">&times;</a>' +
+                    '<div class="arrow"></div>' +
+                    '<div class="balloon__inner">' +
+                    '$[[options.contentLayout observeSize minWidth=235]]' +
+                    '</div>' +
+                    '</div>', {
+
+                        build: function () {
+                            this.constructor.superclass.build.call(this);
+
+                            this._element = this.getParentElement().querySelector('.balloon');
+                            this._onCloseClick = this.onCloseClick.bind(this);
+
+                            this.applyElementOffset();
+
+                            this._element.querySelector('.balloon__close-btn').addEventListener('click', this._onCloseClick);
+                        },
+
+                        clear: function () {
+                            this._element.querySelector('.balloon__close-btn').removeEventListener('click', this._onClickClick);
+
+                            this.constructor.superclass.clear.call(this);
+                        },
+
+                        onSublayoutSizeChange: function () {
+                            MyBalloonLayout.superclass.onSublayoutSizeChange.apply(this, arguments);
+
+                            if (!this._isElement(this._element)) {
+                                return;
+                            }
+
+                            this.applyElementOffset();
+
+                            this.events.fire('shapechange');
+                        },
+
+                        applyElementOffset: function () {
+                            Object.assign(this._element.style, {
+                                left: 40 + 'px',
+                                top: -30 + 'px'
+                            });
+                        },
+
+                        onCloseClick: function (e) {
+                            e.preventDefault();
+
+                            this.events.fire('userclose');
+                        },
+
+                        getShape: function () {
+                            if (!this._isElement(this._element)) {
+                                return MyBalloonLayout.superclass.getShape.call(this);
+                            }
+
+                            const style = getComputedStyle(this._element);
+                            const position = {
+                                left: parseFloat(style.left),
+                                top: parseFloat(style.top),
+                            };
+
+                            return new ymaps.shape.Rectangle(new ymaps.geometry.pixel.Rectangle([
+                                [position.left, position.top], [
+                                    position.left + this._element.offsetWidth,
+                                    position.top + this._element.offsetHeight + this._element.querySelector('.arrow').offsetHeight
+                                ]
+                            ]));
+                        },
+
+                        _isElement: function (element) {
+                            return element && element.querySelector('.arrow');
+                        }
+                    }),
+
+                MyBalloonContentLayout = ymaps.templateLayoutFactory.createClass(
+                    '<span class="balloon__title">{{ properties.balloonHeader }}</span>' +
+                    '<span class="balloon__time">{{properties.balloonContent}}</span>' +
+                    '<span class="balloon__tickets">{{properties.balloonFooter}}</span>' +
+                    '<a class="balloon__link" href="{{properties.balloonLink}}">{{properties.linkText}}</a>'
+                ),
+
+                inactiveAnimatedLayout = ymaps.templateLayoutFactory.createClass(
+                    '<div class="placemark"></div>',
+                    {
+                        build: function () {
+                            inactiveAnimatedLayout.superclass.build.call(this);
+                            const element = this.getParentElement().getElementsByClassName('placemark')[0];
+                            const size = this.isActive ? 60 : 26;
+                            const smallShape = {type: 'Circle', coordinates: [10, 10], radius: size / 2};
+                            const bigShape = {type: 'Circle', coordinates: [15, 15], radius: size / 4};
+                            this.getData().options.set('shape', this.isActive ? bigShape : smallShape);
+                            if (window.screen.width > 991) {
+                                element.classList.remove("active");
+                                // element.style.animation = ".35s show-small-placemark";
+                            }
+                        }
+                    }
+                ),
+
+                activeAnimatedLayout = ymaps.templateLayoutFactory.createClass(
+                    '<div class="placemark"></div>',
+                    {
+                        build: function () {
+                            activeAnimatedLayout.superclass.build.call(this);
+                            const element = this.getParentElement().getElementsByClassName('placemark')[0];
+                            const size = this.isActive ? 60 : 26;
+                            const smallShape = {type: 'Circle', coordinates: [10, 10], radius: size / 2};
+                            const bigShape = {type: 'Circle', coordinates: [15, 15], radius: size / 4};
+                            this.getData().options.set('shape', this.isActive ? bigShape : smallShape);
+                            if (window.screen.width > 991) {
+                                element.classList.add("active");
+                                element.style.animation = ".35s show-big-placemark";
+                            } else {
+                                element.classList.add("active-mobile");
+                            }
+                        }
+                    }
+                ),
+
+                inactiveGreenAnimatedLayout = ymaps.templateLayoutFactory.createClass(
+                    '<div class="placemark-cathedral"></div>',
+                    {
+                        build: function () {
+                            inactiveGreenAnimatedLayout.superclass.build.call(this);
+                            const element = this.getParentElement().getElementsByClassName('placemark-cathedral')[0];
+                            const size = this.isActive ? 60 : 26;
+                            const smallShape = {type: 'Circle', coordinates: [10, 10], radius: size / 2};
+                            const bigShape = {type: 'Circle', coordinates: [15, 15], radius: size / 4};
+                            this.getData().options.set('shape', this.isActive ? bigShape : smallShape);
+                            if (window.screen.width > 991) {
+                                element.classList.remove("active-cathedral");
+                                // element.style.animation = ".35s show-small-green-placemark";
+                            }
+                        }
+                    }
+                ),
+
+                activeGreenAnimatedLayout = ymaps.templateLayoutFactory.createClass(
+                    '<div class="placemark-cathedral"></div>',
+                    {
+                        build: function () {
+                            activeGreenAnimatedLayout.superclass.build.call(this);
+                            const element = this.getParentElement().getElementsByClassName('placemark-cathedral')[0];
+                            const size = this.isActive ? 60 : 26;
+                            const smallShape = {type: 'Circle', coordinates: [10, 10], radius: size / 2};
+                            const bigShape = {type: 'Circle', coordinates: [15, 15], radius: size / 2};
+                            this.getData().options.set('shape', this.isActive ? bigShape : smallShape);
+                            if (window.screen.width > 991) {
+                                element.classList.add("active-cathedral");
+                                element.style.animation = ".35s show-big-placemark";
+                            } else {
+                                element.classList.add("active-cathedral-mobile");
+                            }
+                        }
+                    }
+                );
+            let placemarks = [];
+            let openMuseum = -1;
+            for (let i = 0; i < museums.length; i++) {
+                placemarks[i] = new ymaps.Placemark([museums[i].X, museums[i].Y], {
+                    balloonHeader: museums[i].NAME,
+                    balloonContent: museums[i].HOURS,
+                    balloonFooter: museums[i].PRICE,
+                    balloonLink: museums[i].LINK,
+                    linkText: museums[i].LINK_TEXT
+                }, {
+                    iconLayout: museums[i].GREEN_ICON ? inactiveGreenAnimatedLayout : inactiveAnimatedLayout,
+                    balloonLayout: MyBalloonLayout,
+                    balloonContentLayout: MyBalloonContentLayout,
+                    balloonPanelMaxMapArea: 500000,
+                    hideIconOnBalloonOpen: false
+                });
+                if (museums[i].OPENED)
+                    openMuseum = i;
+
+                myMap.geoObjects.add(placemarks[i]);
+
+                placemarks[i].events.add('click', () => {
+                    if (activeCathedralMarker) {
+                        activeCathedralMarker.options.set('iconLayout', inactiveGreenAnimatedLayout)
+                        activeCathedralMarker = null
+                    }
+
+                    if (activeMarker) {
+                        activeMarker.options.set('iconLayout', inactiveAnimatedLayout)
+                        activeMarker = null
+                    }
+
+                    if (placemarks[i].state.get('active') !== 'undefined' && !placemarks[i].state.get('active')) {
+
+                        if (museums[i].GREEN_ICON) {
+                            placemarks[i].options.set('iconLayout', activeGreenAnimatedLayout)
+                            activeCathedralMarker = placemarks[i];
+                        } else {
+                            placemarks[i].options.set('iconLayout', activeAnimatedLayout)
+                            activeMarker = placemarks[i];
+                        }
+                    }
+                });
+
+            }
+
+            if (openMuseum > -1) {
+                placemarks[openMuseum].balloon.open();
+                if (museums[openMuseum].GREEN_ICON) {
+                    placemarks[openMuseum].options.set('iconLayout', activeGreenAnimatedLayout)
+                    activeCathedralMarker = placemarks[openMuseum];
+                } else {
+                    placemarks[openMuseum].options.set('iconLayout', activeAnimatedLayout)
+                    activeMarker = placemarks[openMuseum];
+                }
+            }
+
+            const searchControl = new ymaps.control.SearchControl({
+                options: {
+                    size: 'small',
+                    provider: 'yandex#search'
+                }
+            });
+
+            myMap.controls.add('zoomControl')
+            myMap.controls.add('geolocationControl')
+            myMap.controls.add(searchControl)
+        }
+    }
+    initMap();
+</script>
+<script type="text/javascript">if (window.location.hash != '' && window.location.hash != '#') top.BX.ajax.history.checkRedirectStart('bxajaxid', 'b869f9faaa3be0584f422a0c4a480dba')</script><div id="comp_b869f9faaa3be0584f422a0c4a480dba"><div class="contact-us ">
+    <div class="contact-us__wrapper">
+        <button class="contact-us__close-btn">
+            <img src="/local/templates/500na700/img/close-btn.svg" alt="Закрыть" width="14" height="14">
+        </button>
+
+        <div class="contact-us__header">
+        Связаться с&nbsp;нами
+    </div>
+    
+<form class="form" action="/" method="POST"><input type="hidden" name="bxajaxid" id="bxajaxid_b869f9faaa3be0584f422a0c4a480dba_8BACKi" value="b869f9faaa3be0584f422a0c4a480dba" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_8BACKi(){
+	if (BX('bxajaxid_b869f9faaa3be0584f422a0c4a480dba_8BACKi'))
+	{
+		var obForm = BX('bxajaxid_b869f9faaa3be0584f422a0c4a480dba_8BACKi').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_b869f9faaa3be0584f422a0c4a480dba', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (BX('bxajaxid_b869f9faaa3be0584f422a0c4a480dba_8BACKi'))
+	_processform_8BACKi();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script>
+    <input type="hidden" name="sessid" id="sessid" value="bb7db262037d451b799cfed6e8e1ccee" />            <label class="mf-name form__field">
+                Ваше имя                <input class="form__input" type="text" name="user_name" value="">
+            </label>
+            <br>
+            <label class="mf-phone form__field">
+                Ваш телефон                <input class="form__input input-phone-js" type="tel" placeholder="+7" name="user_phone" value="">
+            </label>
+            <br>
+            <label class="mf-email form__field">
+                Ваш E-mail                <input class="form__input" type="text" name="user_email" value="">
+            </label>
+            <br>
+            <label class="mf-message form__field">
+                Сообщение
+                <textarea class="form__input form__input-textarea" name="MESSAGE" rows="5" cols="40"></textarea>
+            </label>
+                <div class="mf-captcha">
+<!--            <div class="mf-text">--><!--</div>-->
+            <input type="hidden" name="captcha_sid" value="07d0e9d0384f6dfd2f71b94972675fe9">
+            <img src="/bitrix/tools/captcha.php?captcha_sid=07d0e9d0384f6dfd2f71b94972675fe9" width="182" height="42" alt="CAPTCHA">
+            <label class="mf-text form__field">Введите слово на картинке                <input class="form__input" type="text" name="captcha_word" size="30" maxlength="50" value="">
+            </label>
+        </div>
+                <input type="hidden" name="PARAMS_HASH" value="e2e6460ddf42d0eefa376fdf46b051a0">
+        <input class="button button_text button_filled button_filled_white button_feedback" type="submit" name="submit" value="Отправить">
+    </form>
+        <script>
+            (function () {
+                let inputPhone = $('.input-phone-js');
+                $.each(inputPhone, function (index, item) {
+                    let iti = intlTelInput(item, {
+                        initialCountry: "RU"
+                    });
+                    $('.input-phone-js').mask('+' + iti.getSelectedCountryData().dialCode + ' (000) 000-0000');
+                });
+
+                $('.feedback').on('click', function () {
+                    $('.contact-us').addClass('contact-us_open');
+                    $('body').addClass('body_hidden');
+                    console.log($('.nav-mob_opened').length);
+                    if ($('.nav-mob_opened').length) {
+                        console.log('закрой меня');
+                        $('.nav-mob__close-btn').click();
+                    }
+                })
+
+                $('.contact-us__close-btn').on('click', function () {
+                    $('.contact-us').removeClass('contact-us_open');
+                    $('body').removeClass('body_hidden');
+
+                })
+            })();
+        </script>
+    </div>
+</div>
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish('bxajaxid', 'b869f9faaa3be0584f422a0c4a480dba');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component('comp_b869f9faaa3be0584f422a0c4a480dba'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script></main>
+
+<div class="cookie popup-notification">
+     <div class="cookie__content">   
+         <div class="cookie__text">
+                Пользуясь нашим сайтом, вы соглашаетесь с нашей 
+                <a href="/upload/iblock/6ba/15ojhq2j0exq5pvezqzyz5cep70jnnol.docx">
+                    политикой конфиденциальности 
+                </a>
+                и 
+                <a href="/upload/iblock/9e1/hsbnpqg84s01e8kmvereddwe2klhyrop.docx">
+                    условиями использования материалов сайта
+                </a>
+            </div> 
+            <a class="banner-item__button button button_text button_filled_green cookie__close">Хорошо</a>
+     </div>                 
+     <a class="arrow-close cookie__close">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17 4.41L15.59 3L10 8.59L4.41 3L3 4.41L8.59 10L3 15.59L4.41 17L10 11.41L15.59 17L17 15.59L11.41 10L17 4.41Z" fill="#1E1E1E"/>
+        </svg>
+     </a>                   
+</div><footer class="footer">
+    <div class="footer__content">
+        <div class="footer__content-container container">
+            <div class="footer__content-column">
+                <div class="footer__mail mail">
+                    <script type="text/javascript">if (window.location.hash != '' && window.location.hash != '#') top.BX.ajax.history.checkRedirectStart('bxajaxid', 'd923c764823f4480bf4898aaa4ba531d')</script><div id="comp_d923c764823f4480bf4898aaa4ba531d"><p class="mail__form-title">Подпишитесь на рассылку</p>
+
+<div class="mfeedback">
+    
+    
+<form class="mail__form form" name="emailForm" action="/" method="POST"><input type="hidden" name="bxajaxid" id="bxajaxid_d923c764823f4480bf4898aaa4ba531d_Ar8Szp" value="d923c764823f4480bf4898aaa4ba531d" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_Ar8Szp(){
+	if (BX('bxajaxid_d923c764823f4480bf4898aaa4ba531d_Ar8Szp'))
+	{
+		var obForm = BX('bxajaxid_d923c764823f4480bf4898aaa4ba531d_Ar8Szp').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_d923c764823f4480bf4898aaa4ba531d', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+}
+if (BX('bxajaxid_d923c764823f4480bf4898aaa4ba531d_Ar8Szp'))
+	_processform_Ar8Szp();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+</script>
+        <input type="hidden" name="sessid" id="sessid_1" value="bb7db262037d451b799cfed6e8e1ccee" />        <label for="email-input" class="form__field mf-email">Введите ваш email
+            <input class="form__input" id="email-input" name="user_email" type="email" placeholder="Email" required>
+            <input class="form__submit-btn" type="submit" name="submit" value="0" style="color: transparent">
+        </label>
+
+                    <div class="mf-captcha">
+<!--                <div class="mf-text">--><!--</div>-->
+                <input type="hidden" name="captcha_sid" value="0e2d5f3fbf6215b3225f903cfba707c5">
+                <img src="/bitrix/tools/captcha.php?captcha_sid=0e2d5f3fbf6215b3225f903cfba707c5" width="180" height="40" alt="CAPTCHA">
+                <label class="mf-text form__field">Введите слово на картинке                    <input type="text" class="form__input" name="captcha_word" size="30" maxlength="50" value="">
+                </label>
+            </div>
+                <input type="hidden" name="PARAMS_HASH" value="f8ddd6f30db82b9ae1b30cae789b736e">
+    </form>
+</div></div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish('bxajaxid', 'd923c764823f4480bf4898aaa4ba531d');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component('comp_d923c764823f4480bf4898aaa4ba531d'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>                    <ul class="mail__socials">
+            <li class="mail__socials-item">
+            <a class="mail__socials-link" href="https://vk.com/ustyug_museum" target="_blanc">
+                <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.67111 0H18.2263C26.0376 0 27.8974 1.85983 27.8974 9.67111V18.2263C27.8974 26.0376 26.0376 27.8974 18.2263 27.8974H9.67111C1.85983 27.8974 0 26.0376 0 18.2263V9.67111C0 1.85983 1.85983 0 9.67111 0ZM22.8442 9.61099C22.9734 9.17997 22.8442 8.86325 22.2289 8.86325H20.1947C19.6776 8.86325 19.4391 9.13684 19.3098 9.43854C19.3098 9.43854 18.2753 11.96 16.8098 13.5978C16.3358 14.0719 16.1202 14.2228 15.8617 14.2228C15.7323 14.2228 15.5451 14.0719 15.5451 13.6409V9.61099C15.5451 9.09376 15.3951 8.86325 14.964 8.86325H11.7674C11.4442 8.86325 11.2498 9.10331 11.2498 9.33082C11.2498 9.82114 11.9825 9.93421 12.058 11.3135V14.3091C12.058 14.9658 11.9394 15.0848 11.6808 15.0848C10.9912 15.0848 9.31375 12.5522 8.31885 9.65407C8.12389 9.09079 7.92832 8.86325 7.40844 8.86325H5.37426C4.79306 8.86325 4.67682 9.13684 4.67682 9.43854C4.67682 9.97733 5.36646 12.6496 7.88787 16.184C9.56881 18.5976 11.9371 19.906 14.0922 19.906C15.3852 19.906 15.5451 19.6154 15.5451 19.1149V17.2906C15.5451 16.7094 15.6677 16.5934 16.0772 16.5934C16.3788 16.5934 16.8961 16.7443 18.103 17.9079C19.4822 19.2872 19.7095 19.906 20.4853 19.906H22.5195C23.1007 19.906 23.3913 19.6154 23.2237 19.0419C23.0403 18.4703 22.3818 17.6411 21.508 16.658C21.0339 16.0978 20.3227 15.4944 20.1071 15.1926C19.8054 14.8047 19.8917 14.6323 20.1071 14.2874C20.1071 14.2874 22.5855 10.7963 22.8442 9.61099Z" fill="#9D9D9D"/>
+</svg>
+            </a>
+        </li>
+            <li class="mail__socials-item">
+            <a class="mail__socials-link" href="https://www.tripadvisor.ru/Attraction_Review-g1778188-d2616179-Reviews-or10-Veliky_Ustyug_State_Historical_Architectural_Art_Museum_Reserve-Veliky_Usty.html" target="_blanc">
+                <svg width="29" height="22" viewBox="0 0 29 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.7653 5.0695H1.60151C1.21077 5.0695 0.864055 5.37939 0.753987 5.82774C0.643919 6.28268 0.798014 6.76399 1.12822 7.01454C1.13372 7.02113 1.73909 7.48926 2.20688 8.34639C1.24379 9.81671 0.720967 11.6167 0.720967 13.509C0.720967 18.1639 3.87991 21.9484 7.7653 21.9484C11.6507 21.9484 14.8097 18.1639 14.8097 13.509C14.8097 8.85408 11.6507 5.0695 7.7653 5.0695ZM7.7653 19.8386C4.85401 19.8386 2.48205 16.9968 2.48205 13.509C2.48205 11.9002 2.98836 10.3771 3.91293 9.21671C4.16058 8.90683 4.22662 8.44529 4.07803 8.05629C3.95696 7.73981 3.81937 7.4497 3.67628 7.18597H7.7653C10.6766 7.18597 13.0486 10.0277 13.0486 13.5156C13.0486 17.0034 10.6766 19.8386 7.7653 19.8386Z" fill="#9D9D9D"/>
+<path d="M17.3126 16.8712C16.9219 16.5284 16.3716 16.6273 16.0799 17.1086L14.8526 19.1393L13.5098 17.0822C13.2126 16.6207 12.6568 16.5349 12.2715 16.8976C11.8918 17.2536 11.8203 17.9196 12.1174 18.3811L14.1757 21.5459C14.3408 21.803 14.5995 21.9481 14.8691 21.9481C14.8746 21.9481 14.8801 21.9481 14.8856 21.9481C15.1608 21.9415 15.4195 21.7833 15.5791 21.5129L17.4942 18.3481C17.7914 17.8734 17.7089 17.2141 17.3126 16.8712Z" fill="#9D9D9D"/>
+<path d="M24.2091 5.34631C18.8543 -0.515175 10.7698 -0.515175 5.40946 5.34631C5.05174 5.74191 5.02422 6.40783 5.35443 6.8364C5.68463 7.27156 6.24047 7.29793 6.59819 6.90233C11.2816 1.77931 18.3425 1.77931 23.0203 6.90233C23.1909 7.08695 23.4001 7.17925 23.6147 7.17925C23.8569 7.17925 24.0935 7.06057 24.2641 6.8364C24.5943 6.40124 24.5668 5.73531 24.2091 5.34631Z" fill="#9D9D9D"/>
+<path d="M7.76435 9.28887C5.82166 9.28887 4.24219 11.1811 4.24219 13.5086C4.24219 15.836 5.82166 17.7283 7.76435 17.7283C9.70705 17.7283 11.2866 15.836 11.2866 13.5086C11.2866 11.1811 9.70705 9.28887 7.76435 9.28887ZM7.76435 15.6185C6.79576 15.6185 6.00327 14.6756 6.00327 13.5086C6.00327 12.3482 6.79576 11.3987 7.76435 11.3987C8.73295 11.3987 9.52544 12.3482 9.52544 13.5086C9.52544 14.669 8.73295 15.6185 7.76435 15.6185Z" fill="#9D9D9D"/>
+<path d="M7.79767 12.454H7.78116C7.29686 12.454 6.91162 12.9287 6.91162 13.509C6.91162 14.0892 7.31337 14.5639 7.80317 14.5639C8.29297 14.5639 8.68371 14.0892 8.68371 13.509C8.68371 12.9287 8.28747 12.454 7.79767 12.454Z" fill="#9D9D9D"/>
+<path d="M27.4064 8.34621C27.8742 7.48908 28.4795 7.01436 28.485 7.01436C28.8152 6.76381 28.9693 6.2825 28.8593 5.82756C28.7492 5.37921 28.408 5.06273 28.0117 5.06273H21.8535C17.9681 5.06273 14.8091 8.84731 14.8091 13.5022C14.8091 18.1571 17.9681 21.9417 21.8535 21.9417C25.7388 21.9417 28.8978 18.1571 28.8978 13.5022C28.8978 11.6165 28.375 9.81653 27.4064 8.34621ZM21.8535 19.8384C18.9422 19.8384 16.5702 16.9967 16.5702 13.5088C16.5702 10.0209 18.9422 7.17919 21.8535 7.17919H25.9425C25.7939 7.44293 25.6563 7.73303 25.5407 8.04951C25.3921 8.44511 25.4582 8.90005 25.7058 9.20994C26.6304 10.3704 27.1367 11.8934 27.1367 13.5022C27.1367 16.9967 24.7647 19.8384 21.8535 19.8384Z" fill="#9D9D9D"/>
+<path d="M21.8533 9.28887C19.9106 9.28887 18.3311 11.1811 18.3311 13.5086C18.3311 15.836 19.9106 17.7283 21.8533 17.7283C23.796 17.7283 25.3754 15.836 25.3754 13.5086C25.3754 11.1811 23.796 9.28887 21.8533 9.28887ZM21.8533 15.6185C20.8792 15.6185 20.0922 14.6756 20.0922 13.5086C20.0922 12.3482 20.8792 11.3987 21.8533 11.3987C22.8274 11.3987 23.6143 12.3482 23.6143 13.5086C23.6143 14.669 22.8274 15.6185 21.8533 15.6185Z" fill="#9D9D9D"/>
+<path d="M21.8861 12.454H21.8696C21.3853 12.454 21 12.9287 21 13.509C21 14.0892 21.4073 14.5639 21.8916 14.5639C22.3759 14.5639 22.7721 14.0892 22.7721 13.509C22.7721 12.9287 22.3759 12.454 21.8861 12.454Z" fill="#9D9D9D"/>
+</svg>
+            </a>
+        </li>
+            <li class="mail__socials-item">
+            <a class="mail__socials-link" href="https://rutube.ru/channel/25621560/videos/" target="_blanc">
+                <svg width="126" height="22" viewBox="0 0 126 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.8 6.94824H0.897461V21.9482H4.76698V17.0681H12.1816L15.5646 21.9482H19.8975L16.167 17.0457C17.3256 16.8658 18.1597 16.4385 18.6695 15.7638C19.1792 15.0892 19.4341 14.0097 19.4341 12.5704V11.446C19.4341 10.5914 19.3415 9.91679 19.1792 9.39949C19.017 8.88227 18.739 8.43249 18.3451 8.0277C17.928 7.64539 17.4646 7.37553 16.9085 7.19561C16.3524 7.03819 15.6572 6.94824 14.8 6.94824ZM14.1744 13.7623H4.76698V10.2541H14.1744C14.7073 10.2541 15.078 10.344 15.2634 10.5015C15.4487 10.6589 15.5646 10.9512 15.5646 11.3785V12.6379C15.5646 13.0877 15.4487 13.38 15.2634 13.5374C15.078 13.6948 14.7073 13.7623 14.1744 13.7623Z" fill="#9D9D9D"/>
+<path d="M25.655 17.5179V6.94824H21.8975V17.428C21.8975 18.2825 21.965 18.9797 22.1225 19.4969C22.28 20.0367 22.55 20.4864 22.955 20.8688C23.3375 21.2736 23.7875 21.5434 24.3275 21.7008C24.8675 21.8808 25.5425 21.9482 26.3975 21.9482H35.3975C36.23 21.9482 36.905 21.8808 37.445 21.7008C37.985 21.5434 38.435 21.2736 38.84 20.8688C39.2225 20.4864 39.4925 20.0367 39.65 19.4969C39.8076 18.9797 39.8975 18.2825 39.8975 17.428V6.94824H36.14V17.5179C36.14 17.9677 36.0275 18.2601 35.8475 18.4175C35.6675 18.5749 35.3075 18.6423 34.79 18.6423H27.005C26.465 18.6423 26.105 18.5749 25.925 18.4175C25.745 18.2601 25.655 17.9677 25.655 17.5179Z" fill="#9D9D9D"/>
+<path d="M52.7462 21.9482V10.2541H59.8975V6.94824H41.8975V10.2541H49.0487V21.9482H52.7462Z" fill="#9D9D9D"/>
+<path d="M65.655 17.5179V6.94824H61.8975V17.428C61.8975 18.2825 61.9651 18.9797 62.1225 19.4969C62.28 20.0367 62.55 20.4864 62.955 20.8688C63.3375 21.2736 63.7875 21.5434 64.3275 21.7008C64.8675 21.8808 65.5425 21.9482 66.3975 21.9482H75.3975C76.23 21.9482 76.905 21.8808 77.445 21.7008C77.985 21.5434 78.435 21.2736 78.84 20.8688C79.2225 20.4864 79.4925 20.0367 79.65 19.4969C79.8075 18.9797 79.8975 18.2825 79.8975 17.428V6.94824H76.14V17.5179C76.14 17.9677 76.0275 18.2601 75.8475 18.4175C75.6674 18.5749 75.3075 18.6423 74.79 18.6423H67.005C66.465 18.6423 66.105 18.5749 65.925 18.4175C65.745 18.2601 65.655 17.9677 65.655 17.5179Z" fill="#9D9D9D"/>
+<path d="M99.1542 11.311V11.0187C99.1542 9.62442 98.7939 8.58992 98.0724 7.93775C97.3516 7.28557 96.2029 6.94824 94.6712 6.94824H81.8975V21.9482H95.4144C96.9461 21.9482 98.0949 21.6334 98.8164 20.9812C99.5372 20.329 99.8975 19.2945 99.8975 17.9003V17.5854C99.8975 16.1911 99.5372 15.2016 98.8164 14.6169C98.681 14.5269 98.5456 14.4594 98.4109 14.392C98.2755 14.3245 98.0724 14.2346 97.8249 14.1446C98.3206 13.8747 98.6584 13.5149 98.8608 13.1101C99.0414 12.7053 99.1542 12.0981 99.1542 11.311ZM85.6599 12.9527V10.2541H94.0625C94.6034 10.2541 94.9638 10.344 95.1444 10.5015C95.3241 10.6589 95.4144 10.9512 95.4144 11.3785V11.8283C95.4144 12.2781 95.3241 12.5704 95.1444 12.7278C94.9638 12.8853 94.6034 12.9527 94.0625 12.9527H85.6599ZM85.6599 18.6423V15.9437H94.8284C95.3467 15.9437 95.7071 16.0336 95.8876 16.1911C96.0674 16.3485 96.1803 16.6409 96.1803 17.0681V17.5179C96.1803 17.9677 96.0674 18.2601 95.8876 18.4175C95.7071 18.5749 95.3467 18.6423 94.8284 18.6423H85.6599Z" fill="#9D9D9D"/>
+<path d="M105.734 10.2541H118.277V6.94824H101.897V21.9482H118.897V18.6423H105.734V16.1012H117.978L118.277 12.7953H105.734V10.2541Z" fill="#9D9D9D"/>
+<path d="M122.579 6.20058C124.025 6.20058 125.198 5.0248 125.198 3.57441C125.198 2.12402 124.025 0.948242 122.579 0.948242C121.132 0.948242 119.959 2.12402 119.959 3.57441C119.959 5.0248 121.132 6.20058 122.579 6.20058Z" fill="#9D9D9D"/>
+</svg>
+            </a>
+        </li>
+    </ul>
+                </div>
+            </div>
+            <div class="footer__content-column">
+                <ul class="footer__links-list list">
+            <li class="list__item">
+            <a class="list__link" href="/pages/struktura-muzeya/">Структура музея</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/kontakty/">Контакты</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/ofitsialnye-dokumenty/">Официальные документы</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/spetsialnaya-otsenka-usloviy-truda/">Специальная оценка условий труда</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/poleznye-ssylki/">Полезные ссылки</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/protivodeystvie-korruptsii/">Противодействие коррупции</a>
+        </li>
+            <li class="list__item">
+            <a class="list__link" href="/pages/besplatnaya-yuridicheskaya-pomoshch-i-pravovoe-informirovanie-naseleniya/">Бесплатная юридическая помощь и правовое информирование населения</a>
+        </li>
+    </ul>
+            </div>
+            <div class="footer__content-column">
+                <div class="add-info__link-container">
+                    <svg width="50" height="52">
+                        <use xlink:href="#quality-rate"></use>
+                    </svg>
+                    <a class="add-info__link"
+                       href="https://docs.google.com/forms/d/e/1FAIpQLSe7rcMgasfM7qiTBbBeiZw3D2SnaGZbd6SS-B7j6-tigX6q5w/viewform"
+                       target="_blank"
+                       rel="nofollow noopener"
+                    >Оценка качества услуг учреждений культуры</a>
+                </div>
+            </div>
+            <div class="footer__content-column"><a class="add-info__logo" href="https://fondpotanin.ru/"> <img src="/local/templates/500na700/img/footer__logo.png" width="230" height="65" alt="Владимир Потанин лого"></a></div><a class="footer__scroll" href="#">
+                <svg width="10" height="10">
+                    <use xlink:href="#scroll"></use>
+                </svg></a>
+        </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="footer__copyright-container container">
+            <div class="footer__copyright-column">
+				<ul class="footer__copyright-list list list_place_copyright">
+            <li class="list__item">
+            <a class="list__link list__link_place_copyright" href="/upload/iblock/9e1/hsbnpqg84s01e8kmvereddwe2klhyrop.docx" target="_blanc" download>
+                Условия использования материалов сайта            </a>
+        </li>
+            <li class="list__item">
+            <a class="list__link list__link_place_copyright" href="/upload/iblock/6ba/15ojhq2j0exq5pvezqzyz5cep70jnnol.docx" target="_blanc" download>
+                Политика конфиденциальности            </a>
+        </li>
+    </ul>            </div>
+            <div class="footer__copyright-column footer__copyright-column_desc"><a class="footer__copyright-link" href="https://500na700.ru/" target="_blanc">Сделано в 500na700</a></div>
+            <div class="footer__copyright-column footer__copyright-column_desc"><a class="footer__copyright-link" href="https://old.ustyug-museum.ru" target="_blank">Старая версия сайта</a></div>
+            <div class="footer__copyright-column footer__copyright-column_desc"><span class="footer__copyright-quote">© 2025 Великоустюгский музей-заповедник.</span></div>
+        </div>
+    </div>
+</footer>
+<svg style="display: none">
+    <symbol id="arrow" viewBox="0 0 12 8">
+        <!--svg(xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none')-->
+        <path d="M1.41 0.580078L6 5.17008L10.59 0.580078L12 2.00008L6 8.00008L0 2.00008L1.41 0.580078Z" fill="#159188"></path>
+    </symbol>
+    <symbol id="arrow-fwd" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+        <!--svg(width='14' height='14' viewBox='0 0 14 14' fill='none' xmlns='http://www.w3.org/2000/svg')-->
+        <path d="M0.600098 6.13561V7.73561H10.2001L5.8001 12.1356L6.9361 13.2716L13.2721 6.93561L6.9361 0.599609L5.8001 1.73561L10.2001 6.13561H0.600098Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="arrow-link" viewBox="0 0 10 10">
+        <path d="M0 8.99286L7.56429 1.42857H2.85714V0H10V7.14286H8.57143V2.43571L1.00714 10L0 8.99286Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="search" viewBox="0 0 22 22">
+        <path d="M8.17143 0C10.3386 0 12.4171 0.860916 13.9495 2.39336C15.4819 3.9258 16.3429 6.00423 16.3429 8.17143C16.3429 10.1954 15.6011 12.056 14.3817 13.4891L14.7211 13.8286H15.7143L22 20.1143L20.1143 22L13.8286 15.7143V14.7211L13.4891 14.3817C12.056 15.6011 10.1954 16.3429 8.17143 16.3429C6.00423 16.3429 3.9258 15.4819 2.39336 13.9495C0.860916 12.4171 0 10.3386 0 8.17143C0 6.00423 0.860916 3.9258 2.39336 2.39336C3.9258 0.860916 6.00423 0 8.17143 0ZM8.17143 2.51429C5.02857 2.51429 2.51429 5.02857 2.51429 8.17143C2.51429 11.3143 5.02857 13.8286 8.17143 13.8286C11.3143 13.8286 13.8286 11.3143 13.8286 8.17143C13.8286 5.02857 11.3143 2.51429 8.17143 2.51429Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="geo" viewBox="0 0 20 20">
+        <path d="M9.7561 4.28571C10.403 4.28571 11.0233 4.53656 11.4807 4.98308C11.9382 5.42959 12.1951 6.0352 12.1951 6.66667C12.1951 6.97934 12.132 7.28895 12.0095 7.57782C11.8869 7.86669 11.7072 8.12916 11.4807 8.35025C11.2543 8.57135 10.9854 8.74673 10.6895 8.86638C10.3936 8.98603 10.0764 9.04762 9.7561 9.04762C9.10923 9.04762 8.48885 8.79677 8.03145 8.35025C7.57404 7.90374 7.31707 7.29813 7.31707 6.66667C7.31707 6.0352 7.57404 5.42959 8.03145 4.98308C8.48885 4.53656 9.10923 4.28571 9.7561 4.28571ZM9.7561 0C11.5673 0 13.3044 0.702379 14.5851 1.95262C15.8659 3.20286 16.5854 4.89856 16.5854 6.66667C16.5854 11.6667 9.7561 19.0476 9.7561 19.0476C9.7561 19.0476 2.92683 11.6667 2.92683 6.66667C2.92683 4.89856 3.64634 3.20286 4.92707 1.95262C6.20781 0.702379 7.94486 0 9.7561 0ZM9.7561 1.90476C8.46236 1.90476 7.22161 2.40646 6.30679 3.29949C5.39198 4.19252 4.87805 5.40373 4.87805 6.66667C4.87805 7.61905 4.87805 9.52381 9.7561 15.9143C14.6341 9.52381 14.6341 7.61905 14.6341 6.66667C14.6341 5.40373 14.1202 4.19252 13.2054 3.29949C12.2906 2.40646 11.0498 1.90476 9.7561 1.90476Z" fill="currentColor"></path>
+        <path d="M0 18.0952H20V20H0V18.0952Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="museum" viewBox="0 0 19 20">
+        <path d="M4.5 9H2.5V16H4.5V9ZM10.5 9H8.5V16H10.5V9ZM19 18H0V20H19V18ZM16.5 9H14.5V16H16.5V9ZM9.5 2.26L14.71 5H4.29L9.5 2.26ZM9.5 0L0 5V7H19V5L9.5 0Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="share-link" viewBox="0 0 18 19">
+        <path d="M11.1215 2.17052L9.00016 4.29184C8.37671 4.91934 7.97885 5.73581 7.86882 6.6135C7.75879 7.49119 7.94279 8.3806 8.39204 9.14259L8.19405 9.34058C7.43207 8.89133 6.54266 8.70732 5.66497 8.81735C4.78727 8.92738 3.97081 9.32524 3.3433 9.94869L1.22198 12.07C0.471836 12.8202 0.0504088 13.8376 0.0504088 14.8984C0.0504088 15.9593 0.471836 16.9767 1.22198 17.7269C1.97213 18.477 2.98954 18.8984 4.05041 18.8984C5.11127 18.8984 6.12869 18.477 6.87884 17.7269L9.00016 15.6055C9.6236 14.978 10.0215 14.1616 10.1315 13.2839C10.2415 12.4062 10.0575 11.5168 9.60827 10.7548L9.80626 10.5568C10.5682 11.0061 11.4577 11.1901 12.3353 11.08C13.213 10.97 14.0295 10.5721 14.657 9.94869L16.7783 7.82737C17.5285 7.07722 17.9499 6.05981 17.9499 4.99894C17.9499 3.93808 17.5285 2.92066 16.7783 2.17052C16.0282 1.42037 15.0108 0.998944 13.9499 0.998943C12.889 0.998943 11.8716 1.42037 11.1215 2.17052ZM7.58594 14.1913L5.46462 16.3127C5.08955 16.6877 4.58084 16.8984 4.05041 16.8984C3.51998 16.8984 3.01127 16.6877 2.6362 16.3127C2.26112 15.9376 2.05041 15.4289 2.05041 14.8984C2.05041 14.368 2.26112 13.8593 2.6362 13.4842L4.75752 11.3629C5.00581 11.1176 5.31397 10.9415 5.65138 10.8522C5.9888 10.7629 6.34371 10.7634 6.68085 10.8538L5.46462 12.07C5.27709 12.2575 5.17173 12.5119 5.17173 12.7771C5.17173 13.0423 5.27709 13.2967 5.46462 13.4842C5.65216 13.6718 5.90651 13.7771 6.17173 13.7771C6.43695 13.7771 6.6913 13.6718 6.87884 13.4842L8.09506 12.268C8.1854 12.6051 8.18594 12.9601 8.09663 13.2975C8.00731 13.6349 7.83125 13.943 7.58594 14.1913ZM15.3641 6.41316L13.2428 8.53448C12.9945 8.77979 12.6863 8.95585 12.3489 9.04516C12.0115 9.13448 11.6566 9.13394 11.3195 9.04359L12.5357 7.82737C12.7232 7.63983 12.8286 7.38548 12.8286 7.12026C12.8286 6.85505 12.7232 6.60069 12.5357 6.41316C12.3482 6.22562 12.0938 6.12026 11.8286 6.12026C11.5634 6.12026 11.309 6.22562 11.1215 6.41316L9.90525 7.62938C9.81491 7.29224 9.81437 6.93733 9.90368 6.59992C9.993 6.2625 10.1691 5.95434 10.4144 5.70605L12.5357 3.58473C12.9108 3.20966 13.4195 2.99894 13.9499 2.99894C14.4803 2.99894 14.989 3.20966 15.3641 3.58473C15.7392 3.9598 15.9499 4.46851 15.9499 4.99894C15.9499 5.52938 15.7392 6.03808 15.3641 6.41316Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="vk" viewBox="0 0 28 28">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9.67111 0H18.2263C26.0376 0 27.8974 1.85983 27.8974 9.67111V18.2263C27.8974 26.0376 26.0376 27.8974 18.2263 27.8974H9.67111C1.85983 27.8974 0 26.0376 0 18.2263V9.67111C0 1.85983 1.85983 0 9.67111 0ZM22.8442 9.61099C22.9734 9.17997 22.8442 8.86325 22.2289 8.86325H20.1947C19.6776 8.86325 19.4391 9.13684 19.3098 9.43854C19.3098 9.43854 18.2753 11.96 16.8098 13.5978C16.3358 14.0719 16.1202 14.2228 15.8617 14.2228C15.7323 14.2228 15.5451 14.0719 15.5451 13.6409V9.61099C15.5451 9.09376 15.3951 8.86325 14.964 8.86325H11.7674C11.4442 8.86325 11.2498 9.10331 11.2498 9.33082C11.2498 9.82114 11.9825 9.93421 12.058 11.3135V14.3091C12.058 14.9658 11.9394 15.0848 11.6808 15.0848C10.9912 15.0848 9.31375 12.5522 8.31885 9.65407C8.12389 9.09079 7.92832 8.86325 7.40844 8.86325H5.37426C4.79306 8.86325 4.67682 9.13684 4.67682 9.43854C4.67682 9.97733 5.36646 12.6496 7.88787 16.184C9.56881 18.5976 11.9371 19.906 14.0922 19.906C15.3852 19.906 15.5451 19.6154 15.5451 19.1149V17.2906C15.5451 16.7094 15.6677 16.5934 16.0772 16.5934C16.3788 16.5934 16.8961 16.7443 18.103 17.9079C19.4822 19.2872 19.7095 19.906 20.4853 19.906H22.5195C23.1007 19.906 23.3913 19.6154 23.2237 19.0419C23.0403 18.4703 22.3818 17.6411 21.508 16.658C21.0339 16.0978 20.3227 15.4944 20.1071 15.1926C19.8054 14.8047 19.8917 14.6323 20.1071 14.2874C20.1071 14.2874 22.5855 10.7963 22.8442 9.61099Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="ok" viewBox="0 0 29 28">
+        <path d="M14.8462 11.2745C16.0086 11.2745 16.9385 10.3445 16.9385 9.18215C16.9385 8.01976 16.0086 7.08984 14.8462 7.08984C13.6838 7.08984 12.7539 8.01976 12.7539 9.18215C12.7539 10.3445 13.6838 11.2745 14.8462 11.2745Z" fill="currentColor"></path>
+        <path d="M24.7265 0H4.96584C2.75729 0 0.897461 1.85983 0.897461 4.06838V23.8291C0.897461 26.0376 2.75729 27.8974 4.96584 27.8974H24.7265C26.9351 27.8974 28.7949 26.0376 28.7949 23.8291V4.06838C28.7949 1.85983 26.9351 0 24.7265 0ZM14.8462 4.06838C17.6359 4.06838 19.9607 6.39316 19.9607 9.18291C19.9607 11.9727 17.7522 14.2974 14.8462 14.2974C12.0564 14.2974 9.73165 11.9727 9.73165 9.18291C9.73165 6.39316 12.0564 4.06838 14.8462 4.06838ZM19.7282 21.2718C20.3094 21.853 20.3094 22.6667 19.7282 23.2479C19.147 23.8291 18.3334 23.8291 17.7522 23.2479L14.7299 20.3419L12.0564 23.2479C11.824 23.4803 11.4752 23.7128 11.0103 23.7128C10.6616 23.7128 10.3128 23.5966 10.0804 23.3641C9.49917 22.7829 9.49917 21.9692 10.0804 21.388L12.9864 18.3658C10.894 18.0171 9.61541 16.9709 9.61541 16.9709C9.03421 16.506 8.91797 15.5761 9.38293 14.9949C9.84789 14.4137 10.7778 14.2974 11.359 14.7624C11.359 14.7624 12.6376 15.8085 14.8462 15.8085C16.9385 15.8085 18.2171 14.7624 18.3334 14.7624C18.9146 14.2974 19.8445 14.4137 20.3094 14.9949C20.7744 15.5761 20.6581 16.506 20.0769 16.9709C19.9607 16.9709 18.7983 18.0171 16.8222 18.3658L19.7282 21.2718Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="tripadvisor" viewBox="0 0 29 22">
+        <path d="M7.7653 5.0695H1.60151C1.21077 5.0695 0.864055 5.37939 0.753987 5.82774C0.643919 6.28268 0.798014 6.76399 1.12822 7.01454C1.13372 7.02113 1.73909 7.48926 2.20688 8.34639C1.24379 9.81671 0.720967 11.6167 0.720967 13.509C0.720967 18.1639 3.87991 21.9484 7.7653 21.9484C11.6507 21.9484 14.8097 18.1639 14.8097 13.509C14.8097 8.85408 11.6507 5.0695 7.7653 5.0695ZM7.7653 19.8386C4.85401 19.8386 2.48205 16.9968 2.48205 13.509C2.48205 11.9002 2.98836 10.3771 3.91293 9.21671C4.16058 8.90683 4.22662 8.44529 4.07803 8.05629C3.95696 7.73981 3.81937 7.4497 3.67628 7.18597H7.7653C10.6766 7.18597 13.0486 10.0277 13.0486 13.5156C13.0486 17.0034 10.6766 19.8386 7.7653 19.8386Z" fill="currentColor"></path>
+        <path d="M17.3126 16.8712C16.9219 16.5284 16.3716 16.6273 16.0799 17.1086L14.8526 19.1393L13.5098 17.0822C13.2126 16.6207 12.6568 16.5349 12.2715 16.8976C11.8918 17.2536 11.8203 17.9196 12.1174 18.3811L14.1757 21.5459C14.3408 21.803 14.5995 21.9481 14.8691 21.9481C14.8746 21.9481 14.8801 21.9481 14.8856 21.9481C15.1608 21.9415 15.4195 21.7833 15.5791 21.5129L17.4942 18.3481C17.7914 17.8734 17.7089 17.2141 17.3126 16.8712Z" fill="currentColor"></path>
+        <path d="M24.2091 5.34631C18.8543 -0.515175 10.7698 -0.515175 5.40946 5.34631C5.05174 5.74191 5.02422 6.40783 5.35443 6.8364C5.68463 7.27156 6.24047 7.29793 6.59819 6.90233C11.2816 1.77931 18.3425 1.77931 23.0203 6.90233C23.1909 7.08695 23.4001 7.17925 23.6147 7.17925C23.8569 7.17925 24.0935 7.06057 24.2641 6.8364C24.5943 6.40124 24.5668 5.73531 24.2091 5.34631Z" fill="currentColor"></path>
+        <path d="M7.76435 9.28887C5.82166 9.28887 4.24219 11.1811 4.24219 13.5086C4.24219 15.836 5.82166 17.7283 7.76435 17.7283C9.70705 17.7283 11.2866 15.836 11.2866 13.5086C11.2866 11.1811 9.70705 9.28887 7.76435 9.28887ZM7.76435 15.6185C6.79576 15.6185 6.00327 14.6756 6.00327 13.5086C6.00327 12.3482 6.79576 11.3987 7.76435 11.3987C8.73295 11.3987 9.52544 12.3482 9.52544 13.5086C9.52544 14.669 8.73295 15.6185 7.76435 15.6185Z" fill="currentColor"></path>
+        <path d="M7.79767 12.454H7.78116C7.29686 12.454 6.91162 12.9287 6.91162 13.509C6.91162 14.0892 7.31337 14.5639 7.80317 14.5639C8.29297 14.5639 8.68371 14.0892 8.68371 13.509C8.68371 12.9287 8.28747 12.454 7.79767 12.454Z" fill="currentColor"></path>
+        <path d="M27.4064 8.34621C27.8742 7.48908 28.4795 7.01436 28.485 7.01436C28.8152 6.76381 28.9693 6.2825 28.8593 5.82756C28.7492 5.37921 28.408 5.06273 28.0117 5.06273H21.8535C17.9681 5.06273 14.8091 8.84731 14.8091 13.5022C14.8091 18.1571 17.9681 21.9417 21.8535 21.9417C25.7388 21.9417 28.8978 18.1571 28.8978 13.5022C28.8978 11.6165 28.375 9.81653 27.4064 8.34621ZM21.8535 19.8384C18.9422 19.8384 16.5702 16.9967 16.5702 13.5088C16.5702 10.0209 18.9422 7.17919 21.8535 7.17919H25.9425C25.7939 7.44293 25.6563 7.73303 25.5407 8.04951C25.3921 8.44511 25.4582 8.90005 25.7058 9.20994C26.6304 10.3704 27.1367 11.8934 27.1367 13.5022C27.1367 16.9967 24.7647 19.8384 21.8535 19.8384Z" fill="currentColor"></path>
+        <path d="M21.8533 9.28887C19.9106 9.28887 18.3311 11.1811 18.3311 13.5086C18.3311 15.836 19.9106 17.7283 21.8533 17.7283C23.796 17.7283 25.3754 15.836 25.3754 13.5086C25.3754 11.1811 23.796 9.28887 21.8533 9.28887ZM21.8533 15.6185C20.8792 15.6185 20.0922 14.6756 20.0922 13.5086C20.0922 12.3482 20.8792 11.3987 21.8533 11.3987C22.8274 11.3987 23.6143 12.3482 23.6143 13.5086C23.6143 14.669 22.8274 15.6185 21.8533 15.6185Z" fill="currentColor"></path>
+        <path d="M21.8861 12.454H21.8696C21.3853 12.454 21 12.9287 21 13.509C21 14.0892 21.4073 14.5639 21.8916 14.5639C22.3759 14.5639 22.7721 14.0892 22.7721 13.509C22.7721 12.9287 22.3759 12.454 21.8861 12.454Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="rutube" viewBox="0 0 126 22">
+        <path d="M14.8 6.94824H0.897461V21.9482H4.76698V17.0681H12.1816L15.5646 21.9482H19.8975L16.167 17.0457C17.3256 16.8658 18.1597 16.4385 18.6695 15.7638C19.1792 15.0892 19.4341 14.0097 19.4341 12.5704V11.446C19.4341 10.5914 19.3415 9.91679 19.1792 9.39949C19.017 8.88227 18.739 8.43249 18.3451 8.0277C17.928 7.64539 17.4646 7.37553 16.9085 7.19561C16.3524 7.03819 15.6572 6.94824 14.8 6.94824ZM14.1744 13.7623H4.76698V10.2541H14.1744C14.7073 10.2541 15.078 10.344 15.2634 10.5015C15.4487 10.6589 15.5646 10.9512 15.5646 11.3785V12.6379C15.5646 13.0877 15.4487 13.38 15.2634 13.5374C15.078 13.6948 14.7073 13.7623 14.1744 13.7623Z" fill="currentColor"></path>
+        <path d="M25.655 17.5179V6.94824H21.8975V17.428C21.8975 18.2825 21.965 18.9797 22.1225 19.4969C22.28 20.0367 22.55 20.4864 22.955 20.8688C23.3375 21.2736 23.7875 21.5434 24.3275 21.7008C24.8675 21.8808 25.5425 21.9482 26.3975 21.9482H35.3975C36.23 21.9482 36.905 21.8808 37.445 21.7008C37.985 21.5434 38.435 21.2736 38.84 20.8688C39.2225 20.4864 39.4925 20.0367 39.65 19.4969C39.8076 18.9797 39.8975 18.2825 39.8975 17.428V6.94824H36.14V17.5179C36.14 17.9677 36.0275 18.2601 35.8475 18.4175C35.6675 18.5749 35.3075 18.6423 34.79 18.6423H27.005C26.465 18.6423 26.105 18.5749 25.925 18.4175C25.745 18.2601 25.655 17.9677 25.655 17.5179Z" fill="currentColor"></path>
+        <path d="M52.7462 21.9482V10.2541H59.8975V6.94824H41.8975V10.2541H49.0487V21.9482H52.7462Z" fill="currentColor"></path>
+        <path d="M65.655 17.5179V6.94824H61.8975V17.428C61.8975 18.2825 61.9651 18.9797 62.1225 19.4969C62.28 20.0367 62.55 20.4864 62.955 20.8688C63.3375 21.2736 63.7875 21.5434 64.3275 21.7008C64.8675 21.8808 65.5425 21.9482 66.3975 21.9482H75.3975C76.23 21.9482 76.905 21.8808 77.445 21.7008C77.985 21.5434 78.435 21.2736 78.84 20.8688C79.2225 20.4864 79.4925 20.0367 79.65 19.4969C79.8075 18.9797 79.8975 18.2825 79.8975 17.428V6.94824H76.14V17.5179C76.14 17.9677 76.0275 18.2601 75.8475 18.4175C75.6674 18.5749 75.3075 18.6423 74.79 18.6423H67.005C66.465 18.6423 66.105 18.5749 65.925 18.4175C65.745 18.2601 65.655 17.9677 65.655 17.5179Z" fill="currentColor"></path>
+        <path d="M99.1542 11.311V11.0187C99.1542 9.62442 98.7939 8.58992 98.0724 7.93775C97.3516 7.28557 96.2029 6.94824 94.6712 6.94824H81.8975V21.9482H95.4144C96.9461 21.9482 98.0949 21.6334 98.8164 20.9812C99.5372 20.329 99.8975 19.2945 99.8975 17.9003V17.5854C99.8975 16.1911 99.5372 15.2016 98.8164 14.6169C98.681 14.5269 98.5456 14.4594 98.4109 14.392C98.2755 14.3245 98.0724 14.2346 97.8249 14.1446C98.3206 13.8747 98.6584 13.5149 98.8608 13.1101C99.0414 12.7053 99.1542 12.0981 99.1542 11.311ZM85.6599 12.9527V10.2541H94.0625C94.6034 10.2541 94.9638 10.344 95.1444 10.5015C95.3241 10.6589 95.4144 10.9512 95.4144 11.3785V11.8283C95.4144 12.2781 95.3241 12.5704 95.1444 12.7278C94.9638 12.8853 94.6034 12.9527 94.0625 12.9527H85.6599ZM85.6599 18.6423V15.9437H94.8284C95.3467 15.9437 95.7071 16.0336 95.8876 16.1911C96.0674 16.3485 96.1803 16.6409 96.1803 17.0681V17.5179C96.1803 17.9677 96.0674 18.2601 95.8876 18.4175C95.7071 18.5749 95.3467 18.6423 94.8284 18.6423H85.6599Z" fill="currentColor"></path>
+        <path d="M105.734 10.2541H118.277V6.94824H101.897V21.9482H118.897V18.6423H105.734V16.1012H117.978L118.277 12.7953H105.734V10.2541Z" fill="currentColor"></path>
+        <path d="M122.579 6.20058C124.025 6.20058 125.198 5.0248 125.198 3.57441C125.198 2.12402 124.025 0.948242 122.579 0.948242C121.132 0.948242 119.959 2.12402 119.959 3.57441C119.959 5.0248 121.132 6.20058 122.579 6.20058Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="attachment" viewBox="0 0 18 19">
+        <path d="M17.5 12C17.5 11.7239 17.2761 11.5 17 11.5C16.7239 11.5 16.5 11.7239 16.5 12H17.5ZM1.5 12C1.5 11.7239 1.27614 11.5 1 11.5C0.723858 11.5 0.5 11.7239 0.5 12H1.5ZM9 13L8.64645 13.3536C8.84171 13.5488 9.15829 13.5488 9.35355 13.3536L9 13ZM9.5 1V0.5L8.5 0.5V1L9.5 1ZM5.35355 8.64645L5 8.29289L4.29289 9L4.64645 9.35355L5.35355 8.64645ZM13.3536 9.35355L13.7071 9L13 8.29289L12.6464 8.64645L13.3536 9.35355ZM16.5 12V16H17.5V12H16.5ZM15 17.5H3V18.5H15V17.5ZM1.5 16V12H0.5V16H1.5ZM3 17.5C2.17157 17.5 1.5 16.8284 1.5 16H0.5C0.5 17.3807 1.61929 18.5 3 18.5V17.5ZM16.5 16C16.5 16.8284 15.8284 17.5 15 17.5V18.5C16.3807 18.5 17.5 17.3807 17.5 16H16.5ZM9.5 13L9.5 1L8.5 1L8.5 13H9.5ZM4.64645 9.35355L8.64645 13.3536L9.35355 12.6464L5.35355 8.64645L4.64645 9.35355ZM9.35355 13.3536L13.3536 9.35355L12.6464 8.64645L8.64645 12.6464L9.35355 13.3536Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="arrow-scroll" viewBox="0 0 64 64">
+        <circle cx="32" cy="32" r="32" fill="white"></circle>
+        <path d="M32.5327 36.2673H31.4661V29.8673L28.5327 32.8007L27.7754 32.0433L31.9994 27.8193L36.2234 32.0433L35.4661 32.8007L32.5327 29.8673V36.2673Z" fill="currentColor"></path>
+        <circle cx="32" cy="32" r="32" fill="white"></circle>
+        <path d="M32.5327 36.2673H31.4661V29.8673L28.5327 32.8007L27.7754 32.0433L31.9994 27.8193L36.2234 32.0433L35.4661 32.8007L32.5327 29.8673V36.2673Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="quality-rate" viewBox="0 0 50 52">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H49.88V51.6H0V0ZM48.2173 40.8172V27.4334C46.9511 27.203 44.9273 26.4724 42.7305 24.768C41.743 24.0018 41.0974 22.9427 40.6369 21.8598C40.1779 20.7808 39.8775 19.6151 39.6196 18.6014L39.6109 18.5671C39.3462 17.5264 39.1353 16.6975 38.8588 16.1139C38.5839 15.5337 38.385 15.48 38.2413 15.48C37.8239 15.48 37.5656 15.6151 37.3761 15.8039C37.1657 16.0135 36.9882 16.344 36.8554 16.8021C36.5847 17.7354 36.5787 18.8957 36.5787 19.78C36.5787 19.9582 36.6361 20.2214 36.7821 20.5676C36.9244 20.905 37.1296 21.2717 37.3714 21.642C37.8561 22.384 38.4437 23.0731 38.8292 23.4719L39.3111 23.9704L37.0236 27.52H27.434V30.4562L25.7713 32.1762V33.1838L27.434 34.9038V38.4534L31.2471 44.7647C32.6189 44.8968 34.5875 45.0408 36.4731 45.0857C37.5136 45.1105 38.5176 45.1048 39.3767 45.0521C40.255 44.9982 40.9146 44.8984 41.3038 44.7641C42.2124 44.4508 43.6018 43.7039 45.0161 42.8576C46.2185 42.1381 47.3917 41.3757 48.2173 40.8172ZM48.2173 25.6796V1.72H1.66267V8.73857C2.37027 8.27605 3.19328 7.75507 4.03138 7.25357C5.44356 6.40856 6.96391 5.5788 8.05044 5.20413C8.65883 4.99435 9.50257 4.88633 10.4048 4.83095C11.3261 4.77439 12.3796 4.76935 13.4452 4.79473C15.577 4.84551 17.8018 5.01928 19.2034 5.16427L19.6094 5.20627L24.1087 12.6534V15.9838L25.7713 17.7038V20.1362L24.1087 21.8562V25.8H13.7462L12.697 27.4281C13.074 27.8633 13.5049 28.4112 13.8862 28.995C14.164 29.4202 14.4264 29.8812 14.6219 30.3447C14.8136 30.7994 14.964 31.3101 14.964 31.82L14.964 31.8616C14.9641 32.7022 14.9643 34.0953 14.6172 35.2921C14.4383 35.909 14.1481 36.546 13.6572 37.0351C13.1452 37.5451 12.4682 37.84 11.6387 37.84C10.5353 37.84 9.90285 37.0337 9.52829 36.2432C9.17684 35.5015 8.92894 34.5252 8.68999 33.5841C8.67746 33.5348 8.66495 33.4855 8.65246 33.4364C8.39075 32.4076 8.11965 31.3696 7.72127 30.4329C7.32453 29.5002 6.82696 28.7318 6.15187 28.208C4.30386 26.7742 2.66084 26.1532 1.66267 25.9204V49.88H48.2173V42.8615C47.5097 43.324 46.6867 43.845 45.8486 44.3465C44.4364 45.1915 42.9161 46.0212 41.8296 46.3959C41.2212 46.6057 40.3774 46.7137 39.4752 46.7691C38.5539 46.8256 37.5004 46.8307 36.4348 46.8053C34.303 46.7545 32.0782 46.5807 30.6766 46.4358L30.2706 46.3938L25.7713 38.9467V35.6162L24.1087 33.8962V31.4638L25.7713 29.7438V25.8H36.1338L37.183 24.1719C36.806 23.7367 36.3751 23.1888 35.9937 22.605C35.716 22.1798 35.4536 21.7188 35.2581 21.2553C35.0664 20.8006 34.916 20.2899 34.916 19.78L34.916 19.7384C34.9159 18.8978 34.9157 17.5047 35.2628 16.3079C35.4417 15.691 35.7319 15.054 36.2228 14.5649C36.7348 14.0549 37.4118 13.76 38.2413 13.76C39.3447 13.76 39.9771 14.5663 40.3517 15.3568C40.7032 16.0984 40.951 17.0748 41.19 18.0158C41.2025 18.0652 41.215 18.1145 41.2275 18.1636C41.4893 19.1924 41.7603 20.2304 42.1587 21.1671C42.5555 22.0999 43.053 22.8682 43.7281 23.392C45.5761 24.8258 47.2192 25.4468 48.2173 25.6796ZM1.66267 24.1666C2.92894 24.397 4.9527 25.1276 7.14947 26.832C8.13704 27.5982 8.78255 28.6573 9.24313 29.7402C9.70206 30.8192 10.0025 31.9849 10.2604 32.9986L10.2691 33.033C10.5338 34.0736 10.7447 34.9025 11.0212 35.4861C11.2961 36.0663 11.495 36.12 11.6387 36.12C12.0561 36.12 12.3144 35.9849 12.5039 35.7961C12.7143 35.5865 12.8918 35.256 13.0246 34.7979C13.2953 33.8646 13.3013 32.7043 13.3013 31.82C13.3013 31.6418 13.2439 31.3786 13.0979 31.0324C12.9556 30.695 12.7504 30.3283 12.5086 29.958C12.0239 29.216 11.4363 28.5269 11.0508 28.1281L10.5689 27.6296L12.8564 24.08H22.446V21.1438L24.1087 19.4238V18.4162L22.446 16.6962V13.1466L18.6329 6.83534C17.2611 6.70326 15.2925 6.55919 13.4069 6.51428C12.3664 6.48949 11.3624 6.49519 10.5033 6.54793C9.62502 6.60184 8.96543 6.70166 8.57622 6.83587C7.66756 7.1492 6.27824 7.89612 4.86388 8.74244C3.66155 9.46189 2.48826 10.2243 1.66267 10.7828V24.1666Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="map-popup-close-btn" viewBox="0 0 14 14">
+        <path d="M14 1.41L12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="blind" viewBox="0 0 20 14">
+        <path d="M10 4.09091C10.7233 4.09091 11.417 4.37825 11.9285 4.88971C12.4399 5.40117 12.7273 6.09486 12.7273 6.81818C12.7273 7.5415 12.4399 8.23519 11.9285 8.74666C11.417 9.25812 10.7233 9.54545 10 9.54545C9.27668 9.54545 8.58299 9.25812 8.07153 8.74666C7.56006 8.23519 7.27273 7.5415 7.27273 6.81818C7.27273 6.09486 7.56006 5.40117 8.07153 4.88971C8.58299 4.37825 9.27668 4.09091 10 4.09091ZM10 0C14.5455 0 18.4273 2.82727 20 6.81818C18.4273 10.8091 14.5455 13.6364 10 13.6364C5.45455 13.6364 1.57273 10.8091 0 6.81818C1.57273 2.82727 5.45455 0 10 0ZM1.98182 6.81818C3.48182 9.87273 6.58182 11.8182 10 11.8182C13.4182 11.8182 16.5182 9.87273 18.0182 6.81818C16.5182 3.76364 13.4182 1.81818 10 1.81818C6.58182 1.81818 3.48182 3.76364 1.98182 6.81818Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="search-icon" viewBox="0 0 18 18">
+        <path d="M6.5 0.25C8.22391 0.25 9.87721 0.934819 11.0962 2.15381C12.3152 3.37279 13 5.02609 13 6.75C13 8.36 12.41 9.84 11.44 10.98L11.71 11.25H12.5L17.5 16.25L16 17.75L11 12.75V11.96L10.73 11.69C9.59 12.66 8.11 13.25 6.5 13.25C4.77609 13.25 3.12279 12.5652 1.90381 11.3462C0.684819 10.1272 0 8.47391 0 6.75C0 5.02609 0.684819 3.37279 1.90381 2.15381C3.12279 0.934819 4.77609 0.25 6.5 0.25ZM6.5 2.25C4 2.25 2 4.25 2 6.75C2 9.25 4 11.25 6.5 11.25C9 11.25 11 9.25 11 6.75C11 4.25 9 2.25 6.5 2.25Z" fill="currentColor"></path>
+    </symbol>
+    <symbol id="scroll" viewBox="0 0 10 10">
+        <path d="M5.53272 9.26636H4.46606V2.86636L1.53272 5.79969L0.775391 5.04236L4.99939 0.818359L9.22339 5.04236L8.46606 5.79969L5.53272 2.86636V9.26636Z" fill="#1E1E1E"></path>
+    </symbol>
+</svg>
+</div>
+</body>
+</html>

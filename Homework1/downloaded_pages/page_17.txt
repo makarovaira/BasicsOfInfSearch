@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title> Российский НИИ культурного и природного наследия им. Д. С. Лихачёва</title>
+    <link rel="pingback" href="http://heritage-institute.ru/xmlrpc.php" />
+    <link rel="shortcut icon" href="http://heritage-institute.ru/wp-content/themes/heritage/img/favicon.png" type="image/x-icon" />
+    <meta name='robots' content='max-image-preview:large' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://heritage-institute.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gutenberg-pdfjs-css' href='http://heritage-institute.ru/wp-content/plugins/pdfjs-viewer-shortcode/inc/../blocks/dist/style.css?ver=2.1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='http://heritage-institute.ru/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-all-blocks-style-css' href='http://heritage-institute.ru/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-all-blocks-style.css?ver=10.9.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css' href='http://heritage-institute.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='http://heritage-institute.ru/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.1.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='http://heritage-institute.ru/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.1.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpos-slick-style-css' href='http://heritage-institute.ru/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/slick.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsisac-public-style-css' href='http://heritage-institute.ru/wp-content/plugins/wp-slick-slider-and-image-carousel/assets/css/wpsisac-public.css?ver=3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/jquery.fancybox.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='su-shortcodes-css' href='http://heritage-institute.ru/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/bootstrap.min.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet/less' id='less-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/style.less?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='archive-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/archive.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='mail-style-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/mail-style.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/fonts.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='educational-style-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style/educational.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css' href='http://heritage-institute.ru/wp-content/themes/heritage/style.css?ver=6.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css' href='http://heritage-institute.ru/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<!--n2css--><script type='text/javascript' src='http://heritage-institute.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/jquery-3.1.1.min.js?ver=6.3.5' id='jquery3-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/bootstrap.min.js?ver=6.3.5' id='bootstrapjs-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/jquery.fancybox.min.js?ver=6.3.5' id='jquery.fancybox.min-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/uhpv-full.min.js?ver=6.3.5' id='uhpv-full.min-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/dynamic-tabs.js?ver=6.3.5' id='tabs-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/employee-filter.js?ver=6.3.5' id='employees-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/less.js?ver=6.3.5' id='less-js'></script>
+<script type='text/javascript' id='scripts-js-js-extra'>
+/* <![CDATA[ */
+var configData = {"root_url":"http:\/\/heritage-institute.ru"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/bundled-assets/scripts.292029284cb83ae5152e.js?ver=6.3.5' id='scripts-js-js'></script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/themes/heritage/js/js.js?ver=6.3.5' id='js-js'></script>
+<script type='text/javascript' id='__ytprefs__-js-extra'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/heritage-institute.ru\/wp-admin\/admin-ajax.php","security":"f054ac3323","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/heritage-institute.ru\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/heritage-institute.ru\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\"]","epdovol":"1","version":"14.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://heritage-institute.ru/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2' id='__ytprefs__-js'></script>
+
+<!-- OG: 3.2.3 -->
+<meta property="og:image" content="https://heritage-institute.ru/wp-content/uploads/2019/06/3H2A9198-1.jpg"><meta property="og:image:secure_url" content="https://heritage-institute.ru/wp-content/uploads/2019/06/3H2A9198-1.jpg"><meta property="og:image:width" content="5224"><meta property="og:image:height" content="3611"><meta property="og:image:alt" content="3H2A9198 (1)"><meta property="og:image:type" content="image/jpeg"><meta property="og:description" content="Институт Наследия – ведущий отраслевой научно-исследовательский центр по изучению культурного и природного наследия, разработке методик по его сохранению и использованию, проведению исследований о состоянии и развитии культуры. Базовая организация в сфере сохранения Всемирного наследия стран СНГ."><meta property="og:type" content="article"><meta property="og:locale" content="ru_RU"><meta property="og:site_name" content="Российский НИИ культурного и природного наследия им. Д. С. Лихачёва"><meta property="og:title" content="Главная"><meta property="og:url" content="https://heritage-institute.ru/"><meta property="og:updated_time" content="2023-03-13T16:50:04+03:00">
+<meta property="article:published_time" content="2019-03-01T14:09:38+00:00"><meta property="article:modified_time" content="2023-03-13T13:50:04+00:00"><meta property="article:author:username" content="heritage">
+<meta property="twitter:partner" content="ogwp"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:image" content="https://heritage-institute.ru/wp-content/uploads/2019/06/3H2A9198-1.jpg"><meta property="twitter:image:alt" content="3H2A9198 (1)"><meta property="twitter:title" content="Главная"><meta property="twitter:description" content="Институт Наследия – ведущий отраслевой научно-исследовательский центр по изучению культурного и природного наследия, разработке методик по его сохранению и использованию, проведению исследований о..."><meta property="twitter:url" content="https://heritage-institute.ru/">
+<meta itemprop="image" content="https://heritage-institute.ru/wp-content/uploads/2019/06/3H2A9198-1.jpg"><meta itemprop="name" content="Главная"><meta itemprop="description" content="Институт Наследия – ведущий отраслевой научно-исследовательский центр по изучению культурного и природного наследия, разработке методик по его сохранению и использованию, проведению исследований о состоянии и развитии культуры. Базовая организация в сфере сохранения Всемирного наследия стран СНГ."><meta itemprop="datePublished" content="2019-03-01"><meta itemprop="dateModified" content="2023-03-13T13:50:04+00:00"><meta itemprop="author" content="heritage"><meta itemprop="tagline" content="Российский НИИ культурного и природного наследия им. Д. С. Лихачёва">
+<meta property="profile:username" content="heritage">
+<!-- /OG -->
+
+<link rel="https://api.w.org/" href="https://heritage-institute.ru/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://heritage-institute.ru/index.php?rest_route=/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://heritage-institute.ru/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.5" />
+<meta name="generator" content="WooCommerce 8.1.0" />
+<link rel="canonical" href="https://heritage-institute.ru/" />
+<link rel='shortlink' href='https://heritage-institute.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://heritage-institute.ru/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fheritage-institute.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://heritage-institute.ru/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fheritage-institute.ru%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://heritage-institute.ru"><link rel="alternate" href="https://heritage-institute.ru/index.php?rest_route=/tribe/events/v1/" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	  <style>a.prev.page-numbers:before {content: url("http://heritage-institute.ru/wp-content/themes/heritage/img/prev.png");}</style>
+  <style>a.next.page-numbers:after {content: url("http://heritage-institute.ru/wp-content/themes/heritage/img/next.png");}</style>
+</head>
+<body class="home page-template page-template-index page-template-index-php page page-id-2 theme-heritage woocommerce-no-js tribe-no-js">
+    <style>
+      nav.navbar {
+         box-shadow: 0px 7px 10px 0px rgba(47, 49, 74, 0.09);
+      }
+  </style>
+      <div class="header">
+      <nav class="navbar">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Navbar">
+                <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/icon_menu.png" />                     
+              </button>
+              <a class="" href="/">
+                <div class="logo-main">
+                  <table style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <th rowspan="2"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/logo.svg" alt="logo" style="width: 100%; min-width: 64px;" /> 
+                        </th>
+                        <td class="logo_text_top">Министерство культуры Российской Федерации</td>
+                      </tr>
+                      <tr>
+                        <td class="logo_text_bottom">Российский научно-исследовательский институт культурного и природного наследия имени Д. С. Лихачёва</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </a>
+            </div>              
+            <div class="collapse navbar-collapse" id="Navbar">
+                 <ul id="menu-general-bar" class="nav navbar-nav"><li id="menu-item-19857" class="menu-item menu-item-type-post_type_archive menu-item-object-tribe_events menu-item-19857"><a href="https://heritage-institute.ru?post_type=tribe_events">Новости</a></li>
+<li id="menu-item-195639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195639"><a href="https://heritage-institute.ru/?page_id=7594">Институт</a></li>
+<li id="menu-item-195636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195636"><a href="https://heritage-institute.ru/?page_id=190332">Образование</a></li>
+<li id="menu-item-195640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195640"><a href="https://heritage-institute.ru/?page_id=1867">Издания</a></li>
+<li id="menu-item-195641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195641"><a href="https://heritage-institute.ru/?page_id=25148">Библиотека</a></li>
+<li id="menu-item-195642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195642"><a href="https://heritage-institute.ru/?page_id=1871">Филиалы и партнёры</a></li>
+<li id="menu-item-195643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195643"><a href="https://heritage-institute.ru/?page_id=1873">Контакты</a></li>
+</ul>                  <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/?page_id=2021"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/search_icon.png" /></a></li>
+                  </ul>
+                  <div class="ru-en"><span class="en">Ru</span> / <a class="" href="/?page_id=23674">Eng</a></div>
+              </div>
+            </div>
+      </nav>
+    </div>
+    <script>
+      var x = document.getElementById("testMode"); 
+      function closeDialog() { 
+        x.style.display = (x.style.display == 'none') ? '' : 'none';
+        localStorage.setItem('hide', x.style.display);
+      } 
+      if(localStorage.getItem('hide') == 'none') { 
+        document.getElementById('testMode').style.display = 'none';
+      }
+    </script><section>
+  <div class="about">
+    <div class="container">
+      <div class="row">
+        <div class="">
+          <div class="col-md-6 col-sm-12 about_text">
+                            <p><strong><span style="font-size: 24pt;">Институт Наследия </span></strong>–</p>
+<p>ведущий отраслевой научно-исследовательский центр по изучению культурного и природного наследия, разработке методик по его сохранению и использованию, проведению исследований о состоянии и развитии культуры.</p>
+<p>Базовая организация в сфере сохранения Всемирного наследия стран СНГ.</p>                      </div>
+                      <div class="col-md-6 col-sm-12 bg_img_main" style="background: url('https://heritage-institute.ru/wp-content/uploads/2019/06/3H2A9198-1.jpg') no-repeat;">
+            </div>                    
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="news_main">
+      <div class="container">
+        <div class="row ">
+          <div class="col-md-6 col-sm-12 left_col">
+            <div class="section_main">
+              <h2  class="h_link"><a href="/?page_id=1850">Новости</a></h2>
+              <!--div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <h3><a href="/?page_id=1850#past_events">Прошедшие события</a></h3>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="btn_news_main"><a href="/?page_id=1850" class="">Посмотреть все</a></div>
+                  <p></p>
+                </div>
+              </div-->
+              <div class="row">
+                <a href="https://heritage-institute.ru/?tribe_events=predstavitel-instituta-naslediya-prinyal-uchastie-v-prazdnovanii-90-letiya-arhangelskogo-rajona-gidrograficheskoj-sluzhby" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>10 марта</span> <span class="time_news">10:15</span></div> 
+                          <div class="name_news">Представитель Института Наследия принял участие в праздновании 90-летия Архангельского района Гидрографической службы</div>                          
+                        </div>
+                      </a><a href="https://heritage-institute.ru/?tribe_events=v-institute-naslediya-proshli-kraevedcheskie-vstrechi-na-bersenevke-2" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>5 марта</span> <span class="time_news">18:28</span></div> 
+                          <div class="name_news">В Институте Наследия прошли «Краеведческие встречи на Берсеневке»</div>                          
+                        </div>
+                      </a><a href="https://heritage-institute.ru/?tribe_events=opublikovan-sbornik-nauchnyh-statej-zhivoe-nasledie-pamyati-istoriko-kulturnoe-nasledie-roda-lopuhinyh" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>3 марта</span> <span class="time_news">18:36</span></div> 
+                          <div class="name_news">Опубликован сборник научных статей &#8220;Живое наследие памяти: историко-культурное наследие рода Лопухиных&#8221;</div>                          
+                        </div>
+                      </a><a href="https://heritage-institute.ru/?tribe_events=vladimir-medinskij-vozglavil-soyuz-pisatelej-rossii" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>27 февраля</span> <span class="time_news">13:37</span></div> 
+                          <div class="name_news">Владимир Мединский возглавил Союз писателей России</div>                          
+                        </div>
+                      </a><a href="https://heritage-institute.ru/?tribe_events=zamestitel-direktora-instituta-naslediya-nadezhda-filatova-vystupila-na-mezhdunarodnoj-konferenczii-sovremennye-metody-sohraneniya-obektov-kulturnogo-naslediya" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>21 февраля</span> <span class="time_news">18:32</span></div> 
+                          <div class="name_news">Надежда Филатова выступила на Международной конференции «Современные методы сохранения объектов культурного наследия»</div>                          
+                        </div>
+                      </a><a href="https://heritage-institute.ru/?tribe_events=xxii-panarinskie-chteniya-duhovno-nravstvennye-czennosti-v-geopoliticheskom-protivostoyanii-xxi-veka-proshli-v-mgu-im-m-v-lomonosova" class="">
+                        <div class="link_news">
+                          <div class="date_news"><span>20 февраля</span> <span class="time_news">13:23</span></div> 
+                          <div class="name_news">XXII Панаринские чтения «Духовно-нравственные ценности в геополитическом противостоянии XXI века» прошли в МГУ им. М.В. Ломоносова</div>                          
+                        </div>
+                      </a>              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <!--div class="btn_news_main"><a href="/?page_id=1850" class="">Все новости</a></div-->
+                  <!--div class="btn_news_main"><a href="#" class="">Подписаться</a></div-->
+                   
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div
+    id="mailpoet_form_2"
+    class="
+      mailpoet_form
+      mailpoet_form_php
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "
+      >
+
+    <style type="text/css">
+     #mailpoet_form_2 .mailpoet_form {  }
+#mailpoet_form_2 .mailpoet_paragraph { line-height: 20px; }
+#mailpoet_form_2 .mailpoet_segment_label, #mailpoet_form_2 .mailpoet_text_label, #mailpoet_form_2 .mailpoet_textarea_label, #mailpoet_form_2 .mailpoet_select_label, #mailpoet_form_2 .mailpoet_radio_label, #mailpoet_form_2 .mailpoet_checkbox_label, #mailpoet_form_2 .mailpoet_list_label, #mailpoet_form_2 .mailpoet_date_label { display: block; font-weight: bold; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea, #mailpoet_form_2 .mailpoet_select, #mailpoet_form_2 .mailpoet_date_month, #mailpoet_form_2 .mailpoet_date_day, #mailpoet_form_2 .mailpoet_date_year, #mailpoet_form_2 .mailpoet_date { display: block; }
+#mailpoet_form_2 .mailpoet_text, #mailpoet_form_2 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_2 .mailpoet_checkbox {  }
+#mailpoet_form_2 .mailpoet_submit input {  }
+#mailpoet_form_2 .mailpoet_divider {  }
+#mailpoet_form_2 .mailpoet_message {  }
+#mailpoet_form_2 .mailpoet_validate_success { font-weight: 600; color: #468847; }
+#mailpoet_form_2 .mailpoet_validate_error { color: #b94a48; }
+#mailpoet_form_2 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_2 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }#mailpoet_form_2{border-radius: 0px;text-align: left;}#mailpoet_form_2 form.mailpoet_form {padding: 20px;}#mailpoet_form_2{width: 100%;}#mailpoet_form_2 .mailpoet_message {margin: 0; padding: 0 20px;}#mailpoet_form_2 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_2 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_2 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_2 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form
+      target="_self"
+      method="post"
+      action="https://heritage-institute.ru/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_php"
+      novalidate
+      data-delay=""
+      data-exit-intent-enabled=""
+      data-font-family=""
+      data-cookie-expiration-time=""
+    >
+      <input type="hidden" name="data[form_id]" value="2" />
+      <input type="hidden" name="token" value="5fabcfb313" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Пожалуйста, оставьте это поле пустым.<input type="email" name="data[email]"/></label><div class="mailpoet_paragraph "><label for="form_email_2" class="mailpoet_text_label" data-automation-id="form_email_label" >Адрес электронной почты <span class="mailpoet_required">*</span></label><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_2" name="data[form_field_YTZiNzg0NzlkMDRlX2VtYWls]" title="Адрес электронной почты" value="" style="padding:5px;margin: 0 auto 0 0;" data-automation-id="form_email" data-parsley-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Значение должно быть верным адресом электронной почты." data-parsley-errors-container=".mailpoet_error_email_" data-parsley-required-message="Это поле необходимо."/></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Подписаться!" data-automation-id="subscribe-submit-button" style="padding:5px;margin: 0 auto 0 0;border-color:transparent;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+<div class="mailpoet_paragraph " ><input type="checkbox" class="mailpoet_confirm"/> <span class="mailpoet_confirm">Соглашаясь на рассылку, Вы даёте разрешение на сбор, обработку и хранение персональных данных (адрес e-mail)</span><br />
+<br />
+<script>$(document).ready(function() { $('.mailpoet_submit').prop("disabled", true); }); $(document).change('.mailpoet_confirm', function(e) { $('.mailpoet_submit').prop('disabled', !$(e.target).is(':checked')); } )</script></div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Проверьте ваш почтовый ящик или папку спам, чтобы подтвердить свою подписку.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+
+      </div>
+
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-12 right_col">
+             <div class="section_main">
+              <!--h2 style="color: transparent;">Новости</h2-->
+              <div class="row">
+                <div class="col-md-4 col-sm-12">
+                  <h3><a href="/?page_id=19888">Анонсы</a></h3>
+                </div>
+                <div class="col-md-8 col-sm-12">
+                  <!--div class="btn_news_main"><a href="/?page_id=1850" class="">Посмотреть все</a></div-->
+                  <p></p>
+                </div>
+              </div>
+              <div class="row">
+              <a href="https://heritage-institute.ru/?tribe_events=v-omske-sostoitsya-vi-vserossijskaya-nauchnaya-konferencziya-sibir-vklad-v-pobedu-v-velikoj-otechestvennoj-vojne-1941-1945" class="upcoming">
+                      <div class="link_news">
+                        <div class="img_news"><img width="1600" height="900" src="https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big.jpg" class="img-responsive wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big.jpg 1600w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-300x169.jpg 300w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1024x576.jpg 1024w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-768x432.jpg 768w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1536x864.jpg 1536w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1320x743.jpg 1320w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-600x338.jpg 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></div>
+                        <div class="date_news"><span>15-16 мая 2025 года</span></div>
+                        <div class="name_news">В Омске состоится VI Всероссийская научная конференция «Сибирь: Вклад в Победу в Великой Отечественной Войне (1941–1945)»</div>
+                      </div>
+                    </a><a href="https://heritage-institute.ru/?tribe_events=v-institute-naslediya-projdut-ocherednye-krymskie-chteniya" class="">
+                      <div class="link_news">
+                        <div class="img_news"><img width="960" height="720" src="https://heritage-institute.ru/wp-content/uploads/2025/03/zastavka-ropik_36krym.chten.jpg" class="img-responsive wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://heritage-institute.ru/wp-content/uploads/2025/03/zastavka-ropik_36krym.chten.jpg 960w, https://heritage-institute.ru/wp-content/uploads/2025/03/zastavka-ropik_36krym.chten-300x225.jpg 300w, https://heritage-institute.ru/wp-content/uploads/2025/03/zastavka-ropik_36krym.chten-768x576.jpg 768w, https://heritage-institute.ru/wp-content/uploads/2025/03/zastavka-ropik_36krym.chten-600x450.jpg 600w" sizes="(max-width: 960px) 100vw, 960px" /></div>
+                        <div class="date_news"><span>10 марта 2025 года 08:00-17:00</span></div>
+                        <div class="name_news">В Институте Наследия пройдут очередные «Крымские чтения»</div>
+                      </div>
+                    </a><a href="https://heritage-institute.ru/?tribe_events=proekt-zhivoe-nasledie-pamyati-poisk-informaczii-ob-ugnannyh-v-germaniyu-vo-vremya-velikoj-otechestvennoj-vojny" class="">
+                      <div class="link_news">
+                        <div class="img_news"><img width="1600" height="900" src="https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1.jpg" class="img-responsive wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1.jpg 1600w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-300x169.jpg 300w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-1024x576.jpg 1024w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-768x432.jpg 768w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-1536x864.jpg 1536w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-1320x743.jpg 1320w, https://heritage-institute.ru/wp-content/uploads/2025/02/3721_n2384407_big-1-600x338.jpg 600w" sizes="(max-width: 1600px) 100vw, 1600px" /></div>
+                        <div class="date_news"><span>21 февраля 2025 года 08:00-17:00</span></div>
+                        <div class="name_news">Проект «Живое наследие памяти»: Поиск информации об угнанных в Германию во время Великой Отечественной войны</div>
+                      </div>
+                    </a>              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="btn_news_main"><a href="/?page_id=1850" class="" style="font-weight: bold;">Все новости и анонсы</a></div>
+                  <!--div class="btn_news_main"><a href="#" class="">Подписаться</a></div-->
+                </div>
+              </div>
+            </div>    
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<div class="activity section_main">
+    <div class="container">
+        <div class="row">
+
+            <h2 class="h_link"><a href="/?page_id=7594">Направления деятельности</a></h2>
+            <div class="container_activity">
+              <a href="/?activities=fundamental_study" class="">
+                      <div class="link_activity">
+                          <div class="block_img fundamental_study"></div>
+                          <div class="block_text"><span>Фундаментальные исследования</span></div>
+                      </div>
+                    </a><a href="/?activities=museology" class="">
+                      <div class="link_activity">
+                          <div class="block_img museology"></div>
+                          <div class="block_text"><span>Музееведение и музейное проектирование</span></div>
+                      </div>
+                    </a><a href="/?activities=underwater" class="">
+                      <div class="link_activity">
+                          <div class="block_img underwater"></div>
+                          <div class="block_text"><span>Подводное культурное наследие</span></div>
+                      </div>
+                    </a><a href="/?activities=local_history" class="">
+                      <div class="link_activity">
+                          <div class="block_img local_history"></div>
+                          <div class="block_text"><span>Краеведение, москвоведение и крымоведение</span></div>
+                      </div>
+                    </a><a href="/?activities=non-material" class="">
+                      <div class="link_activity">
+                          <div class="block_img non-material"></div>
+                          <div class="block_text"><span>Нематериальное наследие</span></div>
+                      </div>
+                    </a><a href="/?activities=arctic" class="">
+                      <div class="link_activity">
+                          <div class="block_img arctic"></div>
+                          <div class="block_text"><span>Наследие Арктики</span></div>
+                      </div>
+                    </a><a href="/?activities=turizm" class="">
+                      <div class="link_activity">
+                          <div class="block_img turizm"></div>
+                          <div class="block_text"><span>Программы развития туризма</span></div>
+                      </div>
+                    </a><a href="/?activities=cartography" class="">
+                      <div class="link_activity">
+                          <div class="block_img cartography"></div>
+                          <div class="block_text"><span>Картография</span></div>
+                      </div>
+                    </a><a href="/?activities=unesco" class="">
+                      <div class="link_activity">
+                          <div class="block_img unesco"></div>
+                          <div class="block_text"><span>Сотрудничество с ЮНЕСКО</span></div>
+                      </div>
+                    </a>             </div>
+        </div>
+    </div>
+</div>
+<!-- news_feed-->
+ <script type="text/javascript">
+    $(document).ready(function(){        
+// СЛАЙДЕР
+'use strict';
+var multiItemSlider = (function () {
+  return function (selector, config) {
+    var
+      _mainElement = document.getElementById('slider'), // основный элемент блока
+      _sliderWrapper = _mainElement.querySelector('.slider__wrapper'), // обертка для .slider-item
+      _sliderItems = _mainElement.querySelectorAll('.slider__item'), // элементы (.slider-item)
+      _sliderControls = _mainElement.querySelectorAll('.slider__control'), // элементы управления
+      _sliderControlLeft = _mainElement.querySelector('.slider__control_left'), // кнопка "LEFT"
+      _sliderControlRight = _mainElement.querySelector('.slider__control_right'), // кнопка "RIGHT"
+      _wrapperWidth = parseFloat(getComputedStyle(_sliderWrapper).width), // ширина обёртки
+      _itemWidth = parseFloat(getComputedStyle(_sliderItems[0]).width), // ширина одного элемента    
+      _positionLeftItem = 0, // позиция левого активного элемента
+      _transform = 0, // значение транфсофрмации .slider_wrapper
+      _step = _itemWidth / _wrapperWidth * 100, // величина шага (для трансформации)
+      _items = []; // массив элементов
+
+    // наполнение массива _items
+    _sliderItems.forEach(function (item, index) {
+      _items.push({ item: item, position: index, transform: 0 });
+    });
+
+    var position = {
+      getItemMin: function () {
+        var indexItem = 0;
+        _items.forEach(function (item, index) {
+          if (item.position < _items[indexItem].position) {
+            indexItem = index;
+          }
+        });
+        return indexItem;
+      },
+      getItemMax: function () {
+        var indexItem = 0;
+        _items.forEach(function (item, index) {
+          if (item.position > _items[indexItem].position) {
+            indexItem = index;
+          }
+        });
+        return indexItem;
+      },
+      getMin: function () {
+        return _items[position.getItemMin()].position;
+      },
+      getMax: function () {
+        return _items[position.getItemMax()].position;
+      }
+    }
+
+    var _transformItem = function (direction) {
+      var nextItem;
+      if (direction === 'right') {
+        _positionLeftItem++;
+        if ((_positionLeftItem + _wrapperWidth / _itemWidth - 1) > position.getMax()) {
+          nextItem = position.getItemMin();
+          _items[nextItem].position = position.getMax() + 1;
+          _items[nextItem].transform += _items.length * 100;
+          _items[nextItem].item.style.transform = 'translateX(' + _items[nextItem].transform + '%)';
+        }
+        _transform -= _step;
+      }
+      if (direction === 'left') {
+        _positionLeftItem--;
+        if (_positionLeftItem < position.getMin()) {
+          nextItem = position.getItemMax();
+          _items[nextItem].position = position.getMin() - 1;
+          _items[nextItem].transform -= _items.length * 100;
+          _items[nextItem].item.style.transform = 'translateX(' + _items[nextItem].transform + '%)';
+        }
+        _transform += _step;
+      }
+      _sliderWrapper.style.transform = 'translateX(' + _transform + '%)';
+    }
+
+    // обработчик события click для кнопок "назад" и "вперед"
+    var _controlClick = function (e) {
+      var direction = this.classList.contains('slider__control_right') ? 'right' : 'left';
+      e.preventDefault();
+      _transformItem(direction);
+    };
+
+    var _setUpListeners = function () {
+      // добавление к кнопкам "назад" и "вперед" обрботчика _controlClick для событя click
+      _sliderControls.forEach(function (item) {
+        item.addEventListener('click', _controlClick);
+      });
+    }
+
+    // инициализация
+    _setUpListeners();
+
+    return {
+      right: function () { // метод right
+        _transformItem('right');
+      },
+      left: function () { // метод left
+        _transformItem('left');
+      }
+    }
+
+  }
+}());
+
+var slider = multiItemSlider('.slider')
+
+});
+ </script>
+  <div class="news_feed section_main">
+      <div class="container">
+        <div class="slider" id="slider">
+          <div class="slider__wrapper">
+                           <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=vyshla-v-svet-reczenziya-aleksandra-kazina-na-monografiyu-kapitaliny-kokshenevoj-posvyashhennuyu-kulturno-filosofskim-aspektam-naslediya-nikolaya-strahova" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/09/rusklassika_2024_6-2_cover.pdf.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">Вышла в свет рецензия Александра Казина на монографию Капиталины Кокшеневой, посвященную культурно-философским аспектам наследия Николая Страхова</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=kapitalina-koksheneva-opublikovala-reczenziyu-na-spektakl-vojna-i-mir" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/09/1d1c9ea2-cf84-4b35-a634-28d6046914df.jpeg') no-repeat;">
+                          <div class="name_news text_news_feed">Капиталина Кокшенева опубликовала рецензию на патриотическую оперу- драму «Le prince Andrе. Князь Андрей Болконский» Донецкого государственного музыкально-драматического театра</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=o-soderzhanii-i-napravlennosti-ideologii-chajld-fri" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/07/66880d4380b43-1.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">О содержании и направленности идеологии «чайлд-фри»</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=vi-rossijskij-kulturologicheskij-kongress-s-mezhdunarodnym-uchastiem-kulturnaya-identichnost-v-prostranstve-tradiczii-i-innovaczii" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/06/c420fa88ba7bf238aaf8821014d65601-1-1024x707-1.jpeg') no-repeat;">
+                          <div class="name_news text_news_feed">VI Российский культурологический конгресс с международным участием «Культурная идентичность в пространстве традиции и инновации».</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=intervyu-doktora-filosofskih-nauk-zamestitelya-predsedatelya-izborskogo-kluba-vitaliya-averyanova-princzipialnyj-chestnyj-nikogda-ne-krivivshij-dushoj-komu-i-zachem-ponadobilas-isterika-vok" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/05/f30-cv.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">Интервью доктора философских наук, заместителя председателя Изборского клуба Виталия Аверьянова: «Принципиальный, честный, никогда не крививший душой! Кому и зачем понадобилась истерика вокруг Ивана Ильина»</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=ekspertno-analiticheskoe-issledovanie-razrabotka-rekomendaczij-po-sovershenstvovaniyu-normativnogo-pravovogo-regulirovaniya-v-sfere-kultury-s-uchyotom-prioriteta-tradiczionnyh-duhovno-nravstvenn-2" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/04/img_4394.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">Экспертно-аналитическое исследование «Разработка рекомендаций по совершенствованию нормативного правового регулирования в сфере культуры с учётом приоритета традиционных духовно-нравственных ценностей народов Российской Федерации»</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=obyavlyaetsya-podgotovka-k-provedeniyu-odinnadczatogo-vserossijskogo-konkursa-molodyh-uchyonyh-v-oblasti-iskusstv-i-kultury-2" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/04/ec43819ec13d3890d728.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">Объявляется подготовка к проведению Одиннадцатого Всероссийского конкурса молодых учёных в области искусств и культуры</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                 <div class="slider__item">              
+                <a href="https://heritage-institute.ru/?tribe_events=institut-naslediya-vypustil-slovar-osnovnyh-terminov-otnosyashhihsya-k-sfere-gosudarstvennoj-politiki-po-zashhite-tradiczionnyh-rossijskih-duhovno-nravstvennyh-czennostej-kultury-i-istorichesk" class="">
+                  <!--div class="left_col_news_feed"-->
+                    <div class=""> <!--.link_news-->
+                        <div class="news-wrap" style="background: url('https://heritage-institute.ru/wp-content/uploads/2024/03/vozmozhnaya-illyustracziya.jpg') no-repeat;">
+                          <div class="name_news text_news_feed">Институт Наследия выпустил «Словарь основных терминов, относящихся к сфере государственной политики по защите традиционных российских духовно-нравственных ценностей, культуры и исторической памяти»</div>
+                        </div>
+                    </div>
+                  <!--/div-->
+                </a>              
+            </div>                  
+        </div>
+        <a class="slider__control slider__control_left" href="#" role="button"></a>
+        <a class="slider__control slider__control_right slider__control_show" href="#" role="button"></a>
+      </div>
+  
+    </div>
+  </div>
+
+<!-- / news_feed-->
+</div>
+    <footer>
+    <div class="line_grey">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5">
+          <div class="logo-footer">
+            <a class="" href="#">
+              <table style="width:100%;">
+                <tbody>
+                 
+                  <tr>
+                    <th rowspan="3">
+                      <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/logo.svg" alt="logo" style="width: 100%; min-width: 72px;" /> 
+                    </th>
+                  </tr>
+                  <tr>
+                    <td class="logo_text_top">федеральное государственное бюджетное <br />научно-исследовательское учреждение</td>
+                  </tr>
+                  <tr>
+                    <td class="logo_text_bottom">Российский научно-исследовательский институт культурного и природного наследия имени Д. С. Лихачёва</td>
+                  </tr>
+                </tbody>
+              </table>
+            </a>
+              <table style="width:100%;">
+                <tbody>
+                  <tr>
+                    <td style="width:8%;"></td>
+                    <td class="logo_mkrf"><a class="" href="https://www.mkrf.ru/" target="_blank"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/logo-mkrf.svg" alt="mkrf" width="191" /> </a></td>
+                  </tr>
+
+                </tbody>
+              </table>
+            </div>  
+            <div style="font-size: 12px; font-weight: bold; margin-top: 50px;">
+              Сайт разработан <a class="" href="http://givc.ru" target="_blank">ГИВЦ Минкультуры России</a>
+            </div>     
+        </div>
+        <div class="col-md-3 contact_text">
+          <h4>Юридический адрес:</h4>
+          <p>119072, Москва, Берсеневская набережная, д. 18-20-22, строение 3</p>
+          <br />
+          <h4>Почтовый адрес:</h4>
+          <p>129366, Москва, ул. Космонавтов, д.2</p>
+          <br />
+          <h4>Телефон:</h4>
+          <p><a href="tel:+74956861319">+7 (495) 686-13-19</a></p>
+          <!--h4>Факс:</h4>
+          <p><a href="tel:+74956861324">+7 (495) 686-13-24</a></p-->
+          <p>е-mail: <a href="mailto:info@heritage-institute.ru" target="_top"><u>info@heritage-institute.ru</u></a></p>
+          <h4>Пресс-служба</h4>
+          <p>е-mail: <a href="mailto:pressa@heritage-institute.ru" target="_top"><u>pressa@heritage-institute.ru</u></a></p>
+        </div>
+        <div class="col-md-4">
+          <div class="row_footer_menu">
+            <div class="column_footer_menu">
+              <ul id="menu-menyu-futera-sleva" class="list-unstyled"><li id="menu-item-19858" class="menu-item menu-item-type-post_type_archive menu-item-object-tribe_events menu-item-19858"><a href="https://heritage-institute.ru?post_type=tribe_events">Новости</a></li>
+<li id="menu-item-195702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195702"><a href="https://heritage-institute.ru/?page_id=7594">Институт</a></li>
+<li id="menu-item-198290" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198290"><a href="https://heritage-institute.ru/?page_id=190332">Образование</a></li>
+<li id="menu-item-195703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195703"><a href="https://heritage-institute.ru/?page_id=1867">Издания</a></li>
+<li id="menu-item-195704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195704"><a href="https://heritage-institute.ru/?page_id=25148">Библиотека</a></li>
+<li id="menu-item-195706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195706"><a href="https://heritage-institute.ru/?page_id=1871">Филиалы и партнёры</a></li>
+<li id="menu-item-195705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195705"><a href="https://heritage-institute.ru/?page_id=1873">Контакты</a></li>
+</ul>            </div>
+            <div class="column_footer_menu">
+              <ul id="menu-menyu-futera-sprava" class="list-unstyled"><li id="menu-item-195707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195707"><a href="https://heritage-institute.ru/?page_id=7607">Противодействие коррупции</a></li>
+<li id="menu-item-195708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195708"><a href="https://heritage-institute.ru/?page_id=45597">Реквизиты организации</a></li>
+<li id="menu-item-195709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195709"><a href="https://heritage-institute.ru/?page_id=45594">Пользовательское соглашение</a></li>
+<li id="menu-item-195710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195710"><a href="https://heritage-institute.ru/?page_id=45592">Политика конфиденциальности</a></li>
+</ul>            </div>
+           
+          </div>
+          <div class="social_icons">
+              <!--a class="href_social" href="https://www.facebook.com/InstitutNasledia/" target="_blank" style="margin-top: 0">
+                <div class="fb_icon">
+                  <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/social/facebook.svg" class="fb" alt="facebook" />
+                  <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/social/fb_hover.svg" class="fb_hover" alt="facebook" />
+                </div>
+              </a-->
+              <!--a class="href_social" href="https://vk.com/institut_nasledia" target="_blank">
+                <div class="vk_icon">
+                  <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/social/vk.svg" class="vk" alt="vk" />
+                  <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/social/vk_hover.svg" class="vk_hover" alt="vk" />
+                </div>
+              </a-->
+              <!--a class="href_social" href="https://www.instagram.com/russiaheritage/" target="_blank">
+                <div class="inst_icon">
+                  <img src="</*?php echo get_template_directory_uri(); */?>/img/social/instagram.svg" class="inst" alt="inst" />
+                  <img src="</*?php echo get_template_directory_uri(); */?>/img/social/inst_hover.svg" class="inst_hover" alt="inst" />
+                </div>
+              </a-->
+            </div>            
+        <div class="clearfix"></div>
+           <a  id="specialButton" href="#" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" >
+          <div class="visually" >
+              <img src="http://heritage-institute.ru/wp-content/themes/heritage/img/glasses.png" alt="glasses" />Версия для слабовидящих                         
+          </div>
+          </a>
+        <div class="clearfix"></div>
+        <div style='margin-left: 15px; margin-top: 15px;'>
+           <a href="https://heritage-institute.ru/openlicense/2023.04.27_openlicense.pdf" alt="Открытая лицензия / Copyright licensing agreement" title="Открытая лицензия / Copyright licensing agreement" >
+          Открытая лицензия / Copyright licensing agreement
+          </a>
+         </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="line_white">
+    <div class="container">
+
+      <a href="http://unesco.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/UNE_heritage-institute_240-100.jpg" alt="Комиссия РФ по делам ЮНЕСКО" /></a>
+      <a href="https://grants.culture.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/banner_grants.jpg" alt="Культура.Гранты России" /></a>
+      <a href="https://xn--90aivcdt6dxbc.xn--p1ai/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/explain.png" style="max-height: 100px;" alt="Объясняем.рф — официально о том, что происходит" /></a>
+      <!-- <a href="https://russia.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/rus_bl.jpg" alt="Международная выставка-форум Россия" style="max-width: 240px;"/></a> -->
+     <!--  <a href="https://kids-forum.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/children_forum.jpg" style="max-height: 100px;" alt="Детский культурный форум" /></a> -->
+
+      <!--a href="http://nasledie-journal.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/journal.png" alt="Журнал института наследия" /></a>
+      <a href="http://nasledie-journal.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/journal.png" alt="Журнал института наследия" /></a>
+      <a href="http://nasledie-journal.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/journal.png" alt="Журнал института наследия" /></a>
+      <a href="http://nasledie-journal.ru/" target="_blank" class="link_line_white"><img src="http://heritage-institute.ru/wp-content/themes/heritage/img/journal.png" alt="Журнал института наследия" /></a- ->
+       <!--a href="https://2019.culture.ru/" target="_blank" class="link_line_white">
+        <svg id="icon-logo" viewBox="0 0 78.27 52.62" width="100%" height="70px"><path d="M52.94,30" style="fill: none; stroke: #1d1d1b; stroke-width: 0.101000003516674px"></path><path d="M54.93,35.95a1.76,1.76,0,0,1-2.5,0,2,2,0,0,1,0-2.67,1.76,1.76,0,0,1,2.5,0,2,2,0,0,1,0,2.67m-3.12-5.29a4.42,4.42,0,0,0-1.44.91,4,4,0,0,0-.94,1.35,4.29,4.29,0,0,0-.33,1.7,4.12,4.12,0,0,0,.37,1.76,4.19,4.19,0,0,0,1,1.36,4.25,4.25,0,0,0,1.43.86,3.88,3.88,0,0,0,1.69.22l-2.63,3.9h2.93l3.22-4.78a6.88,6.88,0,0,0,.58-1,7.72,7.72,0,0,0,.4-1.05,4.48,4.48,0,0,0-.15-3A4,4,0,0,0,57,31.56a4.4,4.4,0,0,0-1.45-.91,5.42,5.42,0,0,0-3.73,0m-6.71-.23-3.22,2.24,1.36,2.14,1.27-.88v8.78h2.83V30.42ZM31,39.19a5.81,5.81,0,0,0,1.12,2,4.85,4.85,0,0,0,1.68,1.23,5.15,5.15,0,0,0,4.11,0,4.86,4.86,0,0,0,1.68-1.23,5.83,5.83,0,0,0,1.12-2,8.59,8.59,0,0,0,0-5.24,5.83,5.83,0,0,0-1.12-2,4.89,4.89,0,0,0-1.68-1.23,5.15,5.15,0,0,0-4.11,0A4.88,4.88,0,0,0,32.1,32a5.81,5.81,0,0,0-1.12,2,8.61,8.61,0,0,0,0,5.24m7.09-1.08a3.57,3.57,0,0,1-.54,1.1,2.13,2.13,0,0,1-.78.65,2.07,2.07,0,0,1-1.83,0,2.13,2.13,0,0,1-.78-.65,3.57,3.57,0,0,1-.54-1.1,5.25,5.25,0,0,1-.21-1.54A5.14,5.14,0,0,1,33.6,35a3.57,3.57,0,0,1,.54-1.09,2.21,2.21,0,0,1,.78-.66,2,2,0,0,1,1.83,0,2.21,2.21,0,0,1,.78.66A3.57,3.57,0,0,1,38.07,35a5.14,5.14,0,0,1,.2,1.53,5.25,5.25,0,0,1-.2,1.54M24.92,40l2.34-2.44a7.33,7.33,0,0,0,1-1.05,6.37,6.37,0,0,0,.67-1.12,3.07,3.07,0,0,0,.3-1.34,3.83,3.83,0,0,0-.28-1.48,3.22,3.22,0,0,0-.84-1.18,3.91,3.91,0,0,0-1.35-.77,5.63,5.63,0,0,0-1.81-.27,5.11,5.11,0,0,0-1.78.29,3.9,3.9,0,0,0-1.35.82,3.67,3.67,0,0,0-.86,1.24,3.94,3.94,0,0,0-.3,1.55l2.73.19a1.42,1.42,0,0,1,1.56-1.56,1.39,1.39,0,0,1,1,.34,1.23,1.23,0,0,1,.35.93,1.58,1.58,0,0,1-.17.68,3.2,3.2,0,0,1-.38.62,5.8,5.8,0,0,1-.53.64l-4.49,4.68v1.95h8.48V40Z" style="fill: #e30613"></path><path d="M74.14,46.77v4.91h1l2-2.92v2.92h1.13V46.77h-1l-2,2.92V46.77Zm-5.07,0v4.91h1l2-2.92v2.92H73.2V46.77h-1l-2,2.92V46.77Zm-3.39,3.76a1.28,1.28,0,0,1-.41-.29,1.38,1.38,0,0,1-.28-.44,1.61,1.61,0,0,1,0-1.12,1.38,1.38,0,0,1,.28-.44,1.26,1.26,0,0,1,.41-.29,1.21,1.21,0,0,1,.5-.11,1.18,1.18,0,0,1,.39.06,1.16,1.16,0,0,1,.31.16,1,1,0,0,1,.22.23,1.2,1.2,0,0,1,.13.28l1.17-.08a2.38,2.38,0,0,0-.28-.67,2.23,2.23,0,0,0-.48-.56,2.35,2.35,0,0,0-.65-.38,2.21,2.21,0,0,0-.81-.14,2.34,2.34,0,0,0-.94.19,2.38,2.38,0,0,0-.77.53,2.56,2.56,0,0,0-.52.8,2.61,2.61,0,0,0,0,2,2.58,2.58,0,0,0,.52.79,2.37,2.37,0,0,0,.77.53,2.34,2.34,0,0,0,.94.19,2.31,2.31,0,0,0,.83-.14,2.35,2.35,0,0,0,.67-.38,2.21,2.21,0,0,0,.48-.56,2.38,2.38,0,0,0,.28-.67l-1.17-.08a1.06,1.06,0,0,1-.36.52,1.13,1.13,0,0,1-.74.22,1.21,1.21,0,0,1-.5-.1m-5,0a1.28,1.28,0,0,1-.41-.29,1.4,1.4,0,0,1-.28-.44,1.61,1.61,0,0,1,0-1.12,1.4,1.4,0,0,1,.28-.44,1.26,1.26,0,0,1,.41-.29,1.21,1.21,0,0,1,.5-.11,1.18,1.18,0,0,1,.39.06,1.16,1.16,0,0,1,.31.16,1,1,0,0,1,.22.23,1.2,1.2,0,0,1,.13.28l1.17-.08a2.38,2.38,0,0,0-.28-.67,2.23,2.23,0,0,0-.48-.56,2.35,2.35,0,0,0-.65-.38,2.21,2.21,0,0,0-.81-.14,2.34,2.34,0,0,0-.94.19,2.38,2.38,0,0,0-.77.53,2.56,2.56,0,0,0-.52.8,2.61,2.61,0,0,0,0,2,2.58,2.58,0,0,0,.52.79,2.37,2.37,0,0,0,.77.53,2.34,2.34,0,0,0,.94.19,2.31,2.31,0,0,0,.83-.14,2.35,2.35,0,0,0,.67-.38,2.19,2.19,0,0,0,.48-.56,2.38,2.38,0,0,0,.28-.67l-1.17-.08a1.06,1.06,0,0,1-.35.52,1.13,1.13,0,0,1-.74.22,1.21,1.21,0,0,1-.5-.1m-2.58-2.28a2.58,2.58,0,0,0-.52-.8,2.39,2.39,0,0,0-.77-.53,2.41,2.41,0,0,0-1.88,0,2.38,2.38,0,0,0-.77.53,2.56,2.56,0,0,0-.52.8,2.61,2.61,0,0,0,0,2,2.58,2.58,0,0,0,.52.79,2.37,2.37,0,0,0,.77.53,2.41,2.41,0,0,0,1.88,0A2.37,2.37,0,0,0,57.6,51a2.6,2.6,0,0,0,.52-.79,2.61,2.61,0,0,0,0-2m-1,1.54a1.38,1.38,0,0,1-.28.44,1.28,1.28,0,0,1-.41.29,1.24,1.24,0,0,1-1,0,1.28,1.28,0,0,1-.41-.29,1.4,1.4,0,0,1-.28-.44,1.61,1.61,0,0,1,0-1.12,1.4,1.4,0,0,1,.28-.44,1.26,1.26,0,0,1,.41-.29,1.24,1.24,0,0,1,1,0,1.26,1.26,0,0,1,.41.29,1.38,1.38,0,0,1,.28.44,1.6,1.6,0,0,1,0,1.12M50.47,49V47.87h.78a.61.61,0,0,1,.44.18.56.56,0,0,1,0,.82.61.61,0,0,1-.44.17Zm-1.13-2.26v4.91h1.13V50.13h.78a1.87,1.87,0,0,0,.7-.13,1.67,1.67,0,0,0,.92-.89,1.68,1.68,0,0,0,0-1.31,1.67,1.67,0,0,0-.92-.89,1.87,1.87,0,0,0-.7-.13Zm-5.19,4V49.58h1a.6.6,0,0,1,.44.18.56.56,0,0,1,0,.82.61.61,0,0,1-.44.17Zm0-3H45a.54.54,0,0,1,.39.15.48.48,0,0,1,0,.71.54.54,0,0,1-.39.15h-.86Zm2.2,1.15a1.16,1.16,0,0,0,.2-.29.91.91,0,0,0,.09-.43,1.25,1.25,0,0,0-.11-.53,1.4,1.4,0,0,0-.31-.43,1.47,1.47,0,0,0-.48-.3,1.68,1.68,0,0,0-.62-.11H43v4.91h2.22a1.72,1.72,0,0,0,.64-.12,1.66,1.66,0,0,0,.51-.31,1.37,1.37,0,0,0,.33-.46,1.35,1.35,0,0,0,.12-.56,1.12,1.12,0,0,0-.12-.55,1.4,1.4,0,0,0-.66-.62,1.27,1.27,0,0,0,.29-.22m-7,1.89.31.94h1.17L39,46.77H37.87l-1.76,4.91h1.17l.31-.94Zm-1.4-1,.55-1.64L39,49.78ZM33.62,49V47.87h.78a.6.6,0,0,1,.44.18.56.56,0,0,1,0,.82.61.61,0,0,1-.44.17Zm-1.13-2.26v4.91h1.13V50.13h.78a1.86,1.86,0,0,0,.7-.13,1.67,1.67,0,0,0,.92-.89,1.68,1.68,0,0,0,0-1.31,1.67,1.67,0,0,0-.92-.89,1.86,1.86,0,0,0-.7-.13Zm-1.95,1.09h1.4V46.77H28v1.09h1.4v3.82h1.13Zm-3.67,2.89.31.94h1.17L26.6,46.77H25.43l-1.75,4.91h1.17l.31-.94Zm-1.4-1L26,48.14l.55,1.64Zm-5.65,1.91H23.4V50.6H20.94v-.86h2.18V48.65H20.94v-.78h2.38V46.77H19.81Zm-2-3.82h1.4V46.77H15.33v1.09h1.4v3.82h1.13Zm-6.2,2.73H9.87a.64.64,0,0,0,.16-.16,1.39,1.39,0,0,0,.13-.24,1.47,1.47,0,0,0,.1-.39l.23-2h1.17Zm1.13,0V46.77H9.52l-.35,3a1.12,1.12,0,0,1-.11.39,1,1,0,0,1-.17.24.72.72,0,0,1-.23.16H8.35v2H9.48v-.94h2.73v.94h1.13v-2ZM8,48.25a2.57,2.57,0,0,0-.52-.8,2.38,2.38,0,0,0-3.42,0,2.57,2.57,0,0,0-.52.8,2.61,2.61,0,0,0,0,2,2.58,2.58,0,0,0,.52.79,2.38,2.38,0,0,0,3.42,0A2.58,2.58,0,0,0,8,50.21a2.61,2.61,0,0,0,0-2M7,49.79a1.4,1.4,0,0,1-.28.44,1.28,1.28,0,0,1-.41.29,1.24,1.24,0,0,1-1,0,1.28,1.28,0,0,1-.41-.29,1.4,1.4,0,0,1-.28-.44,1.61,1.61,0,0,1,0-1.12,1.4,1.4,0,0,1,.28-.44,1.27,1.27,0,0,1,.41-.29,1.24,1.24,0,0,1,1,0,1.27,1.27,0,0,1,.41.29,1.4,1.4,0,0,1,.28.44,1.61,1.61,0,0,1,0,1.12M0,51.69H1.13V47.87H3.2V46.77H0Z" style="fill: #004899"></path><path d="M52,12.66l1.19-.87a17.91,17.91,0,0,0-3.38-3.43l-.87,1.19A16.44,16.44,0,0,1,52,12.66" style="fill: #004899"></path><path d="M29.06,9.55,28.2,8.36a17.89,17.89,0,0,0-3.38,3.43l1.19.87a16.42,16.42,0,0,1,3.06-3.1" style="fill: #004899"></path><path d="M24.36,12.41a17.77,17.77,0,0,0-2.15,4.3l1.4.46a16.32,16.32,0,0,1,1.94-3.89Z" style="fill: #004899"></path><path d="M56.73,22.18A17.8,17.8,0,0,0,56,17.44l-1.41.46a16.38,16.38,0,0,1,.65,4.28Z" style="fill: #004899"></path><path d="M22,17.44a17.8,17.8,0,0,0-.72,4.74h1.48a16.38,16.38,0,0,1,.65-4.28Z" style="fill: #004899"></path><path d="M38.6,4.68a17.66,17.66,0,0,0-4.78.75l.46,1.41a16.15,16.15,0,0,1,4.32-.68Z" style="fill: #004899"></path><path d="M55.25,22.94a16.41,16.41,0,0,1-.69,4.27l1.4.46a17.88,17.88,0,0,0,.76-4.73Z" style="fill: #004899"></path><path d="M33.1,5.68A17.67,17.67,0,0,0,28.81,7.9l.87,1.19a16.2,16.2,0,0,1,3.88-2Z" style="fill: #004899"></path><path d="M49.17,7.9a17.69,17.69,0,0,0-4.35-2.23l-.46,1.4a16.24,16.24,0,0,1,3.94,2Z" style="fill: #004899"></path><path d="M44.09,5.42a17.6,17.6,0,0,0-4.72-.74V6.15a16.13,16.13,0,0,1,4.26.67Z" style="fill: #004899"></path><path d="M21.25,22.94A17.86,17.86,0,0,0,22,27.68l1.41-.46a16.39,16.39,0,0,1-.68-4.27Z" style="fill: #004899"></path><path d="M27.69,7.66l-.87-1.19a20.35,20.35,0,0,0-3.89,4l1.19.87a18.87,18.87,0,0,1,3.57-3.63" style="fill: #004899"></path><path d="M59.09,22.18a20.34,20.34,0,0,0-.85-5.47l-1.4.46a19,19,0,0,1,.78,5Z" style="fill: #004899"></path><path d="M32.37,3.45A20,20,0,0,0,27.43,6L28.3,7.2a18.51,18.51,0,0,1,4.53-2.35Z" style="fill: #004899"></path><path d="M50.54,6a20,20,0,0,0-5-2.58l-.46,1.4A18.51,18.51,0,0,1,49.68,7.2Z" style="fill: #004899"></path><path d="M38.6,2.31a19.93,19.93,0,0,0-5.51.87l.46,1.41a18.41,18.41,0,0,1,5.05-.8Z" style="fill: #004899"></path><path d="M44.82,3.17a19.86,19.86,0,0,0-5.45-.86V3.79a18.41,18.41,0,0,1,5,.79Z" style="fill: #004899"></path><path d="M22.47,11A20.28,20.28,0,0,0,20,16l1.4.46a18.88,18.88,0,0,1,2.27-4.54Z" style="fill: #004899"></path><path d="M18.88,22.94a20.44,20.44,0,0,0,.84,5.47L21.13,28a19,19,0,0,1-.77-5Z" style="fill: #004899"></path><path d="M57.62,22.94a19,19,0,0,1-.77,5l1.4.46a20.42,20.42,0,0,0,.84-5.47Z" style="fill: #004899"></path><path d="M19.74,16.71a20.42,20.42,0,0,0-.85,5.47h1.48a18.94,18.94,0,0,1,.78-5Z" style="fill: #004899"></path><path d="M46.53,20.51,45.13,21a5.95,5.95,0,0,1,0,3.18l1.4.46a7.39,7.39,0,0,0,0-4.1" style="fill: #004899"></path><path d="M43.87,16.49,43,17.69a6.37,6.37,0,0,1,1.88,2.55l1.4-.46a7.83,7.83,0,0,0-2.42-3.29" style="fill: #004899"></path><path d="M38.6,14.81a7.75,7.75,0,0,0-3.86,1.26l.87,1.2a6.27,6.27,0,0,1,3-1Z" style="fill: #004899"></path><path d="M32.91,21l-1.41-.46a7.44,7.44,0,0,0,0,4.06l1.41-.46a6,6,0,0,1,0-3.15" style="fill: #004899"></path><path d="M35,17.72l-.87-1.19a7.84,7.84,0,0,0-2.39,3.28l1.4.46A6.37,6.37,0,0,1,35,17.72" style="fill: #004899"></path><path d="M43.25,16a7.75,7.75,0,0,0-3.87-1.24v1.48a6.27,6.27,0,0,1,3,1Z" style="fill: #004899"></path><path d="M44.65,14.11a10.13,10.13,0,0,0-5.28-1.69V13.9a8.65,8.65,0,0,1,4.41,1.41Z" style="fill: #004899"></path><path d="M38.6,12.43a10.13,10.13,0,0,0-5.26,1.71l.87,1.2a8.65,8.65,0,0,1,4.39-1.43Z" style="fill: #004899"></path><path d="M30.64,20.25l-1.41-.46a10,10,0,0,0,0,5.54l1.42-.46a8.38,8.38,0,0,1,0-4.62" style="fill: #004899"></path><path d="M33.6,15.79l-.87-1.19a10.22,10.22,0,0,0-3.25,4.47l1.4.46a8.75,8.75,0,0,1,2.72-3.73" style="fill: #004899"></path><path d="M45.27,14.57l-.87,1.19a8.75,8.75,0,0,1,2.75,3.74l1.4-.46a10.21,10.21,0,0,0-3.29-4.48" style="fill: #004899"></path><path d="M48.8,19.78l-1.41.46a8.63,8.63,0,0,1,.34,2.36,8.72,8.72,0,0,1-.33,2.29l1.42.46a10,10,0,0,0,0-5.58" style="fill: #004899"></path><path d="M46,12.2a12.48,12.48,0,0,0-6.67-2.14v1.48a11,11,0,0,1,5.8,1.86Z" style="fill: #004899"></path><path d="M38.6,10.06A12.48,12.48,0,0,0,32,12.22l.87,1.19a11,11,0,0,1,5.78-1.88Z" style="fill: #004899"></path><path d="M51.06,19l-1.41.46a10.91,10.91,0,0,1,0,6.13l1.41.46a12.41,12.41,0,0,0,0-7" style="fill: #004899"></path><path d="M32.21,13.88l-.87-1.19a12.58,12.58,0,0,0-4.12,5.65l1.4.46a11.11,11.11,0,0,1,3.58-4.91" style="fill: #004899"></path><path d="M46.66,12.66l-.87,1.19a11.11,11.11,0,0,1,3.61,4.92l1.4-.46a12.6,12.6,0,0,0-4.15-5.66" style="fill: #004899"></path><path d="M28.38,19.52,27,19.06a12.4,12.4,0,0,0,0,7l1.4-.46a10.92,10.92,0,0,1,0-6.09" style="fill: #004899"></path><path d="M47.44,10.28a14.84,14.84,0,0,0-8.06-2.59V9.17a13.36,13.36,0,0,1,7.2,2.31Z" style="fill: #004899"></path><path d="M38.6,7.69a14.84,14.84,0,0,0-8,2.62l.87,1.19A13.37,13.37,0,0,1,38.6,9.17Z" style="fill: #004899"></path><path d="M53.31,18.31l-1.41.46a13.28,13.28,0,0,1,0,7.59l1.4.46a14.77,14.77,0,0,0,0-8.51" style="fill: #004899"></path><path d="M26.13,18.79l-1.41-.46a14.8,14.8,0,0,0,0,8.47l1.4-.46a13.31,13.31,0,0,1,0-7.56" style="fill: #004899"></path><path d="M30.82,12l-.87-1.19a15,15,0,0,0-5,6.83l1.4.46A13.48,13.48,0,0,1,30.82,12" style="fill: #004899"></path><path d="M48.05,10.74l-.87,1.19A13.5,13.5,0,0,1,51.66,18l1.4-.46a15,15,0,0,0-5-6.84" style="fill: #004899"></path><path d="M60,22.94a21,21,0,0,1-.92,5.74l1.4.46a22.43,22.43,0,0,0,1-6.19Z" style="fill: #004899"></path><path d="M45.08,2.37,45.54,1a22.42,22.42,0,0,0-6.16-1V1.49a20.93,20.93,0,0,1,5.71.89" style="fill: #004899"></path><path d="M32.11,2.65l-.46-1.42a22.48,22.48,0,0,0-5.6,2.87l.87,1.2a21,21,0,0,1,5.19-2.66" style="fill: #004899"></path><path d="M38.6,1.49V0a22.41,22.41,0,0,0-6.22,1l.46,1.41a20.92,20.92,0,0,1,5.77-.9" style="fill: #004899"></path><path d="M60,22.18h1.48a22.41,22.41,0,0,0-1-6.21l-1.41.46A21,21,0,0,1,60,22.18" style="fill: #004899"></path><path d="M18,22.94H16.51a22.43,22.43,0,0,0,1,6.19l1.4-.46A21,21,0,0,1,18,22.94" style="fill: #004899"></path><path d="M51.05,5.3l.87-1.2a22.43,22.43,0,0,0-5.66-2.89l-.46,1.42A20.92,20.92,0,0,1,51.05,5.3" style="fill: #004899"></path><path d="M18.87,16.43,17.46,16a22.41,22.41,0,0,0-1,6.21H18a20.92,20.92,0,0,1,.88-5.75" style="fill: #004899"></path><path d="M26.31,5.76l-.88-1.21A22.68,22.68,0,0,0,21,9l1.21.88a21.19,21.19,0,0,1,4.11-4.13" style="fill: #004899"></path><path d="M21.74,10.5l-1.2-.87a22.45,22.45,0,0,0-2.85,5.61l1.42.46a21,21,0,0,1,2.63-5.2" style="fill: #004899"></path><path d="M52.43,13.27a16.32,16.32,0,0,1,1.94,3.89l1.4-.46a17.78,17.78,0,0,0-2.15-4.3Z" style="fill: #004899"></path><path d="M54.31,11.9a18.85,18.85,0,0,1,2.27,4.54L58,16A20.31,20.31,0,0,0,55.51,11Z" style="fill: #004899"></path><path d="M51.16,6.47l-.87,1.19a18.84,18.84,0,0,1,3.57,3.63L55,10.42a20.35,20.35,0,0,0-3.89-4" style="fill: #004899"></path><path d="M55.78,9.89,57,9a22.67,22.67,0,0,0-4.44-4.46l-.88,1.21a21.13,21.13,0,0,1,4.11,4.13" style="fill: #004899"></path><path d="M57.44,9.63l-1.2.87a20.94,20.94,0,0,1,2.63,5.19l1.42-.46a22.44,22.44,0,0,0-2.85-5.61" style="fill: #004899"></path></svg>
+      </a-->
+    </div>
+  </div>
+  </footer>
+<script type="text/javascript">
+$(function(){
+  var hash = window.location.hash;
+  hash && hash.length && $('ul.nav a[href="' + hash + '"]').tab('show');
+
+  $('.row_footer_menu a').click(function (e) {
+    $('ul.nav a[href="' + this.hash + '"]').tab('show');
+    var scrollmem = $('body').scrollTop();
+    window.location.hash = ('.nav-tabs a').hash;
+    $('html,body').scrollTop(scrollmem);
+  });
+});
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54302910, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54302910" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3068928", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3068928;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+          
+<script src="https://culturaltracking.ru/static/js/spxl.js?pixelId=4873" data-pixel-id="4873"></script>
+
+</body>
+</html>

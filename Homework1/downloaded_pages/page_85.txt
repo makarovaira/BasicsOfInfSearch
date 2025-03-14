@@ -1,0 +1,1174 @@
+	<!DOCTYPE html>
+		<!--[if IE 8]>
+	<html class="ie ie8" lang="ru-RU"> <![endif]-->
+	<!--[if IE 9]>
+	<html class="ie ie9" lang="ru-RU"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html lang="ru-RU"> <!--<![endif]-->
+	<head>
+				<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="pingback" href="https://guitarmag.net/engine/xmlrpc.php"/>
+
+		<title>Гитарный журнал - все о гитаре. Классическая гитара, фламенко, уроки</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Гитарный журнал - все о гитаре. Классическая гитара, джазовая, испанская, акустическая гитара, фламенко, афиша, видео, интервью, уроки, концерты гитары"/>
+<link rel="canonical" href="https://guitarmag.net/" />
+<link rel="next" href="https://guitarmag.net/page/2/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Гитарный журнал - все о гитаре. Классическая гитара, джазовая, испанская, акустическая гитара, фламенко, афиша, видео, интервью, уроки, концерты гитары" />
+<meta name="twitter:title" content="Гитарный журнал - все о гитаре. Классическая гитара, фламенко, уроки" />
+<meta name="twitter:site" content="@guitarmag" />
+<meta name="twitter:image" content="https://guitarmag.net/engine/wp-content/uploads/DSC_0007.jpg" />
+<meta name="baidu-site-verification" content="9yGZR7z5bc" />
+<meta name="msvalidate.01" content="A596A9AFD47B4E5C021AD2B1B02C6067" />
+<meta name="google-site-verification" content="AixJYirn0osY16AgGXSa-m6iUmzf-1fhTUjwuaVrgBY" />
+<meta name="p:domain_verify" content="f1f1999419417336b01927a08bd0b773" />
+<meta name="yandex-verification" content="64d3deb6653d0cd5" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://guitarmag.net/#organization","name":"\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b","url":"https://guitarmag.net/","sameAs":["https://vk.com/guitarmagclub","http://www.youtube.com/user/guitarmagnet/","https://twitter.com/guitarmag"],"logo":{"@type":"ImageObject","@id":"https://guitarmag.net/#logo","url":"https://guitarmag.net/engine/wp-content/uploads/logo12060.gif","width":120,"height":60,"caption":"\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b"},"image":{"@id":"https://guitarmag.net/#logo"}},{"@type":"WebSite","@id":"https://guitarmag.net/#website","url":"https://guitarmag.net/","name":"\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b","publisher":{"@id":"https://guitarmag.net/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://guitarmag.net/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://guitarmag.net/#webpage","url":"https://guitarmag.net/","inLanguage":"ru-RU","name":"\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b - \u0432\u0441\u0435 \u043e \u0433\u0438\u0442\u0430\u0440\u0435. \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0444\u043b\u0430\u043c\u0435\u043d\u043a\u043e, \u0443\u0440\u043e\u043a\u0438","isPartOf":{"@id":"https://guitarmag.net/#website"},"about":{"@id":"https://guitarmag.net/#organization"},"description":"\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b - \u0432\u0441\u0435 \u043e \u0433\u0438\u0442\u0430\u0440\u0435. \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0434\u0436\u0430\u0437\u043e\u0432\u0430\u044f, \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0430\u044f, \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0444\u043b\u0430\u043c\u0435\u043d\u043a\u043e, \u0430\u0444\u0438\u0448\u0430, \u0432\u0438\u0434\u0435\u043e, \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e, \u0443\u0440\u043e\u043a\u0438, \u043a\u043e\u043d\u0446\u0435\u0440\u0442\u044b \u0433\u0438\u0442\u0430\u0440\u044b"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Гитарный журнал &raquo; Лента" href="https://guitarmag.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Гитарный журнал &raquo; Лента комментариев" href="https://guitarmag.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/guitarmag.net\/engine\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://guitarmag.net/engine/wp-includes/css/dashicons.min.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://guitarmag.net/engine/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://guitarmag.net/engine/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-child-css'  href='https://guitarmag.net/engine/wp-content/themes/publisher-child/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bsf-Defaults-css'  href='https://guitarmag.net/engine/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='better-framework-main-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,600&#038;subset=cyrillic&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='better-framework-font-1-css'  href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic&#038;subset=cyrillic&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-content/plugins/strx-magic-floating-sidebar-maker/js/debounce.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-content/plugins/strx-magic-floating-sidebar-maker/js/strx-magic-floating-sidebar-maker.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=ru-RU&#038;ver=4.9.10'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.15.0'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/js/respond.min.js?ver=3.15.0'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://guitarmag.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://guitarmag.net/engine/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://guitarmag.net/engine/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+
+    <script>
+      var gsbOption = '{"gsb_field_default_mode":"grayscale","gsb_field_switcher_position":"top-right","gsb_field_ignored_post_ids":"10070,10073,10078,10083,10115","gsb_field_custom_css":"","gsb_field_is_enabled":0,"gsb_field_is_enable_switcher":"1"}'
+    </script>
+    
+ <!-- OneAll.com / Social Login for WordPress / v5.10.0 -->
+<script data-cfasync="false" type="text/javascript">
+ (function() {
+  var oa = document.createElement('script'); oa.type = 'text/javascript';
+  oa.async = true; oa.src = 'https://guitarmagnet.api.oneall.com/socialize/library.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oa, s);
+ })();
+</script>
+<!-- script src="https://msk.kassir.ru/start-frame.js"></script -->
+<meta name="google-site-verification" content="AixJYirn0osY16AgGXSa-m6iUmzf-1fhTUjwuaVrgBY" />
+<meta name="yandex-verification" content="64d3deb6653d0cd5" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://guitarmag.net/engine/wp-content/uploads/logo46860-1.gif"
+    },
+    "url": "https://guitarmag.net/",
+    "name": "\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b",
+    "description": "\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u0432\u0438\u0434\u0435\u043e, \u0432\u0438\u0434\u0435\u043e\u0448\u043a\u043e\u043b\u0430, \u0433\u0438\u0442\u0430\u0440\u0430, \u0433\u0438\u0442\u0430\u0440\u0438\u0441\u0442, \u0433\u0438\u0442\u0430\u0440\u043d\u0430\u044f, \u0433\u0438\u0442\u0430\u0440\u044b, \u0434\u0436\u0430\u0437\u043e\u0432\u0430\u044f, \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f, \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0430\u044f, \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u043c, \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u044c, \u0443\u043f\u0440\u0430\u0436\u043d\u0435\u043d\u0438\u044f, \u0443\u0440\u043e\u043a\u0438, \u0443\u0447\u0435\u0431\u043d\u0438\u043a, \u0444\u043b\u0430\u043c\u0435\u043d\u043a\u043e, \u0448\u043a\u043e\u043b\u0430, \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "name": "\u0413\u0438\u0442\u0430\u0440\u043d\u044b\u0439 \u0436\u0443\u0440\u043d\u0430\u043b",
+    "alternateName": "\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0433\u0438\u0442\u0430\u0440\u0430, \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u0432\u0438\u0434\u0435\u043e, \u0432\u0438\u0434\u0435\u043e\u0448\u043a\u043e\u043b\u0430, \u0433\u0438\u0442\u0430\u0440\u0430, \u0433\u0438\u0442\u0430\u0440\u0438\u0441\u0442, \u0433\u0438\u0442\u0430\u0440\u043d\u0430\u044f, \u0433\u0438\u0442\u0430\u0440\u044b, \u0434\u0436\u0430\u0437\u043e\u0432\u0430\u044f, \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f, \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0430\u044f, \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u043c, \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435, \u0441\u0430\u043c\u043e\u0443\u0447\u0438\u0442\u0435\u043b\u044c, \u0443\u043f\u0440\u0430\u0436\u043d\u0435\u043d\u0438\u044f, \u0443\u0440\u043e\u043a\u0438, \u0443\u0447\u0435\u0431\u043d\u0438\u043a, \u0444\u043b\u0430\u043c\u0435\u043d\u043a\u043e, \u0448\u043a\u043e\u043b\u0430, \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u0438",
+    "url": "https://guitarmag.net/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://guitarmag.net/search/{search_term}",
+        "query-input": "required name=search_term"
+    }
+}</script>
+<link rel='stylesheet' id='better-playlist' href='https://guitarmag.net/engine/wp-content/plugins/better-playlist/css/better-playlist.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bs-icons' href='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='better-social-counter' href='https://guitarmag.net/engine/wp-content/plugins/better-social-counter/css/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='better-weather' href='https://guitarmag.net/engine/wp-content/plugins/better-weather/css/bw-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bf-slick' href='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome' href='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='br-numbers' href='https://fonts.googleapis.com/css?family=Oswald&text=0123456789./\%' type='text/css' media='all' />
+<link rel='stylesheet' id='better-reviews' href='https://guitarmag.net/engine/wp-content/plugins/better-reviews/css/better-reviews.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='better-wp-embedder-pro' href='https://guitarmag.net/engine/wp-content/plugins/better-wp-embedder/assets/css/bwpe.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='blockquote-pack-pro' href='https://guitarmag.net/engine/wp-content/plugins/blockquote-pack-pro/css/blockquote-pack.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='smart-lists-pack-pro' href='https://guitarmag.net/engine/wp-content/plugins/smart-lists-pack-pro/css/smart-lists-pack.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo' href='https://guitarmag.net/engine/wp-content/themes/publisher/includes/libs/better-framework/assets/css/pretty-photo.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-libs' href='https://guitarmag.net/engine/wp-content/themes/publisher/css/theme-libs.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher' href='https://guitarmag.net/engine/wp-content/themes/publisher/style-7.11.0.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='publisher-theme-pure-magazine' href='https://guitarmag.net/engine/wp-content/themes/publisher/includes/styles/pure-magazine/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='7.11.0-1733434351' href='https://guitarmag.net/engine/wp-content/bs-booster-cache/dafb984b9f43a3c45bd208d5d5908bd6.css' type='text/css' media='all' />
+		<style type="text/css" id="wp-custom-css">
+			.listing-mg-1-item .content-container, .listing-mg-1-item .title,
+.listing-mg-2-item .content-container, .listing-mg-2-item .title,
+.single-post-title, 
+.yarpp-related h3 {
+    text-transform: none;
+}
+.better-newsticker .heading {
+  	width: 112px;
+}
+.better-newsticker ul.news-list li.active {
+    left: 124px;
+}
+.section-heading.sh-t2 .other-link .h-text {
+    text-transform: none;
+}
+.yarpp-related h3 {
+    text-transform: none;
+}		</style>
+	<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+
+<body data-rsssl=1 class="home blog bs-theme bs-publisher bs-publisher-pure-magazine active-light-box active-top-line ltr close-rh page-layout-2-col page-layout-2-col-right full-width active-sticky-sidebar main-menu-sticky-smart main-menu-boxed active-ajax-search  wpb-js-composer js-comp-ver-6.7.0 vc_responsive bs-ll-a" dir="ltr">
+		<div class="main-wrap content-main-wrap">
+			<header id="header" class="site-header header-style-2 boxed" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+		<section class="topbar topbar-style-2 hidden-xs hidden-xs">
+	<div class="content-wrap">
+		<div class="container">
+
+			<div class="topbar-inner clearfix">
+
+									<div class="section-links">
+								<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item youtube"><a href = "https://youtube.com/channel/UCX4-5ms1jEczde-sDqgQcEA" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-title" > Подписчиков </span> </a> </li> <li class="social-item vk"><a href = "https://vk.com/guitarmagclub" target = "_blank" > <i class="item-icon bsfi-vk" ></i><span class="item-title" > Участники </span> </a> </li> <li class="social-item rss"><a href = "https://guitarmag.net/feed/rss/" target = "_blank" > <i class="item-icon bsfi-rss" ></i><span class="item-title" > Subscribe </span> </a> </li> 			</ul>
+		</div>
+									<a class="topbar-sign-in behind-social"
+							   data-toggle="modal" data-target="#bsLoginModal">
+								<i class="fa fa-user-circle"></i> Вход							</a>
+
+							<div class="modal sign-in-modal fade" id="bsLoginModal" tabindex="-1" role="dialog"
+							     style="display: none">
+								<div class="modal-dialog" role="document">
+									<div class="modal-content">
+											<span class="close-modal" data-dismiss="modal" aria-label="Close"><i
+														class="fa fa-close"></i></span>
+										<div class="modal-body">
+											<div id="form_79995_" class="bs-shortcode bs-login-shortcode ">
+		<div class="bs-login bs-type-login-register"  style="display:none">
+
+					<div class="bs-login-panel bs-login-sign-panel bs-current-login-panel">
+								<form name="loginform"
+				      action="https://guitarmag.net/login/" method="post">
+
+					
+					<div class="login-header">
+						<span class="login-icon fa fa-user-circle main-color"></span>
+						<p>Welcome, Login to your account.</p>
+					</div>
+					
+					<div class="login-field login-username">
+						<input type="text" name="log" id="form_79995_user_login" class="input"
+						       value="" size="20"
+						       placeholder="Имя пользователя или email..." required/>
+					</div>
+
+					<div class="login-field login-password">
+						<input type="password" name="pwd" id="form_79995_user_pass"
+						       class="input"
+						       value="" size="20" placeholder="Пароль..."
+						       required/>
+					</div>
+
+					
+					<div class="login-field">
+						<a href="https://guitarmag.net/login/?action=lostpassword&redirect_to=https%3A%2F%2Fguitarmag.net%2F"
+						   class="go-reset-panel">Forget password?</a>
+
+													<span class="login-remember">
+							<input class="remember-checkbox" name="rememberme" type="checkbox"
+							       id="form_79995_rememberme"
+							       value="forever"  />
+							<label class="remember-label">Запомните меня</label>
+						</span>
+											</div>
+
+					 <!-- OneAll.com / Social Login for WordPress / v5.10.0 -->
+<div class="oneall_social_login">
+ <div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Связан с:</label></div>
+ <div class="oneall_social_login_providers" id="oneall_social_login_providers_4014023"></div>
+ <script data-cfasync="false" type="text/javascript">
+  var _oneall = _oneall || [];
+  _oneall.push(['social_login', 'set_providers', ['google','livejournal','twitter','vkontakte','youtube']]);
+  _oneall.push(['social_login', 'set_callback_uri', (window.location.href + ((window.location.href.split('?')[1] ? '&amp;': '?') + "oa_social_login_source=login"))]);
+  _oneall.push(['social_login', 'set_custom_css_uri', 'https://secure.oneallcdn.com/css/api/socialize/themes/wordpress/modern.css']);
+  _oneall.push(['social_login', 'do_render_ui', 'oneall_social_login_providers_4014023']);
+ </script>
+</div>
+					<div class="login-field login-submit">
+						<input type="submit" name="wp-submit"
+						       class="button-primary login-btn"
+						       value="Вход"/>
+						<input type="hidden" name="redirect_to" value="https://guitarmag.net/"/>
+					</div>
+
+											<div class="login-field login-signup">
+							<span>Нет учетной записи? <a
+										href="https://guitarmag.net/%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/">Регистрация</a></span>
+						</div>
+									</form>
+			</div>
+
+			<div class="bs-login-panel bs-login-reset-panel">
+
+				<span class="go-login-panel"><i
+							class="fa fa-angle-left"></i> Вход</span>
+
+				<div class="bs-login-reset-panel-inner">
+					<div class="login-header">
+						<span class="login-icon fa fa-support"></span>
+						<p>Восстановить пароль.</p>
+						<p>A password will be e-mailed to you.</p>
+					</div>
+										<form name="lostpasswordform" id="form_79995_lostpasswordform"
+					      action="https://guitarmag.net/%d0%b7%d0%b0%d0%b1%d1%8b%d0%bb%d0%b8-%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8c/"
+					      method="post">
+
+						<div class="login-field reset-username">
+							<input type="text" name="user_login" class="input" value=""
+							       placeholder="Username or Email..."
+							       required/>
+						</div>
+
+						
+						<div class="login-field reset-submit">
+
+							<input type="hidden" name="redirect_to" value=""/>
+							<input type="submit" name="wp-submit" class="login-btn"
+							       value="Send My Password"/>
+
+						</div>
+					</form>
+				</div>
+			</div>
+			</div>
+	</div>
+										</div>
+									</div>
+								</div>
+							</div>
+												</div>
+				
+				<div class="section-menu">
+						<div id="newsticker-655672283" class="better-newsticker "
+	     data-speed="12000">
+		<p class="heading ">Сейчас читают</p>
+		<ul class="news-list">
+								<li>
+						<a class="limit-line" href="https://guitarmag.net/kgvm-2024-2025/">
+							Классическая гитара в Москве: сезон 2024-2025						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/di-at-khlopovsky-2025/">
+							Дмитрий Илларионов в гостиной Хлоповского						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/baroccoinkuskovo/">
+							«МУЗЫКА РАДОСТИ, МУЗЫКА ПЕЧАЛИ». Арии и мадригалы XVI–XVIII веков в Кусково						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/tabula-rasa-2025/">
+							Конкурс TABULA RASA 2025						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/guitar-times-2024-results/">
+							«Время гитары» 2024: результаты						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/xingye-li-at-mmdm-2025/">
+							Синье Ли в ММДМ						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/iv-ivan-smirnov-fest/">
+							Дмитрий Илларионов на IV фестивале Ивана Смирнова						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/kontsert-eleny-revich-i-dmitrija-illarionova/">
+							«Танцы со временем» – концерт Елены Ревич и Дмитрия Илларионова						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/gitara-i-lyutnya-skvoz-veka/">
+							«Гитара и лютня сквозь века»						</a>
+					</li>
+										<li>
+						<a class="limit-line" href="https://guitarmag.net/guitar-times-2024/">
+							«Время гитары» 2024: опубликована программа V международного конкурса-фестиваля						</a>
+					</li>
+							</ul>
+	</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+		<div class="header-inner">
+			<div class="content-wrap">
+				<div class="container">
+					<div class="row">
+						<div class="row-height">
+							<div class="logo-col col-xs-12">
+								<div class="col-inside">
+									<div id="site-branding" class="site-branding">
+	<h1  id="site-title" class="logo h1 img-logo">
+	<a href="https://guitarmag.net/" itemprop="url" rel="home">
+					<img id="site-logo" src="https://guitarmag.net/engine/wp-content/uploads/logo46860-1.gif"
+			     alt="Гитарный журнал"  />
+
+			<span class="site-title">Гитарный журнал - классическая гитара, акустическая, видео, видеошкола, гитара, гитарист, гитарная, гитары, джазовая, инструмент, инструментальная, испанская, начинающим, обучение, самоучитель, упражнения, уроки, учебник, фламенко, школа, трансляции</span>
+				</a>
+</h1>
+</div><!-- .site-branding -->
+								</div>
+							</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+	<div class="main-menu-inner">
+		<div class="content-wrap">
+			<div class="container">
+
+				<nav class="main-menu-container">
+					<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+						<li id="menu-item-2404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-5 better-anim-fade menu-item-2404"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></li>
+<li id="menu-item-2407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-2407"><a href="https://guitarmag.net/guitar/competitions/">Конкурсы</a></li>
+<li id="menu-item-2405" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-4 better-anim-fade menu-item-2405"><a href="https://guitarmag.net/guitar/video/">Видео</a></li>
+<li id="menu-item-2403" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-1 better-anim-fade menu-item-2403"><a href="https://guitarmag.net/guitar/news/">Новости</a></li>
+<li id="menu-item-2406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-3 better-anim-fade menu-item-2406"><a href="https://guitarmag.net/guitar/articles/">Статьи</a></li>
+<li id="menu-item-2542" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-2542"><a href="https://guitarmag.net/guitar-festivals/">Фестивали</a></li>
+<li id="menu-item-2408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-7 better-anim-fade menu-item-2408"><a href="https://guitarmag.net/guitar/masterclass/">Мастер-класс</a></li>
+<li id="menu-item-2409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-2409"><a href="https://guitarmag.net/guitar/luthiers/">Инструменты</a></li>
+<li id="menu-item-4727" class="menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-4727"><a href="https://guitarmag.net/wiki/index.php">Энциклопедия</a></li>
+					</ul><!-- #main-navigation -->
+											<div class="menu-action-buttons width-1">
+															<div class="search-container close">
+									<span class="search-handler"><i class="fa fa-search"></i></span>
+
+									<div class="search-box clearfix">
+										<form role="search" method="get" class="search-form clearfix" action="https://guitarmag.net">
+	<input type="search" class="search-field"
+	       placeholder="Поиск..."
+	       value="" name="s"
+	       title="Искать:"
+	       autocomplete="off">
+	<input type="submit" class="search-submit" value="Поиск">
+</form><!-- .search-form -->
+									</div>
+								</div>
+														</div>
+										</nav><!-- .main-menu-container -->
+
+			</div>
+		</div>
+	</div>
+</div><!-- .menu -->
+	</header><!-- .header -->
+	<div class="rh-header clearfix light deferred-block-exclude">
+		<div class="rh-container clearfix">
+
+			<div class="menu-container close">
+				<span class="menu-handler"><span class="lines"></span></span>
+			</div><!-- .menu-container -->
+
+			<div class="logo-container rh-img-logo">
+				<a href="https://guitarmag.net/" itemprop="url" rel="home">
+											<img src="https://guitarmag.net/engine/wp-content/uploads/logo12060.gif"
+						     alt="Гитарный журнал"  />				</a>
+			</div><!-- .logo-container -->
+		</div><!-- .rh-container -->
+	</div><!-- .rh-header -->
+<div class="slider-container clearfix slider-type-custom-blocks  slider-style-3-container slider-overlay-simple-gr">
+	<div class="content-wrap">
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-12">
+		<div class="listing listing-modern-grid listing-modern-grid-2 clearfix slider-overlay-simple-gr">
+		<div class="mg-col mg-col-1">
+				<article class="post-10722 type-post format-standard has-post-thumbnail  listing-item-1 listing-item listing-mg-item listing-mg-2-item listing-mg-type-1 main-term-5">
+	<div class="item-content">
+		<a  title="Классическая гитара в Москве: сезон 2024-2025" data-src="https://guitarmag.net/engine/wp-content/uploads/29745104_10156296025944808_3954371025086904301_o-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;29745104_10156296025944808_3954371025086904301_o-210x136.jpg&quot;,&quot;279&quot;:&quot;29745104_10156296025944808_3954371025086904301_o-279x220.jpg&quot;,&quot;357&quot;:&quot;29745104_10156296025944808_3954371025086904301_o-357x210.jpg&quot;,&quot;750&quot;:&quot;29745104_10156296025944808_3954371025086904301_o-750x430.jpg&quot;,&quot;1084&quot;:&quot;29745104_10156296025944808_3954371025086904301_o.jpg&quot;}}"				class="img-cont" href="https://guitarmag.net/kgvm-2024-2025/"></a>
+		<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>		<div class="content-container">
+			<h2 class="title">			<a href="https://guitarmag.net/kgvm-2024-2025/" class="post-url post-title">
+				Классическая гитара в Москве: сезон 2024-2025			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-09-12T19:56:50+00:00">12 сентября 2024</time></span>
+				<a href="https://guitarmag.net/kgvm-2024-2025/#respond" title="Оставить комментарий дальше: &quot;Классическая гитара в Москве: сезон 2024-2025&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+				</div>
+	</div>
+	</article >
+		</div>
+		<div class="mg-col mg-col-2">
+			<div class="mg-row mg-row-1 clearfix">
+				<div class="item-2-cont">
+						<article class="post-10902 type-post format-standard has-post-thumbnail  listing-item-2 listing-item listing-mg-item listing-mg-2-item listing-mg-type-1 main-term-5">
+	<div class="item-content">
+		<a  title="Дмитрий Илларионов в гостиной Хлоповского" data-src="https://guitarmag.net/engine/wp-content/uploads/khlap-di-279x220.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;khlap-di-210x136.jpg&quot;,&quot;279&quot;:&quot;khlap-di-279x220.jpg&quot;,&quot;357&quot;:&quot;khlap-di-357x210.jpg&quot;,&quot;750&quot;:&quot;khlap-di-750x430.jpg&quot;,&quot;904&quot;:&quot;khlap-di.jpg&quot;}}"				class="img-cont" href="https://guitarmag.net/di-at-khlopovsky-2025/"></a>
+		<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>		<div class="content-container">
+			<h2 class="title">			<a href="https://guitarmag.net/di-at-khlopovsky-2025/" class="post-url post-title">
+				Дмитрий Илларионов в гостиной Хлоповского			</a>
+			</h2>		</div>
+	</div>
+	</article >
+				</div>
+				<div class="item-3-cont">
+						<article class="post-10896 type-post format-standard has-post-thumbnail  listing-item-3 listing-item listing-mg-item listing-mg-2-item listing-mg-type-1 main-term-5">
+	<div class="item-content">
+		<a  title="«МУЗЫКА РАДОСТИ, МУЗЫКА ПЕЧАЛИ». Арии и мадригалы XVI–XVIII веков в Кусково" data-src="https://guitarmag.net/engine/wp-content/uploads/Для-сети3-279x220.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;\u0414\u043b\u044f-\u0441\u0435\u0442\u04383-210x136.png&quot;,&quot;279&quot;:&quot;\u0414\u043b\u044f-\u0441\u0435\u0442\u04383-279x220.png&quot;,&quot;357&quot;:&quot;\u0414\u043b\u044f-\u0441\u0435\u0442\u04383-357x210.png&quot;,&quot;750&quot;:&quot;\u0414\u043b\u044f-\u0441\u0435\u0442\u04383-750x430.png&quot;,&quot;1920&quot;:&quot;\u0414\u043b\u044f-\u0441\u0435\u0442\u04383.png&quot;}}"				class="img-cont" href="https://guitarmag.net/baroccoinkuskovo/"></a>
+		<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>		<div class="content-container">
+			<h2 class="title">			<a href="https://guitarmag.net/baroccoinkuskovo/" class="post-url post-title">
+				«МУЗЫКА РАДОСТИ, МУЗЫКА ПЕЧАЛИ». Арии и мадригалы XVI–XVIII веков в&hellip;			</a>
+			</h2>		</div>
+	</div>
+	</article >
+				</div>
+			</div>
+			<div class="mg-row mg-row-2 clearfix">
+				<div class="item-4-cont">
+						<article class="post-10890 type-post format-standard has-post-thumbnail  listing-item-4 listing-item listing-mg-item listing-mg-2-item listing-mg-type-1 main-term-6">
+	<div class="item-content">
+		<a  title="Конкурс TABULA RASA 2025" data-src="https://guitarmag.net/engine/wp-content/uploads/ud5qQyCfiVU1-1-279x220.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;ud5qQyCfiVU1-1-210x136.jpg&quot;,&quot;279&quot;:&quot;ud5qQyCfiVU1-1-279x220.jpg&quot;,&quot;357&quot;:&quot;ud5qQyCfiVU1-1-357x210.jpg&quot;,&quot;750&quot;:&quot;ud5qQyCfiVU1-1-750x430.jpg&quot;,&quot;1822&quot;:&quot;ud5qQyCfiVU1-1.jpg&quot;}}"				class="img-cont" href="https://guitarmag.net/tabula-rasa-2025/"></a>
+		<div class="term-badges floated"><span class="term-badge term-6"><a href="https://guitarmag.net/guitar/competitions/">Конкурсы</a></span></div>		<div class="content-container">
+			<h2 class="title">			<a href="https://guitarmag.net/tabula-rasa-2025/" class="post-url post-title">
+				Конкурс TABULA RASA 2025			</a>
+			</h2>		</div>
+	</div>
+	</article >
+				</div>
+				<div class="item-5-cont">
+						<article class="post-10872 type-post format-standard has-post-thumbnail  listing-item-5 listing-item listing-mg-item listing-mg-2-item listing-mg-type-1 main-term-6">
+	<div class="item-content">
+		<a  title="«Время гитары» 2024: результаты" data-src="https://guitarmag.net/engine/wp-content/uploads/050_VolkovPhotoSu_web-279x220.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;050_VolkovPhotoSu_web-210x136.jpg&quot;,&quot;279&quot;:&quot;050_VolkovPhotoSu_web-279x220.jpg&quot;,&quot;357&quot;:&quot;050_VolkovPhotoSu_web-357x210.jpg&quot;,&quot;750&quot;:&quot;050_VolkovPhotoSu_web-750x430.jpg&quot;,&quot;1500&quot;:&quot;050_VolkovPhotoSu_web.jpg&quot;}}"				class="img-cont" href="https://guitarmag.net/guitar-times-2024-results/"></a>
+		<div class="term-badges floated"><span class="term-badge term-6"><a href="https://guitarmag.net/guitar/competitions/">Конкурсы</a></span></div>		<div class="content-container">
+			<h2 class="title">			<a href="https://guitarmag.net/guitar-times-2024-results/" class="post-url post-title">
+				«Время гитары» 2024: результаты			</a>
+			</h2>		</div>
+	</div>
+	</article >
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+		</div><div class="content-wrap">
+	<main id="content" class="content-container">
+
+		<div class="container layout-2-col layout-2-col-1 layout-right-sidebar">
+			<div class="row main-section">
+										<div class="col-sm-8 content-column">
+									<div class="bs-pagination-wrapper main-term-none next_prev ">
+			<div class="listing listing-blog listing-blog-1 clearfix  columns-1">
+		<article class="post-10867 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="Синье Ли в ММДМ" data-src="https://guitarmag.net/engine/wp-content/uploads/25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-86x64.jpg&quot;,&quot;210&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-210x136.jpg&quot;,&quot;279&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-279x220.jpg&quot;,&quot;357&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-357x210.jpg&quot;,&quot;750&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21-750x430.jpg&quot;,&quot;760&quot;:&quot;25-01-sine-li-gitara-kitaj-1.jpg__760x510_q85_crop_subsampling-21.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/xingye-li-at-mmdm-2025/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/xingye-li-at-mmdm-2025/" class="post-url post-title">
+				Синье Ли в ММДМ			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-31T03:18:33+00:00">31 декабря 2024</time></span>
+				<a href="https://guitarmag.net/xingye-li-at-mmdm-2025/#respond" title="Оставить комментарий дальше: &quot;Синье Ли в ММДМ&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					25 января 2025 года в Московском международном Доме музыки выступит китайский гитарист Синье Ли (Xingye Li).
+
+«Ли чем-то напоминает звук и манеру Ямашиты... кажется, что он отчаянно рискует, когда 'идет напролом' в своей виртуозности, а&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10843 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="Дмитрий Илларионов на IV фестивале Ивана Смирнова" data-src="https://guitarmag.net/engine/wp-content/uploads/афиша8декабря11-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11-86x64.jpg&quot;,&quot;210&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11-210x136.jpg&quot;,&quot;279&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11-279x220.jpg&quot;,&quot;357&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11-357x210.jpg&quot;,&quot;750&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11-750x430.jpg&quot;,&quot;1280&quot;:&quot;\u0430\u0444\u0438\u0448\u04308\u0434\u0435\u043a\u0430\u0431\u0440\u044f11.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/iv-ivan-smirnov-fest/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/iv-ivan-smirnov-fest/" class="post-url post-title">
+				Дмитрий Илларионов на IV фестивале Ивана Смирнова			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-06T00:41:01+00:00">6 декабря 2024</time></span>
+				<a href="https://guitarmag.net/iv-ivan-smirnov-fest/#respond" title="Оставить комментарий дальше: &quot;Дмитрий Илларионов на IV фестивале Ивана Смирнова&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					6, 7 и 8 декабря 2024 года Москве проходит IV российский гитарный фестиваль Ивана Смирнова. Он завершится концертом Дмитрия Илларионова при участии Ивана Смирнова-младшего и Михаила Смирнова.
+
+
+
+Дмитрий Илларионов был знаком с Иваном&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10839 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="«Танцы со временем» – концерт Елены Ревич и Дмитрия Илларионова" data-src="https://guitarmag.net/engine/wp-content/uploads/3-408ac82bdb0b37824065b46a3d494ae41-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41-86x64.jpg&quot;,&quot;210&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41-210x136.jpg&quot;,&quot;279&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41-279x220.jpg&quot;,&quot;357&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41-357x210.jpg&quot;,&quot;750&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41-750x430.jpg&quot;,&quot;1436&quot;:&quot;3-408ac82bdb0b37824065b46a3d494ae41.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/kontsert-eleny-revich-i-dmitrija-illarionova/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/kontsert-eleny-revich-i-dmitrija-illarionova/" class="post-url post-title">
+				«Танцы со временем» – концерт Елены Ревич и Дмитрия Илларионова			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-06T00:32:20+00:00">6 декабря 2024</time></span>
+				<a href="https://guitarmag.net/kontsert-eleny-revich-i-dmitrija-illarionova/#respond" title="Оставить комментарий дальше: &quot;«Танцы со временем» – концерт Елены Ревич и Дмитрия Илларионова&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					30 декабря в «Своём поле» в Москве – безупречное сочетание скрипки с гитарой на концерте Елены Ревич и Дмитрия Илларионова.
+
+Программа «Танцы со временем» – это машина времени, которая переносит слушателя к самым истокам музыки, в сердце&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10836 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="«Гитара и лютня сквозь века»" data-src="https://guitarmag.net/engine/wp-content/uploads/gitara-i-lyutnya-skvoz-veka-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;gitara-i-lyutnya-skvoz-veka-86x64.jpg&quot;,&quot;210&quot;:&quot;gitara-i-lyutnya-skvoz-veka-210x136.jpg&quot;,&quot;279&quot;:&quot;gitara-i-lyutnya-skvoz-veka-279x220.jpg&quot;,&quot;357&quot;:&quot;gitara-i-lyutnya-skvoz-veka-357x210.jpg&quot;,&quot;750&quot;:&quot;gitara-i-lyutnya-skvoz-veka-750x430.jpg&quot;,&quot;1124&quot;:&quot;gitara-i-lyutnya-skvoz-veka.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/gitara-i-lyutnya-skvoz-veka/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/gitara-i-lyutnya-skvoz-veka/" class="post-url post-title">
+				«Гитара и лютня сквозь века»			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-12-03T17:55:32+00:00">3 декабря 2024</time></span>
+				<a href="https://guitarmag.net/gitara-i-lyutnya-skvoz-veka/#respond" title="Оставить комментарий дальше: &quot;«Гитара и лютня сквозь века»&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					7 декабря 2024 года в ММДМ с программой «Гитара и лютня. Сквозь века» выступит Олег Бойко – исполнитель на ренессансной гитаре, виуэлле, барочной гитаре, китарроне и лютне.
+
+В концерте принимает участие Ася Гречищева – теорба, лютня, а&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10822 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="«Время гитары» 2024: опубликована программа V международного конкурса-фестиваля" data-src="https://guitarmag.net/engine/wp-content/uploads/ЛОГО-ВРЕМЯ-ГИТАРЫ-обложка-ВК-кириллица-210x136.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430-86x64.png&quot;,&quot;210&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430-210x136.png&quot;,&quot;279&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430-279x220.png&quot;,&quot;357&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430-357x210.png&quot;,&quot;750&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430-750x430.png&quot;,&quot;1922&quot;:&quot;\u041b\u041e\u0413\u041e-\u0412\u0420\u0415\u041c\u042f-\u0413\u0418\u0422\u0410\u0420\u042b-\u043e\u0431\u043b\u043e\u0436\u043a\u0430-\u0412\u041a-\u043a\u0438\u0440\u0438\u043b\u043b\u0438\u0446\u0430.png&quot;}}"							class="img-holder" href="https://guitarmag.net/guitar-times-2024/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/guitar-times-2024/" class="post-url post-title">
+				«Время гитары» 2024: опубликована программа V международного конкурса-фестиваля			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-11-22T00:34:28+00:00">22 ноября 2024</time></span>
+				<a href="https://guitarmag.net/guitar-times-2024/#respond" title="Оставить комментарий дальше: &quot;«Время гитары» 2024: опубликована программа V международного конкурса-фестиваля&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					Московская международная ассоциация гитарного искусства анонсировала концертную программу фестиваля «Время гитары». 
+
+Всего на фестиваль подали заявки 230 участников из 47 городов России, Беларуси и Франции.
+
+27 ноября фестиваль откроет&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10811 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-6 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-6"><a href="https://guitarmag.net/guitar/competitions/">Конкурсы</a></span></div>					<a  title="Шестой Всероссийский юношеский конкурс «Гитара в Гнесинке», 26-27 апреля, 2025" data-src="https://guitarmag.net/engine/wp-content/uploads/27-28-апреля-210x136.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f-86x64.png&quot;,&quot;210&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f-210x136.png&quot;,&quot;279&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f-279x220.png&quot;,&quot;357&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f-357x210.png&quot;,&quot;750&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f-750x430.png&quot;,&quot;1920&quot;:&quot;27-28-\u0430\u043f\u0440\u0435\u043b\u044f.png&quot;}}"							class="img-holder" href="https://guitarmag.net/gnesinguitarcompetition2025/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/gnesinguitarcompetition2025/" class="post-url post-title">
+				Шестой Всероссийский юношеский конкурс «Гитара в Гнесинке», 26-27 апреля, 2025			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-11-21T11:15:57+00:00">21 ноября 2024</time></span>
+				<a href="https://guitarmag.net/gnesinguitarcompetition2025/#respond" title="Оставить комментарий дальше: &quot;Шестой Всероссийский юношеский конкурс «Гитара в Гнесинке», 26-27 апреля, 2025&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					Шестой Всероссийский юношеский конкурс гитаристов «Гитара в Гнесинке» пройдет в Москве 26-27 апреля, 2025 года
+
+Место проведения: 26-27 апреля 2025 года, ГБПОУ г. Москвы «ДМШ при МССМШ им. Гнесиных» по адресу: г. Москва, ул. Большая&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10803 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-7 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-7"><a href="https://guitarmag.net/guitar/masterclass/">Мастер-класс</a></span></div>					<a  title="Зимняя гитарная школа «Tabula rasa» 2025" data-src="https://guitarmag.net/engine/wp-content/uploads/tabula-zgsh25-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;tabula-zgsh25-86x64.jpg&quot;,&quot;210&quot;:&quot;tabula-zgsh25-210x136.jpg&quot;,&quot;279&quot;:&quot;tabula-zgsh25-279x220.jpg&quot;,&quot;357&quot;:&quot;tabula-zgsh25-357x210.jpg&quot;,&quot;750&quot;:&quot;tabula-zgsh25-750x430.jpg&quot;,&quot;905&quot;:&quot;tabula-zgsh25.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/winter-guitar-school-tabula-rasa-2025/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/winter-guitar-school-tabula-rasa-2025/" class="post-url post-title">
+				Зимняя гитарная школа «Tabula rasa» 2025			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-11-19T04:56:42+00:00">19 ноября 2024</time></span>
+				<a href="https://guitarmag.net/winter-guitar-school-tabula-rasa-2025/#respond" title="Оставить комментарий дальше: &quot;Зимняя гитарная школа «Tabula rasa» 2025&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					C 3 по 6 января 2025 года в Москве в стенах «Класс-Центра» начинает работать зимняя сессия Всероссийской гитарной школы «Tabula rasa».
+
+В течение четырех дней учащиеся смогут посетить мастер-классы, концерты ведущих преподавателей&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10764 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="Юбилейный концерт Владимира Митякова" data-src="https://guitarmag.net/engine/wp-content/uploads/Владимир_Митяков1-e1728133106952-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952-86x64.jpg&quot;,&quot;210&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952-210x136.jpg&quot;,&quot;279&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952-279x220.jpg&quot;,&quot;357&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952-357x210.jpg&quot;,&quot;750&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952-750x393.jpg&quot;,&quot;960&quot;:&quot;\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440_\u041c\u0438\u0442\u044f\u043a\u043e\u04321-e1728133106952.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/mityakov-60/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/mityakov-60/" class="post-url post-title">
+				Юбилейный концерт Владимира Митякова			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-10-05T15:55:43+00:00">5 октября 2024</time></span>
+				<a href="https://guitarmag.net/mityakov-60/#respond" title="Оставить комментарий дальше: &quot;Юбилейный концерт Владимира Митякова&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					6 октября 2024 года в Большом зале Нижегородской консерватории пройдет концерт, посвященный юбилею профессора Владимира Митякова – великолепного гитариста и преподавателя, фактически – основателя нижегородской школы классической гитары.&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10739 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-5 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-5"><a href="https://guitarmag.net/guitar/afisha/">Афиша</a></span></div>					<a  title="Играют победители Пятой Гитары в Гнесинке &#8212; 2024!" data-src="https://guitarmag.net/engine/wp-content/uploads/Афиша-корректировка-210x136.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430-86x64.png&quot;,&quot;210&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430-210x136.png&quot;,&quot;279&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430-279x220.png&quot;,&quot;357&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430-357x210.png&quot;,&quot;750&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430-750x430.png&quot;,&quot;1418&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u043a\u0430.png&quot;}}"							class="img-holder" href="https://guitarmag.net/winners-gnesinguitar2024/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/winners-gnesinguitar2024/" class="post-url post-title">
+				Играют победители Пятой Гитары в Гнесинке &#8212; 2024!			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-09-23T15:01:00+00:00">23 сентября 2024</time></span>
+				<a href="https://guitarmag.net/winners-gnesinguitar2024/#respond" title="Оставить комментарий дальше: &quot;Играют победители Пятой Гитары в Гнесинке &#8212; 2024!&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					Концерт победителей и членов жюри Пятого Всероссийского юношеского конкурса гитаристов «Гитара в Гнесинке» - 2024!
+12.10 | МССМШ имени Гнесиных
+19:00 | Органный зал
+Билеты
+https://www.afisha.ru/wl/570/api#/about/113815
+«Гитара в&hellip;				</div>
+						</div>
+	</article>
+	<article class="post-10734 type-post format-standard has-post-thumbnail   listing-item listing-item-blog  listing-item-blog-1 main-term-7 bsw-7 ">
+		<div class="item-inner clearfix">
+							<div class="featured clearfix">
+					<div class="term-badges floated"><span class="term-badge term-7"><a href="https://guitarmag.net/guitar/masterclass/">Мастер-класс</a></span></div>					<a  title="Всероссийская гитарная школа «Tabula rasa». Практика" data-src="https://guitarmag.net/engine/wp-content/uploads/Афиша-практика-2024-v2-210x136.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/guitarmag.net\/engine\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2-86x64.jpg&quot;,&quot;210&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2-210x136.jpg&quot;,&quot;279&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2-279x220.jpg&quot;,&quot;357&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2-357x210.jpg&quot;,&quot;750&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2-750x430.jpg&quot;,&quot;3508&quot;:&quot;\u0410\u0444\u0438\u0448\u0430-\u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430-2024-v2.jpg&quot;}}"							class="img-holder" href="https://guitarmag.net/tabula-rasa-practica/"></a>
+									</div>
+			<h2 class="title">			<a href="https://guitarmag.net/tabula-rasa-practica/" class="post-url post-title">
+				Всероссийская гитарная школа «Tabula rasa». Практика			</a>
+			</h2>		<div class="post-meta">
+
+							<span class="time"><time class="post-published updated"
+				                         datetime="2024-09-19T01:17:20+00:00">19 сентября 2024</time></span>
+				<a href="https://guitarmag.net/tabula-rasa-practica/#respond" title="Оставить комментарий дальше: &quot;Всероссийская гитарная школа «Tabula rasa». Практика&quot;" class="comments"><i class="fa fa-comments-o"></i> 0</a>		</div>
+						<div class="post-summary">
+					С 29 октября по 1 ноября в московском «Класс-центре» пройдёт Всероссийская гитарная школа «Tabula rasa» Практика.
+
+Учащиеся смогут узнать много нового об эволюции струнных щипковых инструментов с XVI века по наши дни, прикоснуться к&hellip;				</div>
+						</div>
+	</article>
+	</div>
+	
+	</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-none clearfix">
+			<script>var bs_ajax_paginate_1477121751 = '{"query":{"paginate":"next_prev","show_label":"1 \u0438\u0437 117","next_page_link":"https:\/\/guitarmag.net\/page\/2\/","query_vars":{"category__not_in":[0],"post_type":["post"],"offset":5,"lazy_load_term_meta":1,"posts_per_page":10,"order":"DESC"},"show_excerpt":1,"_layout":{"state":"1|1|0","page":"2-col-right"}},"type":"custom","view":"Publisher::bs_pagin_ajax_archive","current_page":1,"ajax_url":"\/engine\/wp-admin\/admin-ajax.php","remove_duplicates":"0","paginate":"next_prev","_layout":{"state":"1|1|0","page":"2-col-right"}}';</script>				<a class="btn-bs-pagination prev disabled" rel="prev" data-id="1477121751"
+				   title="предыдущий">
+					<i class="fa fa-angle-left"
+					   aria-hidden="true"></i> Назад				</a>
+				<a href="https://guitarmag.net/page/2/" rel="next" class="btn-bs-pagination next"
+				   data-id="1477121751" title="следующий">
+					Вперед <i
+							class="fa fa-angle-right" aria-hidden="true"></i>
+				</a>
+				</div>						</div><!-- .content-column -->
+												<div class="col-sm-4 sidebar-column sidebar-column-primary">
+							<aside id="sidebar-primary-sidebar" class="sidebar" role="complementary" aria-label="Primary Sidebar Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+	<div id="bs-youtube-playlist-1-2" class=" h-ni w-t primary-sidebar-widget widget widget_bs-youtube-playlist-1"><div class="section-heading sh-t2 sh-s1"><span class="h-text">Наши лучшие видео</span></div><div  class="bsp-wrapper bs-youtube-playlist-1 bsp-style-1 bs-youtube-playlist-service playlist-title-hide layout-1-column">
+	    <div class="bsp-player-wrapper">
+        <div class="bsp-player" data-frame-url="https://www.youtube.com/embed/{video-id}?autoplay=1&showinfo=0">
+            <iframe type="text/html" width="100%" height="100%"
+                    src="https://www.youtube.com/embed/yamRW04n8nM?autoplay=0&showinfo=0"
+                    allowfullscreen="allowfullscreen"
+                    mozallowfullscreen="mozallowfullscreen"
+                    msallowfullscreen="msallowfullscreen"
+                    oallowfullscreen="oallowfullscreen"
+                    webkitallowfullscreen="webkitallowfullscreen"
+                    frameborder="0"></iframe>
+        </div>
+    </div>
+
+    <div class="bsp-videos">
+		
+        <div class="bsp-videos-items">
+            <ol>
+				                    <li class="bsp-videos-item bsp-current-item">
+                        <span class="bsp-video-index">1</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="yamRW04n8nM">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/yamRW04n8nM/default.jpg"
+                                         alt="Grisha Goryachev at &#039;Guitar Virtuosos&#039; 2015 festival - Montiño (fandangos de Huelva)">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Grisha Goryachev at 'Guitar Virtuosos' 2015 festival - Montiño (fandangos de Huelva)</span>
+								<span class="bsp-small bsp-video-duration body-typo">05:40</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">2</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="oem__Rdzpe0">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/oem__Rdzpe0/default.jpg"
+                                         alt="Valse en skaï (Roland Dyens) – Dimitri Illarionov (Guitar Virtuosos 2008)">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Valse en skaï (Roland Dyens) – Dimitri Illarionov (Guitar Virtuosos 2008)</span>
+								<span class="bsp-small bsp-video-duration body-typo">04:05</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">3</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="-2O3yK3EnEg">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/-2O3yK3EnEg/default.jpg"
+                                         alt="4-tissimo Guitar Quartet plays Tico Tico no Fubá">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">4-tissimo Guitar Quartet plays Tico Tico no Fubá</span>
+								<span class="bsp-small bsp-video-duration body-typo">04:24</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">4</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="ym8m41vOLw8">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/ym8m41vOLw8/default.jpg"
+                                         alt="Guitar Virtuosos festival - Flavio Sala // Виртуозы гитары. Флавио Сала">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Guitar Virtuosos festival - Flavio Sala // Виртуозы гитары. Флавио Сала</span>
+								<span class="bsp-small bsp-video-duration body-typo">04:35</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">5</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="pWOgLzLMf2Y">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/pWOgLzLMf2Y/default.jpg"
+                                         alt="Guitar Virtuosi – Pablo Sáinz Villegas">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Guitar Virtuosi – Pablo Sáinz Villegas</span>
+								<span class="bsp-small bsp-video-duration body-typo">04:29</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">6</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="KOvi_xxUxXo">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/KOvi_xxUxXo/default.jpg"
+                                         alt="&#039;Virtuosos of Guitar 2008&#039; festival, Moscow. Aniello Desiderio">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">'Virtuosos of Guitar 2008' festival, Moscow. Aniello Desiderio</span>
+								<span class="bsp-small bsp-video-duration body-typo">03:41</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">7</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="cPRPz3jjLzE">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/cPRPz3jjLzE/default.jpg"
+                                         alt="Dimitri Illarionov plays Aranjuez (2nd mov.) at the Crescendo festival">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Dimitri Illarionov plays Aranjuez (2nd mov.) at the Crescendo festival</span>
+								<span class="bsp-small bsp-video-duration body-typo">14:07</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">8</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="4sy27evMBvk">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/4sy27evMBvk/default.jpg"
+                                         alt="Yuliya Lonskaya plays Tango en Skaï by Roland Dyens">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Yuliya Lonskaya plays Tango en Skaï by Roland Dyens</span>
+								<span class="bsp-small bsp-video-duration body-typo">02:53</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">9</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="y8F4DQJZI5k">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/y8F4DQJZI5k/default.jpg"
+                                         alt="4-tissimo Guitar Quartet at &#039;Virtuosos of Guitar&#039; Moscow Festival">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">4-tissimo Guitar Quartet at 'Virtuosos of Guitar' Moscow Festival</span>
+								<span class="bsp-small bsp-video-duration body-typo">03:25</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">10</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="3MCHL2GJRxM">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/3MCHL2GJRxM/default.jpg"
+                                         alt="Alexey Arkhipovsky plays Paganini and more">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Alexey Arkhipovsky plays Paganini and more</span>
+								<span class="bsp-small bsp-video-duration body-typo">09:42</span>
+							</span>
+                        </a>
+                    </li>
+				                    <li class="bsp-videos-item ">
+                        <span class="bsp-video-index">11</span>
+                        <a href="#" class="bsp-clearfix bsp-item" data-video-id="A-TmuCpogE4">
+								<span class="bsp-video-icon-wrapper">
+								<span class="bsp-video-icon"></span>
+							</span>
+                            <span class="bsp-video-thumbnail">
+								                                    <img src="https://i.ytimg.com/vi/A-TmuCpogE4/default.jpg"
+                                         alt="Guitar virtuosos – Alexey Zimakov: Folia by M. Llobet">
+															</span>
+                            <span class="bsp-video-info">
+								<span class="bsp-video-name heading-typo">Guitar virtuosos – Alexey Zimakov: Folia by M. Llobet</span>
+								<span class="bsp-small bsp-video-duration body-typo">04:03</span>
+							</span>
+                        </a>
+                    </li>
+				            </ol>
+        </div>
+    </div>
+    </div></div><div id="text-426687902" class=" h-ni w-t primary-sidebar-widget widget widget_text"><div class="section-heading sh-t2 sh-s1"><span class="h-text">Мы на YouTube</span></div>			<div class="textwidget"><!--noindex--><a href="http://www.youtube.com/user/guitarmagnet"><img src="https://guitarmag.net/images/youtube.png" style="float:right;margin:0px 0 5px 8px;" alt="YouTube"></a><!--/noindex-->Заходите на <!--noindex--><a href="http://www.youtube.com/user/guitarmagnet" title="Гитарный журнал на YouTube"><strong>наш канал</strong></a><!--/noindex--> на YouTube, там <strong>очень много</strong> гитарного видео!</div>
+		</div><div id="text-426687903" class=" h-ni w-t primary-sidebar-widget widget widget_text"><div class="section-heading sh-t2 sh-s1"><span class="h-text">Мы в социальных сетях</span></div>			<div class="textwidget"><div class="fb-page" data-href="https://www.facebook.com/guitarmag/" data-tabs="timeline" data-width="300" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/guitarmag/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/guitarmag/">Guitar Magazine</a></blockquote></div></div>
+		</div><div id="text-426687911" class=" h-ni w-t primary-sidebar-widget widget widget_text"><div class="section-heading sh-t2 sh-s1"><span class="h-text">Guitarmag Artists&#8217; Services</span></div>			<div class="textwidget"><a href="https://guitarmag.net/about/guitarmag-artists-services/">Наша команда может оказать помощь во всем, что требуется концертирующему исполнителю или организатору концертов и фестивалей.</a></div>
+		</div><div id="rss-just-better-5" class=" h-ni w-t primary-sidebar-widget widget rssjustbetter"><div class="section-heading sh-t2 sh-s1"><span class="h-text">Форум Классика</span></div><div class='rssjb'><ul>
+<li> <a class='title' target='_blank' href='https://www.forumklassika.ru/showthread.php?t=142231&#038;goto=newpost' title=' ... , . , . . , , . , ......'>Валерий Петренко</a></li></ul></div>
+</div></aside>
+						</div><!-- .primary-sidebar-column -->
+									</div><!-- .main-section -->
+		</div>
+
+	</main><!-- main -->
+</div><!-- .content-wrap -->
+	<footer id="site-footer" class="site-footer full-width">
+		<div class="footer-social-icons">
+	<div class="content-wrap">
+		<div class="container">
+					<div  class="  better-studio-shortcode bsc-clearfix better-social-counter style-big-button colored in-5-col">
+						<ul class="social-list bsc-clearfix"><li class="social-item vk"> <a href = "https://vk.com/guitarmagclub" class="item-link" target = "_blank" > <i class="item-icon bsfi-vk" ></i><span class="item-name" > VK</span> <span class="item-title-join" > Мы в ВК</span> </a> </li> <li class="social-item rss"> <a href = "https://guitarmag.net/feed/rss/" class="item-link" target = "_blank" > <i class="item-icon bsfi-rss" ></i><span class="item-name" > RSS</span> <span class="item-title-join" > Subscribe our RSS</span> </a> </li> <li class="social-item youtube"> <a href = "https://youtube.com/channel/UCX4-5ms1jEczde-sDqgQcEA" class="item-link" target = "_blank" > <i class="item-icon bsfi-youtube" ></i><span class="item-name" > Youtube</span> <span class="item-title-join" > Мы в Youtube</span> </a> </li> 			</ul>
+		</div>
+				</div>
+	</div>
+</div>
+<div class="footer-widgets light-text">
+	<div class="content-wrap">
+		<div class="container">
+			<div class="row">
+										<div class="col-sm-3">
+							<aside id="sidebar-footer-1" class="sidebar" role="complementary" aria-label="Footer - Column 1 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="custom_html-2" class="widget_text  h-ni w-nt footer-widget footer-column-1 widget widget_custom_html"><div class="textwidget custom-html-widget"><noindex><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href=\'http://www.liveinternet.ru/click\' "+
+"target=_blank><img src=\'//counter.yadro.ru/hit?t25.3;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"\' alt=\'\' title=\'LiveInternet: показано число посетителей за"+
+" сегодня\' "+
+"border=\'0\' width=\'88\' height=\'15\'></a>")
+//--></script><!--/LiveInternet--></noindex>
+<noindex><a href="https://yandex.ru/cy?base=0&host=guitarmag.net"><img src="https://www.yandex.ru/cycounter?guitarmag.net" width="44" height="15" alt="Яндекс цитирования" border="0" /></a>
+	
+<!-- begin of Top100 logo -->
+<a href="http://top100.rambler.ru/home?id=1595489" target="_blank"><img src="https://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler\'\'s Top100" width="44" height="15" border="0" /></a>
+<!-- end of Top100 logo -->
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="https://counter.rambler.ru/top100.jcn?1595489"></script><noscript><img src="https://counter.rambler.ru/top100.cnt?1595489" alt="" width="1" height="1" border="0"/></noscript>
+<!-- end of Top100 code --></noindex></div></div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-2" class="sidebar" role="complementary" aria-label="Footer - Column 2 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="custom_html-3" class="widget_text  h-ni w-nt footer-widget footer-column-2 widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-3" class="sidebar" role="complementary" aria-label="Footer - Column 3 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+								<div id="custom_html-4" class="widget_text  h-ni w-nt footer-widget footer-column-3 widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Yandex.Metrika -->
+<script src="//mc.yandex.ru/resource/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter223181 = new Ya.Metrika(223181); } catch(e){}
+</script>
+<noscript><div style="position: absolute;"><img src="//mc.yandex.ru/watch/223181" alt="" /></div></noscript>
+<!-- Yandex.Metrika --></div></div>							</aside>
+						</div>
+						<div class="col-sm-3">
+							<aside id="sidebar-footer-4" class="sidebar" role="complementary" aria-label="Footer - Column 4 Sidebar" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+															</aside>
+						</div>
+									</div>
+		</div>
+	</div>
+</div>
+		<div class="copy-footer">
+			<div class="content-wrap">
+				<div class="container">
+										<div class="row footer-copy-row">
+						<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+							© 2007–2025 Гитарный журнал						</div>
+						<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer><!-- .footer -->
+		</div><!-- .main-wrap -->
+			<span class="back-top"><i class="fa fa-arrow-up"></i></span>
+
+<script type="text/javascript">strx.start({"content":"#contentleft","sidebar":"#sidebar","wait":"3000","debounce":"0","animate":"500","offsetTop":"0","offsetBottom":"91","debug":0,"outline":0,"findids":0,"dynamicTop":"","jsInHead":"","minHDiff":"0"});</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-46592631-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-46592631-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(223181, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/223181" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript'>
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var betterReviewsLoc = {"ajax_url":"https:\/\/guitarmag.net\/engine\/wp-admin\/admin-ajax.php","cp":"\/engine"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bs_smart_lists_loc = {"translations":{"nav_next":"Next","nav_prev":"Prev","trans_x_of_y":"%1$s of %2$s","trans_page_x_of_y":"Page %1$s of %2$s"}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-2","boxed":"boxed"},"ajax_url":"https:\/\/guitarmag.net\/engine\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"\u0412\u0441\u0435","tabs_more":"\u0411\u043e\u043b\u044c\u0448\u0435","lightbox_expand":"\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0443","lightbox_close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":false,"position":""},"share":{"more":true},"refresh_googletagads":"1","get_locale":"ru-RU","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/guitarmag.net\/engine\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>\u041f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>\u0420\u0443\u0431\u0440\u0438\u043a\u0438<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>\u041c\u0435\u0442\u043a\u0438<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+/* ]]> */
+</script>
+		<div class="rh-cover noscroll gr-2" >
+			<span class="rh-close"></span>
+			<div class="rh-panel rh-pm">
+				<div class="rh-p-h">
+											<span class="user-login">
+													<span class="user-avatar user-avatar-icon"><i class="fa fa-user-circle"></i></span>
+							Вход / Регистрация						</span>				</div>
+
+				<div class="rh-p-b">
+										<div class="rh-c-m clearfix"></div>
+
+											<form role="search" method="get" class="search-form" action="https://guitarmag.net">
+							<input type="search" class="search-field"
+							       placeholder="Поиск..."
+							       value="" name="s"
+							       title="Искать:"
+							       autocomplete="off">
+							<input type="submit" class="search-submit" value="">
+						</form>
+										</div>
+			</div>
+							<div class="rh-panel rh-p-u">
+					<div class="rh-p-h">
+						<span class="rh-back-menu"><i></i></span>
+					</div>
+
+					<div class="rh-p-b">
+						<div id="form_24917_" class="bs-shortcode bs-login-shortcode ">
+		<div class="bs-login bs-type-login-register"  style="display:none">
+
+					<div class="bs-login-panel bs-login-sign-panel bs-current-login-panel">
+								<form name="loginform"
+				      action="https://guitarmag.net/login/" method="post">
+
+					
+					<div class="login-header">
+						<span class="login-icon fa fa-user-circle main-color"></span>
+						<p>Welcome, Login to your account.</p>
+					</div>
+					
+					<div class="login-field login-username">
+						<input type="text" name="log" id="form_24917_user_login" class="input"
+						       value="" size="20"
+						       placeholder="Имя пользователя или email..." required/>
+					</div>
+
+					<div class="login-field login-password">
+						<input type="password" name="pwd" id="form_24917_user_pass"
+						       class="input"
+						       value="" size="20" placeholder="Пароль..."
+						       required/>
+					</div>
+
+					
+					<div class="login-field">
+						<a href="https://guitarmag.net/login/?action=lostpassword&redirect_to=https%3A%2F%2Fguitarmag.net%2F"
+						   class="go-reset-panel">Forget password?</a>
+
+													<span class="login-remember">
+							<input class="remember-checkbox" name="rememberme" type="checkbox"
+							       id="form_24917_rememberme"
+							       value="forever"  />
+							<label class="remember-label">Запомните меня</label>
+						</span>
+											</div>
+
+					 <!-- OneAll.com / Social Login for WordPress / v5.10.0 -->
+<div class="oneall_social_login">
+ <div class="oneall_social_login_label" style="margin-bottom: 3px;"><label>Связан с:</label></div>
+ <div class="oneall_social_login_providers" id="oneall_social_login_providers_4014023"></div>
+ <script data-cfasync="false" type="text/javascript">
+  var _oneall = _oneall || [];
+  _oneall.push(['social_login', 'set_providers', ['google','livejournal','twitter','vkontakte','youtube']]);
+  _oneall.push(['social_login', 'set_callback_uri', (window.location.href + ((window.location.href.split('?')[1] ? '&amp;': '?') + "oa_social_login_source=login"))]);
+  _oneall.push(['social_login', 'set_custom_css_uri', 'https://secure.oneallcdn.com/css/api/socialize/themes/wordpress/modern.css']);
+  _oneall.push(['social_login', 'do_render_ui', 'oneall_social_login_providers_4014023']);
+ </script>
+</div>
+					<div class="login-field login-submit">
+						<input type="submit" name="wp-submit"
+						       class="button-primary login-btn"
+						       value="Вход"/>
+						<input type="hidden" name="redirect_to" value="https://guitarmag.net/"/>
+					</div>
+
+											<div class="login-field login-signup">
+							<span>Нет учетной записи? <a
+										href="https://guitarmag.net/%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/">Регистрация</a></span>
+						</div>
+									</form>
+			</div>
+
+			<div class="bs-login-panel bs-login-reset-panel">
+
+				<span class="go-login-panel"><i
+							class="fa fa-angle-left"></i> Вход</span>
+
+				<div class="bs-login-reset-panel-inner">
+					<div class="login-header">
+						<span class="login-icon fa fa-support"></span>
+						<p>Восстановить пароль.</p>
+						<p>A password will be e-mailed to you.</p>
+					</div>
+										<form name="lostpasswordform" id="form_24917_lostpasswordform"
+					      action="https://guitarmag.net/%d0%b7%d0%b0%d0%b1%d1%8b%d0%bb%d0%b8-%d0%bf%d0%b0%d1%80%d0%be%d0%bb%d1%8c/"
+					      method="post">
+
+						<div class="login-field reset-username">
+							<input type="text" name="user_login" class="input" value=""
+							       placeholder="Username or Email..."
+							       required/>
+						</div>
+
+						
+						<div class="login-field reset-submit">
+
+							<input type="hidden" name="redirect_to" value=""/>
+							<input type="submit" name="wp-submit" class="login-btn"
+							       value="Send My Password"/>
+
+						</div>
+					</form>
+				</div>
+			</div>
+			</div>
+	</div>					</div>
+				</div>
+						</div>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/guitarmag.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.7'></script>
+<script type='text/javascript' src='https://guitarmag.net/engine/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script type='text/javascript' async="async" src='https://guitarmag.net/engine/wp-content/bs-booster-cache/eccb988918d83a9144341a2c59f32403.js?ver=4.9.10'></script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.182 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-03-12 12:41:31 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->

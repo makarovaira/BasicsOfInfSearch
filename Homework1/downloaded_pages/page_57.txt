@@ -1,0 +1,16 @@
+<html>
+<head>
+	<META content="text/html; charset=windows-1251" http-equiv=Content-Type>
+	<title>Музеи Подмосковья</title>
+
+<frameset cols="212,*" border=0 frameborder="no">
+    <frame name="menu" src="r_menu.htm" marginwidth="0" marginheight="0" scrolling="no" frameborder="no" noresize>
+    <frame name="info" src="r1_news.htm" marginwidth="0" marginheight="0" scrolling="auto" frameborder="no" noresize>
+</frameset>
+
+</head>
+
+<body>
+
+</body>
+</html>

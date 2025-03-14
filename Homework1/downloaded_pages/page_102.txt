@@ -1,0 +1,342 @@
+
+<script type="text/javascript" src="//s205.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.399971271918588"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+   			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s205",site_type:"narod",site_lng:"RU",rndid:"cKCvzJ",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"1-6",isgoogle:"0",isyandex:"0",ismobile:"0"},
+   			geo:{city:"Moscow",region:"Moskva"},
+   			urls:{
+   				adprru:[],
+   				adprci:[]
+   			}
+   		},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s205",site_type:"narod",site_lng:"RU",rndid:"cKCvzJ",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"1-6",isgoogle:"0",isyandex:"0",ismobile:"0"},
+			geo:{city:"Moscow",region:"Moskva"},
+			urls:{
+				adprru:[],
+				adprci:[]
+			}
+		};*/
+	
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s205.ucoz.net/bnr/blocks/ads.js?0.987475280444425" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//glinka1804.narod.ru/1Yif/jaXC7VcBI9/JEeHf7gQ?OlXB20xY9AGKwx8MZ0fs%21fKuf6qADjuyGEnzAX4VvFMDwuSebWUewByDaNNbVBLzmayxYXxwnQVO%3Bn1V"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_abandoned_sites?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript">
+if(typeof(u_global_data)!='object') u_global_data={};
+function ug_clund(){
+	if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>0 || (u_global_data && u_global_data.is_u_main_h)){
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget already loaded');
+		return;
+	}
+	u_global_data.clunduse=1;
+	if('0'=='1'){
+		var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=2; path=/; expires='+d;
+		if(location.search.indexOf('clk2398502361292193773143=1')==-1){
+			return;
+		}
+	}else{
+		window.addEventListener("click", function(event){
+			if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>1) return;
+			if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget click');
+			var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=1; path=/; expires='+d;
+			u_global_data.clunduse=2;
+			new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_click?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+		});
+	}
+	
+	new Image().src = "//counter.yadro.ru/hit;desktop_click_load?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+}
+
+setTimeout(function(){
+	if(typeof(u_global_data.preroll_video_57322)=='object' && u_global_data.preroll_video_57322.active_video=='adbetnet') {
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget suspend, preroll active');
+		setTimeout(ug_clund,8000);
+	}
+	else ug_clund();
+},3000);
+</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narodadst1?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narod_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript" src="//glinka1804.narod.ru/.s/src/jquery-3.3.1.min.js"></script><script type="text/javascript" src="//s205.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.126555710208642"></script>
+<html><head>
+
+<meta http-equiv="Content-Language" content="ru">
+<title>Глинка Михаил Иванович - русский композитор. Школьное дополнительное образование: классическая музыка</title>
+<meta name="description" content="Глинка Михаил Иванович - русский композитор. Сайт о жизни и творчестве. Школьное дополнительное образование: классическая музыка">
+<link rel="shortcut icon" href="favicon.ico">
+</head><body>
+<body bgcolor="#800000" text="#FFFFFF" link="#FFFFCC" vlink="#FFCC99" alink="#CCCCCC">
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="881" height="831">
+    <tr>
+      <td align="center" valign="top" colspan="5" width="873" height="109">
+      <h1 align="center"><font size="6">Глинка Михаил Иванович<br>
+      </font><font size="5">русский композитор</font></h1>
+      <p><font size="5">&quot;Школьное дополнительное образование: классическая музыка&quot;.</font><p>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="180" height="1"></td>
+      <td width="8" height="1"></td>
+      <td width="671" height="1"></td>
+      <td width="1" height="1"></td>
+      <td width="26" height="1"></td>
+    </tr>
+    <tr>
+      <td valign="top" width="180" height="722">
+      <b><a href="/susanin.htm">Опера &quot;Иван Сусанин&quot;</a></b><br>
+      <b><a href="/usadba.htm">Музей - усадьба</a></b> <br>
+      <a href="/links.htm">Ссылки</a><br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+&nbsp;</td>
+      <td width="8" height="722"></td>
+      <td valign="top" width="670" height="722">
+      </font><b>
+      <font face="Arial" size="5">Глинка </font></b>
+      <img border="0" src="glinka.jpg" align="left" width="302" height="354" alt="Глинка Михаил - русский композитор (Glinka)"><b><font face="Arial" size="5">Михаил 
+      Иванович</font></b></b><font size="4" face="Arial"> - осново</font><font size="4" face="Arial">п</font><font size="4" face="Arial">оложник 
+      русской классической музыки, русского бельканто. М.И. Глинка родился 1 июня 1804 года в селе 
+      Новоспасском, в имении своих родителей, которое принадлежало его отцу - 
+      отставному капитану Ивану Николаевичу Глинке - расположенном в ста 
+      <font color="#FFCC99">верстах * </font>от Смоленска и в двадцати 
+      <font color="#FFCC99">верстах * </font>от небольшого города Ельни. С 1817 жил 
+      Глинка в Петербурге. Учился в Благородном пансионе при Главном педагогическом 
+      училище (его гувернером был поэт, декабрист В. К. Кюхельбекер). Брал уроки 
+      игры на фортепиано у Дж. Филда и Ш. Майера, на скрипке - у Ф. Бема; 
+      позднее учился пению у Беллоли, тео</font><font size="4" face="Arial">рии композиции - у З. Дена. В 20-е гг. 
+      19 века пользовался известностью у петербургской любителей музыки как певец 
+      и пианист. В 1830-33 гг. Глинка совершил поездку в 
+      Италию и Германию, где познакомился с выдающимися композиторами: Г. 
+      Берлиозом, В. Беллини, Г. Доницетти. В 1836 Глинка — капельмейстер 
+      Придворной певческой капеллы (с 1839 в отставке).</font><p><font face="Arial" size="4">Овладение опытом отечественной 
+      и мировой музыкальной культуры, воздействие прогрессивных идей, 
+      распространившихся в период Отечественной войны 1812 и подготовки 
+      восстания декабристов, общение с выдающимися представителями литературы 
+      (А. С. Пушкиным, А. С. Грибоедовым и др.), искусства, художественной 
+      критики способствовали расширению кругозора композитора и выработке 
+      новаторских эстетических основ его творчества. Народно-реалистическое по 
+      своей устремленности творчество Глинки оказало влияние на дальнейшее развитие 
+      русской музыки.<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      В 1836 на сцене петербургского Большого театра была поставлена 
+      героико-патриотическая историческая опера Глинки &quot;Иван Сусанин&quot;. Вопреки 
+      навязанной композитору  концепции (либретто составлено 
+      бароном Г. Ф. Розеном в духе монархической официозности, по настоянию 
+      двора опера была названа &quot;Жизнь за царя&quot;), Глинка подчеркнул народное 
+      начало оперы, прославил крестьянина-патриота, величие характера, мужество 
+      и несгибаемую стойкость народа. В 1842 в том же театре состоялась премьера 
+      оперы &quot;Руслан и Людмила&quot;. В этом произведении красочные картины славянской 
+      жизни переплелись со сказочной фантастикой, ярко выраженные русские 
+      национальные черты с восточными мотивами (отсюда ведёт начало ориентализм 
+      в русской классической опере). Переосмыслив содержание шутливой, 
+      иронической юношеской поэмы Пушкина, взятой в основу либретто, Глинка 
+      выдвинул на первый план величавые образы Древней Руси, богатырский дух и 
+      многогранную эмоционально богатую лирику. Оперы Глинки заложили основу и 
+      наметили пути развития русской оперной классики. &quot;Иван Сусанин&quot; - народная 
+      музыкальная трагедия на исторический сюжет, с напряжённым, действенным 
+      музыкально-драматическим развитием, &quot;Руслан и Людмила&quot; - волшебная 
+      опера-оратория с мерным чередованием широких, замкнутых 
+      вокально-симфонических сцен, с преобладанием эпических, повествовательных 
+      элементов. Оперы Глинки утвердили мировое значение русской музыки. В 
+      области театральной музыки большую художественную ценность имеет музыка 
+      Глинки к трагедии Н. В. Кукольника &quot;Князь Холмский&quot; (пост. 1841, 
+      Александрийский театр, Петербург). В 1844-1848 гг. композитор проводит во 
+      Франции и Испании. Эта поездка утвердила европейскую популярность русского 
+      гения. Большим почитателем его таланта становится Берлиоз, исполнивший 
+      весной 1845 г. произведения Глинки на своем концерте. С успехом прошёл 
+      авторский концерт Глинки в Париже. Там же в 1848 году он написал 
+      симфоническую фантазию &quot;Камаринская&quot; с русскими народными темами. Это 
+      необычайно жизнерадостная, полная юмора фантазия, наслаждаясь которой 
+      возникают ассоциации с русскими народными праздниками, народными 
+      инструментами и народным хоровым пением. &quot;Камаринская&quot; - это ещё и 
+      блестящая мастерская оркестровка. В Испании Михаил Иванович изучал 
+      культуру, нравы, язык испанского народа, записывал испанские фольклорные 
+      мелодии, наблюдал народные празднества и традиции. Итогом этих впечатлений 
+      были 2 симфонические увертюры: &quot;Арагонская хота&quot; (1845 г.) и &quot;Воспоминание 
+      о Кастилии&quot; (1848 г., 2-я редакция - &quot;Воспоминание о летней ночи в 
+      Мадриде&quot;, 1851 г.).<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Музыкальное искусство Глинки характеризуют полнота и разносторонность 
+      охвата жизненных явлений, обобщенность и выпуклость художественных 
+      образов, совершенство архитектоники и общий светлый, жизнеутверждающий 
+      тонус. Его оркестровое письмо, сочетающее прозрачность и внушительность 
+      звучания, обладает яркой образностью, блеском и богатством красок. 
+      Мастерское владение оркестром разносторонне выявилось в сценической музыке 
+      (увертюра &quot;Руслана и Людмилы&quot;) и в симфонических пьесах. &quot;Вальс-фантазия&quot; 
+      для оркестра (первоначально для фортепиано, 1839; оркестровые редакции 
+      1845, 1856) - первый классический образец русского симфонического вальса. 
+      &quot;Испанские увертюры&quot; - &quot;Арагонская хота&quot; (1845) и &quot;Ночь в Мадриде&quot; (1848, 
+      2-я редакция 1851)- положили начало разработке испанского музыкального 
+      фольклора в мировой симфонической музыке. В скерцо для оркестра 
+      &quot;Камаринская&quot; (1848) синтезированы богатства русской народной музыки и 
+      высочайшие достижения профессионального мастерства.<br>
+      <br>
+      Гармоничностью мироощущения отмечена вокальная лирика Глинки. Многоликая 
+      по темам и формам, она включила, помимо русской песенности - фундамента 
+      глинкинской мелодики, - также украинские, польские, финские, грузинские, 
+      испанские, итальянские мотивы, интонации, жанры. Выделяются его романсы на 
+      слова Пушкина (в т. ч. &quot;Не пой, красавица, при мне&quot;, &quot;Я помню чудное 
+      мгновенье&quot;, &quot;В крови горит огонь желанья&quot;, &quot;Ночной зефир&quot;), Жуковского 
+      (баллада &quot;Ночной смотр&quot;), Баратынского (&quot;Не искушай меня без нужды&quot;), 
+      Кукольника (&quot;Сомнение&quot; и цикл из 12 романсов &quot;Прощание с Петербургом&quot;). 
+      Глинка создал около 80 произведений для голоса с фортепиано (романсы, 
+      песни, арии, канцонетты), вокальные ансамбли, вокальные этюды и 
+      упражнения, хоры. Ему принадлежат камерно-инструментальные ансамбли, в том 
+      числе 2 струнных квартета, Патетическое трио (для фортепиано, кларнета и 
+      фагота, 1832).<br>
+      <br>
+      Основным творческим принципам Глинки сохраняли верность последующие 
+      поколения русских композиторов, обогащавшие национальный музыкальный стиль 
+      новым содержанием и новыми выразительными средствами. Под непосредственным 
+      влиянием Глинки - композитора и вокального педагога - сложилась русская 
+      вокальная школа. У Глинки брали уроки пения и готовили с ним оперные 
+      партии и камерный репертуар певцы Н. К. Иванов, О. А. Петров, А. Я. 
+      Петрова-Воробьева, А. П. Лодий, С. С. Гулак-Артемовский, Д. М. Леонова и 
+      др. А. Н. Серов записал его &quot;Заметки об инструментовке&quot; (1852, 
+      опубликованы 1856). Глинка оставил мемуары (&quot;Записки&quot;, 1854-55, 
+      опубликована 1870).</font></p>
+      <p><font face="Arial" size="4">Глинка также&nbsp; посетил 
+      Берлин (1856-1857), Париж (1844-1845, 1852-1854), 
+      Испанию (1845-1947), Варшаву (1848, 1849-1851). </font></p>
+      <p align="center">
+      <img border="0" src="post1.jpg" width="121" height="165">
+      <img border="0" src="post2.jpg" width="119" height="165">
+      <img border="0" src="glinka_m.jpg" width="323" height="165"></p>
+      <p align="left">
+      <br>
+      <font color="#FFCC99"><b>Монета Банка России к 200-летию М.И. Глинки (2 
+      рубля)</b></font><font size="4" face="Arial"><font color="#FFCC99"><b><img border="0" src="moneta.gif" align="left" title="портрет М.И. Глинки, под ним слева – подпись-факсимиле композитора «М.И. 
+ГЛИНКА», ниже –факсимильный фрагмент нотной записи из партитуры оперы «Жизнь за 
+царя» и даты в двестроки: «1804-1857», справа – лира с оливковой ветвью, на 
+втором плане справа – очертания куполов церквей г. Москвы." alt="Юбилейная монета к 200-летию Глинки" width="250" height="244"></b></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font>
+      <font color="#FFCC99"><b>Государственный музей <br>
+      музыкальной культуры им. М. И. Глинки</b></font><font size="4" face="Arial"><img border="0" src="glinka-museum.jpg" width="300" height="193" alt="Государственный музей музыкальной культуры им. М. И. Глинки"></font></p>
+      <p>&nbsp;<p><font size="4" face="Arial">Глинка умер 15 февраля 1857 года в 
+      Берлине. По настоянию младшей сестры М.И. Глинки Людмилы&nbsp; прах&nbsp; 
+      Глинки&nbsp;в 1857 был перевезен в Россию и погребен на кладбище 
+      Александро-Невской Лавры в Петербурге.</font><p align="center">
+      <img border="0" src="glinka1.jpg" width="225" height="328" align="left"><p><font size="2">Лит.: Кузнецов К. А., Глинка и его современники, М., 
+      1926; Асафьев Б. (Игорь Глебов), Глинка, 2 изд., М., 1950; Серов А. Н., 
+      Избранные статьи, т. 1, М.-Л., 1950; М. И. Глинка. Исследования и 
+      материалы, под ред. А. В. Оссовского, Л. - М., 1950; М. И. Глинка. Сборник 
+      материалов и статей, под ред. Т. Ливановой, М. - Л., 1950; Канн-Новикова 
+      Е., М. И. Глинка. Новые материалы и документы, b. 1-3, М. - Л., 1950-55; 
+      Одоевский В. Ф., Избранные музыкально-критические статьи. М. - Л., 1951; 
+      Стасов В. В., Избранные сочинения, т. 1, М., 1952; Асафьев Б. В., 
+      Избранные труды, т. 1, М., 1952; М. И. Глинка. Летопись жизни и 
+      творчества, сост. А. Орловой. М., 1952; Ларош Г. А., Избранные статьи о 
+      Глинке, М., 1953; Глинка в воспоминаниях современников, общая ред. А. А. 
+      Орловой, М., 1955; Ливанова Т., Протопопов В., Глинка, [т. 1-2], М., 1955; 
+      Цуккерман В., &quot;Камаринская&quot; Глинки и ее традиции в русской музыке, М., 
+      1957; М. И. Глинка. К 100-летию со дня смерти. 1857-1957, под ред. Е. 
+      Гордеевой, М., 1958; Памяти М. И. Глинки, М., 1958: Протопопов Вл., &quot;Иван 
+      Сусанин&quot; Глинки. Музыкально-теоретическое исследование, М., 1961.<br>
+      <br>
+      </font><font size="4" face="Arial"><br>
+      &nbsp;</font><p>&nbsp;<p>* <font color="#FFCC99"> <b>Верста</b></font>, старая русская мера длины (путевая), упоминаемая в 
+      литературных памятниках с 11 в. Величина В. неоднократно менялась в 
+      зависимости от числа сажен, входивших в неё, и величины сажени. С конца 18 
+      в., до введения метрической системы мер, 1 В. = 500 caженям = 1,0668 км.</td>
+      <td width="1" height="722"></td>
+      <td valign="top" width="26" height="722">&nbsp;</td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p><font color="#FFCC99">Автор сайта: Соловьев Евгений </font> 
+<a href="mailto:skill21@narod.ru" style="text-decoration: none">
+
+     
+
+      <em>
+     
+
+       <font size="2" face="Arial" color="#FFCC99">
+     
+
+© Copyright</font></em></font></a><em><font size="5"><font size="2" face="Arial" color="#FFCC99"> 
+2006 </span></font><font face="Arial" size="2" color="#FFCC99">evgenu93<span lang="en-us">@mail.ru</span></font></em></p>
+
+<p>
+     
+
+<p><em><font face="Arial" size="2" color="#FFCC99">Мои сайты: </font></em></p>
+
+<p><font face="Arial" size="2" color="#FFCC99"> <em> <a href="http://borodin1833.narod.ru/">
+<font color="#FFCC99">Бородин Александр</font></a></em></p>
+
+<p><em><a href="http://musorgskiy1839.ru">
+<font color="#FFCC99">Модест Мусоргский</font></a></em></p>
+
+<p><em>
+<font color="#FFCC99"><a href="http://rachmaninov1873-rus.ru/">
+<font color="#FFCC99">Рахманинов Сергей</font></a></font></em></p>
+
+</font>
+<p><font face="Arial" size="2" color="#FFCC99"><em><a href="http://www.skill21.ru/"><font color="#FFCC99">Милий Алексеевич Балакирев</font></a></em></font></p>
+<font face="Arial" size="2" color="#FFCC99">
+
+
+<b>
+
+
+<p><em><font face="Arial" size="2" color="#FFCC99">Мои сайты: </font></em></p>
+
+<p><font face="Arial" size="2" color="#FFCC99"> <em> <a href="http://www.borodin1833.ru/">
+<font color="#FFCC99">Бородин Александр</font></a></em></p>
+
+<p><em><a href="http://www.musorgskiy1839.ru">
+<font color="#FFCC99">Модест Мусоргский</font></a></em></p>
+
+<p><em>
+<font color="#FFCC99"><a href="http://www.rachmaninov1873-rus.ru/">
+<font color="#FFCC99">Рахманинов Сергей</font></a></font></em></p>
+
+</font>
+<p><font face="Arial" size="2" color="#FFCC99"><em><a href="http://www.skill21.ru/"><font color="#FFCC99">Милий Алексеевич Балакирев</font></a></em></font></p>
+<font face="Arial" size="2" color="#FFCC99">
+
+<p>
+     
+
+Реклама:</p>
+
+<p><font face="Arial" color="#ffcc99"><em style="FONT-STYLE: normal">
+
+<a href="http://www.msso.ru/"><font size="2" color="#FFCC99">стихи</font></a></em></font></p>
+
+<p><em style="font-style: normal">
+<a href="http://www.stihi-rus.ru/"><font color="#FFCC99">стихи любви</font></a></em></p>
+
+<font face="Arial" color="#FFCC99">
+
+<p><a href="http://www.proza.ru/author.html?Peter1000">
+<font size="2" color="#FFCC99">Проза.ру</font></a></p>
+
+<p><a href="http://stihi.net.ru/" style="text-decoration: none">
+<font size="2" color="#FFCC99">Стихи. нет.ру - стихи о любви, поэзия, альманах</font></a><font size="2"> и 
+    <a href="http://stihi.net.ru/name.htm" style="text-decoration: none">
+
+<font color="#FFCC99">имена</font></a>.</font></p>
+
+
+    
+
+<p>&nbsp;</p>
+
+
+<!-- copyright (t3) --><div align="center">Хостинг от <a href="http://www.ucoz.ru/" title="Создать сайт бесплатно">uCoz</a><br /></div><!-- /copyright -->
+</body>
+
+</html>

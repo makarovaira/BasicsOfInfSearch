@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>"Возвращение" </title>
+  <meta name="description" content="Фонд развития культуры 'Возвращение' - классическая камерная музыка" />
+  <meta name="keywords" content="возвращение, фестиваль, концерты, рахманиновский зал, минц, булгаков" />
+  <link rel="alternate" type="application/rss+xml" title="RSS - новости о концертах" href="http://homecoming.ru/concerts/rss" />
+
+    
+    <link rel='stylesheet' media='handheld' type='text/css' href='/style/v4-styles-handheld.css' />
+    <style type='text/css' media="screen, projection">
+      @import url('/style/v4-styles.css');
+    </style>
+    <!--[if IE]>
+      <link href="/style/v4-styles-ie.css" rel="stylesheet" type="text/css" media='screen'/>
+    <![endif]-->
+  </head>
+  <body class='index' id='welcome'>
+    <div id="cnt">
+    <div id="banner">
+      <h1><img src="/style/v4_logo_on_gray.gif" alt="" /><br />Фонд развития культуры <strong>Возвращение</strong></h1>
+      <h2 class='access'>Разделы сайта</h2>
+      <ul id="nav">
+        <li id="conc"><a href="/concerts">Концерты</a></li>
+        <li id="peop"><a href="/people">Участники</a></li>
+        <li id="proj"><a href="/projects">Проекты</a></li>
+        <li id="recs"><a href="/records">Записи</a></li>
+        <li id="abou"><a href="/about">О фонде</a></li>
+        <li id="pres"><a href="/press">Пресса</a></li>
+        <li id="eng"><a href="/english">English</a></li>
+      </ul>
+    </div><!-- end banner -->
+    
+        <div id="middle" class="index">
+      <div class="left">
+        <h2 class='access'>Навигация по разделу</h2>
+
+
+          <!-- people faces 54 here -->
+  <h3 class='access'>Некоторые из участников фестиваля</h3>
+  <ul class='iconlist'>
+
+    <li>
+      <a title='Павел СОКОЛОВ (гобой)' href='http://www.homecoming.ru/people/sokolov'>
+      <img alt='Павел СОКОЛОВ (гобой)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi81MyJ9/8a43e50fa7737ddad4322f5652c585bd658a634825810acd1eba9382637b5c07" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Яна ИВАНИЛОВА (сопрано)' href='http://www.homecoming.ru/people/ivanilova'>
+      <img alt='Яна ИВАНИЛОВА (сопрано)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi8zMDAifQ/38713ccf084184cbaa002f850fa5981fcf9de079539ea630d4466a8bd295afcf" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Петр АЙДУ (клавесин)' href='http://www.homecoming.ru/people/aidu'>
+      <img alt='Петр АЙДУ (клавесин)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi82NyJ9/fe0b79409ea4e61781c2561541ad5f47efe085b07a643e76190ee8d2f81d52ad" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Московский хоровой театр п/у Бориса ПЕВЗНЕРА' href='http://www.homecoming.ru/people/pevzner'>
+      <img alt='Московский хоровой театр п/у Бориса ПЕВЗНЕРА' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi8zNCJ9/81efa5f7df8307eb9de60394135341b8ee0b4bff1c46edcab6ae3b4cdcbd68f1" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Александр КОБРИН (фортепиано)' href='http://www.homecoming.ru/people/kobrin'>
+      <img alt='Александр КОБРИН (фортепиано)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi8zMjkifQ/75ac2180c9b64c9a46393347ab9ddd74a4cd9a3da004e219dde667a32e93b756" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Александр ПОНОМАРЧУК (гитара)' href='http://www.homecoming.ru/people/ponomarchuk'>
+      <img alt='Александр ПОНОМАРЧУК (гитара)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi82OSJ9/f7fd5209ec0026d0e5278050a978452c434dd4eb76ed0fa31ee884a78cc0049f" width='48' height='48' />
+      </a>
+    </li>
+    <li>
+      <a title='Денис ШАБАРДИН (труба)' href='http://www.homecoming.ru/people/shabardin'>
+      <img alt='Денис ШАБАРДИН (труба)' src="/ivise/eyJwaXBlbGluZSI6W1siaG9tZWNvbWluZ19ncmF5c2NhbGUiLHt9XSxbImdlb20iLHsiZ2VvbWV0cnlfc3RyaW5nIjoiOTZ4OTYifV0sWyJzaGFycGVuIix7InJhZGl1cyI6Mi4wLCJzaWdtYSI6MC41fV0sWyJob21lY29taW5nX2ZhY2Vfb3ZlcmxheSIse31dXSwic3JjX3VybCI6ImFzOi8zMTQifQ/c7a56206e0f526fbb7740fd7b776caca95db0ea87541cc85aa38e2f8f252c08a" width='48' height='48' />
+      </a>
+    </li>
+  </ul>
+
+        
+        <hr class='clear' />
+      </div>
+      <div class="main">
+
+
+      
+<div class='ind-left'>
+
+  <h2 class='colhead'>Прошедшие концерты</h2>
+  <ul class='clist plist'>
+    <li><a href='http://www.homecoming.ru/concerts/2022/16.1'>
+	<span class='date day16'><i>16</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIV &quot;Концерт по заявкам&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2022/14.1'>
+	<span class='date day14'><i>14</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIV &quot;Первая любовь&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2022/12.1'>
+	<span class='date day12'><i>12</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIV &quot;Думы&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2022/10.1'>
+	<span class='date day10'><i>10</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIV &quot;Доля шутки&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2020/14.1'>
+	<span class='date day14'><i>14</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIII &quot;Концерт по заявкам&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2020/12.1'>
+	<span class='date day12'><i>12</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIII &quot;Отцы и дети&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li><li><a href='http://www.homecoming.ru/concerts/2020/10.1'>
+	<span class='date day10'><i>10</i>
+    Январь
+  </span>
+	<strong>Возвращение XXIII &quot;Фейклор&quot;</strong>
+	<em>Малый зал Московской консерватории</em>
+	<hr class="clear" />
+</a></li>
+  </ul>
+</div>
+<div class='ind-right'>
+  <h2 class="colhead">Новости</h2>
+  <dl>
+    <dt><p>Дорогие друзья!</p>
+
+<p>XXIII фестиваль камерной музыки «Возвращение» пройдет в&#160;Малом зале Московской государственной консерватории имени П.И. Чайковского 8,10,12 и&#160;14 января 2020 года.</p>
+
+<p>Как и&#160;в прошлом году, мы&#160;запустили краудфандинговую кампанию по&#160;сбору средств на&#160;проведение фестиваля.</p>
+
+<p>Собранные средства будут направлены на&#160;оплату проезда и&#160;проживания участников фестиваля, аренду нотных материалов и&#160;репетиционных помещений, подготовку и&#160;печать полиграфических материалов и&#160;прочие организационные расходы.</p>
+
+<p>Узнать подробней о&#160;фестивале и&#160;поддержать его&#160;можно по&#160;ссылке на&#160;сайте <a href="https://planeta.ru/campaigns/119959">https://planeta.ru/</a></p>
+
+<p>Для наших благотворителей мы&#160;придумали много разных призов, в&#160;том числе <span class="nobr">компакт-диски</span> и&#160;билеты на&#160;концерты.</p>
+
+<p>Спасибо вам&#160;за&#160;поддержку!</p>
+
+<p>До встречи в&#160;Новом Году!</p>
+
+<p>Фестиваль «Возвращение».</p></dt>
+    <dd class='fade'>10 Oct, 02:32</dd>
+    <dt><p>Дорогие друзья!</p>
+
+<p>XXII фестиваль камерной музыки &#171;Возвращение&#187; пройдет в&#160;Малом зале Московской государственной консерватории имени П.И.&#8201;Чайковского 8,10,12 и&#160;14 января 2019 года.</p>
+
+<p>Как и&#160;в прошлом году, мы&#160;запустили краудфандинговую кампанию по&#160;сбору средств на&#160;проведение фестиваля.</p>
+
+<p>Собранные средства будут направлены на&#160;оплату проезда и&#160;проживания участников фестиваля, аренду нотных материалов и&#160;репетиционных помещений, подготовку и&#160;печать полиграфических материалов и&#160;прочие организационные расходы.</p>
+
+<p>Узнать подробней о&#160;фестивале и&#160;поддержать его&#160;можно по&#160;ссылке на&#160;сайте <a href="https://planeta.ru/campaigns/96111">Планета.ру</a></p>
+
+<p>Для наших благотворителей мы&#160;придумали много разных призов, в&#160;том числе <span class="nobr">компакт-диски</span> и&#160;билеты на&#160;концерты.</p>
+
+<p>Спасибо вам&#160;за&#160;поддержку!</p>
+
+<p>До встречи в&#160;Новом Году!</p>
+
+<p>Фестиваль &#171;Возвращение&#187;.</p></dt>
+    <dd class='fade'>15 Nov, 20:11</dd>
+    <dt><p>Дорогие друзья!</p>
+
+<p>XXI фестиваль камерной музыки &#171;Возвращение&#187; пройдет в&#160;Рахманиновском и&#160;Малом залах Московской государственной консерватории имени П.И.&#8201;Чайковского 9,11,13 и&#160;15 января 2018 года.</p>
+
+<p>Как и&#160;в прошлом году, мы&#160;запустили краудфандинговую кампанию по&#160;сбору средств на&#160;проведение фестиваля.</p>
+
+<p>Собранные средства будут направлены на&#160;оплату проезда и&#160;проживания участников фестиваля, аренду нотных материалов и&#160;репетиционных помещений, подготовку и&#160;печать полиграфических материалов и&#160;прочие организационные расходы.</p>
+
+<p>Узнать подробней о&#160;фестивале и&#160;поддержать его&#160;можно по&#160;ссылке на&#160;сайте <a href="https://planeta.ru/campaigns/71057">Планета.ру</a></p>
+
+<p>Для наших благотворителей мы&#160;придумали много разных призов, в&#160;том числе <span class="nobr">компакт-диски</span> и&#160;билеты на&#160;концерты.</p>
+
+<p>Спасибо вам&#160;за&#160;поддержку!</p>
+
+<p>До встречи в&#160;Новом Году!</p>
+
+<p>Фестиваль &#171;Возвращение&#187;.</p></dt>
+    <dd class='fade'> 1 Dec, 12:20</dd>
+    <dt><p>Дорогие друзья!</p>
+
+<p>XX фестиваль камерной музыки &#171;Возвращение&#187; пройдет в&#160;Рахманиновском зале Московской государственной консерватории имени П.И.&#8201;Чайковского 9,11,13 и&#160;15 января 2017 года.</p>
+
+<p>Как и&#160;в прошлом году, мы&#160;запустили краудфандинговую кампанию по&#160;сбору средств на&#160;проведение фестиваля.</p>
+
+<p>Собранные средства будут направлены на&#160;оплату проезда и&#160;проживания участников фестиваля, аренду нотных материалов и&#160;репетиционных помещений, подготовку и&#160;печать полиграфических материалов и&#160;прочие организационные расходы.</p>
+
+<p>Узнать подробней о&#160;фестивале и&#160;поддержать его&#160;можно по&#160;ссылке на&#160;сайте <a href="https://planeta.ru/campaigns/46083">Планета.ру</a></p>
+
+<p>Для наших жертвователей мы&#160;придумали много разных призов, в&#160;том числе <span class="nobr">компакт-диски</span> и&#160;билеты на&#160;концерты.</p>
+
+<p>Спасибо вам&#160;за&#160;поддержку!</p>
+
+<p>До встречи в&#160;Новом Году!</p>
+
+<p>Фестиваль &#171;Возвращение&#187;.</p></dt>
+    <dd class='fade'>28 Nov, 10:35</dd>
+    <dt><p>Билеты на&#160;XIX Фестиваль камерной музыки &#171;Возвращение&#187; можно приобрести на&#160;сайте <a href="http://www.meloman.ru/subscription/?q=151&#38;season=2015-2016">Московской филармонии</a></p></dt>
+    <dd class='fade'>26 Dec, 14:19</dd>
+  </dl>
+  <a href="/archive">Архив новостей</a>
+</div>
+<hr class="clear" />
+
+      
+          <h2>О фонде &quot;Возвращение&quot;</h2>
+          <div class='article'>
+          <p>Фонд объединяет молодых музыкантов, представляющих лучшие традиции русской исполнительской школы в&#160;России и&#160;за рубежом &#8211; стипендиатов и&#160;выпускников музыкальных академий Европы и&#160;США, солистов ведущих западных и&#160;российских оркестров. Образованный в&#160;2000 году Фонд стал широко известен благодаря фестивалю камерной музыки “Возвращение“, который ежегодно проводится в&#160;рождественские праздники в&#160;Московской Консерватории.
+<a href="/about">подробнее</a></p>
+          </div>
+
+      
+
+      </div>
+      <hr class="clear" />
+    </div>
+    <a class='access' href='#nav'>Вернуться к навигации</a>
+    <div id="foot">
+<p>©1996-2025, Фонд развития культуры "Возвращение" - <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
+"harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
+"\\\\,l=x.length;for(i=0;i<l;i++){if(i<34)y++;y%=127;o+=String.fromCharCode(" +
+"x.charCodeAt(i)^(y++));}return o;}f(\\\"\\\\GJD\\\\\\\\\\\\\\\\FHAE\\\\\\\\" +
+"035BEPOXS/kg{(k%=45h\\\\\\\\013{6<6\\\\\\\\r\\\\\\\\027\\\\\\\\n\\\\\\\\\\\\"+
+"\\\\\\\\\\\\016\\\\\\\\006\\\\\\\\017\\\\\\\\005+\\\\\\\\004\\\\\\\\002\\\\" +
+"\\\\003\\\\\\\\n\\\\\\\\023\\\\\\\\036\\\\\\\\037\\\\\\\\032\\\\\\\\032\\\\" +
+"\\\\022X\\\\\\\\005\\\\\\\\r%X[\\\\\\\\010\\\\\\\\024\\\\\\\\nld?_&`+ji`fW." +
+"3k\\\\\\\\\\\"\\\\}p{\\\\\\\\177(:w):0!+'\\\"\\\\,34)\\\"(f};)lo,0(rtsbus.o" +
+" nruter};)i(tArahc.x=+o{)--i;0=>i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{yrt{)29=!" +
+")31/l(tAedoCrahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o,i rav{)x(f noitcnuf\")" ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+
+</p>
+<p>Билеты на концерты в МГК им.&nbsp;Чайковского продаются в кассах №№ 3 и 4 Большого зала консерватории</p>
+	Сайт построил <a href='http://julik.nl/'>julik.nl</a></p>
+</div>
+    </div><!-- end cnt -->
+  </body>
+</html>

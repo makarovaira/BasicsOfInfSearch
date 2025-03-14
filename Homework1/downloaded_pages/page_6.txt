@@ -1,0 +1,408 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" Content="text/html; Charset=Windows-1251">
+	<title>ÊÓËÜÒÓÐÀ Ðîññèè </title>
+
+<meta name="keywords" lang="ru" content="êóëüòóðà, èñêóññòâî, ìóçåé, ãàëåðåÿ, êàðòèíà, ìóçåè, ãàëåðåÿ, ãàëåðåè, èñêóññòâî, êóëüòóðà, íàñëåäèå, èñòîðèÿ, òóðèçì, îáðàçîâàíèå, âûñòàâêà, âûñòàâêè, êàðòèíà, êðåìëü, òðåòüÿêîâñêàÿ, ïóøêèíñêèé, ýðìèòàæ,  íîâîñòè, ñîáûòèÿ, ðîññèéñêèå, Ðîññèè, Ðîññèÿ, ðóññêèé,  Ìîñêâà, Ïåòåðáóðã, Ìîñêâû, Ïåòåðáóðãà, ÑÑÑÐ">
+<meta name="description" lang="ru" content="Ïðîñòî è èíòåðåñíî î êóëüòóðå Ðîññèè: âåëèêèå ëè÷íîñòè, ëó÷øèå ïðîèçâåäåíèÿ, îáçîðíûå ñòàòüè, íîâîñòè, èãðû è òåñòû.">
+
+	<LINK REL="stylesheet" TYPE="text/css" HREF="main.css">
+</head>
+
+<body bgcolor="#0D4779" text="White" topmargin=0 leftmargin=0 marginwidth=0 marginheight=0 link="White" vlink="White" alink="Yellow"><!-- íîðìàëüíûé ôîí - 0C4577 -->
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://srv.museum.ru/chat.asp?id=W857"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://srv.museum.ru/vote.asp?id=W857&t=9"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://srv.museum.ru/news.asp?id=W857&c=15&m=&middot; <a href=`^u` class=`left`>^t</a><br>"></SCRIPT>
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="/include/main.js"></SCRIPT>
+<script type="text/javascript">
+<!--
+ HintRefresh	= 5000;
+ htmlPre		= '<table border=1 cellspacing=0 cellpadding=5 bgcolor="#DDF4FF" bordercolor="White" bordercolorlight="White" bordercolordark="Silver"><td align="right"><font face="Arial" color="Navy" size="-2">';
+// -->
+</script>
+<center>
+
+<TABLE WIDTH="100%" BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR>
+	<TD BGCOLOR="#0A2B50" BACKGROUND="img/top_fon.jpg" WIDTH=125 VALIGN="TOP">
+	<font class="txt">
+<br>
+
+<script language=javascript>
+<!--
+
+function WriteLinks() {
+	l = Links.length/3;
+	for(i = 0; i < l; i++) {
+		r1 = 3*parseInt((Math.random())*l); Num= Links[r1]; Url = Links[r1+1]; Name = Links[r1+2]
+		r2 = 3*parseInt((Math.random())*l); Links[r1] = Links[r2]; Links[r1+1] = Links[r2+1]; Links[r1+2] = Links[r2+2];
+		Links[r2] = Num; Links[r2+1] = Url; Links[r2+2]=Name;
+	}
+
+	document.write('<center><img src="part/'+Letter+'_'+FirstImg+'.gif" width=88 height=31 border=1 name="'+Letter+'_ban">');
+//	 STYLE="filter: revealtrans(duration=5, transition=23">
+	document.write('</center><br><font color="#71839A" class="head">'+Label+'</font><br>');
+	for(i = 0; i < l; i++)
+		document.write('&nbsp; <a href="http://'+Links[i*3+1]+'" onMouseOver="SetImg(\''+Letter+'_ban\',\'part/'+Letter+'_'+Links[i*3]+'.gif\',\''+Links[i*3+2]+'\'); return true" target="_blank" class="spons">'+Links[i*3+2]+'</a><br>');
+	return true;
+}
+
+//Letter='s';
+//FirstImg=1;
+//Label='ÑÏÎÍÑÎÐÛ:';
+//Links = new Array(
+//'1','www.britishcouncil.ru','Áðèòàíñêèé Ñîâåò',
+//'4','www.unesco.org','ÞÍÅÑÊÎ');
+//WriteLinks();
+//-->
+</script>
+
+<br>
+<font color="#71839A" class="head">ÏÀÐÒÍÅÐÛ</font><br>
+&nbsp; <a href="http://www.RussianMuseums.info/" target="_blank" class="spons">Museums in Russia</a><br>
+&nbsp; <a href="http://www.museum.ru/" target="_blank" class="spons">Ìóçåè Ðîññèè</a><br>
+
+
+	&nbsp; <a href="http://www.mincult.ru/" target="_blank" class="spons">Êóëüòóðà Ðîññèè</a><br>
+<br>
+
+<script>
+Letter='p';
+Label='ÏÀÐÒÍÅÐÛ:';
+Links = new Array(
+'3','www.theatre.ru','Òåàòðàëüíàÿ æèçíü',
+'5','www.archi.ru','Àðõèòåêòóðà Ðîññèè',
+'7','www.yandex.ru','Yandex.ru')
+FirstImg=parseInt((Math.random())*Links.length/3)+1;
+WriteLinks();
+</script>
+<br><br>
+<script>
+
+Letter='g';
+Label='ÁËÀÃÎÄÀÐÍÎÑÒÈ:';
+Links = new Array(
+'1','www.rsl.ru','ÐÃÁ',
+'2','www.museum.ru','Ìóçåè Ðîññèè',
+'3','www.google.ru','google',
+'4','www.archi.ru','Àðõèòåêòóðà Ðîññèè',
+'5','www.darwin.museum.ru','Äàðâèíîâñêèé ìóçåé')
+FirstImg=parseInt((Math.random())*Links.length/3)+1;
+WriteLinks();
+
+// -->
+</script>
+
+		</font>	
+
+	</TD>
+	<TD WIDTH=1 BGCOLOR="WHITE"><img src="img/white.gif" width=1 height=1 border=0></TD>
+<FORM ACTION="search.asp" onSubmit="if(this.SearchStr.value.length<3) {alert('Íå ìåíåå 3-õ áóêâ.'); return false; }">
+	<TD bgcolor="#0D4779" background="img/bg_tit.jpg" ALIGN="CENTER" VALIGN="TOP" NOWRAP>
+	<H1 style="font-face:Times New Roman; color:#88ADCA; font-size: 8pt; letter-spacing: 2px; padding:0; margin:0;">Ïîðòàë "Êóëüòóðà Ðîññèè"</H1><h2 style="font-size: 8pt;padding:0;font-face:Arial;color:#88ADCA;font-weight:normal;margin:0;">Ïðîñòî è èíòåðåñíî î ýïîõàõ, âåëèêèõ ëþäÿõ è ãåíèàëüíûõ ïðîèçâåäåíèÿõ.</h2><br>
+
+	<img src="img/title.jpg" width=395 height=362 border=0 usemap="#mainmenu" alt="&#10;&#13;Ïîðòàë ''Êóëüòóðà Ðîññèè''&#10;&#13;Îôèöèàëüíûé ïîðòàë ÌÊ ÐÔ.&#10;&#13;âåðñèÿ ïðåäâàðèòåëüíàÿ îò 10.10.2000ã.&#10;&#13;"><br><br>
+
+<table>
+	<tr><td>
+	<INPUT TYPE="hidden" NAME="SearchMode" VALUE="True">
+	
+		<SCRIPT LANGUAGE="JavaScript">
+		<!--//
+			if (isNS)
+				document.write ('<INPUT type="edit" NAME="SearchStr" SIZE=25 MAXLENGTH=50 VALUE="" STYLE="font-size: 9pt">');
+			else
+				document.write ('<INPUT type="edit" NAME="SearchStr" SIZE=35 MAXLENGTH=50 VALUE="" STYLE="font-size: 9pt">');
+		// -->
+		</SCRIPT>
+		 
+	<INPUT TYPE="hidden" NAME="SearchB" VALUE="True" CHECKED><!Áèîãðàôèè>
+	<INPUT TYPE="hidden" NAME="SearchP" VALUE="True" CHECKED><!Ïðîèçâåäåíèÿ>
+	</td><td><INPUT style="FONT-SIZE: 9pt" type="submit" value="íàéòè" onClick="if(location.href.indexOf('file:')>=0) { alert ('Ñèñòåìà ïîèñêà îòêëþ÷åíà â ÑÄ âåðñèè. \n ñì. www.russianculture.ru');return false; }"></td></tr><tr><td colspan="2" align="center">	<font size="-3" color="#88ADCA">îáúåêòîâ: 1509, ïåðñîíàëèé 252,	ïðîèçâåäåíèé 484,<br> èçîáðàæåíèé 557, îðãàíèçàöèé 216, ñòàòåé 16</font></td></tr>
+</table>
+
+<br>&nbsp;
+
+	</TD>
+</form>
+	<TD bgcolor="#0D4779" background="img/bg_tit.jpg" VALIGN="TOP" ALIGN="CENTER">
+	<table border=0 cellspacing=0 cellpadding=0>
+		<td valign="top"><br><img src="img/noise_1.jpg" width=28 height=127 vspace=6 border=0><br><img src="img/noise_2.jpg" width=28 height=127 vspace=6 border=0><br><img src="img/noise_3.jpg" width=28 height=127 vspace=6 border=0></td>
+		<td valign="top"><a href="#p21"><img src="img/head_0.jpg" width=129 height=12 border=0 alt=""><br><img src="img/head_1.jpg" width=129 height=18 border=0><br><img src="Culture_img\vasilii_s_gorkis.jpg" border=1 alt="Öåðêîâü Âàñèëèÿ íà Ãîðêå â Ïñêîâå" width=100 height=125></a><br><a href="#p22"><img src="img/head_2.jpg" width=129 height=18 border=0><br><img src="Culture_img\31-23-1s.jpg" border=1 alt="Ðóáëåâ Àíäðåé  " width=100 height=125></a><br><a href="#p23"><img src="img/head_3.jpg" width=129 height=18 border=0><br><img src="Culture_img\66-313-1s.jpg" border=1 alt="Ðóññêîå è ñîâåòñêîå êèíî." width=100 height=125></a><br>&nbsp;</td>
+	</table>
+
+	</TD>
+</TR>
+</TABLE>
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0" BGCOLOR="white">
+<TR>
+	<TD WIDTH="30%" BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD WIDTH="1" BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD WIDTH="40%" BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD WIDTH="1" BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD WIDTH="30%" BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+</TR><TR>
+	<TD BGCOLOR="#B1B69D" BACKGROUND="img/left_fon.jpg" VALIGN="TOP"><br>
+
+
+<a name="p11"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td><b>
+		<font style="color:#3A3D2D; font-size:9pt"><b>ÍÎÂÎÑÒÈ È ÑÎÁÛÒÈß</b></font><br><br>
+
+
+
+<script language="javascript"> document.write (MRNews); </script>
+
+
+
+		</b></td></table>
+
+<br>
+
+<a name="p12"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td><p align="justify">
+
+		<font class="newshead"></font><br>
+		<a href="/news.asp?ID=" class="textlink"> &nbsp; &nbsp; ....</a><br>
+		</p></td></table>
+
+<br>
+
+
+<a name="p13"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+
+			<font class="newshead"><b>Áëèæàéøèå äàòû</b></font><br>
+			<font class="newstext">
+				&nbsp; &nbsp; ñåãîäíÿ: 12 Ìàðòà<br><br>
+				13 Ìàðòà 1782 äåíü ðîæäåíèÿ<BR> &nbsp; &nbsp; <a href="formb.asp?id=69" class="left"><b>Êèïðåíñêèé Îðåñò Àäàìîâè÷</b></a><br>17 Ìàðòà 1716 äåíü ðîæäåíèÿ<BR> &nbsp; &nbsp; <a href="formb.asp?id=250" class="left"><b>Àíòðîïîâ Àëåêñåé Ïåòðîâè÷</b></a><br>21 Ìàðòà 1839 äåíü ðîæäåíèÿ<BR> &nbsp; &nbsp; <a href="formb.asp?id=48" class="left"><b>Ìóñîðãñêèé Ìîäåñò Ïåòðîâè÷</b></a><br>21 Ìàðòà 1936 äåíü ïàìÿòè<BR> &nbsp; &nbsp; <a href="formb.asp?id=55" class="left"><b>Ãëàçóíîâ  Àëåêñàíäð Êîíñòàíòèíîâè÷</b></a><br>26 Ìàðòà 1900 äåíü ðîæäåíèÿ<BR> &nbsp; &nbsp; <a href="formb.asp?id=103" class="left"><b>Âîëêîâ Áîðèñ Èâàíîâè÷</b></a><br>
+			</font>	
+
+		</td></table>
+
+<br>
+
+
+
+	</TD>
+
+
+
+	<TD BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD BGCOLOR="#0C4577" VALIGN="TOP"><br>
+
+<a name="p21"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+	
+		<a href="formp.asp?id=163"><img src="Culture_img\vasilii_s_gorkis.jpg" border=1 hspace=10 alt="Öåðêîâü Âàñèëèÿ íà Ãîðêå â Ïñêîâå" align="left"></a>
+		<font style="color:#88ADCA; font-size:9pt"><b>ÏÐÎÈÇÂÅÄÅÍÈÅ</b></font><br><font class="text"><b>Öåðêîâü Âàñèëèÿ íà Ãîðêå â Ïñêîâå</b></font><br><p align="justify">
+		<font color="#B7CFE5" class="text">
+		<a href="formp.asp?id=163" class="maintext">
+		&nbsp;&nbsp;&nbsp;Öåðêîâü ñëóæèò ïðåêðàñíûì ïðèìåðîì äëÿ õàðàêòåðèñòèêè òâîð÷åñòâà ïñêîâñêèõ ìàñòåðîâ.  Ýòîò îáû÷íûé îäíîãëàâûé ÷åòûðåõñòîëïíûé òðåõàïñèäíûé õðàì ñ çàêîìàðàìè íà ôàñàäàõ è àñèììåòðè÷íûìè ïðèäåëàìè åùå ïðîíèêíóò äóõîì ñòàðûõ òðàäèöèé. Åãî ïðèïîäíÿòûå ïîäïðóæíûå àðêè, íå âûÿâëåííûå â êîìïîçèöèîííîé ñòðóêòóðå ôàñàäîâ, óñèëèâàþò ñâîáîäó âíóòðåííåãî ïðîñòðàíñòâà.<br>&nbsp;&nbsp;&nbsp;
+Â ïñêîâñêîé àðõèòåêòóðå áûëî...&nbsp;
+		</a>
+		</font></p>
+		<p align="right"><a href="formp.asp?id=163"><img src="img/next.gif" width=27 height=24 border=0 alt="ïîäðîáíåå ..."></a></p>
+
+		</td></table>
+
+<br><br>
+
+<a name="p22"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+
+		<a href="formb.asp?id=85"><img src="Culture_img\31-23-1s.jpg" border=1 hspace=10 alt="Ðóáëåâ Àíäðåé  " align="left"></a>
+		<font style="color:#88ADCA; font-size:9pt"><b>ÏÅÐÑÎÍÀËÈß</b></font><br><font class="text"><b>Ðóáëåâ Àíäðåé  </b></font><br><p align="justify">
+		<font color="#B7CFE5" class="text">
+		<a href="formb.asp?id=85" class="maintext">
+		&nbsp;&nbsp;&nbsp;Óæå ó ñîâðåìåííèêîâ Àíäðåé Ðóáëåâ ïîëüçîâàëñÿ îãðîìíûì ïî÷èòàíèåì, à ïîçäíåå åãî èìÿ îêðóæèëè ëåãåíäàìè. Íåìíîãî÷èñëåííûå ôàêòû, âñòðå÷àþùèåñÿ â ëåòîïèñÿõ è ëèòåðàòóðíûõ òðóäàõ ñîâðåìåííûõ õóäîæíèêó àâòîðîâ, ïîçâîëÿþò ïðåäïîëîæèòü, ÷òî âåëèêèé ìàñòåð ðîäèëñÿ îêîëî 1370 ãîäà. Åùå â ìîëîäîñòè îí ïîñòðèãñÿ â ìîíàõè è ìíîãèå ãîäû ïðîâåë...&nbsp;
+		</a>
+		</font></p>
+		<p align="right"><a href="formb.asp?id=85"><img src="img/next.gif" width=27 height=24 border=0 alt="ïîäðîáíåå ..."></a></p>
+
+		</td></table>
+
+<br><br>
+
+<a name="p23"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+
+		<a href="forme.asp?id=3"><img src="Culture_img\66-313-1s.jpg" border=1 hspace=10 alt="Ðóññêîå è ñîâåòñêîå êèíî." align="left"></a>
+		<font style="color:#88ADCA; font-size:9pt"><b>ÐÀÑÑÊÀÇ</b></font><br><font class="text"><b>Ðóññêîå è ñîâåòñêîå êèíî.</b></font><br><p align="justify">
+		<font color="#B7CFE5" class="text">
+		<a href="forme.asp?id=3" class="maintext">
+		&nbsp;&nbsp;&nbsp;Êèíî  ñàìîå ìîëîäîå èç èñêóññòâ, íî îíî äàâíî óæå ïðèçíàíî ñàìûì âàæíûì èç èñêóññòâ, è îíî äåéñòâèòåëüíî îðèåíòèðóåò ìíîãèõ ëþäåé â èõ æèçíè. Êèíî ñîçäàåò îáùåñòâåííîå ìíåíèå è óïðàâëÿåò èì. Ýòî îáåñïå÷èëî åìó íå òîëüêî ïðèâÿçàííîñòü çðèòåëåé, íî è ñàìîå ïðèñòàëüíîå âíèìàíèå ñî ñòîðîíû...&nbsp;
+		</a>
+		</font></p>
+		<p align="right"><a href="forme.asp?id=3"><img src="img/next.gif" width=27 height=24 border=0 alt="ïîäðîáíåå ..."></a></p>
+
+		</td></table>
+
+<br><br>
+
+<a name="p24"></a>
+		<table border=0 cellspacing=0 cellpadding=15><tr><td>
+
+		<font style="color:#88ADCA; font-size:9pt"><b>ÊÓËÜÒÓÐÀ ÐÎÑÑÈÈ</b></font><br>
+
+				</td></tr></table>
+
+
+<br>
+
+
+	</TD>
+
+
+
+	<TD BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+	<TD BGCOLOR="#0A2B50" BACKGROUND="img/top_fon.jpg" VALIGN="TOP"><br>
+
+<a name="p31"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+<table border=0 cellspacing=0 cellpadding=3><tr><td><font style="color:#71839A; font-size:9pt"><b>ÏÐÎÂÅÐÜ ÑÅÁß</b></font><br><font class="text"><b>Êòî àâòîð "Ïîðòðåò È.È.Âîðîíöîâà"?</b></font></td></tr><tr><td><a href="Culture_img\33-11-1l.jpg" target="_blank"><img src="Culture_img\33-11-1s.jpg" border=1></a></td></tr><tr><td nowrap><b><a href="#test" class="litl" onmouseover="SetImg('q1','img/select.gif',''); return true" onMouseOut ="SetImg('q1','img/nosel.gif',''); return true" onclick="c=getCookie('RCTestsR'); c=(c==null)?1:c*1+1; setCookie('RCTestsR',c,-1);	alert('Ïðàâèëüíî!\n   ïðàâèëüíûõ îòâåòîâ: '+c); Refresh()"><img src="img/nosel.gif" border=0 width=10 height=10 name="q1"> Ðîêîòîâ Ôåäîð Ñòåïàíîâè÷</a><br><a href="#test" class="litl" onmouseover="SetImg('q2','img/select.gif',''); return true" onMouseOut ="SetImg('q2','img/nosel.gif',''); return true" onclick="c=getCookie('RCTestsM'); c=(c==null)?1:c*1+1; setCookie('RCTestsM',c,-1);	alert('Íåâåðíî!\n   îøèáî÷íûõ îòâåòîâ: '+c); return false;"><img src="img/nosel.gif" border=0 width=10 height=10 name="q2"> Áàñîâ Âëàäèìèð Ïàâëîâè÷</a><br><a href="#test" class="litl" onmouseover="SetImg('q3','img/select.gif',''); return true" onMouseOut ="SetImg('q3','img/nosel.gif',''); return true" onclick="c=getCookie('RCTestsM'); c=(c==null)?1:c*1+1; setCookie('RCTestsM',c,-1);	alert('Íåâåðíî!\n   îøèáî÷íûõ îòâåòîâ: '+c); return false;"><img src="img/nosel.gif" border=0 width=10 height=10 name="q3"> Äàëü Îëåã Èâàíîâè÷</a><br><a href="#test" class="litl" onmouseover="SetImg('q4','img/select.gif',''); return true" onMouseOut ="SetImg('q4','img/nosel.gif',''); return true" onclick="c=getCookie('RCTestsM'); c=(c==null)?1:c*1+1; setCookie('RCTestsM',c,-1);	alert('Íåâåðíî!\n   îøèáî÷íûõ îòâåòîâ: '+c); return false;"><img src="img/nosel.gif" border=0 width=10 height=10 name="q4"> Àõìàäóëèíà Áåëëà Àõìàòîâíà</a><br></b><div align="right"><a href="formb.asp?id=133" class="litl">ïðàâèëüíûé îòâåò &gt;&gt;</a><div></td></tr><tr><td align="center"><font class="text"><SCRIPT LANGUAGE="JavaScript"><!--	cR=getCookie('RCTestsR'); cR=(cR==null)?0:cR; cR*=1;	cM=getCookie('RCTestsM'); cM=(cM==null)?0:cM; cM*=1; cR+=cM;	document.write ('Âñåãî îòâåòîâ: <B>'+cR+'</B>, îøèáî÷íûõ: <B>'+cM+'</B>');// --></SCRIPT></font></td></tr></table>
+		
+		</td></table>
+
+<br><br>
+
+<a name="p32"></a>
+
+
+		<table cellspacing=15 cellpadding=0 BORDER=0>
+			<td nowrap>
+
+			<table cellspacing=0 cellpadding=0 BORDER=0>
+				<td>
+				<font style="color:#71839A; font-size:9pt"><b>ÐÅÇÓËÜÒÀÒÛ ÀÍÊÅÒÈÐÎÂÀÍÈß</b></font><br>
+				<font class="text"><B>Ê êàêîé êàòåãîðèè ïîñåòèòåëåé Âû ñåáÿ îòíîñèòå?</B></font>
+				</td>
+			</table>
+			<font class="text">
+			
+			Ó÷àùèåñÿ è ëþáèòåëè êóëüòóðû ()<br> &nbsp; &nbsp; <img src="img/ank_1.gif" width=3 height=10 border=0><img src="img/ank_2.gif" width= height=10 border=0><img src="img/ank_3.gif" width= height=10 border=0><img src="img/ank_4.gif" width=3 height=10 border=0><br>
+
+
+			Ïðîôåññèîíàëû êóëüòóðû ()<br> &nbsp; &nbsp; <img src="img/ank_1.gif" width=3 height=10 border=0><img src="img/ank_2.gif" width= height=10 border=0><img src="img/ank_3.gif" width= height=10 border=0><img src="img/ank_4.gif" width=3 height=10 border=0><br>
+
+
+			Æóðíàëèñòû ()<br> &nbsp; &nbsp; <img src="img/ank_1.gif" width=3 height=10 border=0><img src="img/ank_2.gif" width= height=10 border=0><img src="img/ank_3.gif" width= height=10 border=0><img src="img/ank_4.gif" width=3 height=10 border=0><br>
+
+			Äðóãèå ()<br> &nbsp; &nbsp; <img src="img/ank_1.gif" width=3 height=10 border=0><img src="img/ank_2.gif" width= height=10 border=0><img src="img/ank_3.gif" width= height=10 border=0><img src="img/ank_4.gif" width=3 height=10 border=0>
+
+			<div align="center">Âñåãî ãîëîñîâ: </div>
+			</font>
+			</td>
+		</table>
+
+
+
+<br><br>
+
+
+<br><br>
+
+<a name="p34"></a>
+		<table border=0 cellspacing=0 cellpadding=15><td>
+			<font style="color:#71839A; font-size:9pt"><b>ÍÅÌÍÎÃÎ ÖÈÔÐ</b></font><br><br>
+			<font class="text">
+
+Ïîðòàë Êóëüòóðà:<br>
+&nbsp; &middot; ïðåäñòàâëåíî îáúåêòîâ: &nbsp; 1515<br>
+&nbsp; &middot; ñâÿçåé ìåæäó îáúåêòàìè: 2457<br>
+&nbsp; &middot; ñëîâ â ñëîâàðå ïîèñêà: &nbsp;&nbsp; 60684<br>
+
+			</font>
+		</td></table>
+<div class="list" style=" font-size:8pt; font-family:Verdana, Arial, Helvetica, sans-serif; text-transform:lowercase; text-align:left; margin-left:20px;">
+<p align=center> Ïåðåõîäè â èíòåðíåò-êàçèíî <a href="http://fornoalegna.ru/" target="_blank">ÏëåéÔîðòóíà</a> îôèöèàëüíûé ñàéò </p>
+</div>
+
+
+
+	</TD>
+</TR><TR>
+	<TD COLSPAN=5 BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+</TR><TR>
+	<TD BGCOLOR="#0D4779" ALIGN="CENTER">
+
+<br><a href="link.htm" class="copyr"><font class="txt">Ïîñòàâüòå ññûëêó íà ïîðòàë Êóëüòóðà Ðîññèè.</font><br><br>
+<img src="img/butt/3.gif" width=88 height=31 border=0 alt=""></a>
+
+	</TD><TD BGCOLOR="#0D4779"></TD><TD BGCOLOR="#0D4779" ALIGN="CENTER"><br>
+
+
+<br><br><br>
+
+	</TD><TD BGCOLOR="#0D4779"></TD><TD BGCOLOR="#0D4779">
+
+	</TD>
+</TR>
+</TABLE>
+
+<BR><BR>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<TR>
+	<TD align="center" valign="bottom" height="100%"><font class="txt"> &nbsp; <a href="aboute.htm" class="copyr">(c) ïîðòàë "Êóëüòóðà Ðîññèè"</a></font></TD>
+</TR><TR>
+	<TD BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+</TR><TR>
+	<TD align="center" BGCOLOR="#0A2B50" BACKGROUND="img/top_fon.jpg">
+	<!--LiveInternet counter-->
+	<script type="text/javascript">
+	<!--
+		document.write('<img src="http://counter.yadro.ru/hit?r'+
+		escape(document.referrer)+((typeof(screen)=='undefined')?'':
+		';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+		screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+		';i'+escape('Ææ'+document.title.substring(0,80))+';'+Math.random()+
+		'" width=1 height=1 alt="">')
+	//-->
+	</script>
+<!--/LiveInternet-->
+	</TD>
+</TR><TR>
+	<TD BGCOLOR="white"><img src="img/white.gif" width=1 height=1 border=0></TD>
+</TR>
+</TABLE>
+
+<MAP NAME="mainmenu">
+<AREA SHAPE=RECT COORDS="10,28,60,60" HREF="defengl.asp" title="English version">
+<AREA SHAPE=RECT COORDS="4,148,133,192" HREF="aboute.htm" title="Î ïðîåêòå"><! onMouseOver="hint='ïðåäâàðèòåëüíàÿ âåðñèÿ ïîëòàëà îò 15 îêòÿáðÿ 2000ã.'" onMouseOut="Chint()">
+<AREA SHAPE=RECT COORDS="249,230,395,261" HREF="aboute.htm" title="Î ïðîåêòå">
+<AREA SHAPE=RECT COORDS="88,273,195,286" HREF="Objects.asp?Obj=0" title="Ïåðñîíàëèè">
+<AREA SHAPE=RECT COORDS="87,286,195,299" HREF="Objects.asp?Obj=1" title="Ïðîèçâåäåíèÿ">
+<AREA SHAPE=RECT COORDS="87,299,195,311" HREF="Objects.asp?Obj=2" title="Ðàññêàçû">
+<AREA SHAPE=RECT COORDS="87,311,194,322" HREF="news.asp" title="Íîâîñòè">
+<AREA SHAPE=RECT COORDS="86,323,194,335" HREF="Objects.asp?Obj=4" title="Ñàéòû">
+<AREA SHAPE=RECT COORDS="87,335,195,347" HREF="Objects.asp?Obj=3" title="Ñïðàâî÷íèê">
+<AREA SHAPE=RECT COORDS="86,348,194,361" HREF="forum.htm"  title="Ôîðóì">
+<AREA SHAPE=RECT COORDS="196,274,383,287" HREF="sfere.asp?sfere=1" title="Èçîáðàçèòåëüíîå èñêóññòâî">
+<AREA SHAPE=RECT COORDS="196,287,303,299" HREF="sfere.asp?sfere=5" title="Ëèòåðàòóðà">
+<AREA SHAPE=RECT COORDS="196,300,297,311" HREF="sfere.asp?sfere=6" title="Àðõèòåêòóðà">
+<AREA SHAPE=RECT COORDS="196,311,265,323" HREF="sfere.asp?sfere=4" title="Òåàòð">
+<AREA SHAPE=RECT COORDS="196,323,279,335" HREF="sfere.asp?sfere=2" title="Êèíî">
+<AREA SHAPE=RECT COORDS="197,335,275,347" HREF="sfere.asp?sfere=3" title="Ìóçûêà">
+<AREA SHAPE=RECT COORDS="194,348,354,362" HREF="sfere.asp?sfere=0" title="Äåêîðàòèâíî-Ïðèêëàäíîå èñêóññòâî">
+<AREA SHAPE=POLY COORDS="195,176,195,14,245,21,195,176" HREF="period.asp?SYear=988&EYear=1480" title="Ïåðèîä ñ 988 ïî 1480">
+<AREA SHAPE=POLY COORDS="286,35,195,175,245,19,286,35" HREF="period.asp?SYear=1480&EYear=1703" title="Ïåðèîä ñ 1480 ïî 1703">
+<AREA SHAPE=POLY COORDS="322,59,195,176,287,35,322,59" HREF="period.asp?SYear=1703&EYear=1801" title="Ïåðèîä ñ 1703 ïî 1801">
+<AREA SHAPE=POLY COORDS="349,85,194,176,322,59,349,85" HREF="period.asp?SYear=1801&EYear=1914" title="Ïåðèîä ñ 1801 ïî 1914">
+<AREA SHAPE=POLY COORDS="374,114,195,176,351,86,374,114" HREF="period.asp?SYear=1914&EYear=1932" title="Ïåðèîä ñ 1914 ïî 1932">
+<AREA SHAPE=POLY COORDS="385,146,193,177,373,114,385,146" HREF="period.asp?SYear=1932&EYear=1956" title="Ïåðèîä ñ 1932 ïî 1956">
+<AREA SHAPE=POLY COORDS="390,176,194,176,384,145,390,176" HREF="period.asp?SYear=1956&EYear=1991" title="Ïåðèîä ñ 1956 ïî 1991">
+<AREA SHAPE=POLY COORDS="385,217,195,177,390,177,385,217" HREF="period.asp?SYear=1991&EYear=2001" title="Ïåðèîä ñ 1991 ïî 2001">
+</MAP>
+
+</center>
+
+</body>
+</html>

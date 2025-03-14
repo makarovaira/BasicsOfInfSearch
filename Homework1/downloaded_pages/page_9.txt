@@ -1,0 +1,164 @@
+<html>
+<head>
+  <title>Сотрудничество Россия – Европа в области культуры</title>
+  <meta name="description" content="Министерство культуры Российской Федерации Сотрудничество Россия – Европа в области культуры" />
+  <meta name="keywords" content="Министерство культуры Российской Федерации Сотрудничество Россия – Европа в области культуры" />
+  <base href="/" />
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+  <link href="/css/style.css" rel="stylesheet" type="text/css" />
+  <link href="/css/highslide.css" rel="stylesheet" type="text/css" />
+  <script src="/js/main.js" type="text/javascript"></script>
+  <script src="/js/highslide.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="wrap second home">
+<div class="headBox">
+<div class="head" style="background-image: url();"><a href="/" title="на главную"><img class="logo" src="/files/logo.png" alt="на главную" /></a> <img class="logoPic" src="/images/logo_small.png" alt="" />
+<ul class="topNav">
+<li><a class="home" href="/" title="на главную">на главную</a></li>
+<li><a class="favorite" href="#" onclick="addBookmark(); return false;" title="добавить в избранное">добавить в избранное</a></li>
+<li></li>
+<li><a class="map" href="/sitemap" title="карта сайта">карта сайта</a></li>
+</ul>
+<div class="lang"><span>Рус</span><a href="/en">Eng</a></div>
+<div class="slogan">
+<p style="text-align: center;"><strong><big><b>Министерство культуры Российской Федерации<br /></b></big></strong></p>
+<p style="text-align: center;"><strong><big><b><span class="big">Сотрудничество Россия &ndash; Европа в области культуры</span></b></big></strong></p>
+</div>
+</div>
+</div>
+<ul class="topMenu">
+<li class="active"><span>Главная страница</span></li>
+<li><a href="/572/">Контакты</a></li>
+<li><a href="/news/">Новости</a></li>
+</ul>
+<div class="leftCol">
+<div class="block">
+<ul class="sidebarMenu">
+<li class="active"><span>Главная страница</span></li>
+<li><a href="/rf/">Российская Федерация</a></li>
+<li><a href="/591/">Европейский Союз</a></li>
+<li><a href="/601/">Совет Европы</a></li>
+<li><a href="/610/">ЮНЕСКО</a></li>
+<li><a href="/613/">Конкурсы и гранты</a></li>
+<li><a href="/572/">Контакты</a></li>
+<li><a href="/publ/">Публикации</a></li>
+<li><a href="/documents/">Документы</a></li>
+<li><a href="/news/">Новости</a></li>
+<li><a href="/events/">События</a></li>
+<li style="font-size: 14px;"><a href="https://rus-eu-culture.ru/pin-up/" style="font-size: 14px;">Пин ап казино</a></li>
+<li style="font-size: 14px;"><a href="https://www.new-voronezh.ru/" style="font-size: 14px;">Pinup</a></li>
+</ul>
+</div>
+<div class="block search">
+<p>Поиск по сайту:</p>
+<form action="/sitemap/" method="get" id="search" name="search"><input class="text" type="text" name="query" onblur="if (this.value=='') this.value='Поиск по сайту';" onfocus="this.value='';" value="Поиск по сайту" /><a href="#" title="Искать" onclick="document.getElementById('search').submit(); return false;">Искать</a></form></div>
+<div class="block picBanner"><a href="/banner/37" target="_blank"><img src="files/100x100.png" width="100" height="100" alt="" /></a></div>
+<div class="block picBanner"><a href="/banner/24" target="_blank"><img src="files/mkrf120x34.gif" width="120" height="34" alt="Министерство культуры Российской Федерации" /></a></div>
+<div class="block picBanner"><a href="/banner/26" target="_blank"><img src="files/CoE-1.jpg" width="120" height="84" alt="Совет Европы" /></a></div>
+<div class="block picBanner"><a href="/banner/27" target="_blank"><img src="files/Unesco-1.gif" width="75" height="75" alt="ЮНЕСКО" /></a></div>
+<div class="block picBanner"><a href="/banner/28" target="_blank"><img src="files/sp_rk-ifap.gif" width="90" height="45" alt="Российский комитет Программы ЮНЕСКО &ldquo;Информация для всех&rdquo;" /></a></div>
+<div class="block picBanner"><a href="/banner/29" target="_blank"><img src="files/new_look_for_europeana.jpg" width="82" height="120" alt="Европейская цифровая библиотека ЕВРОПЕАНА" /></a></div>
+<div class="block picBanner"><a href="/banner/30" target="_blank"><img src="files/Minerva-plus.gif" width="121" height="66" alt="MINERVA PLUS в России" /></a></div>
+<div class="block picBanner"><a href="/banner/31" target="_blank"><img src="files/athena120.gif" width="122" height="43" alt="Европейский проект ATHENA" /></a></div>
+<div class="block picBanner"><a href="/banner/32" target="_blank"><img src="files/ecf-182x21.jpg" width="182" height="21" alt="Европейский фонд культуры" /></a></div>
+<div class="block picBanner"><a href="/banner/33" target="_blank"><img src="files/logo_cultureaction_en-gb-180x46.jpg" width="180" height="46" alt="Европейская культура в действии" /></a></div>
+</div>
+<div class="centerCol">
+<div class="content">
+<div class="block banner">
+<p class="title"><br /></p>
+<p><br /></p>
+<p style="text-align: center;"><b>Поддержание высокого престижа российской культуры за рубежом и расширение международного культурного сотрудничества</b>&nbsp;<span style="color: #336699;"><span><b>&nbsp;-</b> одна из приоритетных целей <b><br />Федеральной Целевой Программы &laquo;Культура России 2012 - 2018&raquo;</b></span></span></p>
+<p><br /></p>
+</div>
+<table class="blockList">
+<tbody>
+<tr>
+<td>
+<h2>Новости</h2>
+<ul class="list">
+<li>
+<p class="title"><span class="date"><span class="day">13</span><span class="month">|12</span><span class="year">2013</span></span> <a href="/news/3491/?returnto=0&amp;n=1">Горизонт 2020 запущен &ndash; на первые два года выделено 15 миллиардов евро</a></p>
+<a href="/news/3491/?returnto=0&amp;n=1"><img src="/files/images/EUflag2x2_526.jpg" alt="" /></a>
+<p>Сегодня Европейская Комиссия обнародовала первые конкурсы на проведение проектов в рамках программы "Горизонт 2020" (Horizon 2020) &ndash; программы Европейского Союза по исследованиям и инновациям с общим бюджетом в 80 миллиардов евро.</p>
+<a class="more" href="/news/3491/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">26</span><span class="month">|11</span><span class="year">2013</span></span> <a href="/news/3490/?returnto=0&amp;n=1">Музеи и власть</a></p>
+<a href="/news/3490/?returnto=0&amp;n=1"><img src="/files/images/ICOM-s_54.jpg" alt="" /></a>
+<p>Музеи и власть тема международной конференции, которыю организуют ИКОМ России, ИКОМ Германии, ИКОМ США 09 &ndash; 12 сентября 2014 в Санкт-Петербурге и 12 &ndash; 14 сентября 2014 в Екатеринбурге. <a href="http://www.museum-kruf.ru//">Pin Up</a> &ndash; это лучшее в России надежное казино с многолетней репутацией на рынке.</p>
+<a class="more" href="/news/3490/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">26</span><span class="month">|11</span><span class="year">2013</span></span> <a href="/news/3489/?returnto=0&amp;n=1">"Ромео и Джульетта" сыграна на трех языках в трансграничном проекте</a></p>
+<a href="/news/3489/?returnto=0&amp;n=1"><img src="/files/images/Ru-EU-s_43.jpg" alt="" /></a>
+<p>Говорить на трех языках одновременно? Можно, даже в театральном спектакле! Это доказала группа актеров из Польши, Литвы и России, которым удалось вместе сыграть трагедию Шекспира "Ромео и Джульетта". Событие было организовано в рамках Программы приграничного сотрудничества Литва-Польша-Россия.</p>
+<a class="more" href="/news/3489/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">26</span><span class="month">|11</span><span class="year">2013</span></span> <a href="/news/3488/?returnto=0&amp;n=1">Восточное партнерство: у соседей много интересного, участвуй в 'вечеринке'!</a></p>
+<a href="/news/3488/?returnto=0&amp;n=1"><img src="/files/images/enpi-s_76.jpg" alt="" /></a>
+<p>В Европейском соседстве происходит много разных событий, не оставайтесь в стороне - присоединяйтесь! К этому призывает третий мультфильм, агитирующий за Восточное партнерство, последний в серии, выпущенной Инфоцентром Европейского соседства.</p>
+<a class="more" href="/news/3488/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">25</span><span class="month">|11</span><span class="year">2013</span></span> <a href="/news/3487/?returnto=0&amp;n=1">Запуск Года науки Россия-ЕС 2014</a></p>
+<a href="/news/3487/?returnto=0&amp;n=1"><img src="/files/images/Ru-EU-s_42.jpg" alt="" /></a>
+<p>&laquo;Год науки Россия &ndash; ЕС 2014&raquo; официально стартует 25 ноября в Москве в ходе официальной церемонии. Мероприятие призвано привлечь внимание к плодотворному и многогранному научно-техническому сотрудничеству двух партнеров и способствовать его дальнейшему продвижению.</p>
+<a class="more" href="/news/3487/?returnto=0&amp;n=1">Читать дальше</a></li>
+</ul>
+<a href="/news/">Архив новостей</a></td>
+<td class="sep"></td>
+<td>
+<h2>События</h2>
+<ul class="list">
+<li>
+<p class="title"><span class="date"><span class="day">20</span><span class="month">||11</span><span class="year">2013</span></span> <a href="/events/105/?returnto=0&amp;n=1">Региональный форум ЮНЕСКО &laquo;Диалог как путь к пониманию&raquo;</a></p>
+<a href="/events/105/?returnto=0&amp;n=1"><img src="/files/images/Dialogue-s.jpg" alt="" /></a>
+<p>С 19 по 20 ноября 2013 года в Москве будет проходить Региональный форум &laquo;Диалог как путь к пониманию&raquo;. Цель данного форума, который состоится спустя три дня после всеобщего празднования Международного дня толерантности, - в организации многостороннего диалога с участием СМИ, направленного на продвижение взаимопонимания в поликультурных обществах посредством формирования политики инклюзивного социального развития.</p>
+<a class="more" href="/events/105/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">19</span><span class="month">||11</span><span class="year">2013</span></span> <a href="/events/106/?returnto=0&amp;n=1">15-я Ежегодная международная конференция &laquo;EVA 2013 Москва: Информационное общество, культура, образование&raquo;</a></p>
+<a href="/events/106/?returnto=0&amp;n=1"><img src="/files/images/EVA-s_1.jpg" alt="" /></a>
+<p>19&ndash;22 ноября 2013 года в Российской государственной библиотеке (г. Москва, Российская Федерация) состоится Объединенная международная научно-практическая конференция, в рамках которой пройдут: 19-21 ноября 2013 года: 15-я Ежегодная международная конференция &laquo;EVA 2013 Москва: Информационное общество, культура, образование&raquo;. Тема конференции &ndash; &laquo;Библиотеки и музеи в цифровой среде: диалог и сотрудничество&raquo;. 22 ноября 2013 года: 12-я Международная научно-практическая конференция &laquo;Электронный век культуры&raquo;.</p>
+<a class="more" href="/events/106/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">04</span><span class="month">||11</span><span class="year">2013</span></span> <a href="/events/100/?returnto=0&amp;n=1">Европейский культурный форум 2013</a></p>
+<a href="/events/100/?returnto=0&amp;n=1"><img src="/files/images/logo_culture-s_22.jpg" alt="" /></a>
+<p>Европейский культурный форум 2013 состоится 4 &ndash; 6 ноября 2013 г. В Брюсселе. Ожидается 1200 участников из стран-членов Евросоюза и стран-партнеров ЕС.</p>
+<a class="more" href="/events/100/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">01</span><span class="month">||11</span><span class="year">2013</span></span> <a href="/events/103/?returnto=0&amp;n=1">Международный конгресс по цифровому наследию 2013</a></p>
+<a href="/events/103/?returnto=0&amp;n=1"><img src="/files/images/Digitalheritage-s_1.jpg" alt="" /></a>
+<p>Крупнейший форум, посвященный цифровому наследию, проводится 28 октября &ndash; 1 ноября в Марселе, Европейской культурной столице 2013 года. Форум, посвященный информационным технологиям для культурного наследия впервые объединит разнообразные проекты, программы и мероприятия Европы и ЮНЕСКО.</p>
+<a class="more" href="/events/103/?returnto=0&amp;n=1">Читать дальше</a></li>
+<li>
+<p class="title"><span class="date"><span class="day">01</span><span class="month">||11</span><span class="year">2013</span></span> <a href="/events/101/?returnto=0&amp;n=1">Конференция по цифровому наследию под эгидой ЮНЕСКО</a></p>
+<a href="/events/101/?returnto=0&amp;n=1"><img src="/files/images/Mow-logo-small_19.jpg" alt="" /></a>
+<p>Конференция по цифровому наследию под эгидой ЮНЕСКО состоится в Марселе (Франция) с 28 октября по 1 ноября 2013 года.</p>
+<a class="more" href="/events/101/?returnto=0&amp;n=1">Читать дальше</a></li>
+</ul>
+<a href="/events/"></a>
+<p>Все события</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul class="doc"></ul>
+</div>
+</div>
+<div class="clearFooter"><br /></div>
+</div>
+<div class="footer">
+<div class="copy">
+<p class="left"><strong>Телефон</strong>: +7(495)276-22-84<br /><br /><strong>E-mail</strong>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="df919dadbeb4b4baad9fb8b2beb6b3f1bcb0b2">[email&#160;protected]</a></p>
+<p class="left" style="padding-left: 20px;"><br /></p>
+<p>Сайт разработан Центром по проблемам информатизации сферы культуры&nbsp;(Центром ПИК)&nbsp;по заказу Министерства культуры Российской Федерации.</p>
+<p style="text-align: center;">При использовании материалов сайта активная ссылка обязательна.</p>
+<p>&nbsp;</p>
+<p><br /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: right;">&copy; Центр ПИК 2009</p>
+<p><br /></p>
+<p class="right">Дизайн и разработка сайта - <strong>Ru</strong>Soft<br />www.rusoft.ru</p>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

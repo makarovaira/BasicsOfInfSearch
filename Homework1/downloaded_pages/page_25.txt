@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="RU">
+<head>
+<title>Графика известных художников | Графика в искусстве</title>
+<meta name="robots" content="index, follow">
+<link rel="preload" href="/res/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello/fontello.woff2?2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello/fontello.woff?2" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello/fontello.ttf?2" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello7/fontello.woff2?32629830" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello7/fontello.woff?32629830" as="font" type="font/woff" crossorigin="anonymous">
+<link rel="preload" href="/res/fonts/fontello7/fontello.ttf?32629830" as="font" type="font/ttf" crossorigin="anonymous">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="description" content="В Артхиве представлены лучшие работы известных старых и современных мастеров графики.">
+<meta name="keywords" content="">
+<link rel="alternate" hreflang="ru" href="https://artchive.ru/artworks/type:graphics">
+<link rel="alternate" hreflang="x-default" href="https://artchive.ru/artworks/type:graphics">
+<link rel="alternate" hreflang="uk" href="https://artchive.ru/uk/artworks/type:graphics">
+<link rel="alternate" hreflang="en" href="https://arthive.com/artworks/type:graphics">
+<link rel="alternate" hreflang="de" href="https://artchive.ru/de/artworks/type:graphics">
+<link rel="alternate" hreflang="es" href="https://artchive.ru/es/artworks/type:graphics">
+<link rel="alternate" hreflang="fr" href="https://artchive.ru/fr/artworks/type:graphics">
+<link rel="alternate" hreflang="it" href="https://artchive.ru/it/artworks/type:graphics">
+<link rel="alternate" hreflang="sl" href="https://artchive.ru/sl/artworks/type:graphics">
+<link rel="alternate" hreflang="zh" href="https://artchive.ru/zh/artworks/type:graphics">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="mstile-144x144.png">
+<meta property="fb:pages" content="135122856555897">
+<meta property="fb:app_id" content="441162282623647">
+<meta property="og:url" content="https://artchive.ru/artworks/type:graphics">
+<meta property="og:title" content="Графика известных художников | Графика в искусстве">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Artchive">
+<meta property="og:description" content="В Артхиве представлены лучшие работы известных старых и современных мастеров графики.">
+<meta property="og:image" content="https://artchive.ru/res/img/logo_2048_1024.png">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+<meta name="twitter:site" content="@artchiveru">
+<link rel="canonical" href="https://artchive.ru/artworks/type:graphics"><link href="https://artchive.ru/res/css_min/pages/artworks2.css?b54" rel="preload" as="style"><link href="https://artchive.ru/res/css_min/pages/artworks2.css?b54" rel="stylesheet" type="text/css"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+<link href="https://artchive.ru/res/css_min/normalize.css?b7" rel="preload" as="style">
+<link href="https://artchive.ru/res/css_min/normalize.css?b7" rel="stylesheet" type="text/css">
+<link href="https://artchive.ru/res/css_min/fonts/1.css?b9" rel="preload" as="style">
+<link href="https://artchive.ru/res/css_min/fonts/1.css?b9" rel="stylesheet" type="text/css">
+<link href="https://artchive.ru/res/css_min/plugins/1.css?b24" rel="preload" as="style">
+<link href="https://artchive.ru/res/css_min/plugins/1.css?b24" rel="stylesheet" type="text/css">
+<link href="https://artchive.ru/res/css_min/v4/1.css?b263" rel="preload" as="style">
+<link href="https://artchive.ru/res/css_min/v4/1.css?b263" rel="stylesheet" type="text/css">
+<link href="https://artchive.ru/res7/css/1.css?b111" rel="stylesheet" type="text/css">
+<script>
+var _GL_CUR_LANG='RU';
+var _GL_LEAFLET_VERSION='2';
+var _GL_SITE_SHORT_URL_LANG='/';
+var _GL_SITE_URL_CDN='https://artchive.ru';
+var _GL_SITE_ROOT_URL='https://artchive.ru/';
+var _GL_MIN_JS='1';
+</script><script src="https://artchive.ru/res/js/jquery.min.js?b1.11.1"></script><script src="https://artchive.ru/res/js/min/actions.min.js?b305"></script><script src="https://artchive.ru/res/js/min/helpers.min.js?b6"></script><script src="https://artchive.ru/res/js/min/plugins.min.js?b128"></script><script src="https://artchive.ru/res/js/min/models.min.js?b278"></script><script src="https://artchive.ru/res/js/history.min.js?b1"></script><script src="https://artchive.ru/res/js/min/global.js?b165"></script><script>global.set_lang('RU')</script><script src="https://artchive.ru/res/js/plugins_one/retina.min.js?b11"></script><script>global.init_retina();</script><script src="https://artchive.ru/res7/js/vendor.js?b4"></script>
+</head>
+<body class="cf_sale_works2 ">
+<div class="default-popup default-popup_show cookies-message" id="id_popup_cookie"><div class="fg-container"><div class="cookies-message__wrapper">
+<div class="cookies-message__text">Используя наш сайт, вы принимаете условия, согласно которым мы используем cookie-файлы для анализа данных и создания контента (в том числе рекламного) на основе ваших интересов. Узнать больше о том, какие данные мы собираем и используем можно
+<a class="link link_underline" href="/about/privacy#cookie"> <span>здесь</span></a>.</div>
+<div class="cookies-message__button"><a class="default-popup__close-button button-default button-default_size-30 cookies-message__button-default" onclick="global.close_cookie()"><span class="button-default__name">Принять</span></a></div>
+</div></div></div>
+<div id="id_main_page_holder" class=" page-holder  c_none">
+<div class=" " id="id_main_header">
+<div class="header-item container">
+<div class="header-item__content" id="id_header_top_menu_content">
+<div class="header-item__main">
+<a class="header-item__logo" href="/"><svg width="27" height="40" viewBox="0 0 27 40"><path d="M11.4144 3.56441C11.4293 4.88845 11.6625 4.29519 11.8893 4.7368C12.0031 4.95917 11.8532 4.92538 11.894 5.21769C12.2072 5.24127 12.3886 4.89238 12.4011 4.57886C12.4176 4.15532 12.398 3.84415 12.6955 3.66028C13.0903 3.7255 12.8831 3.98795 13.2387 4.1121C13.5802 3.90073 13.2654 3.47483 14.2034 3.50312C14.1799 4.52464 14.4947 4.2889 14.9562 4.54428C15.2906 4.72894 15.092 5.48722 14.6885 5.59958C14.1179 5.7591 13.8855 5.42357 13.5189 5.466C13.3415 5.61373 13.2434 5.7756 13.3243 6.12056C13.4185 6.52523 13.5119 6.43251 13.7262 6.64624C13.9358 6.85526 14.3345 7.54596 14.3432 7.91214C14.1822 7.91371 13.4593 7.82177 13.3015 7.78484C13.0935 7.73612 12.8541 7.50667 12.533 7.40845C11.9254 7.22301 11.0196 7.4556 10.8453 7.8862C11.3846 7.85006 11.4309 7.62297 12.0816 7.8037C12.511 7.92314 12.8925 8.06693 12.9019 8.4889C12.5542 8.64841 11.9615 8.65941 11.9976 9.09316C12.2182 9.26132 12.69 9.24482 13.0597 9.49077C13.2842 9.64007 13.6869 9.93552 13.6398 10.3111C13.1861 10.7653 12.5094 10.1068 12.533 10.961C12.7512 11.1228 13.245 11.2941 13.4051 11.4316C13.2984 11.7742 13.055 11.7075 12.712 11.8261C12.416 11.9283 12.1044 12.5467 11.7292 13.0189C10.43 14.6526 10.5109 14.1112 10.0839 16.8103C9.89705 17.9937 9.8052 17.7297 9.61131 18.5131C9.25179 19.9668 8.51391 19.1354 8.16931 19.7884C8.11985 19.8819 8.04607 20.0721 8.05078 20.1829C8.06334 20.4571 8.37419 20.6158 8.56808 20.7306C8.86794 20.9082 8.93152 20.975 9.12777 21.257C9.27456 21.4684 9.47473 21.6971 9.42292 22.0216C8.70545 22.2825 8.96842 21.4818 8.15989 21.5721C8.00917 21.8888 8.1905 22.0365 7.87651 22.1591C7.67006 22.2393 7.27522 22.2424 7.04679 22.2353C6.5185 22.2196 5.94625 22.145 5.54199 21.9525C5.55612 22.0931 5.60008 22.2016 5.68956 22.3068C6.13072 22.8255 5.96274 22.7972 6.26181 22.8695C6.63939 22.9606 6.42116 22.86 6.65273 23.0856C6.9102 23.337 6.76184 23.1138 7.44556 23.2121C7.7674 23.2584 7.86081 22.9245 8.03665 22.7084C8.9535 22.6227 9.79343 23.0494 10.2048 22.2094C10.4732 21.6602 10.5337 20.6496 10.8092 19.9864C11.1813 19.0922 12.5259 17.1309 12.2449 15.7943C11.9631 15.8171 11.9278 16.1118 11.7048 16.2611C11.6687 15.6442 11.8705 15.3637 12.2119 15.084C12.8603 14.552 14.103 14.5033 14.884 14.3909C16.0497 14.2227 15.472 13.9202 15.6297 13.6216C15.8676 13.3379 16.1667 13.5069 16.4202 13.5666C16.6612 13.6232 16.965 13.4456 17.3041 13.4566L17.2256 13.8794C19.0515 14.0813 18.5247 14.4577 20.2933 13.279C20.4989 13.1415 20.9668 12.8814 21.0586 12.6834C20.8436 12.5443 20.4935 12.5357 20.2415 12.4642C19.0679 12.1302 19.5656 11.6878 17.8787 12.0068C17.1636 12.142 16.8182 12.2347 16.1871 11.9031C15.2781 11.4261 15.7302 11.4096 15.5654 10.4541L15.1854 10.4235C15.2906 10.1524 15.4139 10.106 15.5324 9.85458C15.5512 9.743 15.1501 8.84564 15.2592 8.45825C15.6847 8.46454 15.6729 8.76942 16.0042 8.86922C16.151 8.30424 15.7098 7.75812 15.4398 7.48467C15.03 7.06899 14.4962 7.07292 14.7733 6.17399C16.1415 5.89818 15.8299 6.42937 15.9021 5.06761C15.9288 4.56235 15.9861 4.69122 16.2585 4.45785C16.151 3.99266 15.4398 3.54005 15.49 3.09845C15.7553 2.81556 16.3064 3.07802 16.2671 2.51933C16.235 2.06122 15.7082 2.13744 15.2922 2.16572C15.3087 1.65732 15.4194 0.831469 15.0284 0.600449C14.7835 0.674313 14.0739 0.765463 14.0323 0.269636C13.9844 -0.300055 12.2465 0.191844 12.0118 0.308925C10.5447 1.03891 11.27 2.32995 11.332 2.7362C10.777 2.83521 10.3712 2.924 10.5533 3.51727C10.89 3.63278 11.0007 3.61549 11.4144 3.56441ZM26.3227 35.3131C26.0409 35.3665 25.6822 36.0588 25.1021 36.2576C24.4921 36.4666 24.186 36.366 23.6805 36.4666C23.456 36.5114 23.4929 36.5515 23.2362 36.5413C21.9378 34.701 21.2612 33.3054 20.1991 31.4337C20.028 31.1312 19.4345 29.3977 19.3552 29.0206C19.2626 28.5829 19.2281 27.9511 18.8686 27.8545C18.52 28.5789 18.8144 30.4664 18.2484 31.0274C17.8394 31.4329 17.4148 30.6031 17.2397 30.3202C17.1275 30.1387 17.0239 30.0091 16.9061 29.9163C16.7515 29.2571 16.7059 28.8053 16.9218 28.8665C16.9069 28.7015 16.9948 28.8414 16.6667 28.4996C16.37 28.19 15.753 27.6957 15.6666 27.4207C15.8911 27.1174 16.3778 27.1363 16.3244 26.7135C15.939 26.356 15.1525 26.7544 15.0449 26.2027C14.9476 25.7038 15.8056 25.6173 16.2247 25.6111C17.1149 25.5985 17.4187 26.5901 18.5137 26.9524C18.4133 26.4212 18.0624 25.7643 17.8285 25.3242C17.695 25.0744 17.5467 24.8378 17.3849 24.6265C16.6243 23.6356 16.3825 23.6348 15.081 23.4541C14.4209 23.3629 11.4584 22.875 11.0321 22.9347C10.7291 22.9771 10.4693 23.1358 10.1977 23.2333C9.6121 23.4431 9.20391 23.2569 8.60419 23.8438C8.32709 24.1149 8.00996 24.551 7.6159 25.2669C7.36942 25.7148 7.45498 25.6975 7.58999 26.1147C7.32624 26.5838 6.42666 27.2973 6.35444 27.9495C6.46905 27.8977 8.47231 26.3206 8.86087 27.0844C9.01237 27.5504 8.48565 28.1413 8.29019 28.3369C7.77525 28.8508 7.40631 28.8775 7.19515 29.1981C6.57423 30.1403 6.66529 29.7215 6.20765 30.112C5.90779 30.3674 5.57496 30.7996 5.49489 31.3142C5.87796 31.242 6.36935 30.567 6.78539 30.8994C7.05307 31.2365 6.51301 32.39 6.16212 32.7837C6.01219 32.9518 5.89209 33.0139 5.7398 33.2323C5.56711 33.4814 4.82766 34.6075 4.65339 34.7568C4.35589 35.0113 4.31036 34.7638 4.06309 34.6711C3.81111 34.8471 3.8904 35.0718 3.52146 34.9768C3.42647 34.701 3.63057 34.5116 3.70043 34.1281C3.98302 32.5801 4.61022 32.5471 4.75152 31.6655C4.22166 31.6891 3.08108 33.6645 2.72235 34.2326C2.09437 35.2267 2.4115 34.8589 2.09672 35.4561C1.93737 35.7586 1.76782 35.7822 1.65635 36.0116C1.70188 36.0588 1.68225 36.0462 1.75133 36.0942C1.99389 36.2631 1.81884 36.6198 1.80785 36.6709C1.80393 36.6913 1.78587 36.6968 1.78038 36.7047C1.52447 37.0748 1.18458 37.9486 1.16731 38.3596C1.22226 38.4562 1.8 38.6935 2.54337 38.8986C2.73962 38.6723 2.67682 38.4201 2.98139 38.2935C3.34719 38.1419 3.4147 38.4381 3.53009 38.6652C3.63449 38.8703 3.79777 39.1155 3.9265 39.3001C4.12039 39.5783 4.29623 39.5257 4.71305 39.605C5.30336 39.7166 5.88581 39.8832 6.50359 39.9366C7.53819 40.027 8.10416 39.528 7.966 39.2734C7.82627 39.1548 7.68733 39.1218 7.54211 39.1155C6.63311 39.0754 6.7485 39.0542 6.0271 38.3234C5.70683 37.9997 5.42424 37.6806 5.39598 37.6036C5.28923 37.316 5.43916 37.3781 5.52472 37.155L4.93599 37.0041C5.05138 36.6041 5.61264 35.8521 5.83871 35.5064C6.1786 34.987 7.45184 33.3109 7.92126 32.8064L8.48408 32.1747C9.73769 30.6888 9.79971 30.3163 10.6208 28.2772C11.0824 27.1315 11.6303 25.8169 12.4357 25.2637C13.0958 25.9812 14.61 28.9742 15.7789 30.93C16.8731 33.1396 19.0538 36.6528 19.2987 37.063C19.5099 37.4166 19.7925 37.9737 20.0884 38.1238C20.4095 38.2865 20.6709 38.2433 20.4354 38.556C20.3741 38.8829 21.0029 39.8628 21.2188 39.9987C21.3852 40.0348 22.4159 39.3103 22.4512 39.2734L22.306 38.901C22.7134 38.4413 23.4222 38.8161 23.9513 38.688C24.2174 38.6236 24.9827 38.0743 25.1766 37.9093C25.5244 37.6131 25.8054 37.36 26.0362 36.8131C26.1743 36.487 26.5645 35.629 26.3227 35.3131ZM1.62181 21.5643C2.32672 21.4841 2.60068 21.1368 3.41234 21.1659C3.86528 21.1824 5.04196 21.5022 5.39912 21.3631C5.55847 21.3011 5.74844 20.9302 5.87168 20.7486C6.06086 20.4697 6.16605 20.3958 6.36072 20.1507C6.50987 19.9621 6.68963 19.6226 6.54048 19.2887C6.48396 19.1622 6.09304 18.7779 5.94547 18.7048C5.85127 19.1205 5.87717 19.5692 5.79475 19.9621C5.68171 20.5011 5.27274 20.3699 4.76486 20.3047C4.33155 20.2489 3.89118 20.1923 3.45787 20.1373C3.07088 20.0886 2.49549 20.1129 2.29768 19.8254C2.05276 19.3036 3.61173 12.5388 3.3731 12.0155C3.31736 11.8937 2.25215 10.2986 2.10143 10.2168C1.98839 11.2611 1.75918 12.3337 1.61553 13.3882C1.51898 14.097 1.45618 15.0753 1.28034 15.7707C1.10058 16.4811 1.26072 16.0654 1.36277 16.4355C1.18458 16.7019 0.811713 16.5974 0.846252 17.028C0.876866 17.4122 1.18693 17.4327 0.860382 17.7965C0.695537 17.9803 0.383115 18.0314 0.445914 18.4196C0.522057 18.8942 0.713591 18.7779 0.470248 19.2564C0.328167 19.537 0.302263 19.8096 0.264584 20.1357C0.177451 20.8767 -0.399507 21.3953 0.488302 21.536C0.816423 21.5863 1.29212 21.6012 1.62181 21.5643ZM20.1543 17.9764C20.4079 16.9604 21.1285 14.0467 21.2172 13.1572C21.0225 13.2201 20.3011 13.8031 20.0696 13.9776C19.5954 14.3335 19.3286 14.3603 19.2061 15.1232C18.8709 17.2134 18.1409 19.5715 17.823 21.6759C17.6416 22.8734 15.9382 21.7898 14.6674 21.9446C15.0434 22.2958 15.7545 22.7162 16.2789 23.0588C16.9823 23.3362 17.706 23.5892 18.3646 23.9185C18.7068 24.0898 19.1778 24.1904 19.433 23.8902C19.7736 23.4894 19.3207 23.1044 19.2477 22.798C19.4604 22.4609 19.7367 22.5567 19.7273 21.8204C19.7203 21.3356 19.6229 20.9207 19.6551 20.41C19.6975 19.7271 19.9864 18.6498 20.1543 17.9764ZM3.76951 11.8324C3.98852 11.9691 6.52085 12.1994 7.08368 12.373C7.13942 13.1981 6.55932 14.5559 6.42273 15.366C6.38191 15.6089 6.38427 15.9672 6.28379 16.1565C6.18724 16.3396 6.064 16.3946 5.92349 16.7215C5.76963 17.0783 5.56632 17.9513 5.96902 18.1642C6.14407 17.9151 6.20686 17.1773 6.32854 16.8017C6.52635 16.1903 6.7587 16.1353 6.99106 15.6701C7.20536 15.2419 7.33409 14.915 7.56959 14.5103C8.02801 13.7238 7.57586 13.8872 8.36791 12.6472C8.49272 12.4516 8.58299 12.2991 8.69367 12.1027C9.0422 11.4835 8.91818 11.3499 9.11835 10.7331C9.33578 10.0636 9.28555 10.4502 9.55244 9.42791C9.66626 8.99101 10.1043 8.54469 10.1278 8.24295C9.89547 8.37732 9.43469 8.90693 9.25807 9.13402C8.7078 9.84437 8.85538 9.98345 8.63087 10.341C7.83883 10.4581 7.5743 10.1445 6.97771 10.0306C6.41174 9.92295 6.03574 10.3064 5.24762 10.132C4.66595 10.0031 4.36688 9.77286 3.88961 9.53713C3.43825 9.31397 2.80163 9.0688 2.34006 9.43341C2.2757 9.82158 2.76081 10.3952 2.95549 10.6914C3.0803 10.8769 3.65333 11.7593 3.76951 11.8324ZM8.99589 18.0573C9.29104 17.6527 9.51711 17.0256 9.52418 16.4017C9.30988 16.7207 9.13719 17.116 8.93231 17.4523C8.46838 18.2121 8.17559 17.9057 7.8561 17.8405C7.85453 18.2679 8.33808 18.9594 8.99589 18.0573Z"></path></svg></a><div class="header-item__column">
+<ul class="header-item__menu" style="white-space: nowrap">
+<li class="dropdown c_ui8_adaptive_dropdown">
+<a href="/artworks" onclick="return true">Произведения</a><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z"></path></svg></div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/artworks">Все произведения</a></li>
+<li><a href="/artworks/for_sale">Маркетплейс</a></li>
+<li><a href="/artworks/all/pro:true">Работы PRO</a></li>
+<li><a href="/artworks/for_sale/saletype:digital">Цифровые версии</a></li>
+<li><a href="/artworks/debut">Дебют</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artworks/my'); stop_bubble(event); return false; ">Мои произведения</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artworks/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/artworks/sell"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Продать работу</span></a></li>
+</ul>
+</li>
+<li class="dropdown c_ui8_adaptive_dropdown">
+<a href="/artists" onclick="return true">Художники</a><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z"></path></svg></div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/artists">Все художники</a></li>
+<li><a href="/artists/modern/pro:true">Художники PRO</a></li>
+<li><a href="/artists/modern">Современные художники</a></li>
+<li><a href="/artists/old">Старые мастера</a></li>
+<li><a href="/artists/order">Заказать работу</a></li>
+<li><a href="/audience/artists">Артхив для художников</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artists/my'); stop_bubble(event); return false; ">Мои художники</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artists/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/artists/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить художника</span></a></li>
+</ul>
+</li>
+<li class="dropdown c_ui8_adaptive_dropdown">
+<a href="/galleries" onclick="return true">Музеи и галереи</a><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z"></path></svg></div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/galleries">Все музеи и галереи</a></li>
+<li><a href="/galleries/museums">Все музеи</a></li>
+<li><a href="/galleries/galleries">Все галереи</a></li>
+<li><a href="/audience/dealers">Артхив для галерей</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/galleries/my'); stop_bubble(event); return false; ">Мои музеи и галереи</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/galleries/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="line-item"><a href="/exhibitions/region_id:0">Все выставки</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/my'); stop_bubble(event); return false; ">Мои выставки</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/attend'); stop_bubble(event); return false; ">Мои посещения</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/galleries/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить музей/галерею</span></a></li>
+<li class="link"><a class="pointer" href="/exhibitions/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить выставку</span></a></li>
+</ul>
+</li>
+<li class="dropdown c_ui8_adaptive_dropdown">
+<a class="pointer" onclick="return true">Публикации</a><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z"></path></svg></div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/news">Арт-новости</a></li>
+<li><a href="/encyclopedia">Энциклопедия</a></li>
+<li><a href="/quizzes">Тесты</a></li>
+<li><a href="/publications">Знания</a></li>
+<li><a href="/sandbox">Песочница</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/sandbox/my'); stop_bubble(event); return false; ">Мои публикации</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/sandbox/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" onclick="action_user.show_popup_login(this, null, '/sandbox/add')"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить публикацию</span></a></li>
+</ul>
+</li>
+<li class="dropdown c_ui8_adaptive_dropdown">
+<a href="/products" class="pointer" onclick="return true">Продукты и цены</a><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z"></path></svg></div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/products">Все продукты и цены</a></li>
+<li><a href="/sites"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M1 2.55556V13.4444C1 14.3 1.69222 15 2.55556 15H13.4444C14.3 15 15 14.3 15 13.4444V2.55556C15 1.7 14.3 1 13.4444 1H2.55556C1.69222 1 1 1.7 1 2.55556ZM10.3333 5.66667C10.3333 6.95778 9.29111 8 8 8C6.70889 8 5.66667 6.95778 5.66667 5.66667C5.66667 4.37556 6.70889 3.33333 8 3.33333C9.29111 3.33333 10.3333 4.37556 10.3333 5.66667ZM3.33333 11.8889C3.33333 10.3333 6.44444 9.47778 8 9.47778C9.55556 9.47778 12.6667 10.3333 12.6667 11.8889V12.6667H3.33333V11.8889Z"></path></svg><span>Сайт художника</span></a></li>
+<li><a href="/sites"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M1 2.55556V13.4444C1 14.3 1.69222 15 2.55556 15H13.4444C14.3 15 15 14.3 15 13.4444V2.55556C15 1.7 14.3 1 13.4444 1H2.55556C1.69222 1 1 1.7 1 2.55556ZM10.3333 5.66667C10.3333 6.95778 9.29111 8 8 8C6.70889 8 5.66667 6.95778 5.66667 5.66667C5.66667 4.37556 6.70889 3.33333 8 3.33333C9.29111 3.33333 10.3333 4.37556 10.3333 5.66667ZM3.33333 11.8889C3.33333 10.3333 6.44444 9.47778 8 9.47778C9.55556 9.47778 12.6667 10.3333 12.6667 11.8889V12.6667H3.33333V11.8889Z"></path></svg><span>Сайт галереи</span></a></li>
+<li><a href="/pro"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M11 6L8 1L5 6L1 2L2 14H3.05116H7.86977H8.11395H11.9326H14L15 2L11 6Z"></path></svg><span>PRO аккаунт</span></a></li>
+<li><a href="/apps"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M10.6813 1.00024H5.59042C4.71224 1.00024 3.99951 1.71297 3.99951 2.59115V13.4093C3.99951 14.2875 4.71224 15.0002 5.59042 15.0002H10.6813C11.5595 15.0002 12.2722 14.2875 12.2722 13.4093V2.59115C12.2722 1.71297 11.5595 1.00024 10.6813 1.00024ZM8.13588 14.3639C7.60769 14.3639 7.18133 13.9375 7.18133 13.4093C7.18133 12.8812 7.60769 12.4548 8.13588 12.4548C8.66406 12.4548 9.09042 12.8812 9.09042 13.4093C9.09042 13.9375 8.66406 14.3639 8.13588 14.3639ZM10.9995 11.8184H5.27224V2.90934H10.9995V11.8184Z"></path></svg><span>Мобильные приложения</span></a></li>
+</ul>
+</li>
+</ul>
+<div class="header-item__more c_ui8_adaptive_dropdown">
+<svg width="18" height="4" viewBox="0 0 18 4"><path d="M9 0C8.60444 0 8.21776 0.117298 7.88886 0.337061C7.55996 0.556824 7.30362 0.869181 7.15224 1.23463C7.00087 1.60009 6.96126 2.00222 7.03843 2.39018C7.1156 2.77814 7.30608 3.13451 7.58579 3.41421C7.86549 3.69392 8.22186 3.8844 8.60982 3.96157C8.99778 4.03874 9.39992 3.99913 9.76537 3.84776C10.1308 3.69638 10.4432 3.44004 10.6629 3.11114C10.8827 2.78224 11 2.39556 11 2C11 1.46957 10.7893 0.96086 10.4142 0.585787C10.0391 0.210714 9.53043 0 9 0ZM2 0C1.60444 0 1.21776 0.117298 0.88886 0.337061C0.559962 0.556824 0.303617 0.869181 0.152242 1.23463C0.000866562 1.60009 -0.0387401 2.00222 0.0384303 2.39018C0.115601 2.77814 0.306082 3.13451 0.585787 3.41421C0.865492 3.69392 1.22186 3.8844 1.60982 3.96157C1.99778 4.03874 2.39992 3.99913 2.76537 3.84776C3.13082 3.69638 3.44318 3.44004 3.66294 3.11114C3.8827 2.78224 4 2.39556 4 2C4 1.46957 3.78929 0.96086 3.41421 0.585787C3.03914 0.210714 2.53043 0 2 0ZM16 0C15.6044 0 15.2178 0.117298 14.8889 0.337061C14.56 0.556824 14.3036 0.869181 14.1522 1.23463C14.0009 1.60009 13.9613 2.00222 14.0384 2.39018C14.1156 2.77814 14.3061 3.13451 14.5858 3.41421C14.8655 3.69392 15.2219 3.8844 15.6098 3.96157C15.9978 4.03874 16.3999 3.99913 16.7654 3.84776C17.1308 3.69638 17.4432 3.44004 17.6629 3.11114C17.8827 2.78224 18 2.39556 18 2C18 1.46957 17.7893 0.96086 17.4142 0.585787C17.0391 0.210714 16.5304 0 16 0Z"></path></svg><ul class="header-item__dropdown header-item__dropdown_last common-link">
+<li style="" class="dark-icon c_ui8_menu_in_dropdown"><a href="/collections"><svg width="16" height="16" viewBox="0 0 16 16"><rect x="2" y="3" width="10" height="10" rx="1"></rect><path d="M13 4H14V12H13V4Z"></path></svg>Коллекции</a></li>
+<li style="" class="dark-icon c_ui8_menu_in_dropdown"><a href="/selections"><svg width="16" height="16" viewBox="0 0 16 16"><rect x="2" y="3" width="10" height="10" rx="1"></rect><path d="M13 4H14V12H13V4Z"></path></svg>Подборки</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/catalog">Справочник</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/audience/artists">Художникам</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/audience/dealers">Галереям</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/audience/collectors">Коллекционерам</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/audience/artlovers">Любителям искусства</a></li>
+<li style="" class="c_ui8_menu_in_dropdown line-item"><a href="/about">О проекте</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/about/faq">Часто задаваемые вопросы</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/about/vacancies">Вакансии</a></li>
+<li style="" class="c_ui8_menu_in_dropdown"><a href="/ad">Реклама</a></li>
+<li class="social line-item">
+<a target="_blank" rel="nofollow" href="https://www.facebook.com/artchive.ru"><svg width="12" height="22" viewBox="0 0 12 22"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.9278 12.283L11.5333 8.33091H7.74273V5.76671C7.74273 4.68642 8.27131 3.63114 9.97058 3.63114H11.6949V0.267183C11.6949 0.267183 10.1302 0 8.63467 0C5.51298 0 3.47159 1.89151 3.47159 5.31885V8.33101H0V12.2831H3.47159V21.8348C4.1674 21.9442 4.88055 22 5.60716 22C6.33377 22 7.04692 21.9423 7.74273 21.8348V12.2831H10.9279L10.9278 12.283Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://www.instagram.com/artchiveru/"><svg width="23" height="22" viewBox="0 0 23 22"><path d="M11.6948 2.26875C14.5479 2.26875 14.8917 2.26875 15.9917 2.3375C17.0229 2.37188 17.6073 2.54375 17.9854 2.71563C18.4667 2.92188 18.8448 3.12812 19.2229 3.50625C19.6011 3.88437 19.8417 4.22813 20.0136 4.74375C20.1511 5.12188 20.3229 5.67188 20.3917 6.7375C20.4261 7.87188 20.4604 8.18125 20.4604 11.0344C20.4604 13.8875 20.4604 14.2312 20.3917 15.3312C20.3573 16.3625 20.1854 16.9469 20.0136 17.325C19.8073 17.8062 19.6011 18.1844 19.2229 18.5625C18.8448 18.9406 18.5011 19.1812 17.9854 19.3531C17.6073 19.4906 17.0573 19.6625 15.9917 19.7313C14.8573 19.7656 14.5479 19.8 11.6948 19.8C8.8417 19.8 8.49795 19.8 7.39795 19.7313C6.3667 19.6969 5.78232 19.525 5.4042 19.3531C4.92295 19.1469 4.54482 18.9406 4.1667 18.5625C3.78857 18.1844 3.54795 17.8406 3.37607 17.325C3.23857 16.9469 3.0667 16.3969 2.99795 15.3312C2.96357 14.1969 2.96357 13.8531 2.96357 11C2.96357 8.14687 2.96357 7.80312 3.03232 6.70312C3.0667 5.67188 3.23857 5.0875 3.41045 4.70937C3.6167 4.22812 3.82295 3.85 4.20107 3.47188C4.5792 3.09375 4.92295 2.85313 5.43857 2.68125C5.8167 2.54375 6.3667 2.37188 7.43232 2.30312C8.49795 2.26875 8.8417 2.26875 11.6948 2.26875ZM11.6948 0.34375C8.80732 0.34375 8.4292 0.34375 7.29482 0.4125C6.16045 0.48125 5.36982 0.653125 4.7167 0.89375C4.0292 1.16875 3.41045 1.54687 2.82607 2.13125C2.2417 2.71563 1.86357 3.33437 1.58857 4.02187C1.31357 4.70937 1.1417 5.46563 1.10732 6.6C1.03857 7.73438 1.03857 8.1125 1.03857 11C1.03857 13.8875 1.03857 14.2656 1.10732 15.4C1.17607 16.5344 1.34795 17.325 1.58857 17.9781C1.86357 18.6656 2.2417 19.2844 2.82607 19.8687C3.41045 20.4531 4.0292 20.8313 4.7167 21.1063C5.4042 21.3813 6.16045 21.5531 7.29482 21.5875C8.4292 21.6562 8.80732 21.6562 11.6948 21.6562C14.5823 21.6562 14.9604 21.6562 16.0948 21.5875C17.2292 21.5187 18.0198 21.3469 18.6729 21.1063C19.3604 20.8313 19.9792 20.4531 20.5636 19.8687C21.1479 19.2844 21.5261 18.6656 21.8011 17.9781C22.0761 17.2906 22.2479 16.5344 22.2823 15.4C22.3511 14.2656 22.3511 13.8875 22.3511 11C22.3511 8.1125 22.3511 7.73438 22.2823 6.6C22.2136 5.46563 22.0417 4.675 21.8011 4.02187C21.5261 3.33437 21.1479 2.71563 20.5636 2.13125C19.9792 1.54687 19.3604 1.16875 18.6729 0.89375C17.9854 0.61875 17.2292 0.446875 16.0948 0.4125C14.9604 0.34375 14.5823 0.34375 11.6948 0.34375Z"></path><path d="M11.6937 5.53442C8.66865 5.53442 6.22803 7.97505 6.22803 11C6.22803 14.025 8.66865 16.4657 11.6937 16.4657C14.7187 16.4657 17.1593 14.025 17.1593 11C17.1593 7.97505 14.7187 5.53442 11.6937 5.53442ZM11.6937 14.5407C9.73428 14.5407 8.15303 12.9594 8.15303 11C8.15303 9.04067 9.73428 7.45942 11.6937 7.45942C13.653 7.45942 15.2343 9.04067 15.2343 11C15.2343 12.9594 13.653 14.5407 11.6937 14.5407Z"></path><path d="M17.3656 6.5999C18.0681 6.5999 18.6375 6.03046 18.6375 5.32803C18.6375 4.62559 18.0681 4.05615 17.3656 4.05615C16.6632 4.05615 16.0938 4.62559 16.0938 5.32803C16.0938 6.03046 16.6632 6.5999 17.3656 6.5999Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://vk.com/artchive"><svg width="27" height="16" viewBox="0 0 27 16"><path d="M25.6746 1.27189H21.4555C21.2833 1.27189 21.1143 1.31857 20.9665 1.40698C20.8187 1.49539 20.6977 1.62221 20.6162 1.77395C20.6162 1.77395 18.9335 4.87299 18.393 5.91681C16.9389 8.7248 15.9972 7.84328 15.9972 6.54006V2.04657C15.9972 1.67108 15.8481 1.31096 15.5825 1.04545C15.317 0.779938 14.9569 0.630775 14.5814 0.630775H11.4092C10.9772 0.598655 10.5442 0.677508 10.1512 0.859847C9.75825 1.04219 9.41843 1.32195 9.16403 1.67258C9.16403 1.67258 10.7748 1.41214 10.7748 3.58255C10.7748 4.12075 10.8026 5.66902 10.8278 6.96762C10.8326 7.15898 10.7785 7.3472 10.6729 7.50686C10.5673 7.66652 10.4153 7.78993 10.2373 7.86043C10.0593 7.93094 9.86401 7.94514 9.67772 7.90111C9.49143 7.85709 9.32313 7.75697 9.19555 7.61426C7.89711 5.80836 6.82157 3.85223 5.9923 1.78837C5.92108 1.63398 5.80707 1.50326 5.6638 1.41171C5.52052 1.32017 5.354 1.27164 5.18397 1.27189C4.26898 1.27189 2.43799 1.27189 1.35063 1.27189C1.24518 1.27117 1.14114 1.29606 1.04744 1.34442C0.953744 1.39278 0.873185 1.46317 0.812689 1.54954C0.752193 1.6359 0.713569 1.73566 0.700133 1.84025C0.686698 1.94483 0.698854 2.05111 0.735556 2.14997C1.89955 5.34278 6.91364 15.3763 12.6367 15.3763H15.0456C15.298 15.3763 15.54 15.2761 15.7185 15.0976C15.897 14.9191 15.9972 14.6771 15.9972 14.4247V12.9701C15.9972 12.7877 16.0506 12.6092 16.1508 12.4567C16.251 12.3042 16.3936 12.1843 16.5611 12.1119C16.7285 12.0394 16.9136 12.0176 17.0933 12.049C17.273 12.0804 17.4397 12.1637 17.5727 12.2886L20.4559 14.9976C20.7148 15.2409 21.0567 15.3763 21.412 15.3763H25.1982C27.0243 15.3763 27.0243 14.1092 26.0287 13.1287C25.328 12.4386 22.7996 9.77357 22.7996 9.77357C22.5831 9.54927 22.454 9.25491 22.4355 8.94369C22.4171 8.63248 22.5106 8.32494 22.6991 8.07664C23.5164 7.00116 24.8531 5.24069 25.42 4.48651C26.1949 3.45568 27.5973 1.27189 25.6746 1.27189Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://t.me/arthivecom"><svg width="23" height="20" viewBox="0 0 23 20"><path d="M2.04481 8.82702L15.1486 3.42804C16.4421 2.86569 20.829 1.06608 20.829 1.06608C20.829 1.06608 22.8536 0.278813 22.6848 2.19079C22.6286 2.97806 22.1789 5.7339 21.7288 8.71433L20.3229 17.5437C20.3229 17.5437 20.2103 18.8372 19.2526 19.0621C18.2949 19.2871 16.7219 18.2749 16.4408 18.0498C16.2159 17.8812 12.2229 15.3504 10.7605 14.1131C10.3668 13.7759 9.917 13.1008 10.8168 12.3135C12.8415 10.4577 15.2599 8.15181 16.7219 6.68965C17.3968 6.01475 18.0717 4.44006 15.2597 6.35236L7.32996 11.6951C7.32996 11.6951 6.42999 12.2574 4.74292 11.7513C3.05585 11.2453 1.08744 10.5704 1.08744 10.5704C1.08744 10.5704 -0.262342 9.72683 2.04351 8.82719L2.04481 8.82702Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5mnWWD_aR7BM61nJRsapNQ"><svg width="23" height="16" viewBox="0 0 23 16"><path d="M22.2352 2.70479C21.9822 1.75819 21.2368 1.01281 20.2902 0.759814C18.5744 0.300049 11.6948 0.300049 11.6948 0.300049C11.6948 0.300049 4.81523 0.300049 3.0994 0.759814C2.15297 1.01281 1.40742 1.75819 1.15446 2.70479C0.694824 4.42045 0.694824 8.00018 0.694824 8.00018C0.694824 8.00018 0.694824 11.5798 1.15446 13.2953C1.40742 14.2419 2.15297 14.9875 3.0994 15.2405C4.81523 15.7 11.6948 15.7001 11.6948 15.7001C11.6948 15.7001 18.5744 15.7 20.2902 15.2405C21.2368 14.9875 21.9822 14.2419 22.2352 13.2953C22.6948 11.5798 22.6948 8.00018 22.6948 8.00018C22.6948 8.00018 22.6948 4.42045 22.2352 2.70479ZM9.4947 11.3002V4.70009L15.2104 8.00018L9.4947 11.3002Z"></path></svg></a>
+</li>
+<li class="line-item pointer" onclick="model_header.toggle_langs(); stop_bubble(event);" style="margin-bottom: 10px"><a><span class="c_capitalize">
+Language: русский</span></a></li>
+<div class="cjs_mainmenu_lang_item" style=" display: none; margin-left: 20px; margin-top: -15px;">
+<li class="pointer"><a onclick="global.change_lang(this, 'uk', '/uk/artworks/type:graphics')"><span class="c_capitalize">українська</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'en', '/en/artworks/type:graphics')"><span class="c_capitalize">english</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'de', '/de/artworks/type:graphics')"><span class="c_capitalize">deutsch</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'es', '/es/artworks/type:graphics')"><span class="c_capitalize">español</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'fr', '/fr/artworks/type:graphics')"><span class="c_capitalize">français</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'it', '/it/artworks/type:graphics')"><span class="c_capitalize">italiano</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'sl', '/sl/artworks/type:graphics')"><span class="c_capitalize">Slovenski</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'zh', '/zh/artworks/type:graphics')"><span class="c_capitalize">汉语</span></a></li>
+</div>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-item__information" style="height: 60px"><div class="header-item__advertising"><a href="/ad" style="color: #7B7D88">Реклама</a></div></div>
+</div>
+<div class="header-item__info c_main_site_search">
+<form class="header-item__search" onsubmit="return false;" autocomplete="off" onclick="stop_bubble(event);">
+<div class="search-input search-input__item">
+<input class="search-input__input" type="text" id="id_inp_site_qsearch" onfocus="model_site_search.focus(this)" onclick="model_site_search.click(this)" onkeyup="model_site_search.keyup(this, event)" placeholder="Быстрый поиск"><div class="autoselect_container" onclick="stop_bubble(event)" id="id_qsearch_cont"><div style="padding-right: 10px; background-color: #fff"><div class="search-box" id="id_qsearch_searchbox"><div class="search-box__item-scroll" id="id_qsearch_cont_inner"><div class="search-box__result"><div class="search-box__result-row">
+<div id="id_qsearch_result_noresult" class="search-box__result-title">Ничего не найдено<span class="option c_not_result" style="display: none"></span>
+</div>
+<div id="id_qsearch_result_artists" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_works" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_places_galleries" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_expositions" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_articles" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_refs" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_users" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_collections" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_selections" class="cjs_qsearch_result"></div>
+<div id="id_qsearch_result_all" class="search-box__result-text" style="display: none"><a data-href="/search/" id="id_qsearch_link_all">Все результата поиска</a></div>
+</div></div></div></div></div></div>
+</div>
+<div class="header-item__icon-group">
+<span class="header-item__icon-full" onclick="model_site_search.pic_show(); stop_bubble(event);"><svg version="1.1" x="0px" y="0px" width="37.667px" height="37.667px" viewBox="0 0 37.667 37.667" style="enable-background:new 0 0 37.667 37.667;" xml:space="preserve"><path d="M1.5,13.5C2.328,13.5,3,12.829,3,12V3h9c0.828,0,1.5-0.671,1.5-1.5S12.828,0,12,0H1.5C0.672,0,0,0.671,0,1.5V12                        C0,12.828,0.672,13.5,1.5,13.5z"></path><path d="M25.667,3h9v8.999c0,0.829,0.672,1.5,1.5,1.5s1.5-0.671,1.5-1.5V1.5c0-0.829-0.672-1.5-1.5-1.5h-10.5                        c-0.828,0-1.5,0.671-1.5,1.5S24.839,3,25.667,3z"></path><path d="M25.667,37.667h10.5c0.828,0,1.5-0.671,1.5-1.5v-10.5c0-0.829-0.672-1.5-1.5-1.5s-1.5,0.671-1.5,1.5v9h-9                        c-0.828,0-1.5,0.671-1.5,1.5S24.839,37.667,25.667,37.667z"></path><path d="M1.5,37.667H12c0.828,0,1.5-0.671,1.5-1.5s-0.672-1.5-1.5-1.5H3v-9c0-0.829-0.672-1.5-1.5-1.5S0,24.838,0,25.667v10.5                        C0,36.995,0.672,37.667,1.5,37.667z"></path></svg></span><button id="id_qsearch_btn" class="header-item__icon-search" onclick="model_site_search.do_search(); stop_bubble(event);"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M19.7192 18.3139L16.0114 14.6333C17.4506 12.8374 18.1476 10.5579 17.959 8.26356C17.7705 5.96919 16.7106 3.83432 14.9975 2.29792C13.2844 0.761532 11.0481 -0.0595993 8.74862 0.00337152C6.4491 0.0663423 4.26109 1.00863 2.63448 2.63648C1.00786 4.26433 0.066292 6.45401 0.00336896 8.75527C-0.059554 11.0565 0.760954 13.2945 2.29618 15.0089C3.83141 16.7233 5.96466 17.784 8.25729 17.9727C10.5499 18.1614 12.8277 17.4639 14.6222 16.0235L18.3 19.7042C18.3929 19.7979 18.5035 19.8723 18.6253 19.9231C18.747 19.9739 18.8777 20 19.0096 20C19.1415 20 19.2722 19.9739 19.3939 19.9231C19.5157 19.8723 19.6263 19.7979 19.7192 19.7042C19.8993 19.5177 20 19.2684 20 19.009C20 18.7497 19.8993 18.5004 19.7192 18.3139V18.3139ZM9.01554 16.0235C7.63189 16.0235 6.27932 15.6129 5.12886 14.8436C3.9784 14.0743 3.08172 12.9809 2.55223 11.7016C2.02273 10.4223 1.88419 9.01462 2.15412 7.65653C2.42406 6.29844 3.09035 5.05095 4.06873 4.07183C5.04712 3.0927 6.29366 2.4259 7.65072 2.15576C9.00778 1.88562 10.4144 2.02426 11.6927 2.55417C12.9711 3.08407 14.0637 3.98142 14.8324 5.13276C15.6011 6.28409 16.0114 7.63769 16.0114 9.02239C16.0114 10.8792 15.2743 12.66 13.9623 13.973C12.6504 15.2859 10.871 16.0235 9.01554 16.0235V16.0235Z"></path></svg></button>
+</div>
+<div id="id_hint__yxmhOwNmYFjy" class="c_hidden_hint">
+<div class="onboarding-tooltip__title">Введите ключевые слова</div>
+<div class="onboarding-tooltip__text">Быстрый поиск поможет найти художника, картину, пользователя или статью, а также подскажет, что вы искали в Артхиве ранее</div>
+</div>
+<div class="c_hint_script"><script>
+model_hint_popup.add_obj('id_hint__yxmhOwNmYFjy', '', false, false);
+</script></div>
+</form>
+<div class="header-item__unlogin">
+<div class="header-item__enter pointer" onclick="action_user.show_popup_login(this, ''); stop_bubble(event);" id="id_KgHNeeBKJmpk">
+<svg width="24" height="24" viewBox="0 0 24 24"><path d="M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20 19H12V21H20C21.1 21 22 20.1 22 19V5C22 3.9 21.1 3 20 3H12V5H20V19Z"></path></svg><span style="text-transform: uppercase">войти</span>
+</div>
+<div id="id_hint__CpVRxuTQLWPb" class="c_hidden_hint">
+<div class="onboarding-tooltip__title">Войдите на сайт</div>
+<div class="onboarding-tooltip__text">Залогиньтесь, чтобы использовать максимум функций Артхива</div>
+</div>
+<div class="c_hint_script"><script>
+model_hint_popup.add_obj('id_hint__CpVRxuTQLWPb', 'id_KgHNeeBKJmpk', false, false);
+</script></div>
+<div class="header-item__button header-item__publish pointer c_ui8_adaptive_dropdown">
+<svg width="10" height="10" viewBox="0 0 10 10"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 0H4V4L0 4V6H4V10H6V6H10V4L6 4V0Z"></path></svg><span style="text-transform: uppercase">опубликовать</span><ul class="header-item__dropdown common-link" style="width: 265px;max-width: 265px;">
+<li class="link"><a class="pointer" href="/artworks/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить произведение</span></a></li>
+<li class="link"><a class="pointer" href="/artists/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить художника</span></a></li>
+<li class="link"><a class="pointer" href="/galleries/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить музей/галерею</span></a></li>
+<li class="link"><a class="pointer" href="/exhibitions/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить выставку</span></a></li>
+<li class="link"><a class="pointer" onclick="action_user.show_popup_login(this, null, '/sandbox/add')"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить публикацию</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-item__hamburger pointer" onclick="model_header.burger(this, true)">
+<span class="cjs_header_new_notifications_messages_events" style="display: none"></span><svg width="18" height="14" viewBox="0 0 18 14"><path d="M0 14H18V12H0V14ZM0 8H18V6H0V8ZM0 0V2H18V0H0Z"></path></svg>
+</div>
+<div class="header-item__mobile"><div class="header-item__mobile-inner" id="id_header_mobile_menu">
+<div class="header-item__mobile-close pointer" onclick="model_header.burger(this, false)"><svg width="14" height="14" viewBox="0 0 14 14"><path d="M14 1.41L12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41Z"></path></svg></div>
+<div class="header-item__mobile-block--top">
+<div class="header-item__mobile-block-enter" style="text-transform: uppercase" onclick="action_user.show_popup_login(this, ''); stop_bubble(event);">
+<svg width="24" height="24" viewBox="0 0 24 24"><path d="M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20 19H12V21H20C21.1 21 22 20.1 22 19V5C22 3.9 21.1 3 20 3H12V5H20V19Z"></path></svg>войти</div>
+<div class="header-item__mobile-block-add" style="text-transform: uppercase">
+<svg width="10" height="10" viewBox="0 0 10 10"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 0H4V4L0 4V6H4V10H6V6H10V4L6 4V0Z"></path></svg>опубликовать</div>
+</div>
+<div class="header-item__mobile-main"><div class="header-item__mobile-content"><div class="header-item__mobile-accordion">
+<div class="header-item__mobile-accordion-content">
+<div class="header-item__mobile-accordion-item c_ui8_adaptive_dropdown pointer">
+<span>Произведения</span><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z" fill="black"></path></svg></div>
+</div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/artworks">Все произведения</a></li>
+<li><a href="/artworks/for_sale">Маркетплейс</a></li>
+<li><a href="/artworks/all/pro:true">Работы PRO</a></li>
+<li><a href="/artworks/for_sale/saletype:digital">Цифровые версии</a></li>
+<li><a href="/artworks/debut">Дебют</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artworks/my'); stop_bubble(event); return false; ">Мои произведения</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artworks/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/artworks/sell"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Продать работу</span></a></li>
+</ul>
+</div>
+<div class="header-item__mobile-accordion-content">
+<div class="header-item__mobile-accordion-item c_ui8_adaptive_dropdown pointer">
+<span>Художники</span><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z" fill="black"></path></svg></div>
+</div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/artists">Все художники</a></li>
+<li><a href="/artists/modern/pro:true">Художники PRO</a></li>
+<li><a href="/artists/modern">Современные художники</a></li>
+<li><a href="/artists/old">Старые мастера</a></li>
+<li><a href="/artists/order">Заказать работу</a></li>
+<li><a href="/audience/artists">Артхив для художников</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artists/my'); stop_bubble(event); return false; ">Мои художники</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/artists/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/artists/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить художника</span></a></li>
+</ul>
+</div>
+<div class="header-item__mobile-accordion-content">
+<div class="header-item__mobile-accordion-item c_ui8_adaptive_dropdown pointer">
+<span>Музеи и галереи</span><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z" fill="black"></path></svg></div>
+</div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/galleries">Все музеи и галереи</a></li>
+<li><a href="/galleries/museums">Все музеи</a></li>
+<li><a href="/galleries/galleries">Все галереи</a></li>
+<li><a href="/audience/dealers">Артхив для галерей</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/galleries/my'); stop_bubble(event); return false; ">Мои музеи и галереи</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/galleries/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="line-item"><a href="/exhibitions/region_id:0">Все выставки</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/my'); stop_bubble(event); return false; ">Мои выставки</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/attend'); stop_bubble(event); return false; ">Мои посещения</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/exhibitions/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" href="/galleries/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить музей/галерею</span></a></li>
+<li class="link"><a class="pointer" href="/exhibitions/add"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить выставку</span></a></li>
+</ul>
+</div>
+<div class="header-item__mobile-accordion-content">
+<div class="header-item__mobile-accordion-item c_ui8_adaptive_dropdown pointer">
+<span>Публикации</span><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z" fill="black"></path></svg></div>
+</div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/news">Арт-новости</a></li>
+<li><a href="/encyclopedia">Энциклопедия</a></li>
+<li><a href="/quizzes">Тесты</a></li>
+<li><a href="/publications">Знания</a></li>
+<li><a href="/sandbox">Песочница</a></li>
+<li class="line-item"><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/sandbox/my'); stop_bubble(event); return false; ">Мои публикации</a></li>
+<li><a class="pointer" onclick=" action_user.show_popup_login(this, '', '/sandbox/liked'); stop_bubble(event); return false; ">Мне понравились</a></li>
+<li class="link line-item"><a class="pointer" onclick="action_user.show_popup_login(this, null, '/sandbox/add')"><svg width="16" height="16" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" d="M8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15ZM7 7V4H9V7H12V9H9V12H7V9H4V7H7Z"></path></svg><span>Добавить публикацию</span></a></li>
+</ul>
+</div>
+<div class="header-item__mobile-accordion-content">
+<div class="header-item__mobile-accordion-item c_ui8_adaptive_dropdown pointer">
+<span>Продукты и цены</span><div class="arrows"><svg width="12" height="8" viewBox="0 0 12 8" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.4 0.599999L7.15493e-08 2L6 8L12 2L10.6 0.599999L6 5.2L1.4 0.599999Z" fill="black"></path></svg></div>
+</div>
+<ul class="header-item__dropdown common-link">
+<li><a href="/products">Все продукты и цены</a></li>
+<li><a href="/sites"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M1 2.55556V13.4444C1 14.3 1.69222 15 2.55556 15H13.4444C14.3 15 15 14.3 15 13.4444V2.55556C15 1.7 14.3 1 13.4444 1H2.55556C1.69222 1 1 1.7 1 2.55556ZM10.3333 5.66667C10.3333 6.95778 9.29111 8 8 8C6.70889 8 5.66667 6.95778 5.66667 5.66667C5.66667 4.37556 6.70889 3.33333 8 3.33333C9.29111 3.33333 10.3333 4.37556 10.3333 5.66667ZM3.33333 11.8889C3.33333 10.3333 6.44444 9.47778 8 9.47778C9.55556 9.47778 12.6667 10.3333 12.6667 11.8889V12.6667H3.33333V11.8889Z"></path></svg><span>Сайт художника</span></a></li>
+<li><a href="/sites"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M1 2.55556V13.4444C1 14.3 1.69222 15 2.55556 15H13.4444C14.3 15 15 14.3 15 13.4444V2.55556C15 1.7 14.3 1 13.4444 1H2.55556C1.69222 1 1 1.7 1 2.55556ZM10.3333 5.66667C10.3333 6.95778 9.29111 8 8 8C6.70889 8 5.66667 6.95778 5.66667 5.66667C5.66667 4.37556 6.70889 3.33333 8 3.33333C9.29111 3.33333 10.3333 4.37556 10.3333 5.66667ZM3.33333 11.8889C3.33333 10.3333 6.44444 9.47778 8 9.47778C9.55556 9.47778 12.6667 10.3333 12.6667 11.8889V12.6667H3.33333V11.8889Z"></path></svg><span>Сайт галереи</span></a></li>
+<li><a href="/pro"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M11 6L8 1L5 6L1 2L2 14H3.05116H7.86977H8.11395H11.9326H14L15 2L11 6Z"></path></svg><span>PRO аккаунт</span></a></li>
+<li><a href="/apps"><svg width="16" height="16" viewBox="0 0 16 16"><path d="M10.6813 1.00024H5.59042C4.71224 1.00024 3.99951 1.71297 3.99951 2.59115V13.4093C3.99951 14.2875 4.71224 15.0002 5.59042 15.0002H10.6813C11.5595 15.0002 12.2722 14.2875 12.2722 13.4093V2.59115C12.2722 1.71297 11.5595 1.00024 10.6813 1.00024ZM8.13588 14.3639C7.60769 14.3639 7.18133 13.9375 7.18133 13.4093C7.18133 12.8812 7.60769 12.4548 8.13588 12.4548C8.66406 12.4548 9.09042 12.8812 9.09042 13.4093C9.09042 13.9375 8.66406 14.3639 8.13588 14.3639ZM10.9995 11.8184H5.27224V2.90934H10.9995V11.8184Z"></path></svg><span>Мобильные приложения</span></a></li>
+</ul>
+</div>
+<div class="header-item__mobile-nav"><ul class="header-item__dropdown common-link">
+<li style="" class="dark-icon "><a href="/collections"><svg width="16" height="16" viewBox="0 0 16 16"><rect x="2" y="3" width="10" height="10" rx="1"></rect><path d="M13 4H14V12H13V4Z"></path></svg>Коллекции</a></li>
+<li style="" class="dark-icon "><a href="/selections"><svg width="16" height="16" viewBox="0 0 16 16"><rect x="2" y="3" width="10" height="10" rx="1"></rect><path d="M13 4H14V12H13V4Z"></path></svg>Подборки</a></li>
+<li style="" class=""><a href="/catalog">Справочник</a></li>
+<li style="" class=""><a href="/audience/artists">Художникам</a></li>
+<li style="" class=""><a href="/audience/dealers">Галереям</a></li>
+<li style="" class=""><a href="/audience/collectors">Коллекционерам</a></li>
+<li style="" class=""><a href="/audience/artlovers">Любителям искусства</a></li>
+<li style="" class=" line-item"><a href="/about">О проекте</a></li>
+<li style="" class=""><a href="/about/faq">Часто задаваемые вопросы</a></li>
+<li style="" class=""><a href="/about/vacancies">Вакансии</a></li>
+<li style="" class=""><a href="/ad">Реклама</a></li>
+<li class="social line-item">
+<a target="_blank" rel="nofollow" href="https://www.facebook.com/artchive.ru"><svg width="12" height="22" viewBox="0 0 12 22"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.9278 12.283L11.5333 8.33091H7.74273V5.76671C7.74273 4.68642 8.27131 3.63114 9.97058 3.63114H11.6949V0.267183C11.6949 0.267183 10.1302 0 8.63467 0C5.51298 0 3.47159 1.89151 3.47159 5.31885V8.33101H0V12.2831H3.47159V21.8348C4.1674 21.9442 4.88055 22 5.60716 22C6.33377 22 7.04692 21.9423 7.74273 21.8348V12.2831H10.9279L10.9278 12.283Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://www.instagram.com/artchiveru/"><svg width="23" height="22" viewBox="0 0 23 22"><path d="M11.6948 2.26875C14.5479 2.26875 14.8917 2.26875 15.9917 2.3375C17.0229 2.37188 17.6073 2.54375 17.9854 2.71563C18.4667 2.92188 18.8448 3.12812 19.2229 3.50625C19.6011 3.88437 19.8417 4.22813 20.0136 4.74375C20.1511 5.12188 20.3229 5.67188 20.3917 6.7375C20.4261 7.87188 20.4604 8.18125 20.4604 11.0344C20.4604 13.8875 20.4604 14.2312 20.3917 15.3312C20.3573 16.3625 20.1854 16.9469 20.0136 17.325C19.8073 17.8062 19.6011 18.1844 19.2229 18.5625C18.8448 18.9406 18.5011 19.1812 17.9854 19.3531C17.6073 19.4906 17.0573 19.6625 15.9917 19.7313C14.8573 19.7656 14.5479 19.8 11.6948 19.8C8.8417 19.8 8.49795 19.8 7.39795 19.7313C6.3667 19.6969 5.78232 19.525 5.4042 19.3531C4.92295 19.1469 4.54482 18.9406 4.1667 18.5625C3.78857 18.1844 3.54795 17.8406 3.37607 17.325C3.23857 16.9469 3.0667 16.3969 2.99795 15.3312C2.96357 14.1969 2.96357 13.8531 2.96357 11C2.96357 8.14687 2.96357 7.80312 3.03232 6.70312C3.0667 5.67188 3.23857 5.0875 3.41045 4.70937C3.6167 4.22812 3.82295 3.85 4.20107 3.47188C4.5792 3.09375 4.92295 2.85313 5.43857 2.68125C5.8167 2.54375 6.3667 2.37188 7.43232 2.30312C8.49795 2.26875 8.8417 2.26875 11.6948 2.26875ZM11.6948 0.34375C8.80732 0.34375 8.4292 0.34375 7.29482 0.4125C6.16045 0.48125 5.36982 0.653125 4.7167 0.89375C4.0292 1.16875 3.41045 1.54687 2.82607 2.13125C2.2417 2.71563 1.86357 3.33437 1.58857 4.02187C1.31357 4.70937 1.1417 5.46563 1.10732 6.6C1.03857 7.73438 1.03857 8.1125 1.03857 11C1.03857 13.8875 1.03857 14.2656 1.10732 15.4C1.17607 16.5344 1.34795 17.325 1.58857 17.9781C1.86357 18.6656 2.2417 19.2844 2.82607 19.8687C3.41045 20.4531 4.0292 20.8313 4.7167 21.1063C5.4042 21.3813 6.16045 21.5531 7.29482 21.5875C8.4292 21.6562 8.80732 21.6562 11.6948 21.6562C14.5823 21.6562 14.9604 21.6562 16.0948 21.5875C17.2292 21.5187 18.0198 21.3469 18.6729 21.1063C19.3604 20.8313 19.9792 20.4531 20.5636 19.8687C21.1479 19.2844 21.5261 18.6656 21.8011 17.9781C22.0761 17.2906 22.2479 16.5344 22.2823 15.4C22.3511 14.2656 22.3511 13.8875 22.3511 11C22.3511 8.1125 22.3511 7.73438 22.2823 6.6C22.2136 5.46563 22.0417 4.675 21.8011 4.02187C21.5261 3.33437 21.1479 2.71563 20.5636 2.13125C19.9792 1.54687 19.3604 1.16875 18.6729 0.89375C17.9854 0.61875 17.2292 0.446875 16.0948 0.4125C14.9604 0.34375 14.5823 0.34375 11.6948 0.34375Z"></path><path d="M11.6937 5.53442C8.66865 5.53442 6.22803 7.97505 6.22803 11C6.22803 14.025 8.66865 16.4657 11.6937 16.4657C14.7187 16.4657 17.1593 14.025 17.1593 11C17.1593 7.97505 14.7187 5.53442 11.6937 5.53442ZM11.6937 14.5407C9.73428 14.5407 8.15303 12.9594 8.15303 11C8.15303 9.04067 9.73428 7.45942 11.6937 7.45942C13.653 7.45942 15.2343 9.04067 15.2343 11C15.2343 12.9594 13.653 14.5407 11.6937 14.5407Z"></path><path d="M17.3656 6.5999C18.0681 6.5999 18.6375 6.03046 18.6375 5.32803C18.6375 4.62559 18.0681 4.05615 17.3656 4.05615C16.6632 4.05615 16.0938 4.62559 16.0938 5.32803C16.0938 6.03046 16.6632 6.5999 17.3656 6.5999Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://vk.com/artchive"><svg width="27" height="16" viewBox="0 0 27 16"><path d="M25.6746 1.27189H21.4555C21.2833 1.27189 21.1143 1.31857 20.9665 1.40698C20.8187 1.49539 20.6977 1.62221 20.6162 1.77395C20.6162 1.77395 18.9335 4.87299 18.393 5.91681C16.9389 8.7248 15.9972 7.84328 15.9972 6.54006V2.04657C15.9972 1.67108 15.8481 1.31096 15.5825 1.04545C15.317 0.779938 14.9569 0.630775 14.5814 0.630775H11.4092C10.9772 0.598655 10.5442 0.677508 10.1512 0.859847C9.75825 1.04219 9.41843 1.32195 9.16403 1.67258C9.16403 1.67258 10.7748 1.41214 10.7748 3.58255C10.7748 4.12075 10.8026 5.66902 10.8278 6.96762C10.8326 7.15898 10.7785 7.3472 10.6729 7.50686C10.5673 7.66652 10.4153 7.78993 10.2373 7.86043C10.0593 7.93094 9.86401 7.94514 9.67772 7.90111C9.49143 7.85709 9.32313 7.75697 9.19555 7.61426C7.89711 5.80836 6.82157 3.85223 5.9923 1.78837C5.92108 1.63398 5.80707 1.50326 5.6638 1.41171C5.52052 1.32017 5.354 1.27164 5.18397 1.27189C4.26898 1.27189 2.43799 1.27189 1.35063 1.27189C1.24518 1.27117 1.14114 1.29606 1.04744 1.34442C0.953744 1.39278 0.873185 1.46317 0.812689 1.54954C0.752193 1.6359 0.713569 1.73566 0.700133 1.84025C0.686698 1.94483 0.698854 2.05111 0.735556 2.14997C1.89955 5.34278 6.91364 15.3763 12.6367 15.3763H15.0456C15.298 15.3763 15.54 15.2761 15.7185 15.0976C15.897 14.9191 15.9972 14.6771 15.9972 14.4247V12.9701C15.9972 12.7877 16.0506 12.6092 16.1508 12.4567C16.251 12.3042 16.3936 12.1843 16.5611 12.1119C16.7285 12.0394 16.9136 12.0176 17.0933 12.049C17.273 12.0804 17.4397 12.1637 17.5727 12.2886L20.4559 14.9976C20.7148 15.2409 21.0567 15.3763 21.412 15.3763H25.1982C27.0243 15.3763 27.0243 14.1092 26.0287 13.1287C25.328 12.4386 22.7996 9.77357 22.7996 9.77357C22.5831 9.54927 22.454 9.25491 22.4355 8.94369C22.4171 8.63248 22.5106 8.32494 22.6991 8.07664C23.5164 7.00116 24.8531 5.24069 25.42 4.48651C26.1949 3.45568 27.5973 1.27189 25.6746 1.27189Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://t.me/arthivecom"><svg width="23" height="20" viewBox="0 0 23 20"><path d="M2.04481 8.82702L15.1486 3.42804C16.4421 2.86569 20.829 1.06608 20.829 1.06608C20.829 1.06608 22.8536 0.278813 22.6848 2.19079C22.6286 2.97806 22.1789 5.7339 21.7288 8.71433L20.3229 17.5437C20.3229 17.5437 20.2103 18.8372 19.2526 19.0621C18.2949 19.2871 16.7219 18.2749 16.4408 18.0498C16.2159 17.8812 12.2229 15.3504 10.7605 14.1131C10.3668 13.7759 9.917 13.1008 10.8168 12.3135C12.8415 10.4577 15.2599 8.15181 16.7219 6.68965C17.3968 6.01475 18.0717 4.44006 15.2597 6.35236L7.32996 11.6951C7.32996 11.6951 6.42999 12.2574 4.74292 11.7513C3.05585 11.2453 1.08744 10.5704 1.08744 10.5704C1.08744 10.5704 -0.262342 9.72683 2.04351 8.82719L2.04481 8.82702Z"></path></svg></a><a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5mnWWD_aR7BM61nJRsapNQ"><svg width="23" height="16" viewBox="0 0 23 16"><path d="M22.2352 2.70479C21.9822 1.75819 21.2368 1.01281 20.2902 0.759814C18.5744 0.300049 11.6948 0.300049 11.6948 0.300049C11.6948 0.300049 4.81523 0.300049 3.0994 0.759814C2.15297 1.01281 1.40742 1.75819 1.15446 2.70479C0.694824 4.42045 0.694824 8.00018 0.694824 8.00018C0.694824 8.00018 0.694824 11.5798 1.15446 13.2953C1.40742 14.2419 2.15297 14.9875 3.0994 15.2405C4.81523 15.7 11.6948 15.7001 11.6948 15.7001C11.6948 15.7001 18.5744 15.7 20.2902 15.2405C21.2368 14.9875 21.9822 14.2419 22.2352 13.2953C22.6948 11.5798 22.6948 8.00018 22.6948 8.00018C22.6948 8.00018 22.6948 4.42045 22.2352 2.70479ZM9.4947 11.3002V4.70009L15.2104 8.00018L9.4947 11.3002Z"></path></svg></a>
+</li>
+<li class="line-item pointer" onclick="model_header.toggle_langs(); stop_bubble(event);" style="margin-bottom: 10px"><a><span class="c_capitalize">
+Language: русский</span></a></li>
+<div class="cjs_mainmenu_lang_item" style=" display: none; margin-left: 20px; margin-top: 20px;">
+<li class="pointer"><a onclick="global.change_lang(this, 'uk', '/uk/artworks/type:graphics')"><span class="c_capitalize">українська</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'en', '/en/artworks/type:graphics')"><span class="c_capitalize">english</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'de', '/de/artworks/type:graphics')"><span class="c_capitalize">deutsch</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'es', '/es/artworks/type:graphics')"><span class="c_capitalize">español</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'fr', '/fr/artworks/type:graphics')"><span class="c_capitalize">français</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'it', '/it/artworks/type:graphics')"><span class="c_capitalize">italiano</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'sl', '/sl/artworks/type:graphics')"><span class="c_capitalize">Slovenski</span></a></li>
+<li class="pointer"><a onclick="global.change_lang(this, 'zh', '/zh/artworks/type:graphics')"><span class="c_capitalize">汉语</span></a></li>
+</div>
+</ul></div>
+</div></div></div>
+</div></div>
+</div><div class="search-box7 indent" style="display: none" id="id_site_search_pic_cont" onclick="model_site_search.pic_hide()">
+<form method="get" action="/search/similar" class="header-item__search input-overlay" onclick="stop_bubble(event)">
+<div class="search-input search-input__item"><input class="search-input__input" type="text" id="id_site_search_pic_input" name="url" onkeyup="model_site_search.pic_key(event)" placeholder="Ссылка на изображение"></div>
+<div class="header-item__icon-group">
+<button class="header-item__icon-full" onclick="model_site_search.do_search_pic()"><svg version="1.1" x="0px" y="0px" width="37.667px" height="37.667px" viewBox="0 0 37.667 37.667" style="enable-background:new 0 0 37.667 37.667;" xml:space="preserve"><path d="M1.5,13.5C2.328,13.5,3,12.829,3,12V3h9c0.828,0,1.5-0.671,1.5-1.5S12.828,0,12,0H1.5C0.672,0,0,0.671,0,1.5V12                    C0,12.828,0.672,13.5,1.5,13.5z"></path><path d="M25.667,3h9v8.999c0,0.829,0.672,1.5,1.5,1.5s1.5-0.671,1.5-1.5V1.5c0-0.829-0.672-1.5-1.5-1.5h-10.5                    c-0.828,0-1.5,0.671-1.5,1.5S24.839,3,25.667,3z"></path><path d="M25.667,37.667h10.5c0.828,0,1.5-0.671,1.5-1.5v-10.5c0-0.829-0.672-1.5-1.5-1.5s-1.5,0.671-1.5,1.5v9h-9                    c-0.828,0-1.5,0.671-1.5,1.5S24.839,37.667,25.667,37.667z"></path><path d="M1.5,37.667H12c0.828,0,1.5-0.671,1.5-1.5s-0.672-1.5-1.5-1.5H3v-9c0-0.829-0.672-1.5-1.5-1.5S0,24.838,0,25.667v10.5                    C0,36.995,0.672,37.667,1.5,37.667z"></path></svg></button><button class="header-item__icon-search"><svg width="20" height="20" viewBox="0 0 20 20" onclick="model_site_search.do_search_pic()"><path d="M19.7192 18.3139L16.0114 14.6333C17.4506 12.8374 18.1476 10.5579 17.959 8.26356C17.7705 5.96919 16.7106 3.83432 14.9975 2.29792C13.2844 0.761532 11.0481 -0.0595993 8.74862 0.00337152C6.4491 0.0663423 4.26109 1.00863 2.63448 2.63648C1.00786 4.26433 0.066292 6.45401 0.00336896 8.75527C-0.059554 11.0565 0.760954 13.2945 2.29618 15.0089C3.83141 16.7233 5.96466 17.784 8.25729 17.9727C10.5499 18.1614 12.8277 17.4639 14.6222 16.0235L18.3 19.7042C18.3929 19.7979 18.5035 19.8723 18.6253 19.9231C18.747 19.9739 18.8777 20 19.0096 20C19.1415 20 19.2722 19.9739 19.3939 19.9231C19.5157 19.8723 19.6263 19.7979 19.7192 19.7042C19.8993 19.5177 20 19.2684 20 19.009C20 18.7497 19.8993 18.5004 19.7192 18.3139V18.3139ZM9.01554 16.0235C7.63189 16.0235 6.27932 15.6129 5.12886 14.8436C3.9784 14.0743 3.08172 12.9809 2.55223 11.7016C2.02273 10.4223 1.88419 9.01462 2.15412 7.65653C2.42406 6.29844 3.09035 5.05095 4.06873 4.07183C5.04712 3.0927 6.29366 2.4259 7.65072 2.15576C9.00778 1.88562 10.4144 2.02426 11.6927 2.55417C12.9711 3.08407 14.0637 3.98142 14.8324 5.13276C15.6011 6.28409 16.0114 7.63769 16.0114 9.02239C16.0114 10.8792 15.2743 12.66 13.9623 13.973C12.6504 15.2859 10.871 16.0235 9.01554 16.0235V16.0235Z"></path></svg></button>
+</div>
+</form>
+<div class="search-box__contents" onclick="stop_bubble(event)"><div class="search-box__file" style="position: relative"><form method="post" enctype="multipart/form-data" action="/search/similar">
+<div class="search-box__image">
+<div class="search-box__image-icon"><svg width="50" height="40" viewBox="0 0 50 40" fill="none"><path d="M37.7607 15.5039C40.4739 15.5039 42.7441 13.289 42.7441 10.5205C42.7441 7.75195 40.5293 5.53711 37.7607 5.53711C34.9922 5.53711 32.7773 7.75195 32.7773 10.5205C32.7773 13.289 35.0476 15.5039 37.7607 15.5039ZM37.7607 7.91806C39.2004 7.91806 40.3632 9.08085 40.3632 10.5205C40.3632 11.9601 39.2004 13.1229 37.7607 13.1229C36.3211 13.1229 35.1583 11.9601 35.1583 10.5205C35.1583 9.08085 36.3211 7.91806 37.7607 7.91806Z" fill="white"></path><path d="M0 0V39.9225H50V0H0ZM47.5637 2.38095V29.7342L35.5482 18.0509L28.5714 25.0277L12.68 9.13621L2.38095 19.4352V2.38095H47.5637ZM2.38095 37.5415V22.8128L12.7353 12.4585L31.5615 31.2846L33.2226 29.6235L30.2879 26.6888L35.6035 21.3732L47.5637 33.0011V37.5415H2.38095Z" fill="white"></path></svg></div>
+<span>Перетащите изображение сюда</span>
+</div>
+<div class="search-box__file-text">Или загрузите с вашего устройства</div>
+<a class="button-default button-default_size-40 button-default_color-blue"><span class="button-default__name">Загрузить изображение</span></a><input type="file" name="img" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;opacity: 0;cursor: pointer;" onchange="$(this).parents('form:first').submit()">
+</form></div></div>
+</div>
+</div>
+<div id="id_main_wrapper" class="">
+<script src="https://artchive.ru/res/js/min/pages_works.js?b3"></script><div id="app-wrapper" router="works" site_short_url_lang="/" data-pagetitle="Произведения" data-isexpert="0"><div id="app"></div></div><script>
+var _GL_IS_WEBP_SUPPORT='0';
+</script><script src="https://artchive.ru/res/vue/js/manifest.js?b12"></script><script src="https://artchive.ru/res/vue/js/vendor.js?b25"></script><script src="https://artchive.ru/res/vue/js/app.js?b368"></script><div class="wrapper marketplace">
+<section class="work-artists__section"><div class="container">
+<div class="work-artists__block-title"><a class="work-artists__title" href="/artworks/for_sale">Маркетплейс</a></div>
+<div id="id_part_marketplace">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('marketplace', null, null, null, page_works.get_params_work_ids);</script>
+</div>
+<div class="work-artists__grid__footer"><a class="exhibition-person__link" style="width:100%; margin-top:0" href="/artworks/for_sale"><span>Маркетплейс</span><svg width="9" height="12" viewBox="0 0 9 12"><path d="M0.930176 10.9273L2.0029 12L8.0029 6L2.0029 0L0.930176 1.07273L5.85745 6L0.930176 10.9273Z"></path></svg></a></div>
+</div></section><section class="work-artists__section"><div class="container">
+<div class="work-artists__block-title"><a class="work-artists__title" href="/artworks/for_sale">Работы художников PRO</a></div>
+<div id="id_part_proworks">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('proworks', null, null, null, page_works.get_params_work_ids);</script>
+</div>
+<div class="work-artists__grid__footer"><a class="exhibition-person__link" style="width:100%; margin-top:0" href="/artworks/all/pro:true"><span>Работы художников PRO</span><svg width="9" height="12" viewBox="0 0 9 12"><path d="M0.930176 10.9273L2.0029 12L8.0029 6L2.0029 0L0.930176 1.07273L5.85745 6L0.930176 10.9273Z"></path></svg></a></div>
+</div></section><section class="exhibition-person"><div class="container"><div class="exhibition-person__content">
+<span class="exhibition-person__title">Рекомендуемые работы</span><div id="id_part_recommend_works">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('recommend_works');</script>
+</div>
+</div></div></section><section class="work-artists__section"><div class="container">
+<div class="work-artists__block-title"><a class="work-artists__title" href="/artworks/for_sale/saletype:digital">Цифровые версии</a></div>
+<div id="id_part_digitals">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('digitals', null, null, null, page_works.get_params_work_ids);</script>
+</div>
+<div class="work-artists__grid__footer"><a class="exhibition-person__link" style="width:100%; margin-top:0" href="/artworks/for_sale/saletype:digital"><span>Цифровые версии</span><svg width="9" height="12" viewBox="0 0 9 12"><path d="M0.930176 10.9273L2.0029 12L8.0029 6L2.0029 0L0.930176 1.07273L5.85745 6L0.930176 10.9273Z"></path></svg></a></div>
+</div></section><section class="work-artists__section"><div class="container">
+<div class="work-artists__block-title"><a class="work-artists__title" href="/artworks/debut">Дебют</a></div>
+<div id="id_part_debut">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('debut');</script>
+</div>
+<div class="work-artists__grid__footer"><a class="exhibition-person__link" style="width:100%; margin-top:0" href="/artworks/debut"><span>Дебют</span><svg width="9" height="12" viewBox="0 0 9 12"><path d="M0.930176 10.9273L2.0029 12L8.0029 6L2.0029 0L0.930176 1.07273L5.85745 6L0.930176 10.9273Z"></path></svg></a></div>
+</div></section><section class="work-artists__section"><div class="container">
+<div class="work-artists__block-title"><a class="work-artists__title" href="/artworks/all/audioguides:true">Работы с аудиогидами</a></div>
+<div id="id_part_audioguides">
+<div class="fg-row">
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-sm-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+<div class="fg-col-xl-3 fg-col-lg-3 fg-col-md-4 fg-col-sm-6 hidden-md-xs"><div class="picture">
+<svg width="100%" viewBox="0 0 260 253"><rect width="260" height="253" fill="#E6E6E6"></rect></svg><div class="picture__description" style="padding-bottom: 0"><svg width="100%" height="67" viewBox="0 0 260 67" preserveAspectRatio="none"><rect y="13" width="260" height="8" fill="#E6E6E6"></rect><rect y="33" width="260" height="8" fill="#E6E6E6"></rect><rect y="53" width="150" height="8" fill="#E6E6E6"></rect></svg></div>
+</div></div>
+</div>
+<script>model_ui5.do_load_part_scroll('audioguides', null, null, null, page_works.get_params_work_ids);</script>
+</div>
+<div class="work-artists__grid__footer"><a class="exhibition-person__link" style="width:100%; margin-top:0" href="/artworks/all/audioguides:true"><span>Работы с аудиогидами</span><svg width="9" height="12" viewBox="0 0 9 12"><path d="M0.930176 10.9273L2.0029 12L8.0029 6L2.0029 0L0.930176 1.07273L5.85745 6L0.930176 10.9273Z"></path></svg></a></div>
+</div></section><div id="id_part_recently"><script>model_ui5.do_load_part_scroll('recently');</script></div>
+</div>
+</div>
+<div class="wrapper"><div class="footer-item"><div class="container"><div class="footer-item__content"><div class="footer-item__row">
+<div class="footer-item__column">
+<span class="footer-item__subtitle">Об Артхиве</span><div class="footer-item__nav"><ul>
+<li><a href="/about">О проекте</a></li>
+<li><a href="/about/privacy">Политика конфиденциальности</a></li>
+<li><a href="/about/vacancies">Вакансии</a></li>
+<li><a href="/about/faq">Помощь и FAQ</a></li>
+<li><a href="/about/contacts">Контактные данные</a></li>
+<li><a href="/ad">Реклама в Артхиве</a></li>
+</ul></div>
+<div class="footer-item__inner">
+<div class="footer-item__lang c_ui8_adaptive_dropdown">
+<div id="id_hint__KmMuYZDiDWmf" class="c_hidden_hint">
+<div class="onboarding-tooltip__title">Выберите язык</div>
+<div class="onboarding-tooltip__text">Пользуйтесь Артхивом на удобном для вас языке</div>
+</div>
+<div class="c_hint_script"><script>
+model_hint_popup.add_obj('id_hint__KmMuYZDiDWmf', '', false, false);
+</script></div>
+<span class="c_capitalize">
+Language: русский</span><div class="footer-item__dropdown"><ul>
+<li><a onclick="global.change_lang(this, 'uk', '/uk/artworks/type:graphics')"><span class="c_capitalize">українська</span></a></li>
+<li><a onclick="global.change_lang(this, 'en', '/en/artworks/type:graphics')"><span class="c_capitalize">english</span></a></li>
+<li><a onclick="global.change_lang(this, 'de', '/de/artworks/type:graphics')"><span class="c_capitalize">deutsch</span></a></li>
+<li><a onclick="global.change_lang(this, 'es', '/es/artworks/type:graphics')"><span class="c_capitalize">español</span></a></li>
+<li><a onclick="global.change_lang(this, 'fr', '/fr/artworks/type:graphics')"><span class="c_capitalize">français</span></a></li>
+<li><a onclick="global.change_lang(this, 'it', '/it/artworks/type:graphics')"><span class="c_capitalize">italiano</span></a></li>
+<li><a onclick="global.change_lang(this, 'sl', '/sl/artworks/type:graphics')"><span class="c_capitalize">Slovenski</span></a></li>
+<li><a onclick="global.change_lang(this, 'zh', '/zh/artworks/type:graphics')"><span class="c_capitalize">汉语</span></a></li>
+</ul></div>
+</div>
+<div class="footer-item__copyrights">
+© Arthive, 2025</div>
+</div>
+</div>
+<div class="footer-item__column">
+<span class="footer-item__subtitle">Возможности Артхива</span><div class="footer-item__nav"><ul>
+<li><a href="/audience/artists">Художникам</a></li>
+<li><a href="/audience/dealers">Музеям и галереям</a></li>
+<li><a href="/audience/collectors">Коллекционерам</a></li>
+<li><a href="/audience/artlovers">Пользователям</a></li>
+</ul></div>
+</div>
+<div class="footer-item__column">
+<span class="footer-item__subtitle">Приложения и сервисы</span><div class="footer-item__nav"><ul>
+<li><a href="/sites">Создать сайт художника или галереи</a></li>
+<li><a href="/apps/artists">Мобильные приложения для художников</a></li>
+<li><a href="/apps/galleries">Мобильные приложения для галерей, музеев и выставочных проектов</a></li>
+<li><a href="/apps">Все приложения Артхива</a></li>
+</ul></div>
+<div class="footer-item__group">
+<a class="footer-item_link" href="https://play.google.com/store/apps/details?id=ru.vito.artchive" target="_blank" rel="nofollow"><svg width="135" height="40" viewBox="0 0 135 40" fill="none"><path d="M68.136 21.7511C65.784 21.7511 63.867 23.5401 63.867 26.0041C63.867 28.4531 65.784 30.2571 68.136 30.2571C70.489 30.2571 72.406 28.4531 72.406 26.0041C72.405 23.5401 70.488 21.7511 68.136 21.7511ZM68.136 28.5831C66.847 28.5831 65.736 27.5201 65.736 26.0051C65.736 24.4741 66.848 23.4271 68.136 23.4271C69.425 23.4271 70.536 24.4741 70.536 26.0051C70.536 27.5191 69.425 28.5831 68.136 28.5831ZM58.822 21.7511C56.47 21.7511 54.553 23.5401 54.553 26.0041C54.553 28.4531 56.47 30.2571 58.822 30.2571C61.175 30.2571 63.092 28.4531 63.092 26.0041C63.092 23.5401 61.175 21.7511 58.822 21.7511ZM58.822 28.5831C57.533 28.5831 56.422 27.5201 56.422 26.0051C56.422 24.4741 57.534 23.4271 58.822 23.4271C60.111 23.4271 61.222 24.4741 61.222 26.0051C61.223 27.5191 60.111 28.5831 58.822 28.5831ZM47.744 23.0571V24.8611H52.062C51.933 25.8761 51.595 26.6171 51.079 27.1321C50.451 27.7601 49.468 28.4531 47.744 28.4531C45.086 28.4531 43.008 26.3101 43.008 23.6521C43.008 20.9941 45.086 18.8511 47.744 18.8511C49.178 18.8511 50.225 19.4151 50.998 20.1401L52.271 18.8671C51.191 17.8361 49.758 17.0471 47.744 17.0471C44.103 17.0471 41.042 20.0111 41.042 23.6521C41.042 27.2931 44.103 30.2571 47.744 30.2571C49.709 30.2571 51.192 29.6121 52.351 28.4041C53.543 27.2121 53.914 25.5361 53.914 24.1831C53.914 23.7651 53.882 23.3781 53.817 23.0561H47.744V23.0571ZM93.052 24.4581C92.698 23.5081 91.618 21.7511 89.411 21.7511C87.22 21.7511 85.399 23.4751 85.399 26.0041C85.399 28.3881 87.204 30.2571 89.62 30.2571C91.569 30.2571 92.697 29.0651 93.165 28.3721L91.715 27.4051C91.232 28.1141 90.571 28.5811 89.62 28.5811C88.67 28.5811 87.993 28.1461 87.558 27.2921L93.245 24.9401L93.052 24.4581ZM87.252 25.8761C87.204 24.2321 88.525 23.3951 89.476 23.3951C90.217 23.3951 90.845 23.7661 91.055 24.2971L87.252 25.8761ZM82.629 30.0001H84.497V17.4991H82.629V30.0001ZM79.567 22.7021H79.503C79.084 22.2021 78.278 21.7511 77.264 21.7511C75.137 21.7511 73.188 23.6201 73.188 26.0211C73.188 28.4051 75.137 30.2581 77.264 30.2581C78.279 30.2581 79.084 29.8071 79.503 29.2921H79.567V29.9041C79.567 31.5311 78.697 32.4011 77.296 32.4011C76.152 32.4011 75.443 31.5801 75.153 30.8871L73.526 31.5641C73.993 32.6911 75.233 34.0771 77.296 34.0771C79.487 34.0771 81.34 32.7881 81.34 29.6461V22.0101H79.568V22.7021H79.567ZM77.425 28.5831C76.136 28.5831 75.057 27.5031 75.057 26.0211C75.057 24.5221 76.136 23.4271 77.425 23.4271C78.697 23.4271 79.696 24.5221 79.696 26.0211C79.696 27.5031 78.697 28.5831 77.425 28.5831ZM101.806 17.4991H97.335V30.0001H99.2V25.2641H101.805C103.873 25.2641 105.907 23.7671 105.907 21.3821C105.907 18.9971 103.874 17.4991 101.806 17.4991ZM101.854 23.5241H99.2V19.2391H101.854C103.249 19.2391 104.041 20.3941 104.041 21.3821C104.041 22.3501 103.249 23.5241 101.854 23.5241ZM113.386 21.7291C112.035 21.7291 110.636 22.3241 110.057 23.6431L111.713 24.3341C112.067 23.6431 112.727 23.4171 113.418 23.4171C114.383 23.4171 115.364 23.9961 115.38 25.0251V25.1541C115.042 24.9611 114.318 24.6721 113.434 24.6721C111.649 24.6721 109.831 25.6531 109.831 27.4861C109.831 29.1591 111.295 30.2361 112.935 30.2361C114.189 30.2361 114.881 29.6731 115.315 29.0131H115.379V29.9781H117.181V25.1851C117.182 22.9671 115.524 21.7291 113.386 21.7291ZM113.16 28.5801C112.55 28.5801 111.697 28.2741 111.697 27.5181C111.697 26.5531 112.759 26.1831 113.676 26.1831C114.495 26.1831 114.882 26.3601 115.38 26.6011C115.235 27.7601 114.238 28.5801 113.16 28.5801ZM123.743 22.0021L121.604 27.4221H121.54L119.32 22.0021H117.31L120.639 29.5771L118.741 33.7911H120.687L125.818 22.0021H123.743ZM106.937 30.0001H108.802V17.4991H106.937V30.0001Z" fill="#202020"></path><path d="M47.418 10.2429C47.418 11.0809 47.1701 11.7479 46.673 12.2459C46.109 12.8379 45.3731 13.1339 44.4691 13.1339C43.6031 13.1339 42.8661 12.8339 42.2611 12.2339C41.6551 11.6329 41.3521 10.8889 41.3521 10.0009C41.3521 9.11194 41.6551 8.36794 42.2611 7.76794C42.8661 7.16694 43.6031 6.86694 44.4691 6.86694C44.8991 6.86694 45.3101 6.95094 45.7001 7.11794C46.0911 7.28594 46.404 7.50894 46.6381 7.78794L46.111 8.31594C45.714 7.84094 45.167 7.60394 44.468 7.60394C43.836 7.60394 43.29 7.82594 42.829 8.26994C42.368 8.71394 42.1381 9.29094 42.1381 9.99994C42.1381 10.7089 42.368 11.2859 42.829 11.7299C43.29 12.1739 43.836 12.3959 44.468 12.3959C45.138 12.3959 45.6971 12.1729 46.1441 11.7259C46.4341 11.4349 46.602 11.0299 46.647 10.5109H44.468V9.78994H47.375C47.405 9.94694 47.418 10.0979 47.418 10.2429Z" fill="#202020"></path><path d="M52.0281 7.737H49.2961V9.639H51.7601V10.36H49.2961V12.262H52.0281V13H48.5251V7H52.0281V7.737Z" fill="#202020"></path><path d="M55.279 13H54.508V7.737H52.832V7H56.955V7.737H55.279V13Z" fill="#202020"></path><path d="M59.938 13V7H60.709V13H59.938Z" fill="#202020"></path><path d="M64.1281 13H63.3572V7.737H61.6812V7H65.8042V7.737H64.1281V13Z" fill="#202020"></path><path d="M73.6089 12.225C73.0189 12.831 72.2859 13.134 71.4089 13.134C70.5319 13.134 69.7989 12.831 69.2099 12.225C68.6199 11.619 68.3259 10.877 68.3259 9.99999C68.3259 9.12299 68.6199 8.38099 69.2099 7.77499C69.7989 7.16899 70.5319 6.86499 71.4089 6.86499C72.2809 6.86499 73.0129 7.16999 73.6049 7.77899C74.1969 8.38799 74.4929 9.12799 74.4929 9.99999C74.4929 10.877 74.1979 11.619 73.6089 12.225ZM69.7789 11.722C70.2229 12.172 70.7659 12.396 71.4089 12.396C72.0519 12.396 72.5959 12.171 73.0389 11.722C73.4829 11.272 73.7059 10.698 73.7059 9.99999C73.7059 9.30199 73.4829 8.72799 73.0389 8.27799C72.5959 7.82799 72.0519 7.60399 71.4089 7.60399C70.7659 7.60399 70.2229 7.82899 69.7789 8.27799C69.3359 8.72799 69.1129 9.30199 69.1129 9.99999C69.1129 10.698 69.3359 11.272 69.7789 11.722Z" fill="#202020"></path><path d="M75.5749 13V7H76.513L79.429 11.667H79.4619L79.429 10.511V7H80.1999V13H79.3949L76.344 8.106H76.3109L76.344 9.262V13H75.5749Z" fill="#202020"></path><path d="M47.418 10.2429C47.418 11.0809 47.1701 11.7479 46.673 12.2459C46.109 12.8379 45.3731 13.1339 44.4691 13.1339C43.6031 13.1339 42.8661 12.8339 42.2611 12.2339C41.6551 11.6329 41.3521 10.8889 41.3521 10.0009C41.3521 9.11194 41.6551 8.36794 42.2611 7.76794C42.8661 7.16694 43.6031 6.86694 44.4691 6.86694C44.8991 6.86694 45.3101 6.95094 45.7001 7.11794C46.0911 7.28594 46.404 7.50894 46.6381 7.78794L46.111 8.31594C45.714 7.84094 45.167 7.60394 44.468 7.60394C43.836 7.60394 43.29 7.82594 42.829 8.26994C42.368 8.71394 42.1381 9.29094 42.1381 9.99994C42.1381 10.7089 42.368 11.2859 42.829 11.7299C43.29 12.1739 43.836 12.3959 44.468 12.3959C45.138 12.3959 45.6971 12.1729 46.1441 11.7259C46.4341 11.4349 46.602 11.0299 46.647 10.5109H44.468V9.78994H47.375C47.405 9.94694 47.418 10.0979 47.418 10.2429Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M52.0281 7.737H49.2961V9.639H51.7601V10.36H49.2961V12.262H52.0281V13H48.5251V7H52.0281V7.737Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M55.279 13H54.508V7.737H52.832V7H56.955V7.737H55.279V13Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M59.938 13V7H60.709V13H59.938Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M64.1281 13H63.3572V7.737H61.6812V7H65.8042V7.737H64.1281V13Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M73.6089 12.225C73.0189 12.831 72.2859 13.134 71.4089 13.134C70.5319 13.134 69.7989 12.831 69.2099 12.225C68.6199 11.619 68.3259 10.877 68.3259 9.99999C68.3259 9.12299 68.6199 8.38099 69.2099 7.77499C69.7989 7.16899 70.5319 6.86499 71.4089 6.86499C72.2809 6.86499 73.0129 7.16999 73.6049 7.77899C74.1969 8.38799 74.4929 9.12799 74.4929 9.99999C74.4929 10.877 74.1979 11.619 73.6089 12.225ZM69.7789 11.722C70.2229 12.172 70.7659 12.396 71.4089 12.396C72.0519 12.396 72.5959 12.171 73.0389 11.722C73.4829 11.272 73.7059 10.698 73.7059 9.99999C73.7059 9.30199 73.4829 8.72799 73.0389 8.27799C72.5959 7.82799 72.0519 7.60399 71.4089 7.60399C70.7659 7.60399 70.2229 7.82899 69.7789 8.27799C69.3359 8.72799 69.1129 9.30199 69.1129 9.99999C69.1129 10.698 69.3359 11.272 69.7789 11.722Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path d="M75.5749 13V7H76.513L79.429 11.667H79.4619L79.429 10.511V7H80.1999V13H79.3949L76.344 8.106H76.3109L76.344 9.262V13H75.5749Z" stroke="#202020" stroke-width="0.2" stroke-miterlimit="10"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M10.1565 7.96642C10.0384 8.23392 9.97314 8.56168 9.97314 8.94294V31.0589C9.97314 31.441 10.0385 31.7688 10.1567 32.0362L22.1907 20.0006L10.1565 7.96642ZM10.8517 32.7554C11.2978 32.9463 11.8797 32.8858 12.5141 32.5259L26.6712 24.4812L22.8978 20.7077L10.8517 32.7554ZM27.5737 23.9694L32.0151 21.4459C33.4121 20.6509 33.4121 19.3519 32.0151 18.5579L27.5717 16.0331L23.6048 20.0005L27.5737 23.9694ZM26.6699 15.5206L12.5141 7.47694C11.8796 7.11637 11.2977 7.0562 10.8516 7.24734L22.8977 19.2934L26.6699 15.5206Z" fill="#202020"></path><rect x="0.5" y="0.5" width="134" height="39" rx="6.5" stroke="#202020"></rect></svg></a><a class="footer-item_link" href="https://itunes.apple.com/us/app/arthiv-social-naa-set-vokrug/id972616521" target="_blank" rel="nofollow"><svg width="120" height="40" viewBox="0 0 120 40" fill="none"><path d="M81.5257 19.2009V21.4919H80.0896V22.9943H81.5257V28.0993C81.5257 29.8425 82.3143 30.5397 84.2981 30.5397C84.6468 30.5397 84.9788 30.4982 85.2693 30.4484V28.9626C85.0203 28.9875 84.8626 29.0041 84.5887 29.0041C83.7005 29.0041 83.3104 28.589 83.3104 27.6428V22.9943H85.2693V21.4919H83.3104V19.2009H81.5257Z" fill="#202020"></path><path d="M90.3232 30.6642C92.9628 30.6642 94.5815 28.8962 94.5815 25.966C94.5815 23.0524 92.9545 21.2761 90.3232 21.2761C87.6835 21.2761 86.0566 23.0524 86.0566 25.966C86.0566 28.8962 87.6752 30.6642 90.3232 30.6642ZM90.3232 29.0788C88.7709 29.0788 87.8994 27.9416 87.8994 25.966C87.8994 24.007 88.7709 22.8615 90.3232 22.8615C91.8671 22.8615 92.747 24.007 92.747 25.966C92.747 27.9333 91.8671 29.0788 90.3232 29.0788Z" fill="#202020"></path><path d="M95.9664 30.4899H97.7511V25.1525C97.7511 23.8825 98.7056 23.0275 100.059 23.0275C100.374 23.0275 100.905 23.0856 101.055 23.1354V21.3757C100.864 21.3259 100.524 21.301 100.258 21.301C99.0792 21.301 98.0748 21.9484 97.8175 22.8366H97.6846V21.4504H95.9664V30.4899Z" fill="#202020"></path><path d="M105.486 22.7951C106.806 22.7951 107.669 23.7165 107.711 25.1359H103.145C103.245 23.7248 104.166 22.7951 105.486 22.7951ZM107.702 28.0495C107.37 28.7551 106.632 29.1452 105.552 29.1452C104.125 29.1452 103.203 28.1408 103.145 26.5554V26.4557H109.529V25.8332C109.529 22.9943 108.009 21.2761 105.494 21.2761C102.946 21.2761 101.327 23.1105 101.327 25.9992C101.327 28.8879 102.913 30.6642 105.503 30.6642C107.57 30.6642 109.014 29.6681 109.421 28.0495H107.702Z" fill="#202020"></path><path d="M69.8221 27.1518C69.9598 29.3715 71.8095 30.791 74.5626 30.791C77.505 30.791 79.3462 29.3026 79.3462 26.9281C79.3462 25.0611 78.2966 24.0287 75.7499 23.435L74.382 23.0995C72.7645 22.7209 72.1106 22.2133 72.1106 21.3272C72.1106 20.2087 73.1259 19.4774 74.6487 19.4774C76.0941 19.4774 77.0921 20.1915 77.2727 21.3358H79.1483C79.0365 19.2451 77.1953 17.7739 74.6745 17.7739C71.9644 17.7739 70.1576 19.2451 70.1576 21.4562C70.1576 23.2802 71.1815 24.3642 73.427 24.889L75.0272 25.2762C76.6705 25.6634 77.3932 26.2312 77.3932 27.1776C77.3932 28.2788 76.2575 29.0789 74.7089 29.0789C73.0484 29.0789 71.8955 28.3304 71.7321 27.1518H69.8221Z" fill="#202020"></path><path d="M51.3348 21.301C50.1063 21.301 49.0437 21.9152 48.4959 22.9445H48.3631V21.4504H46.6448V33.4948H48.4295V29.1203H48.5706C49.0437 30.0749 50.0647 30.6393 51.3514 30.6393C53.6341 30.6393 55.0867 28.8381 55.0867 25.966C55.0867 23.0939 53.6341 21.301 51.3348 21.301ZM50.8284 29.0373C49.3343 29.0373 48.3963 27.8586 48.3963 25.9743C48.3963 24.0817 49.3343 22.903 50.8367 22.903C52.3475 22.903 53.2522 24.0568 53.2522 25.966C53.2522 27.8835 52.3475 29.0373 50.8284 29.0373Z" fill="#202020"></path><path d="M61.3316 21.301C60.103 21.301 59.0405 21.9152 58.4927 22.9445H58.3599V21.4504H56.6416V33.4948H58.4263V29.1203H58.5674C59.0405 30.0749 60.0615 30.6393 61.3482 30.6393C63.6309 30.6393 65.0835 28.8381 65.0835 25.966C65.0835 23.0939 63.6309 21.301 61.3316 21.301ZM60.8252 29.0373C59.3311 29.0373 58.3931 27.8586 58.3931 25.9743C58.3931 24.0817 59.3311 22.903 60.8335 22.903C62.3443 22.903 63.249 24.0568 63.249 25.966C63.249 27.8835 62.3443 29.0373 60.8252 29.0373Z" fill="#202020"></path><path d="M43.4428 30.4899H45.4905L41.008 18.075H38.9346L34.4521 30.4899H36.431L37.5752 27.1948H42.3072L43.4428 30.4899ZM39.8724 20.3292H40.0186L41.8168 25.5773H38.0656L39.8724 20.3292Z" fill="#202020"></path><path d="M35.6514 8.71094V14.7H37.8137C39.5984 14.7 40.6318 13.6001 40.6318 11.6868C40.6318 9.80249 39.5901 8.71094 37.8137 8.71094H35.6514ZM36.5811 9.55762H37.71C38.9509 9.55762 39.6855 10.3462 39.6855 11.6992C39.6855 13.073 38.9634 13.8533 37.71 13.8533H36.5811V9.55762Z" fill="#202020"></path><path d="M43.7969 14.7871C45.1167 14.7871 45.9261 13.9031 45.9261 12.438C45.9261 10.9812 45.1126 10.093 43.7969 10.093C42.4771 10.093 41.6636 10.9812 41.6636 12.438C41.6636 13.9031 42.4729 14.7871 43.7969 14.7871ZM43.7969 13.9944C43.0208 13.9944 42.585 13.4258 42.585 12.438C42.585 11.4585 43.0208 10.8857 43.7969 10.8857C44.5689 10.8857 45.0088 11.4585 45.0088 12.438C45.0088 13.4216 44.5689 13.9944 43.7969 13.9944Z" fill="#202020"></path><path d="M52.8182 10.1802H51.9259L51.1207 13.6292H51.0501L50.1205 10.1802H49.2655L48.3358 13.6292H48.2694L47.4601 10.1802H46.5553L47.8004 14.7H48.7176L49.6473 11.3713H49.7179L50.6517 14.7H51.5772L52.8182 10.1802Z" fill="#202020"></path><path d="M53.8458 14.7H54.7382V12.0562C54.7382 11.3506 55.1574 10.9106 55.8173 10.9106C56.4772 10.9106 56.7926 11.2717 56.7926 11.998V14.7H57.685V11.7739C57.685 10.699 57.1288 10.093 56.1203 10.093C55.4396 10.093 54.9914 10.396 54.7714 10.8982H54.705V10.1802H53.8458V14.7Z" fill="#202020"></path><path d="M59.0903 14.7H59.9826V8.41626H59.0903V14.7Z" fill="#202020"></path><path d="M63.3386 14.7871C64.6584 14.7871 65.4678 13.9031 65.4678 12.438C65.4678 10.9812 64.6543 10.093 63.3386 10.093C62.0188 10.093 61.2053 10.9812 61.2053 12.438C61.2053 13.9031 62.0146 14.7871 63.3386 14.7871ZM63.3386 13.9944C62.5625 13.9944 62.1267 13.4258 62.1267 12.438C62.1267 11.4585 62.5625 10.8857 63.3386 10.8857C64.1106 10.8857 64.5505 11.4585 64.5505 12.438C64.5505 13.4216 64.1106 13.9944 63.3386 13.9944Z" fill="#202020"></path><path d="M68.1265 14.0234C67.6409 14.0234 67.2881 13.7869 67.2881 13.3801C67.2881 12.9817 67.5704 12.77 68.1929 12.7285L69.2969 12.658V13.0356C69.2969 13.5959 68.7989 14.0234 68.1265 14.0234ZM67.8982 14.7747C68.4917 14.7747 68.9856 14.5173 69.2554 14.0649H69.326V14.7H70.1851V11.6121C70.1851 10.6575 69.5459 10.093 68.4129 10.093C67.3877 10.093 66.6573 10.5911 66.566 11.3672H67.4292C67.5289 11.0476 67.8733 10.865 68.3714 10.865C68.9815 10.865 69.2969 11.1348 69.2969 11.6121V12.0022L68.0726 12.0728C66.9976 12.1392 66.3916 12.6082 66.3916 13.4216C66.3916 14.2476 67.0267 14.7747 67.8982 14.7747Z" fill="#202020"></path><path d="M73.2132 14.7747C73.8358 14.7747 74.3629 14.48 74.6327 13.9861H74.7032V14.7H75.5582V8.41626H74.6659V10.8982H74.5995C74.3546 10.4001 73.8316 10.1055 73.2132 10.1055C72.0719 10.1055 71.3373 11.0103 71.3373 12.438C71.3373 13.8699 72.0636 14.7747 73.2132 14.7747ZM73.4664 10.9065C74.2135 10.9065 74.6825 11.5 74.6825 12.4421C74.6825 13.3884 74.2176 13.9736 73.4664 13.9736C72.711 13.9736 72.2586 13.3967 72.2586 12.438C72.2586 11.4875 72.7152 10.9065 73.4664 10.9065Z" fill="#202020"></path><path d="M81.3447 14.7871C82.6645 14.7871 83.4738 13.9031 83.4738 12.438C83.4738 10.9812 82.6604 10.093 81.3447 10.093C80.0249 10.093 79.2114 10.9812 79.2114 12.438C79.2114 13.9031 80.0207 14.7871 81.3447 14.7871ZM81.3447 13.9944C80.5686 13.9944 80.1328 13.4258 80.1328 12.438C80.1328 11.4585 80.5686 10.8857 81.3447 10.8857C82.1166 10.8857 82.5566 11.4585 82.5566 12.438C82.5566 13.4216 82.1166 13.9944 81.3447 13.9944Z" fill="#202020"></path><path d="M84.655 14.7H85.5474V12.0562C85.5474 11.3506 85.9666 10.9106 86.6265 10.9106C87.2864 10.9106 87.6018 11.2717 87.6018 11.998V14.7H88.4941V11.7739C88.4941 10.699 87.938 10.093 86.9294 10.093C86.2488 10.093 85.8005 10.396 85.5806 10.8982H85.5142V10.1802H84.655V14.7Z" fill="#202020"></path><path d="M92.6039 9.05542V10.2009H91.8858V10.9521H92.6039V13.5046C92.6039 14.3762 92.9981 14.7249 93.9901 14.7249C94.1644 14.7249 94.3304 14.7041 94.4757 14.6792V13.9363C94.3512 13.9487 94.2723 13.957 94.1353 13.957C93.6913 13.957 93.4962 13.7495 93.4962 13.2764V10.9521H94.4757V10.2009H93.4962V9.05542H92.6039Z" fill="#202020"></path><path d="M95.6735 14.7H96.5658V12.0603C96.5658 11.3755 96.9726 10.9148 97.703 10.9148C98.3339 10.9148 98.6701 11.28 98.6701 12.0022V14.7H99.5624V11.7822C99.5624 10.7073 98.9689 10.0972 98.006 10.0972C97.3253 10.0972 96.848 10.4001 96.6281 10.9065H96.5575V8.41626H95.6735V14.7Z" fill="#202020"></path><path d="M102.781 10.8525C103.441 10.8525 103.873 11.3132 103.894 12.0229H101.611C101.661 11.3174 102.122 10.8525 102.781 10.8525ZM103.89 13.4797C103.724 13.8325 103.354 14.0276 102.815 14.0276C102.101 14.0276 101.64 13.5254 101.611 12.7327V12.6829H104.803V12.3716C104.803 10.9521 104.043 10.093 102.786 10.093C101.511 10.093 100.702 11.0103 100.702 12.4546C100.702 13.8989 101.495 14.7871 102.79 14.7871C103.823 14.7871 104.545 14.2891 104.749 13.4797H103.89Z" fill="#202020"></path><path d="M24.769 20.3008C24.7907 18.6198 25.6934 17.0292 27.1256 16.1488C26.2221 14.8584 24.7088 14.0403 23.1344 13.9911C21.4552 13.8148 19.8272 14.9959 18.9715 14.9959C18.0992 14.9959 16.7817 14.0086 15.363 14.0378C13.5137 14.0975 11.7898 15.1489 10.8901 16.7656C8.95607 20.1141 10.3987 25.0351 12.2513 27.7417C13.1782 29.0671 14.2615 30.5475 15.6789 30.495C17.066 30.4375 17.584 29.6105 19.2583 29.6105C20.9171 29.6105 21.4031 30.495 22.8493 30.4616C24.3377 30.4375 25.2754 29.1304 26.1698 27.7925C26.8358 26.8481 27.3483 25.8044 27.6882 24.7C25.9391 23.9602 24.771 22.2 24.769 20.3008Z" fill="#202020"></path><path d="M22.0373 12.2111C22.8489 11.2369 23.2487 9.98469 23.1518 8.72046C21.912 8.85068 20.7668 9.44324 19.9443 10.3801C19.14 11.2954 18.7214 12.5255 18.8006 13.7415C20.0408 13.7542 21.2601 13.1777 22.0373 12.2111Z" fill="#202020"></path><rect x="0.5" y="0.5" width="119" height="39" rx="6.5" stroke="#202020"></rect></svg></a>
+</div>
+</div>
+<div class="footer-item__column">
+<span class="footer-item__subtitle">Мы в сетях и чатах</span><ul class="footer-item__social">
+<li><a target="_blank" rel="nofollow" href="https://www.facebook.com/artchive.ru"><svg width="12" height="22" viewBox="0 0 12 22"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.9278 12.283L11.5333 8.33091H7.74273V5.76671C7.74273 4.68642 8.27131 3.63114 9.97058 3.63114H11.6949V0.267183C11.6949 0.267183 10.1302 0 8.63467 0C5.51298 0 3.47159 1.89151 3.47159 5.31885V8.33101H0V12.2831H3.47159V21.8348C4.1674 21.9442 4.88055 22 5.60716 22C6.33377 22 7.04692 21.9423 7.74273 21.8348V12.2831H10.9279L10.9278 12.283Z"></path></svg></a></li>
+<li><a target="_blank" rel="nofollow" href="https://www.instagram.com/artchiveru/"><svg width="23" height="22" viewBox="0 0 23 22"><path d="M11.6948 2.26875C14.5479 2.26875 14.8917 2.26875 15.9917 2.3375C17.0229 2.37188 17.6073 2.54375 17.9854 2.71563C18.4667 2.92188 18.8448 3.12812 19.2229 3.50625C19.6011 3.88437 19.8417 4.22813 20.0136 4.74375C20.1511 5.12188 20.3229 5.67188 20.3917 6.7375C20.4261 7.87188 20.4604 8.18125 20.4604 11.0344C20.4604 13.8875 20.4604 14.2312 20.3917 15.3312C20.3573 16.3625 20.1854 16.9469 20.0136 17.325C19.8073 17.8062 19.6011 18.1844 19.2229 18.5625C18.8448 18.9406 18.5011 19.1812 17.9854 19.3531C17.6073 19.4906 17.0573 19.6625 15.9917 19.7313C14.8573 19.7656 14.5479 19.8 11.6948 19.8C8.8417 19.8 8.49795 19.8 7.39795 19.7313C6.3667 19.6969 5.78232 19.525 5.4042 19.3531C4.92295 19.1469 4.54482 18.9406 4.1667 18.5625C3.78857 18.1844 3.54795 17.8406 3.37607 17.325C3.23857 16.9469 3.0667 16.3969 2.99795 15.3312C2.96357 14.1969 2.96357 13.8531 2.96357 11C2.96357 8.14687 2.96357 7.80312 3.03232 6.70312C3.0667 5.67188 3.23857 5.0875 3.41045 4.70937C3.6167 4.22812 3.82295 3.85 4.20107 3.47188C4.5792 3.09375 4.92295 2.85313 5.43857 2.68125C5.8167 2.54375 6.3667 2.37188 7.43232 2.30312C8.49795 2.26875 8.8417 2.26875 11.6948 2.26875ZM11.6948 0.34375C8.80732 0.34375 8.4292 0.34375 7.29482 0.4125C6.16045 0.48125 5.36982 0.653125 4.7167 0.89375C4.0292 1.16875 3.41045 1.54687 2.82607 2.13125C2.2417 2.71563 1.86357 3.33437 1.58857 4.02187C1.31357 4.70937 1.1417 5.46563 1.10732 6.6C1.03857 7.73438 1.03857 8.1125 1.03857 11C1.03857 13.8875 1.03857 14.2656 1.10732 15.4C1.17607 16.5344 1.34795 17.325 1.58857 17.9781C1.86357 18.6656 2.2417 19.2844 2.82607 19.8687C3.41045 20.4531 4.0292 20.8313 4.7167 21.1063C5.4042 21.3813 6.16045 21.5531 7.29482 21.5875C8.4292 21.6562 8.80732 21.6562 11.6948 21.6562C14.5823 21.6562 14.9604 21.6562 16.0948 21.5875C17.2292 21.5187 18.0198 21.3469 18.6729 21.1063C19.3604 20.8313 19.9792 20.4531 20.5636 19.8687C21.1479 19.2844 21.5261 18.6656 21.8011 17.9781C22.0761 17.2906 22.2479 16.5344 22.2823 15.4C22.3511 14.2656 22.3511 13.8875 22.3511 11C22.3511 8.1125 22.3511 7.73438 22.2823 6.6C22.2136 5.46563 22.0417 4.675 21.8011 4.02187C21.5261 3.33437 21.1479 2.71563 20.5636 2.13125C19.9792 1.54687 19.3604 1.16875 18.6729 0.89375C17.9854 0.61875 17.2292 0.446875 16.0948 0.4125C14.9604 0.34375 14.5823 0.34375 11.6948 0.34375Z"></path><path d="M11.6937 5.53442C8.66865 5.53442 6.22803 7.97505 6.22803 11C6.22803 14.025 8.66865 16.4657 11.6937 16.4657C14.7187 16.4657 17.1593 14.025 17.1593 11C17.1593 7.97505 14.7187 5.53442 11.6937 5.53442ZM11.6937 14.5407C9.73428 14.5407 8.15303 12.9594 8.15303 11C8.15303 9.04067 9.73428 7.45942 11.6937 7.45942C13.653 7.45942 15.2343 9.04067 15.2343 11C15.2343 12.9594 13.653 14.5407 11.6937 14.5407Z"></path><path d="M17.3656 6.5999C18.0681 6.5999 18.6375 6.03046 18.6375 5.32803C18.6375 4.62559 18.0681 4.05615 17.3656 4.05615C16.6632 4.05615 16.0938 4.62559 16.0938 5.32803C16.0938 6.03046 16.6632 6.5999 17.3656 6.5999Z"></path></svg></a></li>
+<li><a target="_blank" rel="nofollow" href="https://vk.com/artchive"><svg width="27" height="16" viewBox="0 0 27 16"><path d="M25.6746 1.27189H21.4555C21.2833 1.27189 21.1143 1.31857 20.9665 1.40698C20.8187 1.49539 20.6977 1.62221 20.6162 1.77395C20.6162 1.77395 18.9335 4.87299 18.393 5.91681C16.9389 8.7248 15.9972 7.84328 15.9972 6.54006V2.04657C15.9972 1.67108 15.8481 1.31096 15.5825 1.04545C15.317 0.779938 14.9569 0.630775 14.5814 0.630775H11.4092C10.9772 0.598655 10.5442 0.677508 10.1512 0.859847C9.75825 1.04219 9.41843 1.32195 9.16403 1.67258C9.16403 1.67258 10.7748 1.41214 10.7748 3.58255C10.7748 4.12075 10.8026 5.66902 10.8278 6.96762C10.8326 7.15898 10.7785 7.3472 10.6729 7.50686C10.5673 7.66652 10.4153 7.78993 10.2373 7.86043C10.0593 7.93094 9.86401 7.94514 9.67772 7.90111C9.49143 7.85709 9.32313 7.75697 9.19555 7.61426C7.89711 5.80836 6.82157 3.85223 5.9923 1.78837C5.92108 1.63398 5.80707 1.50326 5.6638 1.41171C5.52052 1.32017 5.354 1.27164 5.18397 1.27189C4.26898 1.27189 2.43799 1.27189 1.35063 1.27189C1.24518 1.27117 1.14114 1.29606 1.04744 1.34442C0.953744 1.39278 0.873185 1.46317 0.812689 1.54954C0.752193 1.6359 0.713569 1.73566 0.700133 1.84025C0.686698 1.94483 0.698854 2.05111 0.735556 2.14997C1.89955 5.34278 6.91364 15.3763 12.6367 15.3763H15.0456C15.298 15.3763 15.54 15.2761 15.7185 15.0976C15.897 14.9191 15.9972 14.6771 15.9972 14.4247V12.9701C15.9972 12.7877 16.0506 12.6092 16.1508 12.4567C16.251 12.3042 16.3936 12.1843 16.5611 12.1119C16.7285 12.0394 16.9136 12.0176 17.0933 12.049C17.273 12.0804 17.4397 12.1637 17.5727 12.2886L20.4559 14.9976C20.7148 15.2409 21.0567 15.3763 21.412 15.3763H25.1982C27.0243 15.3763 27.0243 14.1092 26.0287 13.1287C25.328 12.4386 22.7996 9.77357 22.7996 9.77357C22.5831 9.54927 22.454 9.25491 22.4355 8.94369C22.4171 8.63248 22.5106 8.32494 22.6991 8.07664C23.5164 7.00116 24.8531 5.24069 25.42 4.48651C26.1949 3.45568 27.5973 1.27189 25.6746 1.27189Z"></path></svg></a></li>
+<li><a target="_blank" rel="nofollow" href="https://t.me/arthivecom"><svg width="23" height="20" viewBox="0 0 23 20"><path d="M2.04481 8.82702L15.1486 3.42804C16.4421 2.86569 20.829 1.06608 20.829 1.06608C20.829 1.06608 22.8536 0.278813 22.6848 2.19079C22.6286 2.97806 22.1789 5.7339 21.7288 8.71433L20.3229 17.5437C20.3229 17.5437 20.2103 18.8372 19.2526 19.0621C18.2949 19.2871 16.7219 18.2749 16.4408 18.0498C16.2159 17.8812 12.2229 15.3504 10.7605 14.1131C10.3668 13.7759 9.917 13.1008 10.8168 12.3135C12.8415 10.4577 15.2599 8.15181 16.7219 6.68965C17.3968 6.01475 18.0717 4.44006 15.2597 6.35236L7.32996 11.6951C7.32996 11.6951 6.42999 12.2574 4.74292 11.7513C3.05585 11.2453 1.08744 10.5704 1.08744 10.5704C1.08744 10.5704 -0.262342 9.72683 2.04351 8.82719L2.04481 8.82702Z"></path></svg></a></li>
+<li><a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UC5mnWWD_aR7BM61nJRsapNQ"><svg width="23" height="16" viewBox="0 0 23 16"><path d="M22.2352 2.70479C21.9822 1.75819 21.2368 1.01281 20.2902 0.759814C18.5744 0.300049 11.6948 0.300049 11.6948 0.300049C11.6948 0.300049 4.81523 0.300049 3.0994 0.759814C2.15297 1.01281 1.40742 1.75819 1.15446 2.70479C0.694824 4.42045 0.694824 8.00018 0.694824 8.00018C0.694824 8.00018 0.694824 11.5798 1.15446 13.2953C1.40742 14.2419 2.15297 14.9875 3.0994 15.2405C4.81523 15.7 11.6948 15.7001 11.6948 15.7001C11.6948 15.7001 18.5744 15.7 20.2902 15.2405C21.2368 14.9875 21.9822 14.2419 22.2352 13.2953C22.6948 11.5798 22.6948 8.00018 22.6948 8.00018C22.6948 8.00018 22.6948 4.42045 22.2352 2.70479ZM9.4947 11.3002V4.70009L15.2104 8.00018L9.4947 11.3002Z"></path></svg></a></li>
+</ul>
+<div class="footer-item__nav"><ul>
+<li><a target="_blank" rel="nofollow" href="https://medium.com/@artchive">Страница в Медиуме</a></li>
+<li><a target="_blank" rel="nofollow" href="https://telegram.me/arthivebot">Бот для Телеграма</a></li>
+</ul></div>
+<div class="footer-item__mobile">
+<div class="footer-item__lang c_ui8_adaptive_dropdown">
+<div id="id_hint__vEhTAkHOWPYl" class="c_hidden_hint">
+<div class="onboarding-tooltip__title">Выберите язык</div>
+<div class="onboarding-tooltip__text">Пользуйтесь Артхивом на удобном для вас языке</div>
+</div>
+<div class="c_hint_script"><script>
+model_hint_popup.add_obj('id_hint__vEhTAkHOWPYl', '', false, false);
+</script></div>
+<span class="c_capitalize">
+Language: русский</span><div class="footer-item__dropdown"><ul>
+<li><a onclick="global.change_lang(this, 'uk', '/uk/artworks/type:graphics')"><span class="c_capitalize">українська</span></a></li>
+<li><a onclick="global.change_lang(this, 'en', '/en/artworks/type:graphics')"><span class="c_capitalize">english</span></a></li>
+<li><a onclick="global.change_lang(this, 'de', '/de/artworks/type:graphics')"><span class="c_capitalize">deutsch</span></a></li>
+<li><a onclick="global.change_lang(this, 'es', '/es/artworks/type:graphics')"><span class="c_capitalize">español</span></a></li>
+<li><a onclick="global.change_lang(this, 'fr', '/fr/artworks/type:graphics')"><span class="c_capitalize">français</span></a></li>
+<li><a onclick="global.change_lang(this, 'it', '/it/artworks/type:graphics')"><span class="c_capitalize">italiano</span></a></li>
+<li><a onclick="global.change_lang(this, 'sl', '/sl/artworks/type:graphics')"><span class="c_capitalize">Slovenski</span></a></li>
+<li><a onclick="global.change_lang(this, 'zh', '/zh/artworks/type:graphics')"><span class="c_capitalize">汉语</span></a></li>
+</ul></div>
+</div>
+<div class="footer-item__copyrights">
+© Arthive, 2025</div>
+</div>
+</div>
+</div></div></div></div></div>
+<div class="footer-item__arrow js-footer-arrow--top" id="id_up_line" onclick="$.scrollTo(0, 500)" style="display:none"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M16.59 14.9102L12 10.3302L7.41 14.9102L6 13.5002L12 7.50016L18 13.5002L16.59 14.9102Z"></path></svg></div>
+<div class="rel c_hint_button"><div class="footer-item__question" id="id_help_button" onclick="model_hint_popup.toggle()"><svg width="24" height="24" viewBox="0 0 24 24"><path d="M13 18H11V16H13V18Z"></path><path d="M8 10C8 7.79 9.79 6 12 6C14.21 6 16 7.79 16 10C16 12.5 13 12.75 13 15H11C11 11.75 14 12 14 10C14 8.9 13.1 8 12 8C10.9 8 10 8.9 10 10H8Z"></path></svg></div></div>
+</div>
+<script src="https://accounts.google.com/gsi/client" async="async" defer></script><script>
+function _gl_do_google_jwt(responce){
+action_user.do_google_jwt(responce, 1);
+}
+</script><style>
+#credential_picker_container {
+top: 140px !important;
+}
+@media screen and (max-width: 991px) {
+#credential_picker_container {
+top: 180px !important;
+}
+}
+@media screen and (max-width: 768px) {
+#credential_picker_container {
+top: 70px !important;
+}
+}
+</style>
+<div id="g_id_onload" data-client_id="847193220770-5k7qe58b9pa4k3rt2ndm3i4mtca1abm4.apps.googleusercontent.com" data-context="signin" data-ux_mode="popup" data-callback="_gl_do_google_jwt" data-auto_prompt="true"></div>
+<div id="id_form_err_popup" class="auth-notice" style="display:none"></div>
+<script>global.move_popup_to_body('#id_form_err_popup');</script><div id="modal_wrap" style="display:none"><div id="modal"><div id="id_modal_loading" style="display:none; margin-top:10px;"><div class="c_loading_maked c_spinner_cont"><img alt="" class="c_spinner" src="https://artchive.ru/res/img/svg/spinner-white.svg" style=""></div></div></div></div>
+<div class="full_fade" style="display:none" id="id_fader"></div>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-44777274-2', 'artchive.ru');
+ga('send', 'pageview');
+</script><script>
+(function(m,e,t,r,i,k,a){
+m[i]=m[i]||function(){
+(m[i].a=m[i].a||[]).push(arguments)
+};
+m[i].l=1*new Date();
+k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+})
+(window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+ym(24150688, "init",
+{ clickmap:true,
+params: {ip_adress:'84.252.147.252', user_cc:'RU', recapcha_responce:'gl_empty', recapcha_token:'gl_empty'},
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+trackHash:true
+}
+);
+</script><noscript><div><img src="https://mc.yandex.ru/watch/24150688" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '209775657147908');
+fbq('track', 'PageView');
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=209775657147908&amp;ev=PageView&amp;noscript=1" alt=""></noscript>
+</body>
+</html>

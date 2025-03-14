@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <!-- PAGE TITLE -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Российский национальный Музей Музыки - Российский Национальный Музей Музыки</title>
+<base href="https://music-museum.ru/">
+<link rel="canonical" href="https://music-museum.ru//" />
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="index,follow">
+<meta name="revisit" content="1 day">
+<meta name="autor" content="Р. Растворцев">
+<meta name="yandex-verification" content="dd05472514cccb0b" />
+<meta name="yandex-verification" content="afd5e7a411932e77" />
+<meta name="proculture-verification" content="7db5c8e70a00f73781316f5f1232b0bf" />
+<!-- META-DATA -->
+
+    <link rel="icon" href="https://music-museum.ru/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://music-museum.ru/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://music-museum.ru/images/favicon-16x16.png">
+
+  <meta property="og:title" content="Российский национальный Музей Музыки" />
+  <meta property="og:description" content="" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://music-museum.ru//" />
+  <meta property="og:image" content="" />
+  <meta property="og:site_name" content="Российский Национальный Музей Музыки" />
+  <meta property="og:locale" content="ru_RU" />
+  <meta property="og:image:width" content="968">
+  <meta property="og:image:height" content="504">
+
+<!-- STYLESHEETS :: TEMPLATE -->
+<link href="/assets/template/css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="/assets/template/css/bvi.min.css" type="text/css">
+
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=5202" data-pixel-id="5202"></script>
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3344690", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+
+<!-- /Top.Mail.Ru counter -->
+<script type="text/javascript">!function(){var
+t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/
+js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1528209-
+44Ham"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img
+src="https://vk.com/rtrg?p=VK-RTRG-1528209-44Ham" style="position:fixed; left:-999px;"
+alt=""/></noscript>
+<link rel="stylesheet" href="/assets/components/pdotools/css/pdopage.min.css" type="text/css" />
+<script type="text/javascript">pdoPage = {callbacks: {}, keys: {}, configs: {}};</script>
+<link rel="canonical" href="https://music-museum.ru/"/>
+<link rel="next" href="https://music-museum.ru/?newslistpage=2"/>
+</head>
+<body class="index-template">
+        <!-- * * * * * * Mobile menu * * * * * * -->
+    <div class="mobile-menu" id="mobmenu">
+        <span class="mobile-menu-close close"></span>
+        <div class="uMenuH">
+            <ul class=""><li class="first"><a href="visit/rejim-raboti.html" >Посетителям</a><ul class=""><li class="first"><a href="visit/rejim-raboti.html" >Режим работы музеев</a></li><li><a href="visit/biletyi-i-czenyi.html" >Билеты и цены</a></li><li><a href="visit/pushkinskaya-karta-2023.html" >Пушкинская карта</a></li><li><a href="visit/accessible-museum.html" >Доступный музей</a></li><li><a href="visit/rules.html" >Правила посещения</a></li><li><a href="visit/reading-room.html" >Читальный зал</a></li><li><a href="visit/volonterskij-czentr.html" >Волонтерский центр</a></li><li class="last"><a href="promo/uchastnikam-svo.html" >Участникам специальной военной операции</a></li></ul></li><li><a href="events/" >Афиша</a><ul class=""><li class="first"><a href="events/exhibition/" >Выставки</a></li><li><a href="events/kontserty/" >Концерты</a></li><li><a href="events/serious-lecture/" >Лекции</a></li><li><a href="events/tours/" >Экскурсии</a></li><li><a href="events/season-tickets/" >Циклы музейных занятий</a></li><li class="last"><a href="events/muzejnyie-zanyatiya/" >Музейные занятия</a></li></ul></li><li><a href="muzej-detyam/tours.html" >Музей детям</a><ul class=""><li class="first"><a href="muzej-detyam/tours.html" >Экскурсии и музейные занятия</a></li><li><a href="muzej-detyam/birthdays/" >Дни рождения</a></li><li class="last"><a href="muzej-detyam/laboratoriya-kreativa-detskograd.html" >Лаборатория креатива «Детскоград»</a></li></ul></li><li><a href="museum-musicians/servises/" >Музей Музыкантам</a></li><li><a href="edu/" >Научная деятельность</a><ul class=""><li class="first"><a href="edu/conferences/" >Конференции</a></li></ul></li><li><a href="collections/all-collections/" >Музейные коллекции</a><ul class=""><li class="first"><a href="collections/all-collections/" >Все коллекции</a></li><li><a href="https://music-museum-iss.kamiscloud.ru/" >Онлайн коллекция</a></li><li class="last"><a href="https://lib.music-museum.ru/" >Сокровищница духовной музыки</a></li></ul></li><li><a href="" >Медиатека</a><ul class=""><li class="first"><a href="mediateka/videoteka/" >Видеотека</a></li><li><a href="mediateka/czifrovyie-vyistavki/" >Цифровые выставки</a></li><li class="last"><a href="promo/f.i.-shalyapin-s.v.-raxmaninov-150.html" >Ф.И. Шаляпин, С.В. Рахманинов - 150</a></li></ul></li><li><a href="collections/expomusic/" >Экспомузыка</a></li><li class="last"><a href="about/history.html" >О музее</a><ul class=""><li class="first"><a href="about/news/" >Новости</a></li><li><a href="about/history.html" >История</a></li><li><a href="about/publications/" >Публикации Музея Музыки</a></li><li><a href="about/documents/" >Документы</a></li><li><a href="about/press.html" >Пресс-служба</a></li><li><a href="about/vacancies/" >Вакансии</a></li><li><a href="about/partners.html" >Партнеры</a></li><li><a href="about/contacts.html" >Контакты</a></li><li><a href="about/foreign.html" >Международная деятельность</a></li><li><a href="about/godovoj-otchet.html" >Публичный отчет</a></li><li><a href="about/reviews.html" >Отзывы</a></li><li class="last"><a href="about/thanks.html" >Благодарности</a></li></ul></li></ul>
+        </div>
+        <div class="push30"></div>
+        
+        <div class="mobile-menu-info white">
+            
+            <div class="header-address">
+                <i class="fa fa-map-marker-alt"></i> <b>Наш адрес:</b> <br />
+                Россия, 125047, Москва, ул. Фадеева, 4
+            </div> 
+            
+            
+            
+            
+            
+            <div class="header-tel">
+                <i class="fa fa-phone"></i> <b>Телефон:</b> <br />
+                <a href="tel:+7 (495) 605-65-15">+7 (495) 605-65-15</a>
+            </div>
+            
+            
+        </div>
+        <div class="social">
+            <a href="https://zen.yandex.ru/id/5f1d090e4a0d6e3de6063377" target="_blank"><i class="f20 white fa fa-yahoo" aria-hidden="true"></i></a>
+            <a href="https://t.me/musicmuseum_ru" target="_blank"><i class="f20 white fa fa-telegram" aria-hidden="true"></i></a>
+            
+             
+            
+            <a href="https://vk.com/musicmuseum_ru" target="_blank"><i class="fa fa-vk white f20" aria-hidden="true"></i></a>
+            <a href="https://ok.ru/musicmuseum" target="_blank"><i class="fa fa-odnoklassniki-square white f20" aria-hidden="true"></i></a>
+            <a href="https://www.youtube.com/channel/UCNA0Jhq3Qbt2CcLQ9oan6Vg" target="_blank"><i class="fa fa-youtube white f20" aria-hidden="true"></i></a> 
+        </div>
+    </div>
+    <div class="overlay"></div>
+    <!-- * * * * * * Mobile menu: end * * * * * * -->
+    
+    <!-- * * * * * * Header * * * * * * -->
+    <div class="header-wrapper">
+        
+        
+        <div class="header">
+<div class="row">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">            
+                <div class="header-inner relative">
+                    <!-- * * * * * *<div class="logo-ng"><img src="/assets/template/images/ng.png"></div>* * * * * * -->
+                    <div class="logo left">
+                        <a href="https://culture.gov.ru/" target="_blank"><img class="minl" src="images/min2.png"></a>
+                                    <img src="/assets/template/images/logo-bordo.jpg" alt="Российский Национальный Музей Музыки">
+                    </div>
+                    <div class="mob-menu-btn hidden-md hidden-lg right">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+<div class="search-wrapper-top visible-xs">
+
+<a class="btn" target="_blank" href="https://music-museum.tn-cloud.ru/">Купить билет</a>
+</div>                     
+</div>  </div>                   
+<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+<div class="lang lang_fixed">
+            <div id="ytWidget" style="display: none;"></div>
+            <div class="lang__link lang__link_select" data-lang-active>
+                <img class="lang__img lang__img_select" src="./images/lang/lang__ru.png" alt="Ru">
+            </div>
+            <div class="lang__list" data-lang-list>
+                <a class="lang__link lang__link_sub" data-ya-lang="ru">
+                    <img class="lang__img" src="./images/lang/lang__ru.png" alt="ru">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="en">
+                    <img class="lang__img" src="./images/lang/lang__en.png" alt="en">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="zh">
+                    <img class="lang__img" src="./images/lang/lang__zh.png" alt="zh">
+                </a>
+            </div>
+        </div>    
+<div class="search-wrapper-top hidden-xs hidden-sm">
+                        <a href="about/contacts.html">Контакты</a> <a class="btn" href="https://music-museum.tn-cloud.ru/" target="_blank">Купить билет</a><a href="search.html"><i class="fa fa-search f18 l20"></i></a><a href="#" class="bvi-open" title="Версия сайта для слабовидящих"><i class="fa fa-eye f18 l20" aria-hidden="true"></i></a>
+
+</div>
+<div class="search-wrapper hidden-xs hidden-sm">
+  <div class="top-menu-inner relative">
+                    <div class="top-menu visible-md visible-lg">
+                        <div class="uMenuH">
+                            <ul class=""><li class="first"><a href="visit/rejim-raboti.html" >Посетителям</a><ul class=""><li class="first"><a href="visit/rejim-raboti.html" >Режим работы музеев</a></li><li><a href="visit/biletyi-i-czenyi.html" >Билеты и цены</a></li><li><a href="visit/pushkinskaya-karta-2023.html" >Пушкинская карта</a></li><li><a href="visit/accessible-museum.html" >Доступный музей</a></li><li><a href="visit/rules.html" >Правила посещения</a></li><li><a href="visit/reading-room.html" >Читальный зал</a></li><li><a href="visit/volonterskij-czentr.html" >Волонтерский центр</a></li><li class="last"><a href="promo/uchastnikam-svo.html" >Участникам специальной военной операции</a></li></ul></li><li><a href="events/" >Афиша</a><ul class=""><li class="first"><a href="events/exhibition/" >Выставки</a></li><li><a href="events/kontserty/" >Концерты</a></li><li><a href="events/serious-lecture/" >Лекции</a></li><li><a href="events/tours/" >Экскурсии</a></li><li><a href="events/season-tickets/" >Циклы музейных занятий</a></li><li class="last"><a href="events/muzejnyie-zanyatiya/" >Музейные занятия</a></li></ul></li><li><a href="muzej-detyam/tours.html" >Музей детям</a><ul class=""><li class="first"><a href="muzej-detyam/tours.html" >Экскурсии и музейные занятия</a></li><li><a href="muzej-detyam/birthdays/" >Дни рождения</a></li><li class="last"><a href="muzej-detyam/laboratoriya-kreativa-detskograd.html" >Лаборатория креатива «Детскоград»</a></li></ul></li><li><a href="museum-musicians/servises/" >Музей Музыкантам</a></li><li><a href="edu/" >Научная деятельность</a><ul class=""><li class="first"><a href="edu/conferences/" >Конференции</a></li></ul></li><li><a href="collections/all-collections/" >Музейные коллекции</a><ul class=""><li class="first"><a href="collections/all-collections/" >Все коллекции</a></li><li><a href="https://music-museum-iss.kamiscloud.ru/" >Онлайн коллекция</a></li><li class="last"><a href="https://lib.music-museum.ru/" >Сокровищница духовной музыки</a></li></ul></li><li><a href="" >Медиатека</a><ul class=""><li class="first"><a href="mediateka/videoteka/" >Видеотека</a></li><li><a href="mediateka/czifrovyie-vyistavki/" >Цифровые выставки</a></li><li class="last"><a href="promo/f.i.-shalyapin-s.v.-raxmaninov-150.html" >Ф.И. Шаляпин, С.В. Рахманинов - 150</a></li></ul></li><li><a href="collections/expomusic/" >Экспомузыка</a></li><li class="last"><a href="about/history.html" >О музее</a><ul class=""><li class="first"><a href="about/news/" >Новости</a></li><li><a href="about/history.html" >История</a></li><li><a href="about/publications/" >Публикации Музея Музыки</a></li><li><a href="about/documents/" >Документы</a></li><li><a href="about/press.html" >Пресс-служба</a></li><li><a href="about/vacancies/" >Вакансии</a></li><li><a href="about/partners.html" >Партнеры</a></li><li><a href="about/contacts.html" >Контакты</a></li><li><a href="about/foreign.html" >Международная деятельность</a></li><li><a href="about/godovoj-otchet.html" >Публичный отчет</a></li><li><a href="about/reviews.html" >Отзывы</a></li><li class="last"><a href="about/thanks.html" >Благодарности</a></li></ul></li></ul>
+                        </div>
+                    </div>
+</div></div>
+                </div>
+                     </div>
+                </div>
+        </div>
+    </div>
+    <!-- * * * * * * Header: end * * * * * * -->
+    
+        <div class="header-push"></div>
+     
+    
+    
+                        
+                        
+                        
+                        <div class="top-slider">
+                            <div class="row min no-padding">
+<a href="events/exhibition/czar-skazki.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/tsar-skazki-00.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="promo/150-let-ab-goldenvejzeru.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                <div class="title">
+                    150 лет А.Б. Гольденвейзеру
+                </div>
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/150-goldenveizeru-0.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="events/exhibition/czaricza-russkoj-operyi.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/tsaritsa-opery-0.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="about/news/olimpiada-muzei.-parki.-usadbyi-2024-2025.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                <div class="title">
+                    Олимпиада 2024-2025 гг.
+                </div>
+                
+                
+                <div class="subtitle">
+                    С 14 сентября 2024 г. по 31 марта 2025 г. в Музее музыки проходит Олимпиада «Музеи. Парки. Усадьбы»
+                </div>
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/olimpiada-000.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="events/exhibition/muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/ot-kamney-do-neyrosety-0.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="https://music-museum.ru/muzej-detyam/birthdays/"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/dni-rozjdeniya-0.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="http://музыкагероев.рф"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                <div class="title">
+                    Мультимедийный проект
+                </div>
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/musyka-geroev-0.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="visit/pushkinskaya-karta-2023.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                <div class="title">
+                    Пушкинская карта
+                </div>
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/pushkinskaya-karta-anon.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="https://7ya.er.ru/main-directions/dekret-obezopasnosti-rebenka-v-avtomobile"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/bezopasnost-00.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+<div class="row min no-padding">
+<a href="about/news/nashi-soczialnyie-seti.html"><div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 element">
+        <div class="table">
+            <div class="table-cell-slide">
+                
+                <div class="title">
+                    СОЦИАЛЬНЫЕ СЕТИ Музея Музыки
+                </div>
+                
+                                
+            </div>
+        </div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<div class="item"> 
+<div class="element2"><img src="/assets/components/phpthumbof/cache/sotsety-00.f86c36ea80da90951cb7a474538a9e7c1.webp"></div> 
+</div>    
+</div>
+
+</a></div>
+
+                        </div>
+                        
+    
+
+
+                        <div class="row"></div> 
+<div class="push30"></div> 
+<div class="row min no-padding">
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 center"><a href="visit/pushkinskaya-karta-2023.html"><img src="images/Banner/h01-post.jpg"></a></div>
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 center"><a href="https://t.me/musicmuseum_ru" target="_blank"><img src="images/Banner/ilinichna-post.jpg"></a></div>
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 center"><a href="https://bus.gov.ru/qrcode/rate/444907" target="_blank"><img src="images/Banner/oczenka-post.jpg"></a></div>
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 center"><a href="https://xn--80achcepozjj4ac6j.xn--p1ai/" target="_blank"><img height="108" src="images/slider/dic-p.png"></a></div>
+</div>
+<div class="push30"></div>
+<div class="line10b"></div>
+<div class="push30"></div>
+<!--НАЧАЛО БЛОКА АФИША  --> 
+
+<div class="row min no-padding">
+<div class="col-xs-12 col-sm-1 col-md-2 col-lg-3 hidden-xs"></div>     
+<div class="col-xs-12 col-sm-11 col-md-10 col-lg-8 bvi-tts">
+<div class="content">
+<!--<h2><a href="about/news/rezhim-rabotyi-s-30-dekabrya-2024-goda-po-08-yanvarya-2025-goda.html" target="_blank">РЕЖИМ РАБОТЫ с 28 декабря 2024 года по 08 января 2025 года</a></h2><br>  -->       
+<div class="title-m"><a class="noline" href="events/">Афиша</a></div>
+<div class="push30"></div> 
+<div class="news" id="pdopage">
+<div class="row min no-padding">
+        <a class="noline" href="events/tours/ekskursiya-po-odnoimennoj-vyistavke-muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big music"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей Музыки                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/exhibitions/2024/music-evolution_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Экскурсии</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/tours/ekskursiya-po-odnoimennoj-vyistavke-muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html">Экскурсия «Музыкальная эволюция: от камней до нейросети»</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+6+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a class="noline" href="events/kontserty/fortepiannyij-kruzhok-goldenvejzer-taneev-gedike.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+
+
+
+
+
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big goldenweiser"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей-квартира А.Б. Гольденвейзера
+
+
+
+
+                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/concert/2025/03/13.03-banner_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Концерты</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/kontserty/fortepiannyij-kruzhok-goldenvejzer-taneev-gedike.html">«Фортепианный кружок»: Танеев, Гедике, Гольденвейзер»</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+12+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a class="noline" href="events/kontserty/muzyikalnoe-puteshestvie.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big tchaikovsky"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей П.И. Чайковского в Москве
+                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/concert/2025/03/kompozitor-i-vremya-00_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Концерты</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/kontserty/muzyikalnoe-puteshestvie.html">Композитор и время</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+12+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a class="noline" href="events/kontserty/konczert-kamernoj-muzyiki-dlya-goboya.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+
+
+
+
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big golovanov"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей-квартира Н.С. Голованова
+
+
+
+                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/concert/2025/03/zastavka-15.03-nsg-2_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Концерты</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/kontserty/konczert-kamernoj-muzyiki-dlya-goboya.html">Музыка для гобоя</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+12+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a class="noline" href="events/kontserty/muzyika-zdes-i-sejchas.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big music"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей Музыки                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/concert/2025/03/muzika-sdes-i-seychas-00_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Концерты</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/kontserty/muzyika-zdes-i-sejchas.html">Музыка здесь и сейчас</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+12+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a class="noline" href="events/kontserty/shedevryi-kamernoj-muzyiki.html">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="element">
+
+<div class="row min no-padding d-m">
+  <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 left">
+         
+    </div>
+                <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 tt right">
+                     
+
+
+
+
+
+<div class="mmico2" style="margin-right: 10px;"><div class="color-box _big goldenweiser"><div class="color-box__color"></div> <div class="color-box__color"></div></div></div>Музей-квартира А.Б. Гольденвейзера
+
+
+
+
+                
+                
+                </div>   </div>  
+        
+                                    
+                
+                                    
+                <div class="img-wrapper"><img src="/assets/cache_image/images/concert/2025/03/20.3-banner_380x190_54b.webp"></div>
+<div class="row min no-padding d-m">
+  <div class="col-xs-11 col-sm-11 col-md-11 col-lg-11 left">
+                <div class="title-afisha">
+                    <span>Концерты</span>
+                    <div class="table">
+                        <div class="table-cell">
+                            <a class="noline" href="events/kontserty/shedevryi-kamernoj-muzyiki.html">Шедевры камерной музыки</a> 
+                        </div>
+                    </div>
+                </div>
+</div>
+<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1 right">
+    <div class="push25"></div>
+12+    
+</div>    
+</div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />        
+</div>
+</div>
+</div>
+<div class="content"><h2><a href="events/"><u>Вся Афиша</u></a></h2></div> 
+<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1 hidden-xs"></div> 
+</div>     
+</div>
+</div> 
+
+
+</div>
+</div> 
+<!--КОНЕЦ БЛОКА АФИША  --> 
+
+<div class="push30"></div> 
+<div class="line10b"></div>
+
+
+<!--НАЧАЛО БЛОКА ВЫСТАВКИ + НОВОСТИ  --> 
+<div class="push30"></div>
+<div class="row min no-padding">
+<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+</div>     
+
+<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7 bvi-tts">
+<div class="title-m content">Выставки</div> 
+<div class="news">
+<div class="row rows">
+        <a href="events/exhibition/muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html">
+    <div class="data-grid-item col-md-6 home-v">
+    <div class="element-home">
+        <div class="row min">
+            
+                <div class="img-wrapper">
+                    <a href="events/exhibition/muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html"><img src="/assets/cache_image/images/exhibitions/2024/music-evolution_570x285_a6f.webp"></a>
+                </div>
+            
+                <div class="v-home-title">
+                    <div class="table">
+                        <div class="table-cell">
+                            <div class="date-home">
+
+
+                            </div>
+                            
+                            <a href="events/exhibition/muzyikalnaya-evolyucziya-ot-kamnej-do-nejroseti.html">Музыкальная эволюция от камней до нейросети</a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+
+</div>
+<div class="content"><h2><a href="events/exhibition/"><u>Все выставки</u></a></h2></div>
+</div>
+
+</div>
+
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 bvi-tts">
+    <div class="content">
+<a href="about/news/"><h5>Новости</h5></a>   
+
+<div class="news" id="pdopage">
+<div class="row rows">
+        <a href="about/news/mne-byi-tvoj-golos.-k-150-letiyu-legendarnogo-opernogo-basa-vasiliya-petrova.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                12.03
+            </div>
+                <div class="title-h3">
+                            «Мне бы твой голос!». К 150-летию легендарного оперного баса Василия Петрова
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/aleksandru-goldenvejzeru-150.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                10.03
+            </div>
+                <div class="title-h3">
+                            Александру Гольденвейзеру – 150!
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/pozdravlenie-s-8-marta.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                08.03
+            </div>
+                <div class="title-h3">
+                            Поздравление с 8 марта
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/ravelya-ne-nado-vosxvalyat-on-v-etom-ne-nuzhdaetsya.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                07.03
+            </div>
+                <div class="title-h3">
+                            «Равеля не надо восхвалять, он в этом не нуждается»
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/solnechnyij-bogach.-5-marta-den-pamyati-sergeya-prokofeva.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                05.03
+            </div>
+                <div class="title-h3">
+                            «Солнечный богач». 5 марта – день памяти Сергея Прокофьева
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/georg-fridrix-gendel.-k-340-letiyu-so-dnya-rozhdeniya.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                05.03
+            </div>
+                <div class="title-h3">
+                            Георг Фридрих Гендель. К 340-летию со дня рождения
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+<a href="about/news/izmenenie-rezhima-rabotyi-muzeya-muzyiki-27-fevralya.html">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="element-home-r">
+            <div class="date">
+                26.02
+            </div>
+                <div class="title-h3">
+                            Изменение режима работы Музея музыки 27 февраля
+                </div>
+             <div class="line10g"></div>   
+
+
+    </div>
+</div></a>
+<hr class="cleaner-hr" />
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+</div> 
+</div> 
+<!--КОНЕЦ БЛОКА ВЫСТАВКИ + НОВОСТИ  --> 
+
+<div class="push30"></div>
+<div class="line10b"></div>
+<div class="push30"></div>
+<div class="push30"></div> 
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row min no-padding"> 
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей Музыки</div>
+    <a href="museums/music.html"><img class="hm" src="/assets/cache_image/images/museums/mm-000_1650x750_575.webp" alt="Музей Музыки" title="Музей Музыки"></a>    
+    </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей П.И. Чайковского в Москве</div>
+    <a href="museums/tchaikovsky.html"><img class="hm" src="/assets/cache_image/images/museums/tchaikovsky-museum_1650x750_575.webp" alt="Музей П.И. Чайковского в Москве" title="Музей П.И. Чайковского в Москве"></a>    
+    </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей-усадьба Ф.И. Шаляпина</div>
+    <a href="museums/museum-manor-chaliapin.html"><img class="hm" src="/assets/cache_image/images/museums/fish-banner_1650x750_575.webp" alt="Музей-усадьба Ф.И. Шаляпина" title="Музей-усадьба Ф.И. Шаляпина"></a>    
+    </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей С.С. Прокофьева</div>
+    <a href="museums/the-prokofiev-museum.html"><img class="hm" src="/assets/cache_image/images/museums/prokofiev-museum_1650x750_575.webp" alt="Музей С.С. Прокофьева" title="Музей С.С. Прокофьева"></a>    
+    </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей-квартира Н.С. Голованова</div>
+    <a href="museums/the-golovanovs-museum-apartment.html"><img class="hm" src="/assets/cache_image/images/museums/golovanov-museum_1650x750_575.webp" alt="Музей-квартира Н.С. Голованова" title="Музей-квартира Н.С. Голованова"></a>    
+    </div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 bvi-tts">
+        <div class="title-mm">Музей-квартира А.Б. Гольденвейзера</div>
+    <a href="museums/museum-apartment-goldenweiser.html"><img class="hm" src="/assets/cache_image/images/museums/goldenweiser-museum-main_1650x750_575.webp" alt="Музей-квартира А.Б. Гольденвейзера" title="Музей-квартира А.Б. Гольденвейзера"></a>    
+    </div>        
+        </div>
+        
+
+        <div class="footer-push center">
+            <a class="fancyboxModal btn-news" href="#news">Подписаться на новости</a>
+    
+</div>
+    </div>
+<!-- * * * * * * Footer * * * * * * -->
+    <div class="footer-wrapper bvi-tts">
+
+        <div class="footer-c">
+            <div class="row">
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+     
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+    
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+   
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 col-xl-2">
+
+</div>
+<div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 col-xl-2">
+     
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 col-xl-2">
+    
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+  
+<div class="push20 visible-xs visible-sm"></div> 
+</div>
+<div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1">
+<div class="push20 visible-xs visible-sm"></div>         
+</div>
+</div>
+        <div class="push30"></div>   
+        <div class="push30"></div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 f10">
+               <p class="f12"><a href="protivodejstvie-korrupczii.html">Противодействие коррупции</a></p>
+               <p class="f12"><a href="https://music-museum.ru/doc/uch_docum/politika-obrabotki-persdannyix.pdf">Политика конфиденциальности</a></p>
+               <p><a href="#" class="bvi-open" title="Версия сайта для слабовидящих">Версия сайта для слабовидящих</a></p>
+               <p class="f12"> © 2025 Все права защищены. Копирование материалов разрешено только с согласия администрации сайта.</p>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+        <div class="social">
+            <a href="https://zen.yandex.ru/id/5f1d090e4a0d6e3de6063377" target="_blank"><i class="f20 white fa fa-yahoo" aria-hidden="true"></i></a>
+            <a href="https://t.me/musicmuseum_ru" target="_blank"><img src="images/ico/telegram.png" height="25px"></a>
+            
+            <a href="https://vk.com/musicmuseum_ru" target="_blank"><i class="fa fa-vk white f20" aria-hidden="true"></i></a>
+            <a href="https://ok.ru/musicmuseum" target="_blank"><i class="fa fa-odnoklassniki-square white f20" aria-hidden="true"></i></a>
+        </div>                
+                </div>
+            </div>    
+        </div>
+    </div>
+    
+    
+    <!-- * * * * * * Footer: end * * * * * * -->
+
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    
+    
+    <link href="/assets/template/css/font-awesome.css" rel="stylesheet">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/assets/template/js/modernizr.js"></script>
+    <script src="/assets/template/js/jquery.form.js"></script> 
+    <script src="/assets/template/js/jquery.fancybox.js"></script>
+    <script src="/assets/template/js/jquery.mosaicflow.js"></script>
+    <script src="/assets/template/js/slick.min.js"></script>
+    <script src="/assets/template/js/jquery.maskedinput.js"></script>
+    <script src="/assets/template/js/lightgallery-all.min.js"></script>
+    <script src="/assets/template/js/scripts.js"></script>
+<!-- 
+<div class="modal" id="bay-all">
+<iframe src="" width="800px" height="800px"></iframe>     
+</div>
+-->
+<div class="modal-br" style="max-width: 500px; padding: 10px;" id="br" width="300px">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="push10"></div>
+    <img src="images/director.jpg">
+    <div class="push10"></div>
+    <h2>БРЫЗГАЛОВ МИХАИЛ АРКАДЬЕВИЧ</h2>
+<p>Генеральный директор, заслуженный деятель искусств РФ, президент Ассоциации музыкальных музеев и коллекционеров, член Комиссии Российской Федерации по делам ЮНЕСКО, член Президиума ИКОМ России, член Президиума Союза музеев России, президент Ассоциации духовых оркестров и исполнителей на духовых и ударных инструментах «Духовое общество имени Валерия Халилова», кандидат экономических наук, награжден Орденом Почета (2020).</p>   
+</div>
+</div>
+</div>
+
+<div class="modal-br" style="max-width: 960px; padding: 10px;" id="news" width="960px" height="440">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<iframe width="960" height="440" src="https://pro.culture.ru/widgets/embed/sotxzmc1fa3jebf1" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+</div>
+
+<div class="privacy_block">
+<div class="text">При нахождении на сайте, Вы соглашаетесь на <a href="/">политику</a> обработки персональных данных. <div target="_blank" id="cookie_close" class="privacy_btn" >Ок</a></div>
+</div>
+ <!-- * * * * * * Callback modal block * * * * * * -->
+    <div class="modal" id="bay-ze">
+        <!--  <div class="title-h2 black">Заказать экскурсию - Российский национальный Музей Музыки</div> -->
+        <div class="push10"></div>
+        <div class="rf">
+            <form method="post" class="ajax_form">
+    <div class="form-group">
+        <input name="callbackdate-ze" value="" type="datetime-local" class="form-control" placeholder="Желаемае дата и время" />
+    </div>
+    <div class="form-group">
+        <input name="callbackraz-ze" value="" type="text" class="form-control" placeholder="Размер группы" />
+    </div>
+    <div class="form-group">
+        <input name="callbackfio-ze" value="" type="text" class="form-control" placeholder="Ваше имя" />
+    </div>
+    <div class="form-group">
+        <input name="callbackphone-ze" value="" type="phone" class="form-control" placeholder="Телефон" />
+    </div>
+    <div class="form-group">
+        <input name="callbackemail-ze" value="" type="email" class="form-control" placeholder="Ваш email" />
+    </div>
+    <div class="form-group">
+    <textarea  class="form-control" name="callbackmessage-ze" value="" placeholder="Ваши пожелания" /></textarea>
+    </div>
+    
+  
+        <div class="push15"></div>
+    
+    
+    <input type="hidden" name="callbackantispam-ze" value="">
+    <div class="agreement form-group">
+        <input type="checkbox" name="agreement" id="agreement-ze" class="required">
+        <label for="agreement-ze">
+            <i class="far fa-check-square checked f20"></i> 
+            <i class="far fa-square no-checked f20"></i> 
+            Согласен на обработку персональных данных *
+        </label>
+    </div>
+<div class="push10"></div>
+    <input name="callbackbtn-ze" type="submit" class="btn big" value="Заказать" />
+        
+    <p><span class="red">*</span> <span class="f12">- поля, обязательные для заполнения</span></p>
+
+	<input type="hidden" name="af_action" value="71bd68a51a25383a9e1511b56759551f" />
+</form>
+<div id="success-response" class="alert alert-info d-none">
+<p>Спасибо за обращение, сообщение отправлено!</p>
+<p>Мы ответим Вам в ближайшее время.</p>
+</div>
+        </div>
+    </div>
+
+    <div class="modal" id="successmessage">
+        <div class="title-h2">Сообщение успешно отправлено!</div>
+        <hr />
+        <p>Наш менеджер перезвонит вам в ближайшее время.</p>
+        <div class="push25"></div>
+        <div class="row">
+            <div class="col-xs-7 col-sm-5">
+                <a href="#" class="tplbutton block fancyClose">ok</a>
+            </div>
+        </div>
+    </div>
+    
+
+<style> 
+    .thumb img { 
+      filter: none; /* IE6-9 */ 
+      -webkit-filter: grayscale(0); 
+      border-radius:5px; 
+      background-color: #fff; 
+      border: 1px solid #ddd; 
+      padding:5px; 
+    } 
+    .thumb img:hover { 
+      filter: gray; /* IE6-9 */ 
+      -webkit-filter: grayscale(1); 
+    } 
+    .thumb { 
+      padding:5px; 
+    } 
+  </style>
+  
+<script type="text/javascript"> 
+    $(document).ready(function() { 
+      $("a.fancyimage").fancybox(); 
+    }); 
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".various").fancybox({
+		maxWidth	: 800,
+		maxHeight	: 1200,
+		fitToView	: false,
+		width		: '90%',
+		height		: '90%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+});
+</script>
+
+<script type="text/javascript">
+$(".content_toggle").click(function(){
+    $('.content_more').slideToggle(300, function(){
+        if ($(this).is(':hidden')) {
+            $('.content_toggle').html('<i class="far fa-comment"></i> Добавьте комментарий');
+        } else {
+            $('.content_toggle').html('');
+        }                            
+    });
+    return false;
+});
+</script>
+<script>
+function onoff(t){
+	p=document.getElementById(t);
+	if(p.style.display=="none"){
+		p.style.display="block";}
+	else{
+		p.style.display="none";}
+}
+</script>
+<script>
+$(document).ready(function() {
+	$('.block').on('click', '.rrr', function(){
+});
+});
+</script>
+
+<script>
+$(document).on('af_complete', function(event, response) {
+var form = response.form;
+if (response.success) {
+response.form.hide();
+$('#success-response').removeClass('d-none');
+}
+});
+</script>
+<script>
+// Кнопка 
+    	$(".search").submit(function () {
+            // раскоментировать если нужна кнопка
+            //$("#search-ajax-results-wrap").load("/tools/search-results-ajax/ .search-ajax-results",$(".search").serialize()).slideDown("fast"); 
+            return false;
+    	});
+    	// Живой поиск
+    	$(".search input").keyup(function() {
+    		if(this.value.length > 2) { // Пользователь набирает больше 2 символов в строке поиска
+    			// скрывает/отображает с результаты за пределами окна
+    			$(document).click(function(event){ // скрываем 
+    				if ($(event.target).closest(".search-ajax-results-wrap").length) return;
+    				$(".search-ajax-results-wrap").slideUp("fast");
+    				//event.stopPropagation();
+    			});
+    			$('#search').click( function() { // отображаем
+    				$(".search-ajax-results-wrap").slideDown("fast");
+    				return false;
+    			});	
+    			// ajax запрос загрузка результатов поиска от страницы и показ контейнера
+    			$("#search-ajax-results-wrap").load("/tools/search-results-ajax/ .search-ajax-results",$(".sisea-search-form").serialize()).slideDown("fast");
+    		}
+    		else {
+    		    // Если набрано меньше 2 символов, скрыть контейнер (CSS display:none;)
+    			$("#search-ajax-results-wrap").slideUp("fast"); 
+    		}
+    	});
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(69356746, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/69356746" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(53967538, "init", {
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53967538" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+        <script src="/assets/template/js/js.cookie.js"></script>
+        <script src="/assets/template/js/bvi-init.js"></script>
+        <script src="/assets/template/js/bvi.min.js"></script>
+
+<div style='display:none'>
+</div>    
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?169",t.onload=function(){VK.Retargeting.Init("VK-RTRG-987510-8WLsO"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-987510-8WLsO" style="position:fixed; left:-999px;" alt=""/></noscript>
+<script type="text/javascript">
+function getCookie(name) {
+let matches = document.cookie.match(new RegExp(
+"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+));
+return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+let cookiecook = getCookie("cookiecook"),
+cookiewin = document.getElementsByClassName('privacy_block')[0];
+if (cookiecook != "no") {
+cookiewin.style.display="block";
+document.getElementById("cookie_close").addEventListener("click", function(){
+cookiewin.style.display="none";
+// записываем cookie на 3 дня, во время которых блок не показывается
+let date = new Date;
+date.setDate(date.getDate() + 3);
+document.cookie = "cookiecook=no; path=/; expires=" + date.toUTCString();
+});}
+</script>
+
+
+<script src="/assets/template/js/yatranslate.js"></script>
+
+<script>if(!window._teletypeWidget){window._teletypeWidget = window._teletypeWidget || {};!function(){var t = document.getElementsByTagName("app-teletype-root");if (t.length > 0 && _teletypeWidget.init)return;var d = new Date().getTime();var n = document.createElement("script"),c = document.getElementsByTagName("script")[0];n.id = "teletype-widget-embed",n.src = "https://widget.teletype.app/init.js?_=" + d,n.async = !0,n.setAttribute("data-embed-version", "0.1");c.parentNode.insertBefore(n, c);}();document.addEventListener("teletype.ready", function(){console.log("Teletype ready")});window.teletypeExternalId = "pSDSbqHUPlWCD0bhltm6KjJ3guvW-ipdiGk7jp5PqrKHC3po19469tntfUomKU9I";}</script> 
+
+<script type="text/javascript" src="/assets/components/pdotools/js/pdopage.min.js"></script>
+<script type="text/javascript">pdoPage.initialize({"wrapper":"#pdopage","rows":"#pdopage .rows","pagination":"#pdopage .pagination","link":"#pdopage .pagination a","more":"#pdopage .btn-more","moreTpl":"<button class=\"btn btn-primary btn-more\">\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0435\u0449\u0435<\/button>","mode":"default","history":1,"pageVarKey":"newslistpage","pageLimit":"7","assetsUrl":"\/assets\/components\/pdotools\/","connectorUrl":"\/assets\/components\/pdotools\/connector.php","pageId":1,"hash":"e4ce0dddfcaee092d7e8a64a0ca61935bc675145","scrollTop":true});</script>
+<script type="text/javascript" src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+</body>
+</html>

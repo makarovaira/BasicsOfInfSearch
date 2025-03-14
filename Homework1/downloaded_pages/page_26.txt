@@ -1,0 +1,2515 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <title>Галерея картин Графика: смотрите и удивляйтесь!</title>
+<meta name="description" content="Здесь собрана большая коллекция картин современных художников категории &laquo;Графика&raquo;. Коллекцию пополняют сами авторы.">
+<meta property="og:url" content="https://masterkrasok.ru/pictures/graphics">
+
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage"}</script>
+
+    <meta name="csrf-token" content="omOOElMX1aqUcNHEI613yQ9nlpsj2wtGz231eJWy">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.masterkrasok.ru/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="256x256" href="https://cdn.masterkrasok.ru/favicon-256x256.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="https://cdn.masterkrasok.ru/favicon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.masterkrasok.ru/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.masterkrasok.ru/favicon-16x16.png" />
+<link rel="icon" type="image/svg+xml" href="https://cdn.masterkrasok.ru/favicon.svg" />
+<link rel="icon" href="https://cdn.masterkrasok.ru/favicon.ico" type="image/x-icon" />
+<link rel="manifest" href="https://masterkrasok.ru/site.webmanifest" />
+<link rel="mask-icon" href="https://cdn.masterkrasok.ru/favicon.svg" color="#5bbad5" />
+<meta name="msapplication-TileColor" content="#f54b44" />
+
+        <link rel="preload" href="https://cdn.masterkrasok.ru/fonts/helveticaneuecyr-roman-webfont.woff2" as="font"
+          type="font/woff2" crossorigin/>
+    <link rel="preload" href="https://cdn.masterkrasok.ru/fonts/helveticaneuecyr-light-webfont.woff2" as="font"
+          type="font/woff2" crossorigin/>
+
+    
+            <style type="text/css">
+            @font-face {
+                font-family: 'helveticaneuecyrlight';
+                src: url('/fonts/helveticaneuecyr-light-webfont.woff2') format('woff2'),
+                url('/fonts/helveticaneuecyr-light-webfont.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+                font-display: 'swap';
+            }
+
+            @font-face {
+                font-family: 'helveticaneuecyrroman';
+                src: url('/fonts/helveticaneuecyr-roman-webfont.woff2') format('woff2'),
+                url('/fonts/helveticaneuecyr-roman-webfont.woff') format('woff');
+                font-weight: normal;
+                font-style: normal;
+                font-display: 'swap';
+            }
+
+            body,html{height:100%}body{background:#f6f8f7 url(/images/bg.gif?d1b7b8234f73be4c2e805ac223b61e2b) repeat 0 0;font:15px/21px helveticaneuecyrroman,-apple-system,Arial,Open Sans,sans-serif}@media (max-width:992px){body{overflow-x:hidden}}body.overlay{overflow:hidden}.row{margin-right:0!important;margin-left:0!important}.first_header{background:#fff;box-shadow:0 0 15px 0 rgba(0,0,0,.4);position:relative;z-index:1001}.first_header .container{display:grid;grid-template-areas:"logo actual profile";grid-template-columns:max-content 1fr max-content;align-items:center}.first_header .logo{max-width:none;margin:5px 0;grid-area:logo;min-width:150px}.first_header .logo img{height:47px}.first_header .actual{grid-area:actual;position:relative;z-index:6}@media (max-width:500px){.first_header .actual.auth{display:none}}.first_header .actual .t{height:57px;padding:5px 15px;cursor:pointer;float:left;overflow:hidden;transition:.2s;position:relative;z-index:6;border-left:1px solid transparent;border-right:1px solid transparent}.first_header .actual .t .ct{margin-left:23px}@media (max-width:650px){.first_header .actual .t .ct{display:none}}.first_header .actual .t span{display:block;margin:0 0 5px}.first_header .actual .t span i{border-bottom:2px solid #f0d35b;font-style:normal;font-size:14px;padding-bottom:1px;font-weight:700}.first_header .actual .t .svg_ico{float:left;width:17px;height:17px;fill:#f0d35b;margin:3px 5px 0 0}@media (max-width:650px){.first_header .actual .t .svg_ico{width:22px;height:22px;margin-top:10px}}.first_header .actual .t:hover{background:#eee}.first_header .actual .t:hover .svg_ico{transform:scale(1.3)}.first_header .actual .t ins{font-size:13px;background:none;color:#0075b9;height:25px;white-space:nowrap;overflow:hidden;display:none}.first_header .actual .t ins.active{display:block}.first_header .actual .t.act{border-left:1px solid #d4d4d4;border-right:1px solid #d4d4d4;background:#fff;padding-top:18px}.first_header .actual .t.act #actual_rotate{display:none}.first_header .profile_data{grid-area:profile}.first_header .profile_data .desktop_small{display:none}@media (max-width:992px){.first_header .profile_data .desktop_small{display:block}}.first_header .profile_data .desktop_big{display:block;float:right}@media (max-width:992px){.first_header .profile_data .desktop_big{display:none}}.first_header .profile_data .av{width:30px;height:30px;border-radius:50%;overflow:hidden;display:inline-block;margin-top:10px;float:left}.first_header .profile_data .av img{vertical-align:top}.first_header .profile_data .un{margin:10px 0 0 5px;position:relative;display:table;float:left;height:33px}.first_header .profile_data .un .cut{display:table-cell;vertical-align:middle;line-height:normal;max-width:250px;overflow:hidden}@media (max-width:992px){.first_header .profile_data .un .cut{display:none}}.first_header .profile_data .un .caret{position:absolute;top:14px;right:-10px;margin:0}.first_header .profile_data .dropdown.open a[data-toggle=dropdown]{background:#eee;cursor:default}.first_header .profile_data ul{margin:0;padding:0}.first_header .profile_data ul li{float:right;list-style:none;margin:0;padding:0}.first_header .profile_data ul li.mobile_menu_burger{display:none}@media (max-width:992px){.first_header .profile_data ul li.mobile_menu_burger{display:block}.first_header .profile_data ul li.mobile_menu_burger a{padding:0 20px}}.first_header .profile_data ul li a{color:#000;display:block;font-size:14px;height:55px;line-height:50px;margin:0;padding:0 22px;text-decoration:none}@media (max-width:992px){.first_header .profile_data ul li a{padding:0 13px}}.first_header .profile_data ul li a .caret{margin-top:-5px}.first_header .profile_data ul li a:hover{background:#eee}.first_header .profile_data ul li a .svg_ico{float:left;position:relative;z-index:8;margin:17px 0 0;width:19px;height:19px;fill:#526473;transition:.3s}.first_header .profile_data ul li a.with_cnt .cnt{position:absolute;z-index:9;background:#f64b44;color:#fff;border-radius:50%;font-size:10px;width:18px;height:18px;left:31px;top:22px;text-align:center;line-height:18px}@media (max-width:992px){.first_header .profile_data ul li a.with_cnt .cnt{left:18px}}.first_header .profile_data ul li .dropdown-menu li{float:none}.first_header .profile_data ul li .dropdown-menu li a{height:auto;line-height:35px}.first_header .profile_data .btn_red{height:30px;width:178px;padding:0;line-height:30px;font-size:13px;text-decoration:none;margin:13px 0}.first_header .profile_data .btn_enter{height:30px;padding:0 20px;line-height:30px;font-size:13px;text-decoration:none;color:#000;margin:0 0 0 10px;font-weight:700}.first_header .profile_data .btn_enter:hover{background:#eee}#header_line{width:100%;background:#526473;position:relative;z-index:1000}@media (max-width:992px){#header_line{display:none}}#header_line ul{width:100%}#header_line ul,#header_line ul li{float:left;margin:0;padding:0;height:55px}#header_line ul li{list-style:none;-webkit-border-bottom-right-radius:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-bottomleft:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px}#header_line ul li.search{float:right}#header_line ul li.search .svg_ico{width:15px;height:15px;fill:#fff;margin:18px 0 0;float:left}#header_line ul li.search span{display:none}#header_line ul li a{color:#fff;display:block;font-size:14px;height:55px;line-height:50px;margin:0;padding:0 22px;text-decoration:none;position:relative}#header_line ul li a:hover{background:#415565}#header_line ul li a .c{position:absolute;z-index:9;background:#2d3741;color:#fff;border-radius:50%;font-size:10px;width:18px;height:18px;right:3px;top:10px;text-align:center;line-height:18px}#header_line ul li.current a,#header_line ul li.has_submenu:hover a.nav-link{background:#415565;color:#fff}#header_line ul li .crt{float:right;margin:1px 0 0 10px}#header_line ul li .crt .svg_ico{fill:#fff;width:10px;height:10px}#header_line ul li ul{display:none;visibility:visible;position:absolute;z-index:903;width:250px;background:#415565;height:auto;box-shadow:0 8px 16px 0 rgba(0,0,0,.2);-webkit-border-bottom-right-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px}#header_line ul li ul li{width:100%;height:auto}#header_line ul li ul li:last-child a{-webkit-border-bottom-right-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px}#header_line ul li ul li.current a{background:#526473;color:#fff}#header_line ul li ul li a{height:35px;line-height:35px;padding:0 22px}#header_line ul li ul li a:hover{background:#f6d44c;color:#000}#header_line ul li:hover{background:#415565}#header_line ul li:hover>ul{display:block}#header_line .dropdown-menu li a{color:#000}.main_submenu{background:#435565}.main_submenu ul{margin:0;padding:0}.main_submenu ul li{float:left;list-style:none}.main_submenu ul li a{display:block;float:left;padding:10px 25px;color:#fff;text-decoration:none}@media (max-width:992px){.main_submenu ul li a{padding:10px 15px}}.main_submenu ul li.current a{background:#f3d354;color:#000}.svg_ico{width:23px;height:23px}        </style>
+    
+    <link rel="stylesheet" href="https://cdn.masterkrasok.ru/css/vendor.css?id=7f89537eaf606bff49f5"/>
+            <link rel="stylesheet" href="https://cdn.masterkrasok.ru/css/layout.css?id=585fa694b6e30d04e9a0"/>
+    <link rel="stylesheet" href="https://cdn.masterkrasok.ru/css/style.css?id=ca3ef386f644abc87320"/>
+
+            <script>window.yaContextCb = window.yaContextCb || []</script>
+        <script src="https://yandex.ru/ads/system/context.js" async></script>
+        <!-- Yandex.RTB R-A-258799-10 -->
+        <script>window.yaContextCb.push(() => {
+                Ya.Context.AdvManager.render({
+                    type: 'floorAd',
+                    blockId: 'R-A-258799-10'
+                })
+            })</script>
+    
+    </head>
+<body>
+
+<!--[if lte IE 9]>
+<p class="browser_ie">
+    Вы используете <strong>старую и неподдерживаемую</strong> версию браузера.
+    Пожалуйста, <a href="https://browsehappy.com/">обновите ваш браузер</a> чтобы пользоваться всеми возможностями
+    сайта.
+</p>
+<![endif]-->
+
+
+<div id="page_loader_content">
+    <div class="page_loader_animate"></div>
+</div>
+
+<div class="content_wrapper inner_shape2" id="content_wrapper">
+    <div class="first_header">
+    <div class="container">
+
+        <div class="logo">
+            <a href="https://masterkrasok.ru/">
+                <img src="https://cdn.masterkrasok.ru/v4/images/svg/logo.svg" alt="Сообщество художников Мастер Красок"
+                     title="Сообщество художников Мастер Красок"/>
+            </a>
+        </div>
+
+        <div class="actual " id="jActualWidget"></div>
+
+        <div class="profile_data">
+            
+                            <ul class="desktop_small">
+                    <li class="mobile_menu_burger">
+                        <div class="dropdown">
+                            <a href="javascript:void(0);" class="toggle_mobile_menu">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                                    <use xlink:href="#ico_menu_burger"></use>
+                                </svg>
+                            </a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="dropdown dropdown_hover">
+
+                            <a href="https://lk.masterkrasok.ru/login" data-toggle="dropdown">
+                                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                                    <use xlink:href="#ico_profile"></use>
+                                </svg>
+                            </a>
+
+                            <ul class="dropdown-menu dropdown-menu-right">
+                                <li><a href="https://lk.masterkrasok.ru/login">Войти</a></li>
+                                <li><a href="https://lk.masterkrasok.ru/registration">Регистрация</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="desktop_big">
+                    <a href="https://lk.masterkrasok.ru/registration" class="btn btn_red">Зарегистрироваться</a>
+                    <a href="https://lk.masterkrasok.ru/login" class="btn btn_enter">Войти</a>
+                </div>
+                    </div>
+    </div>
+</div>
+
+<header id="header_line">
+
+    <nav class="mainmenu">
+        <div class="container">
+            <ul>
+    <li class="">
+        <a href="https://masterkrasok.ru" class="nav-link">Главная</a>
+    </li>
+    <li class="">
+        <a href="https://masterkrasok.ru/feed" class="nav-link">
+            Лента
+                    </a>
+    </li>
+    <li class="current">
+        <a href="https://masterkrasok.ru/pictures" class="has_submenu nav-link">
+            Галерея
+            <span class="crt">
+                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li >
+                <a href="https://masterkrasok.ru/pictures">Все картины</a>
+            </li>
+            <li ><a href="https://masterkrasok.ru/pictures/painting">Живопись </a></li>
+            <li class="current"><a href="https://masterkrasok.ru/pictures/graphics">Графика</a></li>
+            <li ><a href="https://masterkrasok.ru/pictures/illustration">Иллюстрации</a></li>
+            <li ><a href="https://masterkrasok.ru/pictures/digital_art">Digital Art</a></li>
+        </ul>
+    </li>
+    <li class="">
+        <a href="https://masterkrasok.ru/artists" class="has_submenu nav-link">
+            Художники
+            <span class="crt">
+                 <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li ><a href="https://masterkrasok.ru/artists?search=1">Все</a></li>
+            <li ><a href="https://masterkrasok.ru/artists">Художники, профи</a></li>
+            <li ><a href="https://masterkrasok.ru/artists?search=2&status%5B%5D=1">Начинающие</a></li>
+        </ul>
+    </li>
+    <li class=""
+    >
+        <a href="https://masterkrasok.ru/contests" class="has_submenu nav-link">
+            Конкурсы
+            <span class="crt">
+                 <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li >
+                <a href="https://masterkrasok.ru/contests">
+                    Текущие конкурсы
+                </a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/contests/results">
+                    Результаты конкурсов
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li >
+        <a href="https://masterkrasok.ru/posts" class="nav-link">
+            Публикации
+        </a>
+
+        <ul>
+            <li class="">
+                <a href="https://masterkrasok.ru/blogs" class="nav-link">Блоги</a>
+            </li>
+        </ul>
+    </li>
+
+        <li >
+        <a href="https://masterkrasok.ru/forum" class="nav-link hide-sm">
+            Форум
+        </a>
+    </li>
+
+    
+    <li class="search ">
+        <a href="https://masterkrasok.ru/search" class="nav-link" title="Поиск по сайту">
+            <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                <use xlink:href="#ico_search"></use>
+            </svg>
+            <span>Поиск по сайту</span>
+        </a>
+    </li>
+</ul>
+        </div>
+    </nav>
+
+</header>
+
+        <div class="main_submenu">
+        <div class="container">
+            <ul>
+                <li >
+                    <a href="https://masterkrasok.ru/pictures">
+                        Выставочный зал
+                    </a>
+                </li>
+                <li class="current">
+                    <a href="https://masterkrasok.ru/pictures/guestroom">
+                        Гостевая комната
+                    </a>
+                </li>
+                <li >
+                    <a href="https://masterkrasok.ru/pictures/top_last_week">
+                        ТОП прошлой недели
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+    
+    <section class="breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="" ><a itemprop="item" href="https://masterkrasok.ru"><span itemprop="name">Главная</span></a><meta itemprop="position" content="1" /> <span class="divider"><span class="glue">/</span></span></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="" ><a itemprop="item" href="https://masterkrasok.ru/pictures"><span itemprop="name">Галерея</span></a><meta itemprop="position" content="2" /> <span class="divider"><span class="glue">/</span></span></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class=" active"><span itemprop="name">Графика</span><meta itemprop="position" content="3" /></li></ul>                </div>
+            </div>
+        </div>
+    </section>
+    <div class="clear"></div>
+
+            <section class="promo_wide mrg_bottom">
+            <div class="bn_join_us">
+                <div class="container">
+                    <div class="text1">
+                        Вы художник и рисуете сногсшибательные картины?
+                    </div>
+                    <div class="text2">
+                        Присоединяйтесь к сообществу художников!
+                    </div>
+                    <a href="https://lk.masterkrasok.ru/registration" class="btn btn_blue">Создать
+                        свою галерею</a>
+                </div>
+            </div>
+        </section>
+    
+    <section class="white">
+        <div class="container">
+
+            <div class="page_header_filter_block row">
+                <div class="col-md-12 col-sm-12 m-15">
+                    <h1>Графика - работы художников</h1>
+
+                    
+                                        <div class="subsection">
+    <button class="btn">
+        Подразделы (10)
+        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+            <use xlink:href="#ico_arrow_down"></use>
+        </svg>
+    </button>
+
+    <div class="section_navigation">
+        <ul>
+            <li >
+                <a href="https://masterkrasok.ru/pictures">Галерея: выставочный зал</a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/pictures/guestroom">Галерея: гостевая комната</a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/pictures/top_last_week">ТОП картин прошлой недели</a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/pictures/selection">Подборки картин</a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/pictures/painting">Живопись </a>
+            </li>
+            <li class="current">
+                <a href="https://masterkrasok.ru/pictures/graphics">Графика</a>
+            </li>
+            <li ><a href="https://masterkrasok.ru/pictures/illustration">Иллюстрации</a></li>
+            <li ><a href="https://masterkrasok.ru/pictures/digital_art">Digital Art</a></li>
+
+            <li >
+                <a href="https://masterkrasok.ru/pictures/aerography">Аэрография</a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/pictures/art_painting">Художественная роспись</a>
+            </li>
+        </ul>
+    </div>
+
+</div>
+                </div>
+            </div>
+
+            <div class="row m-15">
+                <div class="col-md-3 stick_in_parent">
+
+                    <div class="section_navigation">
+    <ul>
+        <li >
+            <a href="https://masterkrasok.ru/pictures">Галерея: выставочный зал</a>
+        </li>
+        <li >
+            <a href="https://masterkrasok.ru/pictures/guestroom">Галерея: гостевая комната</a>
+        </li>
+        <li >
+            <a href="https://masterkrasok.ru/pictures/top_last_week">ТОП картин прошлой недели</a>
+        </li>
+        <li >
+            <a href="https://masterkrasok.ru/pictures/selection">Подборки картин</a>
+        </li>
+    </ul>
+</div>
+
+<div class="section_navigation">
+    <div class="h4">
+        Картины по категориям:
+    </div>
+
+    <ul>
+        <li >
+            <a href="https://masterkrasok.ru/pictures/painting">Живопись </a>
+        </li>
+        <li class="current">
+            <a href="https://masterkrasok.ru/pictures/graphics">Графика</a>
+
+            
+        </li>
+        <li ><a href="https://masterkrasok.ru/pictures/illustration">Иллюстрации</a></li>
+        <li ><a href="https://masterkrasok.ru/pictures/digital_art">Digital Art</a></li>
+
+        <li >
+            <a href="https://masterkrasok.ru/pictures/aerography">Аэрография</a>
+        </li>
+        <li >
+            <a href="https://masterkrasok.ru/pictures/art_painting">Художественная роспись</a>
+        </li>
+    </ul>
+</div>
+
+<div class="section_navigation">
+    <div class="h4">
+        Техника исполнения
+    </div>
+    <ul>
+        <li ><a href="/pictures/oil">Картины маслом</a></li>
+    </ul>
+</div>
+
+<div class="section_navigation">
+
+    <a href="https://lk.masterkrasok.ru/works?album_id=0" class="side_nav_single_link lightyellow">
+        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+            <use xlink:href="#ico_plus"></use>
+        </svg>
+        Добавить картину
+    </a>
+
+</div>
+
+                </div>
+                <div class="col-md-9">
+
+                    
+                    <div class="pictures_list row">
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68397">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/GPn2b7xhbJLPh1YfB2XwYCiIbS3dTGXc2yMDnnaJ.jpg"
+                 alt="Жук-голиаф"
+                 title="Картина &laquo;Жук-голиаф&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68397">
+                    Жук-голиаф
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/darkwood"
+                    title="Lana">
+                    Lana
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68397#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    1
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            16
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68392">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/VvRzZxcEpmZbB36FaWOHoWOCYzx3rn5Rvrqdj77L.jpg"
+                 alt="&quot;Созерцатели светофоров&quot;"
+                 title="Картина &laquo;&quot;Созерцатели светофоров&quot;&raquo; Бумага Масляная пастель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68392">
+                    &quot;Созерцатели светофоров&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/da57net"
+                    title="Αλλος">
+                    Αλλος
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68392#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    9
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            19
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68386">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/BjjfBLPNP3IHn8stP7jcP94gsqzmjpy4mxsEmXh6.jpg"
+                 alt=""
+                 title="Картина &laquo;&raquo; Бумага Шариковая ручка"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68386">
+                    
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/igor-tarasov"
+                    title="Игорь">
+                    Игорь
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68386#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    8
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            18
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68384">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/wXus0Kl5bn2y003QSAaYqeazw31rDInTi1gzAE8q.jpg"
+                 alt="Бенедикт Кэмбербэтч"
+                 title="Картина &laquo;Бенедикт Кэмбербэтч&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68384">
+                    Бенедикт Кэмбербэтч
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/igor-tarasov"
+                    title="Игорь">
+                    Игорь
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68384#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    6
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            17
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68383">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/lpD4tLhWj3LcAgxZekfQCPpNJkxBnekNIqiO34Xv.jpg"
+                 alt="&quot;Расцвела сирень в моём садочке&quot;"
+                 title="Картина &laquo;&quot;Расцвела сирень в моём садочке&quot;&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68383">
+                    &quot;Расцвела сирень в моём садочке&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/pokupatel"
+                    title="Мария Степанова">
+                    Мария Степанова
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            15
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68381">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/C4QFG4JHAeqEWCGPAhZI5LD8Ek9boM2RelFi5S2D.jpg"
+                 alt="Дашенька"
+                 title="Картина &laquo;Дашенька&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68381">
+                    Дашенька
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/botvinov"
+                    title="Алекс Ботвинов">
+                    Алекс Ботвинов
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68381#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    4
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            22
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68375">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/w9J2R0E5ku8EBN6zU2QiRtedgIF4RNrDlU9EZqmM.jpg"
+                 alt="Wanted II"
+                 title="Картина &laquo;Wanted II&raquo; Другое Принт"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68375">
+                    Wanted II
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/andrew-zavgo"
+                    title="Andrew Zavgo">
+                    Andrew Zavgo
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            4
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/52966">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/71YsRsDOztDVeyMQvOdF5TyCUvzZWbQlZKtmBqlZ.jpg"
+                 alt="&quot;Лежбище интроверток&quot;"
+                 title="Картина &laquo;&quot;Лежбище интроверток&quot;&raquo; Бумага Пастель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/52966">
+                    &quot;Лежбище интроверток&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/da57net"
+                    title="Αλλος">
+                    Αλλος
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/52966#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    12
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            30
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68368">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/iwqkBXSACQ69Y4Xd2zR0GQyu8B58049Q7EcjI8YI.jpg"
+                 alt="Хронос"
+                 title="Картина &laquo;Хронос&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68368">
+                    Хронос
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            3
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68367">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/vSx36odlBOtxKIxlTo8bUHHvws7Ns9HQxJctzzcI.jpg"
+                 alt="WILDE JAGD"
+                 title="Картина &laquo;WILDE JAGD&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68367">
+                    WILDE JAGD
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            3
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68366">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/wuIgQJjggdcl27EF36mtYfP6EUiTHEoPrjXIpVJu.jpg"
+                 alt="Сцилла"
+                 title="Картина &laquo;Сцилла&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68366">
+                    Сцилла
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68366#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    1
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            3
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68365">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/sOMRujlEyyWeysh0ssVL8Qac6yKdrnjJ42eFNMiY.jpg"
+                 alt="PLANTA-TARTARICA-BAROMETZ"
+                 title="Картина &laquo;PLANTA-TARTARICA-BAROMETZ&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68365">
+                    PLANTA-TARTARICA-BAROMETZ
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            2
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68364">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/ahEvOJgDeVxnAGsGsqRiuUJBLbBSoSWPbdIvbrz5.jpg"
+                 alt="Агнец"
+                 title="Картина &laquo;Агнец&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68364">
+                    Агнец
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            4
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68363">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/FN3ENSrNcN7BXYkNuOxiSvwsEgfYcy8JPOExsf0W.jpg"
+                 alt="Хозяйка медной горы"
+                 title="Картина &laquo;Хозяйка медной горы&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68363">
+                    Хозяйка медной горы
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            5
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68362">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/RqTxfJsULdCtITaZHYMYKYbL5g7tm3d0ZlUwdYgw.jpg"
+                 alt="Senectus"
+                 title="Картина &laquo;Senectus&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68362">
+                    Senectus
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            4
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68361">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/iv5zLls0JhaJcBinHdnbT8ScLVFC2p5KPriwU1c3.jpg"
+                 alt="Битва с Пернатым Змеем"
+                 title="Картина &laquo;Битва с Пернатым Змеем&raquo; Картон Авторская техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68361">
+                    Битва с Пернатым Змеем
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/dmitri-shulkovich"
+                    title="Дмитрий Шулькович">
+                    Дмитрий Шулькович
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68361#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    1
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            6
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68355">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/jfRdaaBI5CGcs5e6JryYuLb1Cfm3PDavGJo9L1KN.jpg"
+                 alt="Сквер."
+                 title="Картина &laquo;Сквер.&raquo; Бумага Уголь"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68355">
+                    Сквер.
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/user/10129"
+                    title="Андрей Гудков">
+                    Андрей Гудков
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68355#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    2
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            28
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68323">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/RwecAoWvj7K153sXnuNWs22ie3BXhyZFoCeFHxkx.jpg"
+                 alt="Латентная жертва диссоциативной фуги"
+                 title="Картина &laquo;Латентная жертва диссоциативной фуги&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68323">
+                    Латентная жертва диссоциативной фуги
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/botvinov"
+                    title="Алекс Ботвинов">
+                    Алекс Ботвинов
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            7
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68322">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/C9XIdmIkzhswYytRl9bRs7C3mVqLJUdRGTHoIUR1.jpg"
+                 alt="Иллюстрация к пьесе А. Н. Островского Снегурочка"
+                 title="Картина &laquo;Иллюстрация к пьесе А. Н. Островского Снегурочка&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68322">
+                    Иллюстрация к пьесе А. Н. Островского Снегурочка
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/botvinov"
+                    title="Алекс Ботвинов">
+                    Алекс Ботвинов
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            7
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68321">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/2uXWhKuZQtxSOxoH1a7R6ZFwXSOFwndJu9aOJd0T.jpg"
+                 alt="Галя и Вася"
+                 title="Картина &laquo;Галя и Вася&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68321">
+                    Галя и Вася
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/botvinov"
+                    title="Алекс Ботвинов">
+                    Алекс Ботвинов
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68321#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    4
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            28
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68318">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/DSsl69H6TZkIosfIwD8uKvYz4dnwmu9NW2a2fgf1.jpg"
+                 alt="&quot;Золотой храм&quot; Юкио Мисима, иллюстрация (2)"
+                 title="Картина &laquo;&quot;Золотой храм&quot; Юкио Мисима, иллюстрация (2)&raquo; Бумага Тушь"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68318">
+                    &quot;Золотой храм&quot; Юкио Мисима, иллюстрация (2)
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/mikhail-zont"
+                    title="Mikhail Zont">
+                    Mikhail Zont
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            19
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68291">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/K1fPHWQaSYXSTqOxPOFteOYccUERN89p4XoqX6gn.jpg"
+                 alt="Юность"
+                 title="Картина &laquo;Юность&raquo; Картон Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68291">
+                    Юность
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/anna-fomicheva"
+                    title="Анна Фомичева">
+                    Анна Фомичева
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68291#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    2
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            23
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68276">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/64uVy7QxH5DY3ApYmYvNqwDUBrOyCZqre8OyJgNJ.jpg"
+                 alt="&quot;Сумеречные волейболистки&quot;"
+                 title="Картина &laquo;&quot;Сумеречные волейболистки&quot;&raquo; Бумага Масляная пастель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68276">
+                    &quot;Сумеречные волейболистки&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/da57net"
+                    title="Αλλος">
+                    Αλλος
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68276#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    1
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            11
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68274">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/PLI1B8HrZDl5STAd3B4pDEmV0lHHsduAGzuNGFON.jpg"
+                 alt="К завтраку"
+                 title="Картина &laquo;К завтраку&raquo; Бумага Смешанная техника"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68274">
+                    К завтраку
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/temnikova"
+                    title="Ольга Темникова">
+                    Ольга Темникова
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            19
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68267">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/GuGIPiRHyZybcBJMMHHe4mEsHPzqSbcpiliLpRfz.jpg"
+                 alt="Чайная роза карандашом."
+                 title="Картина &laquo;Чайная роза карандашом.&raquo; Бумага Карандаш"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68267">
+                    Чайная роза карандашом.
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/hryamzik"
+                    title="Хрямзик">
+                    Хрямзик
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            9
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68264">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/cGVlKyIEe00NDYaFovNi5eqPjNZPL27aJly4AThZ.jpg"
+                 alt="Портрет Женщины, 04.03.2025"
+                 title="Картина &laquo;Портрет Женщины, 04.03.2025&raquo; ДВП / Оргалит Масляная пастель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68264">
+                    Портрет Женщины, 04.03.2025
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/zhuravel"
+                    title="Елена Николаевна">
+                    Елена Николаевна
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            8
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68262">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/grJS2WYOCJFOMl46VZTwdzzUVh1LXI3rC8jCcEnf.jpg"
+                 alt="Чарли"
+                 title="Картина &laquo;Чарли&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68262">
+                    Чарли
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/pokupatel"
+                    title="Мария Степанова">
+                    Мария Степанова
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68262#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    2
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            20
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68258">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/KhHS1fWtIrSEhlBUgqfocwG5nfTuqZfuMjI6KwlD.jpg"
+                 alt="&quot;Красавчик&quot;"
+                 title="Картина &laquo;&quot;Красавчик&quot;&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68258">
+                    &quot;Красавчик&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/pokupatel"
+                    title="Мария Степанова">
+                    Мария Степанова
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68258#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    4
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            24
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68255">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/8h07QpbhNi2gac5HOddjEAvd9quSHfKhrjizsFTY.jpg"
+                 alt="Пёсик"
+                 title="Картина &laquo;Пёсик&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68255">
+                    Пёсик
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/pokupatel"
+                    title="Мария Степанова">
+                    Мария Степанова
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68255#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    2
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            17
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68248">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/a5vvBKgx2SlCHGDecfugXQ4ios0PbDTPPRJjS1yj.jpg"
+                 alt="Сон игра разума"
+                 title="Картина &laquo;Сон игра разума&raquo; Бумага Шариковая ручка"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68248">
+                    Сон игра разума
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/morion"
+                    title="Morion">
+                    Morion
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            19
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68245">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/XZVUrGSIwegEFC785LyqGEicdVx85Lm0cX4GBfPR.jpg"
+                 alt="&quot;Дальние дали&quot;"
+                 title="Картина &laquo;&quot;Дальние дали&quot;&raquo; Бумага Акварель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68245">
+                    &quot;Дальние дали&quot;
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/pokupatel"
+                    title="Мария Степанова">
+                    Мария Степанова
+                </a>
+            </div>
+            
+
+            <footer>
+                            <a class="btnComments"
+                   href="/pictures/view/68245#comments"
+                   title="Количество комментариев">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                        <use xlink:href="#ico_comments"></use>
+                    </svg>
+
+                    2
+                </a>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            19
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                        
+                            <figure class="p_item col-lg-3 col-md-3 col-sm-3 col-xs-6">
+
+        
+            <a href="/pictures/view/68244">
+            <img src="/dot.png"
+                 class="b-lazy"
+                 data-src="https://files.masterkrasok.ru/v4/pictures/gWsUr5E1rBJvyytQS2P7AL1BDolYNeO8nWttUk0N.jpg"
+                 alt="Желтые цветы"
+                 title="Картина &laquo;Желтые цветы&raquo; Бумага Пастель"
+                 data-width="270"
+                 data-height="270"
+            />
+        </a>
+    
+    
+            <span class="picture_name">
+                            <a href="/pictures/view/68244">
+                    Желтые цветы
+                </a>
+                    </span>
+                    <div class="author">
+                <a href="/olgav_beketova"
+                    title="Ольга Бекетова">
+                    Ольга Бекетова
+                </a>
+            </div>
+            
+
+            <footer>
+            
+                                                <a href="javascript:void(0);" class="btnLike jPleaseAuth" >
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_heart"></use>
+                        </svg>
+                        <span class="v">
+                            7
+                        </span>
+                    </a>
+                            
+        </footer>
+    </figure>
+
+                                            </div>
+                                        <nav class="pagination_wrapper">
+        <span class="t">
+            Страницы:
+        </span>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Previous">
+                    <span class="page-link" aria-hidden="true">&lsaquo;</span>
+                </li>
+            
+            
+                            
+                
+                
+                                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=2">2</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=3">3</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=4">4</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=5">5</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=6">6</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=7">7</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=8">8</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=9">9</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=10">10</a></li>
+                                                                                        
+                                    <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+                
+                
+                                            
+                
+                
+                                                                                        <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=169">169</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=170">170</a></li>
+                                                                        
+            
+                            <li class="page-item">
+                    <a class="page-link" href="https://masterkrasok.ru/pictures/graphics?page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+                </li>
+                    </ul>
+    </nav>
+
+
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <div class="footer_push"></div>
+</div>
+
+<div class="clear"></div>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 descr">
+                        <img src="https://cdn.masterkrasok.ru/v4/temp/logo_tmp.jpg" alt="Сообщество художников Мастер Красок"
+                             title="Сообщество художников Мастер Красок"/>
+                    </div>
+                    <nav class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+
+                        <strong>Разделы</strong>
+                        <ul>
+                            <li><a href="https://masterkrasok.ru/painting">Живопись</a></li>
+                            <li><a href="https://masterkrasok.ru/graphics">Графика и
+                                    рисунок</a></li>
+                            <li><a href="https://masterkrasok.ru/illustration">Иллюстрации</a>
+                            </li>
+                            <li><a href="https://masterkrasok.ru/digital_art">Digital Art</a>
+                            </li>
+                            <li><a href="https://masterkrasok.ru/aerography">Аэрография</a>
+                            </li>
+                            <li><a href="https://masterkrasok.ru/painting_walls">Художественная
+                                    роспись</a></li>
+                        </ul>
+
+                    </nav>
+                    <nav class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <strong>Художникам</strong>
+                        <ul>
+                            <li><a href="https://masterkrasok.ru/forum">Форум художников</a></li>
+                            
+                            <li><a href="https://masterkrasok.ru/genres">Жанры живописи</a></li>
+                                                    </ul>
+
+                        <strong>Галерея</strong>
+                        <ul>
+                            <li><a href="https://masterkrasok.ru/pictures">Картины художников</a></li>
+                            <li><a href="https://masterkrasok.ru/artists">Художники, специалисты</a>
+                            </li>
+                            <li><a href="https://masterkrasok.ru/collections">Подборки картин</a></li>
+                        </ul>
+
+
+                                            </nav>
+                    <nav class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <strong>Полезные ссылки</strong>
+                        <ul>
+                            <li><a href="https://masterkrasok.ru/help">Помощь и решение проблем</a>
+                            </li>
+                            <li><a href="https://masterkrasok.ru/posts">Статьи</a></li>
+                            <li><a href="/help/general/rules">Правила работы с сайтом</a></li>
+                            <li><a href="/help/partners/offer">Сотрудничество</a></li>
+                        </ul>
+
+                    </nav>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 pull-right">
+
+                <div class="soc_links">
+
+                    <a href="https://vk.com/mast_kr" target="_blank" class="vk" title="Сообщество ВКонтакте">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                            <use xlink:href="#ico_vk"></use>
+                        </svg>
+                    </a>
+
+                    <a href="https://t.me/masterkrasok_ru" target="_blank" title="Группа в Telegram">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico"
+                             style="width:30px;height:30px;float:left;">
+                            <use xlink:href="#ico_tg"></use>
+                        </svg>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="hr"></div>
+
+        <div class="row">
+            <div class="col-lg-8 col-md-6 col-sm-6 col-xs-12">
+                <p>&copy; 2013-2025 Masterkrasok.ru.<br/>
+                    Материалы сайта защищены авторским правом.</p>
+                <p><a href="/help/general/copyright_holders">Информация для правообладателей</a></p>
+            </div>
+
+                    </div>
+    </div>
+</footer>
+
+<a href="#" id="back_to_top" title="Прокрутить наверх страницы">&uarr;</a>
+
+<div class="mobile_menu_bg toggle_mobile_menu"></div>
+<div class="mobile_menu">
+    <div class="mm_inner">
+        <ul>
+    <li class="">
+        <a href="https://masterkrasok.ru" class="nav-link">Главная</a>
+    </li>
+    <li class="">
+        <a href="https://masterkrasok.ru/feed" class="nav-link">
+            Лента
+                    </a>
+    </li>
+    <li class="current">
+        <a href="https://masterkrasok.ru/pictures" class="has_submenu nav-link">
+            Галерея
+            <span class="crt">
+                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li >
+                <a href="https://masterkrasok.ru/pictures">Все картины</a>
+            </li>
+            <li ><a href="https://masterkrasok.ru/pictures/painting">Живопись </a></li>
+            <li class="current"><a href="https://masterkrasok.ru/pictures/graphics">Графика</a></li>
+            <li ><a href="https://masterkrasok.ru/pictures/illustration">Иллюстрации</a></li>
+            <li ><a href="https://masterkrasok.ru/pictures/digital_art">Digital Art</a></li>
+        </ul>
+    </li>
+    <li class="">
+        <a href="https://masterkrasok.ru/artists" class="has_submenu nav-link">
+            Художники
+            <span class="crt">
+                 <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li ><a href="https://masterkrasok.ru/artists?search=1">Все</a></li>
+            <li ><a href="https://masterkrasok.ru/artists">Художники, профи</a></li>
+            <li ><a href="https://masterkrasok.ru/artists?search=2&status%5B%5D=1">Начинающие</a></li>
+        </ul>
+    </li>
+    <li class=""
+    >
+        <a href="https://masterkrasok.ru/contests" class="has_submenu nav-link">
+            Конкурсы
+            <span class="crt">
+                 <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_arrow_down"></use>
+                </svg>
+            </span>
+        </a>
+
+        <ul>
+            <li >
+                <a href="https://masterkrasok.ru/contests">
+                    Текущие конкурсы
+                </a>
+            </li>
+            <li >
+                <a href="https://masterkrasok.ru/contests/results">
+                    Результаты конкурсов
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li >
+        <a href="https://masterkrasok.ru/posts" class="nav-link">
+            Публикации
+        </a>
+
+        <ul>
+            <li class="">
+                <a href="https://masterkrasok.ru/blogs" class="nav-link">Блоги</a>
+            </li>
+        </ul>
+    </li>
+
+        <li >
+        <a href="https://masterkrasok.ru/forum" class="nav-link hide-sm">
+            Форум
+        </a>
+    </li>
+
+    
+    <li class="search ">
+        <a href="https://masterkrasok.ru/search" class="nav-link" title="Поиск по сайту">
+            <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                <use xlink:href="#ico_search"></use>
+            </svg>
+            <span>Поиск по сайту</span>
+        </a>
+    </li>
+</ul>
+
+        <div class="welcome_help">
+            <p>
+                Впервые здесь? <br/>
+                <a href="https://masterkrasok.ru/help">Помощь по сайту</a>
+            </p>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="modal fadeIn" id="authModal" tabindex="-1" role="dialog" aria-labelledby="Авторизация">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+
+                <form method="POST" action="https://lk.masterkrasok.ru/login">
+                    <input type="hidden" name="_token" value="omOOElMX1aqUcNHEI613yQ9nlpsj2wtGz231eJWy" autocomplete="off">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <div class="modal-title" id="myModalLabel">Авторизация</div>
+                    </div>
+
+                    <div class="modal-body">
+                        <p>Для выполнения действия вам необходимо авторизоваться или <a href="https://lk.masterkrasok.ru/registration">зарегистрироваться</a>.</p>
+
+                        <div class="form-group">
+                            <label for="disabledTextInput">Ваш электронный адрес:</label>
+                            <input id="email" type="email" class="form-control" name="email" value="" placeholder="Например, ivan@yandex.ru" required autofocus />
+                        </div>
+
+                        <div class="form-group">
+                            <label for="disabledTextInput">Пароль:</label>
+                            <input id="password" type="password" class="form-control" name="password" required />
+                        </div>
+
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="remember" > Запомнить меня
+                            </label>
+                        </div>
+
+                        <span class="help-block">
+                            Если вы не помните свой пароль <a href="https://lk.masterkrasok.ru/forgot_password">нажмите сюда</a>.
+                        </span>
+
+                        <div class="row m-15">
+    <div class="col-md-12 margin-bottom-2">
+
+                    <hr/>
+            <strong></strong>
+            <div class="h4">
+                На странице авторизации вы можете войти с помощью социальных сетей:
+            </div>
+        
+
+        <div class="social_icons">
+
+            <a href="https://lk.masterkrasok.ru/login" class="vk">
+                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_vk"></use>
+                </svg>
+                <span>
+                    ВКонтакте
+                </span>
+            </a>
+            <a href="https://lk.masterkrasok.ru/login">
+                <svg xmlns="http://www.w3.org/2000/svg" class="svg_ico">
+                    <use xlink:href="#ico_yandex"></use>
+                </svg>
+                <span>
+                    Яндекс
+                </span>
+            </a>
+
+            
+            
+        </div>
+        <div class="clear"></div>
+        <span class="help-block">
+            Нажмите на любую кнопку, чтобы перейти на страницу авторизации.
+        </span>
+    </div>
+</div>
+
+<svg display="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="ico_fb" viewBox="73 0 267 266.9" xmlns="http://www.w3.org/2000/svg">
+        <path fill="#157DC3" d="M321.1 262.3c7.9 0 14.2-6.4 14.2-14.2V18.8c0-7.9-6.4-14.2-14.2-14.2H91.8C84 4.6 77.6 11 77.6 18.8v229.3c0 7.9 6.4 14.2 14.2 14.2h229.3z"/>
+        <path fill="#FFF" d="M255.4 262.3v-99.8h33.5l5-38.9h-38.5V98.8c0-11.3 3.1-18.9 19.3-18.9h20.6V45c-3.6-.5-15.8-1.5-30-1.5-29.7 0-50 18.1-50 51.4v28.7h-33.6v38.9h33.6v99.8h40.1z"/>
+    </symbol>
+</svg>
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                        <button type="submit" class="btn btn_red">Войти</button>
+                    </div>
+                    <input type="hidden" name="redirect_page" value="https://masterkrasok.ru/pictures/graphics" />
+                </form>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fadeIn" id="emptyModal" tabindex="-1" role="dialog" aria-labelledby="">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Закрыть"><span
+                            aria-hidden="true">&times;</span></button>
+                    <div class="modal-title emptyModalTitle">Авторизация</div>
+                    <div class="status_line"></div>
+                </div>
+
+                <div class="modal-body emptyModalContent"></div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div id="svg_place"></div>
+
+
+<script type="text/javascript">
+    var svgModTime = 1708100905;    var k = 'svg.' + svgModTime,
+        svg = '';
+
+    if (null === (svg = localStorage.getItem(k))) {
+
+        var xhr = new XMLHttpRequest();
+
+        xhr.open(
+            'GET',
+            '/ajax/svg/main',
+            false
+        );
+        xhr.send();
+
+        if (xhr.status !== 200) {
+                    } else {
+
+            document.getElementById('svg_place').innerHTML = xhr.responseText;
+
+                            for (var i = 0; i < localStorage.length; i++) {
+
+                if (localStorage.key(i).substring(0, 3) === 'svg') {
+
+                    localStorage.removeItem(localStorage.key(i));
+                }
+            }
+
+            localStorage.setItem(k, xhr.responseText);
+        }
+    } else {
+
+        document.getElementById('svg_place').innerHTML = svg;
+    }
+
+            window.CurrentUser = {
+        id: -1,
+    };
+    </script>
+
+<script src="https://cdn.masterkrasok.ru/js/manifest.js?id=7db827d654313dce4250" defer></script>
+<script src="https://cdn.masterkrasok.ru/js/vendor.js?id=74c5268f17dbf472c5c3" defer></script>
+
+
+<script src="https://cdn.masterkrasok.ru/js/ui.js?id=f79e5c5e20938879489e" defer></script>
+
+
+
+
+    
+
+    
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script type="text/javascript" async>
+    setTimeout(
+        function () {
+            (function (w, d, n, s, t) {
+                w[n] = w[n] || [];
+
+                null !== document.getElementById('R-A-258799-9') && w[n].push(function () {
+                    Ya.Context.AdvManager.render({
+                        renderTo: 'yandex_rtb_R-A-258799-9',
+                        blockId: 'R-A-258799-9',
+                        async: true
+                    });
+                });
+
+                null !== document.getElementById('yandex_rtb_R-A-258799-3') && w[n].push(function () {
+                    Ya.Context.AdvManager.render({
+                        blockId: "R-A-258799-3",
+                        renderTo: "yandex_rtb_R-A-258799-3",
+                        async: true
+                    });
+                });
+
+                null !== document.getElementById('yandex_rtb_R-A-258799-4') && w[n].push(function () {
+                    Ya.Context.AdvManager.render({
+                        blockId: "R-A-258799-4",
+                        renderTo: "yandex_rtb_R-A-258799-4",
+                        async: true
+                    });
+                });
+
+                null !== document.getElementById('yandex_rtb_R-A-258799-1') && w[n].push(function () {
+                    Ya.Context.AdvManager.render({
+                        blockId: "R-A-258799-1",
+                        renderTo: "yandex_rtb_R-A-258799-1",
+                        async: true
+                    });
+                });
+
+                /*null !== document.getElementById('yandex_rtb_R-A-258799-10') && w[n].push(function () {
+                    Ya.Context.AdvManager.render({
+                        type: 'floorAd',
+                        blockId: 'R-A-258799-10',
+                        renderTo: "yandex_rtb_R-A-258799-10",
+                        async: true
+                    });
+                });*/
+
+                /* null !== document.getElementById('yandex_rtb_R-A-258799-6') && w[n].push(function() {
+                     Ya.Context.AdvManager.render({
+                         blockId: "R-A-258799-6",
+                         renderTo: "yandex_rtb_R-A-258799-6",
+                         async: true
+                     });
+                 });*/
+
+                t = d.getElementsByTagName("script")[0];
+                s = d.createElement("script");
+                s.type = "text/javascript";
+                s.src = "//an.yandex.ru/system/context.js";
+                s.async = true;
+                t.parentNode.insertBefore(s, t);
+            })(this, this.document, "yandexContextAsyncCallbacks");
+        },
+        2000
+    );
+</script>
+
+
+    <!-- Yandex.RTB R-A-258799-13 -->
+    <script>
+        window.yaContextCb.push(() => {
+            Ya.Context.AdvManager.render({
+                "blockId": "R-A-258799-13",
+                "type": "fullscreen",
+                "platform": "touch"
+            })
+        })
+    </script>
+
+    
+        <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" async>
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+
+        ym(23249539, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/23249539" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135451997-1"></script>
+    <script async>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-135451997-1');
+    </script>
+
+    <!-- Rating Mail.ru counter -->
+    <script type="text/javascript">
+        var _tmr = window._tmr || (window._tmr = []);
+        _tmr.push({id: "2564887", type: "pageView", start: (new Date()).getTime()});
+        (function (d, w, id) {
+            if (d.getElementById(id)) return;
+            var ts = d.createElement("script");
+            ts.type = "text/javascript";
+            ts.async = true;
+            ts.id = id;
+            ts.src = "https://top-fwz1.mail.ru/js/code.js";
+            var f = function () {
+                var s = d.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(ts, s);
+            };
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else {
+                f();
+            }
+        })(document, window, "topmailru-code");
+    </script>
+    <noscript>
+        <div>
+            <img src="https://top-fwz1.mail.ru/counter?id=2564887;js=na"
+                 style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru"/>
+        </div>
+    </noscript>
+    <!-- //Rating Mail.ru counter -->
+
+
+</body>
+</html>

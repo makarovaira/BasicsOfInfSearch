@@ -1,0 +1,459 @@
+ <!DOCTYPE HTML>
+<html>
+<head>
+<meta name="google-site-verification" content="dficklFNZaZZo80MOMa1lSZEL3BBe3NpStNx1-kl6Yg" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name='yandex-verification' content='673f84de9eac7511' />
+<meta name="yandex-verification" content="ddb374c0f88f0d67" />  
+<link rel="shortcut icon" href="https://www.icr.su/favicon.ico" type="image/x-icon" />
+<link href="/css/new_museum.css" type="text/css" rel="stylesheet">
+<link href="/css/main-new-1.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content="международный центр рерихов, рерих, рерихи, мцр" />
+<meta name="description" content="Главная страница сайта Международного Центра Рерихов" />
+<title>Международный Центр Рерихов</title>
+<style type="text/css">
+	#top0{
+background:#f8f1de;
+	}
+.menu{
+width:995px;
+text-align:center;
+font-size:12px;  
+color:#000000;
+font-family: Arial, Helvetica sans-serif;
+line-height:20px;
+}
+.menu a{
+padding-left:12px;
+color:#000000;
+}
+
+.menu-help{
+width:995px; 
+line-height:16px; 
+text-align:center; 
+font-family: Arial, Helvetica sans-serif;
+font-size:12pt; 
+color:#ffffff;
+		}
+.menu-help a{
+color:#ffffff;
+}
+	.table-main #menu {
+		background-color: #fbf7ec;
+	}
+
+.table-main #menu-2 {
+		background-color: #ffc96d;
+	}
+
+.table-main #menu-3 {
+		background-color: #504397;
+	}
+
+
+
+.table-main #footer {
+		background-color: #fbf7ec;
+	}
+
+		.table-main td#center {
+	background-image: url('/is/main/zastavka_usadba.jpg');
+		background-repeat: no-repeat;
+	}
+.table-main td#center_l {
+	background-image: url('/is/main/zastavka_Pact_2.jpg');
+		background-repeat: no-repeat;
+	}
+.table-main td#center_r {
+	background-image: url('/is/main/zastavka_exib_2.jpg');
+		background-repeat: no-repeat;
+	}
+	#pact{
+		display: block;
+		width:498px;
+		height:266px;
+	}
+#exib{display: block;
+		width:497px;
+		height:266px;
+	}
+.table-main td#image-top-2 {
+	background-image: url('/is/main/main_top_new.png');
+		background-repeat: no-repeat;
+		
+	}
+      .table-main #slider div#menu-center-main a {
+       font-size:12px;  
+       color:#000000;
+       font-family: Arial, Helvetica sans-serif;
+       text-decoration: none;
+}
+.table-main #center2 {left:0px;padding:0px;margin:0px;}
+.table-main #slider table#main-down {left:0px;padding:0px;margin:0px;}
+.table-main #slider table#main-down tr {
+font-size:12px; 
+font-family: Arial, Helvetica sans-serif;
+text-align:left;
+font-weight:normal;
+color:#35312a;
+			background:#fbf7ec;
+}
+.table-main #slider table#main-down tr td{padding:0px;margin:0px;
+padding-left:30px; padding-right:20px;
+}
+
+.table-main #center2 tr td{padding:0px;margin:0px;
+}
+
+.table-main #slider table#main-down tr td a{
+font-size:11px; 
+font-family: Arial, Helvetica sans-serif;
+text-decoration:underline;
+color:#35312a;
+}
+	td#right img {
+		padding-right: 7px;
+		padding-top: 7px;
+	}
+td#right{
+text-align:right;
+			}
+td#left img {
+		padding-right: 30px;
+			}
+div#name-top {
+position:relative;
+width:995px;
+float:left;
+font-family: Arial, Helvetica, sans-serif;
+color:#f0e4cb;
+text-align:center;
+font-size:12px;
+padding-right:0px;
+padding-left:0px;
+padding-top:50px;
+padding-bottom:15px;
+margin:0px;
+}
+	div#language{
+		padding-left:10px;
+width:851px;
+text-align:left;
+	}
+div#aligned{
+		
+		height:100%;
+background-color: #fbf7ec;
+		
+	}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+	position: absolute;
+	bottom: 10px !important;
+	width: 100%;
+	right: 410px !important;
+	z-index: 1000 !important;
+		
+	}
+	
+.bx-wrapper .bx-pager.bx-default-pager a {
+	background: transparent !important;
+    text-indent: -9999px;
+    display: block;
+    width: 9px !important;
+    border: 1px solid #fff !important;
+    height: 9px !important;
+    margin: 0 4px;
+    outline: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover, .bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: #fff !important;
+
+}
+
+.bx-wrapper {
+	position: relative;
+    margin: 0px auto -25px !important;
+    padding: 0;
+}
+
+span a {
+	color: #000080;
+}
+
+span a:hover {
+	color: #000080;
+	text-decoration: underline
+}	
+
+span a:visited {
+	color: #000080;
+}
+a:hover {
+	text-decoration: underline
+}	
+</style>
+<!--[if lt IE 8]>
+<style type="text/css">
+	body {
+	    zoom:1;
+	}
+	#container {
+	    display:inline;
+	    position:absolute;
+	    height: expression(
+	        document.getElementById("aligned").offsetHeight>
+	        document.documentElement.clientHeight?
+	        document.getElementById("aligned").offsetHeight + 'px'
+	        : document.documentElement.clientHeight + 'px' );
+	    width: expression(
+	        document.getElementById("aligned").offsetWidth&gt
+	        document.documentElement.clientWidth?
+	        document.getElementById("aligned").offsetWidth + 'px'
+	        : document.documentElement.clientWidth + 'px' );
+	}
+	#aligned {
+	    margin-top: expression(
+	        document.documentElement.clientHeight >= this.offsetHeight ?
+	        document.documentElement.clientHeight/2 - this.offsetHeight/2
+	        + 'px' : 0 );
+}
+.table-main #center table#main-down {left:0px;padding:0px;margin:0px;}
+.table-main #center table#main-down tr td{padding:0px;margin:0px;
+padding-left:20px;
+}
+.table-main #center div#menu-center-main {
+       padding-bottom:348px;
+}
+</style>
+	<![endif]-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(51620267, "init", {
+        id:51620267,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/51620267" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+
+ <div id="container">
+
+<div id="aligned">
+		<table id="top0"  width="995" height="30" cellSpacing="0" cellPadding="0" border="0">
+			<tr id="top1-menu"><td width="851"><div class="menu-top1"><div id="language"><span>рус</span>&nbsp;&nbsp;<a href="http://en.icr.su/">eng</a></div></div></td> 
+		<td><div class="menu-top1"><a href="https://www.icr.su/rus/map/map.php">Карта сайта</a></div></td> 
+		<td><div class="menu-top1"><a href="https://www.icr.su/rus/contacts/">Контакты</a></div></td> 
+		</tr></table>
+
+        <table class="table-main" width="995" border="0" cellpadding="0" cellspacing="0">
+
+         <tr><td colspan="2" id="image-top-2" width="995" height="144" valign="bottom">
+       <div id="name-top">Международная общественная организация | Специальный консультативный статус при ЭКОСОС ООН <br />
+Ассоциированный член ДОИ ООН | Ассоциированный член Международной Организации Национальных Трастов<br />
+Коллективный член Международного совета музеев (ИКОМ) | Член Всеевропейской федерации по культурному наследию «ЕВРОПА НОСТРА»
+</div>
+         </td></tr>
+         <tr><td colspan="2" id="menu" width="955" height="36" valign="center">
+              <div class="menu">
+				<a href="/rus/events/">Афиша</a> <a href="/rus/news/icr/">Новости</a> <a href="/rus/work/yubiley-2024/index.php">Юбилейный год Рерихов – 2024</a>
+<a href="http://lib.icr.su/">Электронная библиотека</a> <a href="/rus/katalog/">Каталог Музея</a> <a href="/rus/publishing/nov/">Продажа книг</a> <a href="/rus/family/films/">Фильмы о Рерихах</a> <a href="/rus/map/map.php">Карта сайта</a> <a href="/rus/contacts/">Контакты</a>
+
+			 </div>
+         </td></tr>
+<tr><td colspan="2" id="menu-2" width="955" height="45" valign="center">
+                <div class="menu">
+                 <a href="/rus/family/">Семья&nbsp;Рерихов</a> <a href="/rus/evolution/">Эволюционные&nbsp;действия&nbsp;Рерихов</a> <a href="/rus/evolution/ethics/">Живая&nbsp;Этика&nbsp;</a> <a href="/rus/evolution/pact/">Пакт Рериха</a> <a href="/rus/about/">МЦР</a> <a href="/rus/museum/">Музей&nbsp;имени&nbsp;Н.К.&nbsp;Рериха</a> <a href="/rus/protection/heritage/museum/index.php">Защита&nbsp;имени&nbsp;и&nbsp;наследия&nbsp;Рерихов</a> 
+<br />
+<a href="/rus/about/direction/director/">Л.В. Шапошникова</a> <a href="/rus/onckm/">ОНЦ КМ</a> <a href="/rus/conferencies/">Конференции</a> <a href="/rus/about/direction/director/readings/">Чтения</a> <a href="/rus/departments/magazine/about/index.php">Журнал&nbsp;«Культура&nbsp;и&nbsp;время»</a>
+<a href="/rus/work/yubiley-2024/index.php">Культурно-просветительская&nbsp;работа</a> 
+<a href="/rus/departments/manuscripts/">Творческие отделы</a><a href="/rus/cooperation/international/">Сотрудничество</a>
+             </div>
+         </td></tr>
+<tr><td colspan="2" id="menu-3" width="955" height="40" valign="center">
+<div class="menu-help">
+	<a target="_blank" href="/rus/contacts/accounts.php"><span style="font-size: 16px"><strong>Помочь деятельности общественного Музея имени Н.К. Рериха!</strong></span></a>
+</div>
+</td></tr>
+			<tr><td></td></tr>
+</table>
+<table class="table-main" width="995"  border="0" cellpadding="0" cellspacing="0">
+<tr><td  id="slider" valign="bottom">
+<link href="/bitrix/cache/css/ru/main-page-slider/template_c2a73b8bb0e84fcc8fde637cfe925831/template_c2a73b8bb0e84fcc8fde637cfe925831_v1.css?174152922914745" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script  src="/bitrix/cache/js/ru/main-page-slider/template_4e32ce163c2c11b13e338e7e29801543/template_4e32ce163c2c11b13e338e7e29801543_v1.js?1741529229152972"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "b66237fdeab5efc6045a3ceaee8be308"]); _ba.push(["host", "icr.su"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+<script>
+$(document).ready(function(){
+	$('.bxslider').bxSlider(
+	{
+		slideMargin: 0,		//расстояние между слайдами
+		pager: true,						//выводим нижнюю навиигацию
+		controls: false, 						//выводим стрелочки
+		speed: 2000,		//скорость пролистывания слайда
+		auto: true,								//автоматическое перелистывание
+		mode: 'fade',  					 		//эффект перелистывания
+		pause: 5000, //время показа слайда
+		minSlides: 1,		//максимальное количество слайдов
+		maxSlides: 1,		//минимальное количество слайдов
+		moveSlides: 1,	//количество перелистываемых слайдов
+		slideWidth: 995,	//ширина слайда
+	});
+
+});
+</script>
+
+
+
+<!--'start_frame_cache_JvGMqb'-->
+<ul class="bxslider">
+
+	<li><div> <a href="http://roerich.museum/"> <img src="/upload/medialibrary/74f/2.jpg"/></a></div></li>
+				<li><div> <a href="http://www.icr.su/rus/about/direction/director/"> <img src="/upload/medialibrary/fcf/3.png"/></a></div></li>
+				<li><div> <a href="http://www.icr.su/rus/news/icr/Pact_project.php"> <img src="/upload/medialibrary/aa2/07.jpg"/></a></div></li>
+				<li><div> <a href="/rus/work/yubiley-2024/index.php"> <img src="/upload/medialibrary/c1d/b7cnvd9pl8tifehwr6malq05bzhfhhu2/nkr-150.jpg"/></a></div></li>
+				<li><div> <a href="/rus/work/yubiley-2024/index.php"> <img src="/upload/medialibrary/37a/31uq3sxz75idy5lj8pbpypjwzqply450/eir-145.jpg"/></a></div></li>
+				<li><div> <a href="/rus/work/yubiley-2024/index.php"> <img src="/upload/medialibrary/f79/411ur7dh475gopczo6qakci5b2i390ub/snr-120.jpg"/></a></div></li>
+			</ul>
+
+<!--'end_frame_cache_JvGMqb'-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+</td></tr>
+<tr><td colspan="2" id="menu-3" width="955" height="30" valign="center">
+<div class="menu-help" style="background: #8F1F1F; bottom: 20px; padding-top: 10px; padding-bottom: 10px">
+	<a target="_blank" href="http://www.icr.su/rus/news/icr/detail.php?ELEMENT_ID=5738"><span style="font-size: 14px;">Фотохроника погрома общественного Музея имени Н.К. Рериха (смотреть)</span></a>
+	<br>
+	<a target="_blank" href="http://roerich.museum/"><span style="font-size: 14px;">Музей, который потеряла Россия (виртуальный тур)</span></a>
+</div>
+</td></tr>
+</table>
+
+<table class="table-main" width="995"  border="0" cellpadding="0" cellspacing="0" style="margin-top:-20px">
+
+			<tr><td colspan="2" id="slider" valign="bottom">
+</td></tr>
+</table>
+
+<table id="main-down" width="100%" height="150" cellpadding="0" cellspacing="0" style="text-align: left; font-size: 12pt">
+<tbody>
+<tr>
+	<td id="left" width="220">
+		<a href="http://www.found-helenaroerich.ru/"><img width="66" alt="Благотворительный Фонд имени Елены Ивановны Рерих" src="/upload/logo_FOND.jpg" height="66" border="0" title="Благотворительный Фонд имени Елены Ивановны Рерих"></a> <a href="http://www.icr.su/rus/onckm/istoriya-sozdaniya/index.php"><img width="66" alt="Объединенный Научный Центр проблем космического мышления" src="/upload/logo_ONCKM.jpg" height="66" border="0" title="Объединенный Научный Центр проблем космического мышления"></a>
+	</td>
+	<td style="padding-top: 20px">
+		<br>
+<div style="padding-left: 70px;">		 
+<font color="#CD2D2D"><span><b>ВНИМАНИЕ!<br><br>
+
+С 28 апреля 2017 года работа постоянной экспозиции<br>
+общественного Музея имени Н.К. Рериха<br>
+остановлена в связи с незаконным захватом наследия Рерихов,<br>
+усадьбы Лопухиных, в которой был размещен общественный Музей,<br>
+и другого имущества, принадлежащего МЦР, Государственным<br>
+Музеем Востока при участии Министерства культуры РФ.<br><br>
+
+
+Подробнее: <a href="https://save.icr.su/ru/">save.icr.su</a><br><br>
+
+Приносим свои извинения за доставленные неудобства.<br>
+Следите за информацией о проведении мероприятий в нашей <a href="http://www.icr.su/rus/events/">афише.</a>
+
+</b><span></font>
+<br><br>
+<span style="color: #CD2D2D">Адрес для писем:</span> МОО «Международный Центр Рерихов»,<br> 
+		 Российская Федерация, 105264, Москва, 10-я Парковая ул., д. 18.<br>
+		 Оперативная информация для СМИ: +7 (916) 092-08-23
+		 <br><br>
+
+</div>
+	</td>
+	<td id="right">
+  <a href="http://vk.com/roerichmuseum" target="_blank"><img width="32" src="/upload/logo2.jpg" height="32" border="0" alt=""></a> <a href="https://t.me/roerichmuseum" target="_blank"><img src="/upload/logo-tlgr.jpg" border="0" width="32" height="" alt="" /></a><br>
+ <a href="https://twitter.com/Roerich_Museum" target="_blank"><img width="32" src="/upload/logo3.jpg" height="32" border="0" alt=""></a> <a href="http://www.youtube.com/user/roerichmuseum" target="_blank"><img width="32" src="/upload/logo6.jpg" height="32" border="0" alt=""></a>
+	</td>
+</tr>
+<tr>
+	<td>
+	</td>
+	<td style="padding-left: 70px">
+		 © 2001—2025 Международный Центр Рерихов
+	</td>
+	<td>
+	</td>
+</tr>
+</tbody>
+</table>
+<div id="copy1" align="center" style="margin:0px; padding:0px; color:#35312a; font: 9px Verdana, Arial;width:808;height:18;">
+</div>
+ 
+ <table width="100%" border="0" cellspacing="0" cellpadding="5">
+           <tr>
+            <td align="center" valign="top"><br><form action="" method="get" name="slim"><fieldset>
+ <legend style="color:#666666; font-size:12px;">Наши партнёры</legend> <a href="https://www.europanostra.org/" target="_blank" title="Всеевропейская федерация по культурному наследию «ЕВРОПА НОСТРА»"><img src="/rus/news/icr/europa_nostra.jpg" style="border:#CCCCCC solid 1px" width="75" vspace="10" hspace="5" height="75" border="0"></a><a href="http://www.museum.ru" target="_blank" title="Музеи России"><img src="/is/lgs/museum-ru.gif" style="border:#CCCCCC solid 1px" width="110" vspace="10" hspace="5" height="75" border="0"></a><a target="_blank" href="https://mafm.ru/"><img src="/is/lgs/fond_mira.gif" title="Международная ассоциация фондов мира" style="border:#CCCCCC solid 1px" width="124" vspace="10" hspace="5" height="75" border="0"></a><a target="_blank" href="https://raen.info/"><img src="/is/lgs/raen.gif" title="Российская академия естественных наук" style="border:#CCCCCC solid 1px" width="90" vspace="10" hspace="5" height="75" border="0"></a><a href="http://www.ruac.ru/index.shtml" target="_blank" title="Российская академия космонавтики имени К.Э. Циолковского"><img src="/is/lgs/logo_kosmonavtiki.gif" width="112" vspace="10" hspace="5" height="75" border="0"></a><a href="https://www.rah.ru/" target="_blank" title="Российская академия художеств"><img src="/is/lgs/akad-hud.jpg" width="" vspace="10" hspace="5" height="75"></a> <br>
+ <a href="https://www.uni-sofia.bg/" target="_blank" title="Софийский университет имени святого Климента Охридского"><img src="/is/lgs/sof-univer.jpg" width="" vspace="10" hspace="5" height="75"></a><a href="https://krsu.edu.kg/index.php?lang=ru" target="_blank" title="Кыргызско-Российский Славянский университет имени Б.Н.Ельцина"><img src="/is/lgs/kyrg-rus.png" width="" vspace="10" hspace="5" height="75"></a><a href="https://www.rsuh.ru/" target="_blank" title="Российский государственный гуманитарный университет"><img src="/is/lgs/rggu.jpg" width="" vspace="10" hspace="5" height="75"></a><a href="http://www.tsu.ru/" target="_blank" title="Томский государственный университет"><img src="/is/lgs/tomsk-univer.jpg" width="" vspace="10" hspace="5" height="72"></a><a href="https://www.sgu.ru/" target="_blank" title="Саратовский государственный университет"><img src="/is/lgs/sarat-gu.jpg" width="" vspace="10" hspace="5" height="75"></a><a href="https://www.sevsu.ru/" target="_blank" title="Севастопольский государственный университет"><img src="/is/lgs/sevast-gu.jpg" width="" vspace="10" hspace="5" height="75"></a> <br>
+
+<a href="https://rfo1971.ru/" target="_blank" title="Российское философское общество"><img src="/is/lgs/rfo.jpg" width="" vspace="10" hspace="5" height="72"></a><a href="http://roerichs-heritage.org/" target="_blank" title="Комитет по сохранению наследия Рерихов"><img src="https://icr.su/upload/medialibrary/bfa/komitet.jpg" width="" vspace="10" hspace="5" height="75"></a><a href="https://www.found-helenaroerich.ru" target="_blank" title="Благотворительный Фонд имени Е. И. Рерих"><img src="/is/lgs/found-hr.gif" style="border:#CCCCCC solid 1px" width="78" vspace="10" hspace="5" height="75" border="0"></a><a href="https://icom.museum/" target="_blank" title="Международный совет музеев (ICOM)"><img src="/is/lgs/logo_icom.jpg" style="border:#CCCCCC solid 1px" width="75" vspace="10" hspace="5" height="75" border="0"></a><a href="http://www.unic.ru/" target="_blank" title="Информационный центр ООН в Москве"><img src="/is/lgs/logo_unic.jpg" style="border:#CCCCCC solid 1px" width="75" vspace="10" hspace="5" height="75" border="0"></a><a href="https://theblueshield.org/" target="_blank" title="Ассоциация Национальных Комитетов Голубого Щита"><img src="/is/lgs/logowar_Blue Shield.jpg" style="border:#CCCCCC solid 1px" width="75" vspace="10" hspace="5" height="75" border="0"></a><a href="http://irmtkullu-rus.com/" target="_blank" title="Международный Мемориальный Трест Рерихов"><img src="/is/lgs/IRMT-Logo.png" width="74" vspace="10" hspace="5" height="75" border="0"></a>
+</fieldset></form></td>
+          </tr>
+        </table>
+</body>
+</html>

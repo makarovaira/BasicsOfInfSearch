@@ -1,0 +1,285 @@
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv='Content-Type' content="text/html;charset=UTF-8" />
+    <meta http-equiv='Content-Language' content='ru' />
+    <title>ЕИС «МУЗЫКА и КУЛЬТУРА» | Контакты</title>
+    <link href="/img/favicon.ico" rel="shortcut icon" />
+    <link rel="stylesheet" href="/j/css/all.css" /><link rel="stylesheet" href="/j/css/muzkult.css" />
+    <script>
+        var PATH = '';
+        var _MK_ = _MK_ || {};
+    </script>
+   <script type="text/javascript" src="/lib/j/jquery.min.js"></script>
+    <script type="text/javascript" src="/j/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/j/site.js"></script>
+</head>
+
+<body>
+
+<div class="header_info">
+    <div class="info_line">
+        <div class="info_line_mail">info@muzkult.ru</div>
+        <div class="main_social_net">
+            <p>Поделиться
+            <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+            <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,odnoklassniki,moimir"></div>
+            </p>
+        </div>
+
+        
+        <div class="info_line_phone">8-800-5555-322 <span class="header-phone-note">(бесплатно по РФ)</span></div>
+    </div>
+</div>
+
+
+<div class="main_container">
+    <div class="box_bg">
+        <div class="container">
+	        
+<div class="header_main_info">
+	<a href="//muzkult.ru" class="logo_container">
+		<div class="logo_img"></div>
+		<div class="logo"></div>
+	</a>
+	<div class="help_menu">
+		<a class="href_kabinet" href="//lk.eisrf.ru"><div class="kabinet_link"></div>Личный кабинет</a>
+	</div>
+	<a class="get_involved" href="//eisrf.ru/order">Заказать сайт</a>
+</div>                                                                                                                                                                                                                 
+<div class="header_main_info_bottom_border"></div>
+
+	        
+<div class="mn-cntr">
+    
+            <div class="srch-cntr">
+                    <form method="get" action="/search">
+                        <input type="submit" class="srch" value="Поиск">
+                        <input name="q" value="">
+                    </form>
+            </div>
+
+
+    
+     <ul class="main_menu" aria-haspopup="true">
+        
+        <li><a href="/">Главная</a>
+            
+        </li>
+        
+        <li><a href="/#regions_link">Регионы</a>
+            
+        </li>
+        
+        <li><a href="/about">О проекте</a>
+            
+            <ul>
+                
+                    <li><a href="/about">Попробовать</a></li>
+                
+                    <li><a href="/thanks">Благодарности</a></li>
+                
+                    <li><a href="/our_partners">Партнёры</a></li>
+                
+                    <li><a href="/reviews">Отзывы</a></li>
+                
+            </ul>
+            
+        </li>
+        
+        <li class="not_a_link"><div class="m-itm">Полезное</div>
+            
+            <ul>
+                
+                    <li><a href="/attestat">Информация о ПО</a></li>
+                
+                    <li><a href="/downloads">Графические материалы</a></li>
+                
+                    <li><a href="/biblioteka_note">Нотный архив</a></li>
+                
+            </ul>
+            
+        </li>
+        
+        <li class="not_a_link"><div class="m-itm">Техподдержка</div>
+            
+            <ul>
+                
+                    <li><a href="/tutorials">Обучающие видео</a></li>
+                
+                    <li><a href="/faq">Вопросы и ответы</a></li>
+                
+                    <li><a href="/instructions">Инструкции</a></li>
+                
+            </ul>
+            
+        </li>
+        
+        <li><a href="/contacts">Контакты</a>
+            
+        </li>
+        
+    </ul>
+    
+</div>
+
+            <div class="content_top">
+	            
+    
+        <div class="content"><center>
+<p><br /><img src="/media/2017/08/28/1234381819/mini_logo.png" alt="" /><br /> &nbsp;</p>
+</center><center>
+<p><strong><span style="font-size: 16px;"><span style="font-weight: bold; color: blue;">Единая информационная система </span></span></strong></p>
+<p><span style="font-size: 16px; font-weight: bold; color: blue;">&laquo;МУЗЫКА и КУЛЬТУРА&raquo; </span></p>
+<p><span style="font-size: 16px; font-weight: bold; color: blue;">muzkult.ru </span></p>
+<p class="contacts" align="center">&nbsp;</p>
+<p><span style="color: #ff0000; font-size: 16px; font-weight: bold;">ЗВОНИТЕ И ПИШИТЕ НАМ!</span></p>
+</center><center>
+<p><span style="font-size: 16px; font-weight: bold; color: black;">По рабочим дням</span></p>
+<p><strong><span style="font-size: 16px;">c 7:30 до 17:00 (по московскому времени, UTC/GMT+3)</span></strong></p>
+<span style="font-size: 16px; font-weight: bold;"><span style="color: #0000ff;">8-800-5555-322&nbsp;</span> (</span><span style="font-size: 16px;">бесплатно по РФ</span><span style="font-size: 16px; font-weight: bold;">) </span>
+<p class="contacts" align="center">&nbsp;</p>
+<p class="contacts" align="center"><span style="color: #ff0000; font-size: 16px; font-weight: bold;">ОТДЕЛ ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ</span></p>
+<p class="contacts" align="center"><span style="font-size: 16px;"><a href="mailto:mail@muzkult.ru" target="_blank">mail@muzkult.ru</a></span></p>
+<p class="contacts" align="center"><span style="font-size: 16px;"><a href="mailto:info@muzkult.ru" target="_blank">info@muzkult.ru</a></span></p>
+<p><span style="font-size: 16px; font-weight: bold;"><span style="color: #0000ff;">8-800-5555-322&nbsp;</span></span></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="color: #ff0000; font-weight: bold;"><span style="font-size: 16px;">ОТДЕЛ ДОКУМЕНТООБОРОТА</span></span></p>
+<p align="center"><span style="font-size: 16px;"><a href="mailto:doc@muzkult.ru" target="_blank">doc@muzkult.ru</a></span></p>
+<p><span style="font-size: 16px; font-weight: bold;"><span style="color: #0000ff;">+7 (495) 909-01-03&nbsp;</span></span></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="font-size: 16px;"><span style="color: #ff0000; font-weight: bold;">ОТДЕЛ ПО РАБОТЕ С КЛИЕНТАМИ</span></span></p>
+<p align="center"><span style="font-size: 16px;"><a href="mailto:rf@muzkult.ru" target="_blank">rf@muzkult.ru</a></span></p>
+<p align="center"><span style="font-size: 16px;"><a href="mailto:rf1@muzkult.ru" target="_blank">rf1@muzkult.ru</a></span></p>
+<p><span style="color: #0000ff; font-size: 16px; font-weight: bold;">8-800-5555-322&nbsp;&nbsp;</span></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="font-size: 16px;"><span style="color: #ff0000; font-weight: bold;">ОТДЕЛ КАДРОВ</span></span></p>
+<p align="center"><a href="mailto:personal@muzkult.ru" target="_blank">personal@muzkult.ru</a></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="font-size: 16px;"><span style="color: #ff0000; font-weight: bold;">АДРЕС</span></span></p>
+<p align="center"><span style="font-size: 16px;">Москва, 1-й Кожевнический переулок, 6с1</span></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="font-size: 18px;"><span style="color: black; font-weight: bold;">Организация и проведение обучающих семинаров по информатизации в регионах</span></span></p>
+<p align="center"><span style="font-size: 18px;"><span style="color: black; font-weight: bold;">для руководителей и специалистов</span></span></p>
+<p align="center"><span style="font-size: 18px;"><a href="mailto:pr@muzkult.ru" target="_blank">pr@muzkult.ru</a></span></p>
+<p><span style="color: #0000ff;"><strong><span style="font-size: 16px;">8-800-5555-322&nbsp;&nbsp;</span></strong></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</center></div>
+    
+            </div>
+        </div> </div>
+        
+   
+</div>
+
+
+<div class="footer">
+    <div class="footer_center">
+        <p class="footer_copyright">Copyright &copy; ООО &laquo;Музыка и культура&raquo;, 2016-2025</br>Copyright &copy; Центр информационных технологий и систем, 2010-2025
+
+        </p>
+        <p class="mail_phone">info@muzkult.ru<br />Тел.: 8-800-5555-322<br />8(495)909-01-02</p>
+
+
+        <div class="magazine">
+            <p>Газета</p>
+            <a class="magazine_image" href="http://gazetaigraem.ru/"></a>
+        </div>
+
+    
+        <div class="ftr-bnr-eduru" title="ИС «Школы России»">
+            <div class="eduru-img"></div>
+            <p>ИС «Школы России»</p>
+            <a href="//eduru.ru">eduru.ru</a>
+        </div>
+    
+        <div class="ftr-bnr-prosadiki" title="ИС «Про садики»">
+            <div class="prosadiki-img"></div>
+            <p>ИС «Про садики»</p>
+            <a href="//prosadiki.ru">prosadiki.ru</a>
+        </div>
+    
+        <div class="ftr-bnr-sportsng" title="ИС «Спорт»">
+            <div class="sportsng-img"></div>
+            <p>ИС «Спорт»</p>
+            <a href="//sportsng.ru">sportsng.ru</a>
+        </div>
+    
+        <div class="ftr-bnr-socinfo" title="«СоцИнфо»">
+            <div class="socinfo-img"></div>
+            <p>«СоцИнфо»</p>
+            <a href="//socinfo.ru">socinfo.ru</a>
+        </div>
+    
+        <div class="ftr-bnr-medobl" title="«МедИнфо»">
+            <div class="medobl-img"></div>
+            <p>«МедИнфо»</p>
+            <a href="//medobl.ru">medobl.ru</a>
+        </div>
+    
+        <div class="ftr-bnr-eis1" title="ЕИС">
+            <div class="eis1-img"></div>
+            <p>ЕИС</p>
+            <a href="//eis1.ru">eis1.ru</a>
+        </div>
+    
+
+    
+<!-- Yandex.Metrika informer -->
+<a class="yan_inform" href="http://metrika.yandex.ru/stat/?id=4118740&amp;from=informer" target="_blank" rel="nofollow">
+<img src="//bs.yandex.ru/informer/4118740/3_1_FFFFFFFF_FFFFFFFF_0_pageviews" width="88" height="31" alt="" title="" />
+</a>
+<!-- /Yandex.Metrika informer -->
+    
+
+    </div>
+</div>
+
+<script>
+    initPersDataMsg("Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, пользовательских данных (сведения о местоположении; тип и версия ОС; тип и версия Браузера; тип устройства и разрешение его экрана; источник откуда пришел на сайт пользователь; с какого сайта или по какой рекламе; язык ОС и Браузера; какие страницы открывает и на какие кнопки нажимает пользователь; ip-адрес) в целях функционирования сайта, проведения ретаргетинга и проведения статистических исследований и обзоров. Если вы не хотите, чтобы ваши данные обрабатывались, покиньте сайт.");
+</script>
+
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter4118740 = new Ya.Metrika({
+                    id:4118740,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+
+
+<div id="scroll" onclick="dropDown()"><div class="scroll">В начало</div></div>
+<div id="return" onclick="scrollBack()">Вернуться</div>
+</body>
+</html>
+
+
+
+
+    
+

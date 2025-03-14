@@ -1,0 +1,173 @@
+
+<script type="text/javascript" src="//s202.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.903861112066444"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+   			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s202",site_type:"narod",site_lng:"RU",rndid:"c_idLuOz",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"24",isgoogle:"0",isyandex:"0",ismobile:"0"},
+   			geo:{city:"Moscow",region:"Moskva"},
+   			urls:{
+   				adprru:[],
+   				adprci:[]
+   			}
+   		},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+			basic_params:{dcode:"o",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"84.252.147.252",server:"s202",site_type:"narod",site_lng:"RU",rndid:"c_idLuOz",ban240pos:"0",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"24",isgoogle:"0",isyandex:"0",ismobile:"0"},
+			geo:{city:"Moscow",region:"Moskva"},
+			urls:{
+				adprru:[],
+				adprci:[]
+			}
+		};*/
+	
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s202.ucoz.net/bnr/blocks/ads.js?0.068158563594455" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//itopera.narod.ru/jgGq0/dGX3?IZ%5ErwyZcCT4yMa%5EjiTav9EkzB%5EnhM5d7mn%5E29WGXAgYc%21jnXZp6a%5E0kHjw5eRk7HXtyb40ikuM4j"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_abandoned_sites?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript">
+if(typeof(u_global_data)!='object') u_global_data={};
+function ug_clund(){
+	if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>0 || (u_global_data && u_global_data.is_u_main_h)){
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget already loaded');
+		return;
+	}
+	u_global_data.clunduse=1;
+	if('0'=='1'){
+		var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=2; path=/; expires='+d;
+		if(location.search.indexOf('clk2398502361292193773143=1')==-1){
+			return;
+		}
+	}else{
+		window.addEventListener("click", function(event){
+			if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>1) return;
+			if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget click');
+			var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=1; path=/; expires='+d;
+			u_global_data.clunduse=2;
+			new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_click?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+		});
+	}
+	
+	new Image().src = "//counter.yadro.ru/hit;desktop_click_load?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+}
+
+setTimeout(function(){
+	if(typeof(u_global_data.preroll_video_57322)=='object' && u_global_data.preroll_video_57322.active_video=='adbetnet') {
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget suspend, preroll active');
+		setTimeout(ug_clund,8000);
+	}
+	else ug_clund();
+},3000);
+</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narodadst1?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;narod_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script><script type="text/javascript" src="//itopera.narod.ru/.s/src/jquery-3.3.1.min.js"></script><script type="text/javascript" src="//s202.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.149596694962085"></script>
+<html>
+<head>
+<title>«Джузеппе Верди» — сайт переехал на GiuseppeVerdi.ru</title>
+<META content="Сайт о Джузеппе Верди. Биография, сюжеты и комментарии к операм, дискография, книги, статьи, записи в mp3, ссылки, галерея." name=description>
+<META content="verdi, верди, джузеппе, композитор, опера" name=keywords>
+<META HTTP-EQUIV="Content-type" CONTENT="text/html;charset=windows-1251">
+
+<style>
+a{text-decoration:none}
+a.a{color:#ffcc99}
+a.a:hover{color:#ff9966}
+td{font-family:trebuchet ms,arial,tahoma;font-size:12px;background-color:#ffcc99}
+td.a{color:#ffcc99;font-weight:bold;background-color:#771111}
+td.b{color:#ffcc99;font-weight:bold;background-color:#771111;text-align:center}
+td.c{color:#ffcc99;font-weight:bold;background-color:#660000;text-align:center}
+td.d{background-color:#5f0010;vertical-align:top}
+input{font-family:trebuchet ms,arial,tahoma;font-size:12px;border:1px solid}
+</style>
+
+</head>
+
+<body text=#660000 bgcolor=#5f0010 link=#ff9966 vlink=#ff9966 alink=#ff9966>
+
+<div align=center>
+
+<table border=0 cellspacing=1 cellpadding=6 width=1% bgcolor=#cc0000>
+
+<tr><td class=d><table border=0 cellspacing=1 cellpadding=6 width=1% bgcolor=#cc0000>
+
+<tr><td class=с><a href="http://www.giuseppeverdi.ru/"><img src="images/logo.jpg" width=105 height=130 border=0 alt="На главную"></a></td></tr>
+
+<tr><td class=b><a href="http://www.giuseppeverdi.ru/">ГЛАВНАЯ</a></td></tr>
+
+<tr><td class=c><a href="http://www.giuseppeverdi.ru/biography.html">БИОГРАФИЯ</a></td></tr>
+
+<tr><td class=b><a href="http://www.giuseppeverdi.ru/works.html">ОПЕРЫ</a></td></tr>
+
+<tr><td class=c><a href="http://www.giuseppeverdi.ru/music.html">ЗАПИСИ</a></td></tr>
+
+<tr><td class=b><a href="http://www.giuseppeverdi.ru/books.html">КНИГИ</a></td></tr>
+
+<tr><td class=c><a href="http://www.giuseppeverdi.ru/articles.html">СТАТЬИ</a></td></tr>
+
+<tr><td class=b><a href="http://www.giuseppeverdi.ru/gallery.html">ГАЛЕРЕЯ</a></td></tr>
+
+<tr><td class=c><a href="http://www.giuseppeverdi.ru/links.html">ССЫЛКИ</a></td></tr>
+
+<tr><td class=b><a href="http://www.giuseppeverdi.ru/contacts.html">КОНТАКТЫ</a></td></tr>
+
+
+</table></td>
+
+<td class=d><table border=0 cellspacing=1 cellpadding=6 width=1% bgcolor=#5f0010>
+
+<tr><td class=b 
+style="BORDER-RIGHT: #cc0000 1px solid; BORDER-TOP: #cc0000 1px solid; BORDER-LEFT: #cc0000 1px solid; BORDER-BOTTOM: #cc0000 1px solid"><font size=5>Джузеппе &nbsp;Верди</font></td></tr>
+
+
+<tr><td><div align=left><font face=Arial size=2>
+
+<P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P>
+
+<P align="center">
+
+<a href="http://www.giuseppeverdi.ru/"><b><font color=#990000><u>САЙТ ПЕРЕЕХАЛ НА НОВЫЙ АДРЕС:</a></u></font></b> <a href="http://www.giuseppeverdi.ru/"><b><font color=#990000><u>http://www.giuseppeverdi.ru/</a></u></font></b></a>
+
+</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P>
+
+</font></div></td></tr>
+
+<tr><td class=b style="BORDER-RIGHT: #cc0000 1px solid; BORDER-TOP: #cc0000 1px solid; BORDER-LEFT: #cc0000 1px solid; BORDER-BOTTOM: #cc0000 1px solid">РЕКОМЕНДУЕМ</td></tr>
+
+<tr><td class=c><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" id="ozon_mrktact_468x60" width="468" height="60">
+  <param name="movie" value="http://www.ozon.ru/graphics/img_ass/ozon_mrktact_468x60.swf?target=_blank&link=http://www.ozon.ru/context/catalog/id/1097368/?partner=opera&from=prt_bmrkact2468">
+  <param name="quality" value="high">
+  <param name="allowScriptAccess" value="sameDomain">
+  <param name="bgcolor" value="#FFFFFF">
+  <embed name="parthners_genie_468x60" src="http://www.ozon.ru/graphics/img_ass/ozon_mrktact_468x60.swf?target=_blank&link=http://www.ozon.ru/context/catalog/id/1097368/?partner=opera&from=prt_bmrkact2468" quality="high" bgcolor="#FFFFFF" allowScriptAccess="sameDomain" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+  </embed></object></td></tr>
+
+<tr><td class=b style="BORDER-RIGHT: #cc0000 1px solid; BORDER-TOP: #cc0000 1px solid; BORDER-LEFT: #cc0000 1px solid; BORDER-BOTTOM: #cc0000 1px solid"><a target=_blank href="http://www.giuseppeverdi.ru/" class=a>&copy; 2004 </a><a href="http://rashod.at.ua/" style="text-decoration:none; color:#ffcc99;" target="_blank">«Джузеппе</a> <a href="http://50theme.ipb.su/" style="text-decoration:none; color:#ffcc99;" target="_blank">Верди»</a><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t50.18;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=10 height=10><\/a>")//--></script><!--/LiveInternet--></td></tr>
+
+</table></td></tr>
+
+</table>
+
+<font size=1 color=#ff9966><!--s_links--> <!--check code--><!--/s_links--></font>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2853148-4");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

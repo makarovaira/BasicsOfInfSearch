@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Сайт содержит подробные сведения о композиторе Модесте Петровиче Мусоргском и его окружении." />
+<meta name="keywords" content="мусоргский, композитор" />
+<meta name="author" content="Иван Фёдоров" />
+<link rel="stylesheet" type="text/css" href="style.css" title="1024px style" media="screen,projection" />
+<title>Композитор Модест Петрович Мусоргский</title>
+</head>
+
+<body>
+<div id="wrap">
+<div id="header">
+<p id="toplinks"><sup><strong>при поддержке</strong></sup> <a target="_blank" href="http://www.belcanto.ru/"><img src="images/belcanto-small.png" alt="Belcanto.ru — классическая музыка, опера и балет" title="Belcanto.ru — классическая музыка, опера и балет" /></a></p>
+
+<h1><a href="/">Мусоргский</a></h1>
+<p id="slogan">Жизнь и творчество русского композитора</p>
+
+</div>
+
+<div id="content">
+<h2>Добро пожаловать!</h2>
+
+<p><script type="text/javascript"><!--
+google_ad_client = "ca-pub-6537128359380264";
+/* tchaikov-top */
+google_ad_slot = "5890448625";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+<!--content_start-->
+
+
+
+<!--text_start-->
+
+<p>
+
+<img src="img/mus.jpg" width="234" height="300" alt="Композитор Модест Петрович Мусоргский" border="0" class="left photo">
+
+Жизнь Мусоргского была преданным <b>служением искусству</b>, а в искусстве — <b>народу</b>.</p>
+<p>
+
+Брат композитора вспоминал: «В отроческих и юношеских своих годах, а потом и в зрелом возрасте брат Модест всегда относился ко всему народному и крестьянскому с <b>особенной любовью</b>».</p>
+<p>
+
+Идеи писателей-демократов — стремление к <b>социальной справедливости</b>, сочувствие крестьянской доле, уважение и <b>вера в силу народа</b> — становятся его идеями и воплощаются в музыкальных образах.</p>
+<p> 
+
+Произведения Мусоргского часто удивительно созвучны и прямо «параллельны» некрасовским стихам. <b>Горькая ирония</b> бедняка в песне «Калистрат», <b>стихийная мощь</b> бунтовщиков-стрельцов в опере «Хованщина», <b>прекрасная печаль</b> протяжной русской песни в колыбельной «Спи, усни, крестьянский сын» — всё это типичные для Мусоргского и очень <b>русские образы</b>, привлекающие его с юных лет и на протяжении всего творческого пути.</p>
+<p> 
+
+Только воплощались эти образы в разные годы по-разному: композитор постоянно <b>искал новые пути</b>, новые музыкальные средства выражения. Его задачей была <b>жизненная правда</b>; к ней он стремился всю жизнь, и на этом пути открыл столько перспектив, смог увидеть столько возможностей в различных музыкальных жанрах, что его справедливо считают <b>реформатором в музыке</b>.</p>
+<p>
+
+<b>Талант</b> Мусоргского настолько <b>глубок и монолитен</b>, что анализировать его музыку, пытаясь постичь тайну ее магически <b>захватывающего воздействия</b>, очень трудно. Наверное, каждое поколение будет решать эту задачу по-своему, и каждому ее решение будет давать радость прикосновения к <b>вечно прекрасному</b> и бессмертному.</p>
+
+<p class="box"><i>Жизнь, где бы ни сказалась; правда, как бы ни была солона, смелая, искренняя речь к людям... — вот моя закваска, вот чего хочу и вот в чем боялся бы промахнуться.</i><br><br><i>Какой обширный, богатый мир искусство, если целью взят человек!</i><br>
+М. П. Мусоргский</p>
+<p>
+
+</p>
+<h3>Избранное:</h3>
+<p>
+
+</p>
+<li>
+<a href="mus.html">Модест Петрович Мусоргский</a> (автор — Е. Н. Абызова)</li>
+<p>
+
+</p>
+<li>
+<a href="hubov.html">Мусоргский</a> (автор — Г. Н. Хубов)</li>
+<p>
+
+</p>
+<li>
+<a href="dramaturg.html">Мусоргский — писатель-драматург</a> (автор — М. С. Пекелис)</li>
+<p>
+
+</p>
+<li>
+<a href="yakovlev01.html">Мусоргский и его «Хованщина»</a> (автор — Вас. Яковлев)</li>
+<p>
+
+</p>
+<li>
+<a href="yakovlev02.html">Мусоргский как исполнитель</a> (автор — Вас. Яковлев)</li>
+<p>
+
+</p>
+<li>
+<a href="yakovlev03.html">«Раёк» и «Классик» Мусоргского</a> (автор — Вас. Яковлев)</li>
+<p>
+
+</p>
+<li>
+<a href="bio.html">Очерк жизни и творчества Мусоргского</a> (автор — Э. Л. Фрид)</li>
+<p>
+
+</p>
+<dd>
+<a href="bio01.html">Знаменательные встречи</a><br><a href="bio01.html">1</a> | <a href="bio02.html">2</a> | <a href="bio03.html">3</a> | <a href="bio04.html">4</a> | <a href="bio05.html">5</a> | <a href="bio06.html">6</a> | <a href="bio07.html">7</a> | <a href="bio08.html">8</a> | <a href="bio09.html">9</a><br><a href="bio10.html">На пути к зрелости</a><br><b><a href="bio10.html">1</a></b> | <b><a href="bio11.html">2</a></b> | <b><a href="bio12.html">3</a></b> | <b><a href="bio13.html">4</a></b> | <b><a href="bio14.html">5</a></b> | <b><a href="bio15.html">6</a></b> | <b><a href="bio16.html">7</a></b> | <b><a href="bio17.html">8</a></b> | <b><a href="bio18.html">9</a></b> | <b><a href="bio19.html">10</a></b> | <b><a href="bio20.html">11</a></b><br><a href="bio21.html">В боевом строю</a><br><b><a href="bio21.html">1</a></b> | <b><a href="bio22.html">2</a></b> | <b><a href="bio23.html">3</a></b> | <b><a href="bio24.html">4</a></b> | <b><a href="bio25.html">5</a></b> | <b><a href="bio26.html">6</a></b> | <b><a href="bio27.html">7</a></b> | <b><a href="bio28.html">8</a></b><br><a href="bio29.html">Великое свершение</a><br><b><a href="bio29.html">1</a></b> | <b><a href="bio30.html">2</a></b> | <b><a href="bio31.html">3</a></b> | <b><a href="bio32.html">4</a></b> | <b><a href="bio33.html">5</a></b> | <b><a href="bio34.html">6</a></b> | <b><a href="bio35.html">7</a></b> | <b><a href="bio36.html">8</a></b> | <b><a href="bio37.html">9</a></b><br><a href="bio38.html">«Так, стало быть, надо было появиться "Борису"...»</a><br><b><a href="bio38.html">1</a></b> | <b><a href="bio39.html">2</a></b> | <b><a href="bio40.html">3</a></b> | <b><a href="bio41.html">4</a></b> | <b><a href="bio42.html">5</a></b><br><a href="bio43.html">Трагедия и величие художника</a><br><b><a href="bio43.html">1</a></b> | <b><a href="bio44.html">2</a></b> | <b><a href="bio45.html">3</a></b> | <b><a href="bio46.html">4</a></b> | <b><a href="bio47.html">5</a></b> | <b><a href="bio48.html">6</a></b> | <b><a href="bio49.html">7</a></b> | <b><a href="bio50.html">8</a></b> | <b><a href="bio51.html">9</a></b> | <b><a href="bio52.html">10</a></b> | <b><a href="bio53.html">11</a></b>
+</dd>
+
+
+
+<!--text_end-->
+
+
+
+
+<!--content_end--><p><script type="text/javascript"><!--
+google_ad_client = "pub-6537128359380264";
+/* mussorgsky728x90 */
+google_ad_slot = "6688420134";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+
+</div>
+
+<div id="sidebar">
+<h2>Содержание:</h2>
+<ul>
+<li><a href="index.html">Главная</a></li>
+<li><a href="biography.html">Биография</a></li>
+<li><a href="works.html">Произведения</a></li>
+<li><a href="liter.html">Литература</a></li>
+<li><a href="music.html">Записи</a></li>
+<li><a href="notes.html">Ноты</a></li>
+<li><a href="album.html">Альбом</a></li>
+<li><a href="links.html">Ссылки</a></li>
+<li><a href="about.html">О проекте</a></li>
+</ul>
+
+<h2>Реклама:</h2>
+
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-6537128359380264";
+/* mussorgsky160x600 */
+google_ad_slot = "8086821376";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
+
+</div>
+
+<div id="footer">
+<p><a href="index.html">Главная</a> | <a href="biography.html">Биография</a> | <a href="works.html">Произведения</a> | <a href="liter.html">Литература</a> | <a href="music.html">Записи</a> | <a href="notes.html">Ноты</a> | <a href="album.html">Альбом</a> | <a href="links.html">Ссылки</a> | <a href="about.html">О проекте</a><br />
+2006&#8212;2018 &copy; «<a href="/">Мусоргский</a>». Проект <noindex><a href="http://www.belcanto.ru/fedorov.html" target="_blank">Ивана Фёдорова</a></noindex> &nbsp;<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t44.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border=0 width=10 height=10><\/a>")//--></script><!--/LiveInternet-->
+</p>
+</div>
+
+</div>
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2853148-21");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

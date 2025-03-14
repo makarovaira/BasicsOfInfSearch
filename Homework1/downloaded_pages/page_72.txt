@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html>
+    <head><style>img.lazy{min-height:1px}</style><link href="https://gosfilmofond.ru/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+        <meta charset="UTF-8">
+		<title>ГОСФИЛЬМОФОНД &#8212; Официальный сайт Госфильмофонда России</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="format-detection" content="telephone=no">
+        
+        <link rel="apple-touch-icon" sizes="180x180" href="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/site.webmanifest">
+        <link rel="mask-icon" href="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="https://gosfilmofond.ru/wp-content/themes/gff/gff/images/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#9f00a7">
+        <meta name="msapplication-config" content="https://gosfilmofond.ru/wp-content/themes/gff/images/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+        
+        		<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gosfilmofond.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='GFF-css' href='https://gosfilmofond.ru/wp-content/uploads/wp-less/gff/less/styles-1f334b28d6.css' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://gosfilmofond.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='htbbootstrap-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://gosfilmofond.ru/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='htmega-animation-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/css/animation.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='htmega-keyframes-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-keyframes.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='htmega-global-style-min-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/css/htmega-global-style.min.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='htbuilder-main-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/extensions/ht-builder/css/htbuilder.css?ver=2.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wcsales-main-css' href='https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/extensions/wc-sales-notification/css/wc_notification.css?ver=2.8.3' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://gosfilmofond.ru/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=7a86b806" media="all">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?display=swap&amp;family=Open+Sans%3A300%2C400%7CMerriweather%3A300%2C400" media="all">
+<style data-related="n2-ss-2">div#n2-ss-2 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-2 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-2 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-2 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-2.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-2 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slide{perspective:1000px;}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .n2-ss-button-container,div#n2-ss-2 .n2-ss-button-container a{display:block;}div#n2-ss-2 .n2-ss-button-container--non-full-width,div#n2-ss-2 .n2-ss-button-container--non-full-width a{display:inline-block;}div#n2-ss-2 .n2-ss-button-container.n2-ss-nowrap{white-space:nowrap;}div#n2-ss-2 .n2-ss-button-container a div{display:inline;font-size:inherit;text-decoration:inherit;color:inherit;line-height:inherit;font-family:inherit;font-weight:inherit;}div#n2-ss-2 .n2-ss-button-container a > div{display:inline-flex;align-items:center;vertical-align:top;}div#n2-ss-2 .n2-ss-button-container span{font-size:100%;vertical-align:baseline;}div#n2-ss-2 .n2-ss-button-container a[data-iconplacement="left"] span{margin-right:0.3em;}div#n2-ss-2 .n2-ss-button-container a[data-iconplacement="right"] span{margin-left:0.3em;}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-2 .nextend-arrow img{position:relative;display:block;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-2 .n2-font-aee7850333490b08e9a568752f4d44f7-link a{font-family: 'Open Sans';color: #ffffff;font-size:100%;text-shadow: none;line-height: 56px;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: 1px;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-aee7850333490b08e9a568752f4d44f7-link a:HOVER, div#n2-ss-2 .n2-font-aee7850333490b08e9a568752f4d44f7-link a:ACTIVE, div#n2-ss-2 .n2-font-aee7850333490b08e9a568752f4d44f7-link a:FOCUS{color: #cc4e3a;}div#n2-ss-2 .n2-style-c19a63735932517f4d3605d74a5468ac-heading{background: #cc4e3a;opacity:1;padding:0px 50px 0px 50px ;box-shadow: none;border: 2px solid RGBA(204,78,58,1);border-radius:30px;}div#n2-ss-2 .n2-style-c19a63735932517f4d3605d74a5468ac-heading:Hover, div#n2-ss-2 .n2-style-c19a63735932517f4d3605d74a5468ac-heading:ACTIVE, div#n2-ss-2 .n2-style-c19a63735932517f4d3605d74a5468ac-heading:FOCUS{background: #ffffff;}div#n2-ss-2 .n2-font-745facd112f5836889925384165fdc3b-hover{font-family: 'Merriweather';color: #ffffff;font-size:312.5%;text-shadow: none;line-height: 1.4;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph{font-family: 'Open Sans';color: #ffffff;font-size:112.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph a, div#n2-ss-2 .n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph a:FOCUS{font-family: 'Open Sans';color: #cc4e3a;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph a:HOVER, div#n2-ss-2 .n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph a:ACTIVE{font-family: 'Open Sans';color: #c8963e;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading{background: RGBA(255,255,255,0);opacity:1;padding:0px 0px 0px 0px ;box-shadow: none;border: 0px dashed RGBA(0,0,0,1);border-radius:0px;}div#n2-ss-2 .n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading:Hover, div#n2-ss-2 .n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading:ACTIVE, div#n2-ss-2 .n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading:FOCUS{border: 0px dashed RGBA(0,0,0,1);}div#n2-ss-2 .n2-font-d3f83f70064715d96fa76a486a01bdc9-link a{font-family: 'Open Sans';color: #ffffff;font-size:100%;text-shadow: none;line-height: 56px;font-weight: normal;font-style: normal;text-decoration: none;text-align: center;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 700;}div#n2-ss-2 .n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading{background: RGBA(0,0,0,0);opacity:1;padding:0px 0px 0px 0px ;box-shadow: none;border: 2px solid RGBA(0,0,0,0);border-radius:30px;}div#n2-ss-2 .n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph{font-family: 'Open Sans';color: #cc4e3a;font-size:112.5%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 600;border-bottom:1px dashed #cc4e3aff;}div#n2-ss-2 .n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph a, div#n2-ss-2 .n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph a:FOCUS{font-family: 'Open Sans';color: #cc4e3a;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph a:HOVER, div#n2-ss-2 .n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph a:ACTIVE{font-family: 'Open Sans';color: #c8963e;font-size:100%;text-shadow: none;line-height: 1.5;font-weight: normal;font-style: normal;text-decoration: none;text-align: left;letter-spacing: normal;word-spacing: normal;text-transform: none;font-weight: 400;}div#n2-ss-2 .n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading{background: RGBA(255,255,255,0);opacity:1;padding:0px 0px 0px 0px ;box-shadow: none;border: 0px dashed RGBA(0,0,0,1);border-radius:0px;border-bottom:1px dashed #cc4e3aff;}div#n2-ss-2 .n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading:Hover, div#n2-ss-2 .n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading:ACTIVE, div#n2-ss-2 .n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading:FOCUS{border-bottom:1px dashed #c8963e;}div#n2-ss-2 .n2-ss-slide-limiter{max-width:1920px;}div#n2-ss-2 .n-uc-1Cuhga0Od5CJ{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-VCxicR3hQ4og-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-VCxicR3hQ4og-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-VCxicR3hQ4og-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-NFgibVe80VIe-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-NFgibVe80VIe{width:100%}div#n2-ss-2 .n-uc-oh5XDDzeStwH{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-z7o3V8jEpEjX-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-z7o3V8jEpEjX-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-z7o3V8jEpEjX-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-HraW1DXsRiJI-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-HraW1DXsRiJI{width:100%}div#n2-ss-2 .n-uc-BhTxShZsOkaG{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-eImGF8xmeeQD-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-eImGF8xmeeQD-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-eImGF8xmeeQD-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-YDA2NNxAL9FC-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-YDA2NNxAL9FC{width:100%}div#n2-ss-2 .n-uc-2qa2oc4BLVMJ{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-BPJquL9C4Wyn-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-BPJquL9C4Wyn-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-BPJquL9C4Wyn-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-ad4HlsMuEpij-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-ad4HlsMuEpij{width:100%}div#n2-ss-2 .n-uc-fTGaHMqLqLef{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-7XWvsO5C70Q4-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-7XWvsO5C70Q4-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-7XWvsO5C70Q4-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-iv0WUdShHHNx-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-iv0WUdShHHNx{width:100%}div#n2-ss-2 .n-uc-BP0lpd5vnrWU{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-Sz3AA4c185ET-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-Sz3AA4c185ET-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-Sz3AA4c185ET-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-Z3Tvcgoxr56l-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-Z3Tvcgoxr56l{width:100%}div#n2-ss-2 .n-uc-Lk8anA63ogeN{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-tGI1c5K6Qm4q-inner{padding:0px 0px 0px 0px}div#n2-ss-2 .n-uc-tGI1c5K6Qm4q-inner > .n2-ss-layer-row-inner{width:calc(100% + 1px);margin:-0px;flex-wrap:nowrap;}div#n2-ss-2 .n-uc-tGI1c5K6Qm4q-inner > .n2-ss-layer-row-inner > .n2-ss-layer[data-sstype="col"]{margin:0px}div#n2-ss-2 .n-uc-dsY7ZLBhkwia-inner{padding:0px 0px 0px 0px;justify-content:flex-start}div#n2-ss-2 .n-uc-dsY7ZLBhkwia{width:100%}div#n2-ss-2 .n2-ss-slider-1{min-height:828px;}div#n2-ss-2 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-2 .n-uc-m30cd1nGbHKo{display:none}div#n2-ss-2 .n-uc-2EKcIKcQ6Aj1{display:none}div#n2-ss-2 .n-uc-3RI6yxkWZhM8{display:none}div#n2-ss-2 .n-uc-WL59NnDixXVy{display:none}div#n2-ss-2 .n-uc-OrKP8jUaGvfO{display:none}div#n2-ss-2 .n-uc-K8su2MpqFJg9{display:none}div#n2-ss-2 .n-uc-QxiKHTp2uN5r{display:none}div#n2-ss-2 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-2 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-2 .n-uc-VCxicR3hQ4og-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-NFgibVe80VIe{width:100%}div#n2-ss-2 .n-uc-m30cd1nGbHKo{display:none}div#n2-ss-2 .n-uc-z7o3V8jEpEjX-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-HraW1DXsRiJI{width:100%}div#n2-ss-2 .n-uc-2EKcIKcQ6Aj1{display:none}div#n2-ss-2 .n-uc-eImGF8xmeeQD-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-YDA2NNxAL9FC{width:100%}div#n2-ss-2 .n-uc-3RI6yxkWZhM8{display:none}div#n2-ss-2 .n-uc-BPJquL9C4Wyn-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-ad4HlsMuEpij{width:100%}div#n2-ss-2 .n-uc-WL59NnDixXVy{display:none}div#n2-ss-2 .n-uc-7XWvsO5C70Q4-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-iv0WUdShHHNx{width:100%}div#n2-ss-2 .n-uc-OrKP8jUaGvfO{display:none}div#n2-ss-2 .n-uc-Sz3AA4c185ET-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-Z3Tvcgoxr56l{width:100%}div#n2-ss-2 .n-uc-K8su2MpqFJg9{display:none}div#n2-ss-2 .n-uc-tGI1c5K6Qm4q-inner > .n2-ss-layer-row-inner{flex-wrap:nowrap;}div#n2-ss-2 .n-uc-dsY7ZLBhkwia{width:100%}div#n2-ss-2 .n-uc-QxiKHTp2uN5r{display:none}div#n2-ss-2 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-2 .n2-ss-slide-limiter{max-width:480px;}div#n2-ss-2 .n-uc-VCxicR3hQ4og-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-NFgibVe80VIe{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-m30cd1nGbHKo{display:none}div#n2-ss-2 .n-uc-z7o3V8jEpEjX-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-HraW1DXsRiJI{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-2EKcIKcQ6Aj1{display:none}div#n2-ss-2 .n-uc-eImGF8xmeeQD-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-YDA2NNxAL9FC{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-3RI6yxkWZhM8{display:none}div#n2-ss-2 .n-uc-BPJquL9C4Wyn-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-ad4HlsMuEpij{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-WL59NnDixXVy{display:none}div#n2-ss-2 .n-uc-7XWvsO5C70Q4-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-iv0WUdShHHNx{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-OrKP8jUaGvfO{display:none}div#n2-ss-2 .n-uc-Sz3AA4c185ET-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-Z3Tvcgoxr56l{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-K8su2MpqFJg9{display:none}div#n2-ss-2 .n-uc-tGI1c5K6Qm4q-inner > .n2-ss-layer-row-inner{flex-wrap:wrap;}div#n2-ss-2 .n-uc-dsY7ZLBhkwia{width:calc(100% - 0px)}div#n2-ss-2 .n-uc-QxiKHTp2uN5r{display:none}div#n2-ss-2 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-2 .nextend-arrow img{width: 16px}}</style>
+<script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(e,i,o,r){(i=e.match(/(Chrome|Firefox|Safari)\/(\d+)\./))&&("Chrome"==i[1]?r=+i[2]>=32:"Firefox"==i[1]?r=+i[2]>=65:"Safari"==i[1]&&(o=e.match(/Version\/(\d+)/)||e.match(/(\d+)[0-9_]+like Mac/))&&(r=+o[1]>=14),r&&document.documentElement.classList.add("n2webp"))}(navigator.userAgent);</script><script src="https://gosfilmofond.ru/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=7a86b806" defer async></script>
+<script src="https://gosfilmofond.ru/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=7a86b806" defer async></script>
+<script src="https://gosfilmofond.ru/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=7a86b806" defer async></script>
+<script src="https://gosfilmofond.ru/wp-content/plugins/nextend-smart-slider3-pro/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=7a86b806" defer async></script>
+<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-2',{"admin":false,"background.video.mobile":1,"loadingTime":2000,"randomize":{"randomize":0,"randomizeFirst":0},"callbacks":"","alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1920,"slideOuterHeight":828,"sliderWidth":1920,"sliderHeight":828,"slideWidth":1920,"slideHeight":828},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":828,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":302,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":138,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":10000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":0,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1000,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider","scrollmove":"both"},"postBackgroundAnimations":0,"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":"auto"},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})})});</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js?ver=1.12.2" id="jquery-js"></script>
+<script type="text/javascript" async="async" src="https://gosfilmofond.ru/wp-content/plugins/playerjs/playerjs.js?ver=6.7.2" id="playerjs-js-js"></script>
+<link rel="https://api.w.org/" href="https://gosfilmofond.ru/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gosfilmofond.ru/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<meta name="generator" content="Elementor 3.27.6; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://gosfilmofond.ru/wp-content/uploads/2020/07/cropped-android-chrome-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://gosfilmofond.ru/wp-content/uploads/2020/07/cropped-android-chrome-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gosfilmofond.ru/wp-content/uploads/2020/07/cropped-android-chrome-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://gosfilmofond.ru/wp-content/uploads/2020/07/cropped-android-chrome-512x512-270x270.png" />
+        <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=449d3ba3-6e36-484b-941c-e82f2c636628" type="text/javascript"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/jquery-ui.js"></script>
+        <script type="text/javascript" src="https://gosfilmofond.ru/wp-content/themes/gff/js/function.js"></script>
+        <link href="https://gosfilmofond.ru/wp-content/themes/gff/less/jquery.formstyler.css" rel="stylesheet" />
+        <link href="https://gosfilmofond.ru/wp-content/themes/gff/less/jquery.formstyler.theme.css" rel="stylesheet" />
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/jquery.formstyler.js"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/popper.min.js"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/tippy.min.js"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/jquery.cookie.js"></script>
+        <link rel="stylesheet" href="https://gosfilmofond.ru/wp-content/themes/gff/less/jquery.mCustomScrollbar.css" />
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/jquery.mCustomScrollbar.concat.min.js"></script>
+        <link href="https://gosfilmofond.ru/wp-content/themes/gff/less/select2.min.css" rel="stylesheet" />
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/select2.min.js"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/select2.i18n.ru.js"></script>
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/swiper.js"></script>
+        <link href="https://gosfilmofond.ru/wp-content/themes/gff/less/swiper.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://gosfilmofond.ru/wp-content/themes/gff/less/jquery.fancybox.min.css" />
+        <script src="https://gosfilmofond.ru/wp-content/themes/gff/js/jquery.fancybox.min.js"></script>
+		<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=33223" data-pixel-id="33223"></script>
+    </head>
+    <body>
+        <a id="button-up"></a>
+        <header class="header ">
+            <div id="page-loader" class="fade"></div>
+            <div class="wrapper-header">
+                <div class="header-block">
+                    <div class="logo">
+                        <a href="https://gosfilmofond.ru">
+                            <img class="logo-img lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://gosfilmofond.ru/wp-content/themes/gff/images/logo_gff_white.svg">
+                            <span class="logo-text">Госфильмофонд России</span>
+                                                    </a>
+                    </div>
+                    <nav class="top-menu-nav">
+                        <a class="menu-item"  data-key="service">Услуги</a>
+                        <a class="menu-item"  data-key="catalog">Каталог</a>
+                        <a class="menu-item"  data-key="news">Новости</a>
+                        <a class="menu-item" href="https://gosfilmofond.ru/kontakty/" data-key="kontakty">Контакты</a>
+						<!--<a class="menu-item" href="https://gosfilmofond.ru/wp-content/uploads/2023/06/prejskurant-na-uslugi-dlya-rossijskih-i-zarubezhnyh-yuridicheskih-i-fizicheskih-licz-ot-30.05.2023.pdf" data-key="preiskurant">Прейскурант</a>-->
+                                            </nav>
+                    <div class="sub-menu">
+                        
+                        <a class="sub-menu-button">
+                            <i class="icon-menu"></i>
+                        </a>
+                        <div class="main-menu-container menu-burger ">
+                            <!--<a href="https://old2019.gosfilmofond.ru/" class="info-button-mobile">
+                                Старая версия сайта
+                            </a>-->
+                            <nav class="top-menu"><ul id = "main-menu" class = ""><li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-97"><a href="#fond">О фонде</a>
+<ul class="sub-menu">
+	<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://gosfilmofond.ru/nasha-deyatelnost/">Наша деятельность</a></li>
+	<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="https://gosfilmofond.ru/rukovodstvo-fonda/">Руководство фонда</a></li>
+	<li id="menu-item-60767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60767"><a href="https://gosfilmofond.ru/nauchnaya-deyatelnost/">Научная деятельность</a></li>
+	<li id="menu-item-60766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60766"><a href="https://gosfilmofond.ru/hranenie/">Хранение</a></li>
+	<li id="menu-item-60768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60768"><a href="https://gosfilmofond.ru/oczifrovka-arhiva/">Оцифровка архива</a></li>
+	<li id="menu-item-60769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60769"><a href="https://gosfilmofond.ru/tehnicheskij-kontrol/">Технический контроль</a></li>
+	<li id="menu-item-336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://gosfilmofond.ru/dokumenty/">Документы</a></li>
+	<li id="menu-item-82032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82032"><a href="https://gosfilmofond.ru/vakansii/">Вакансии</a></li>
+	<li id="menu-item-81880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81880"><a href="https://gosfilmofond.ru/protivodejstvie-korrupczii/">Противодействие коррупции</a></li>
+</ul>
+</li>
+<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-96"><a href="#service">Услуги</a>
+<ul class="sub-menu">
+	<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173"><a href="https://gosfilmofond.ru/priem-na-hranenie/">Прием на хранение</a></li>
+	<li id="menu-item-88965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88965"><a href="https://gosfilmofond.ru/laboratoriya/">Лаборатория</a></li>
+	<li id="menu-item-90053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90053"><a href="https://gosfilmofond.ru/avtorskie-prava/">Авторские права и лицензирование</a></li>
+	<li id="menu-item-88454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88454"><a href="https://gosfilmofond.ru/dlya-issledovatelej/">Для исследователей</a></li>
+	<li id="menu-item-81681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81681"><a href="https://gosfilmofond.ru/ekskursii/">Культурно-просветительское мероприятие (Выставочный комплекс)</a></li>
+	<li id="menu-item-88709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88709"><a href="https://gosfilmofond.ru/wp-content/uploads/2025/01/prejskurant-na-uslugi-dlya-rossijskih-i-zarubezhnyh-yuridicheskih-i-fizicheskih-licz-ot-13.01.2025.pdf">Прейскурант</a></li>
+</ul>
+</li>
+<li id="menu-item-60652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60652"><a href="https://gosfilmofond.ru/films/">Каталог фильмов</a></li>
+<li id="menu-item-88037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88037"><a href="https://gosfilmofond.ru/diafilmy/">Диафильмы</a></li>
+<li id="menu-item-81296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81296"><a href="https://gosfilmofond.ru/news/">Новости</a></li>
+<li id="menu-item-81548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-81548"><a href="https://gosfilmofond.ru/projects-detail/">Проекты</a>
+<ul class="sub-menu">
+	<li id="menu-item-83099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83099"><a href="https://gosfilmofond.ru/povtornyj-prokat/">ПОВТОРНЫЙ ПРОКАТ</a></li>
+	<li id="menu-item-82792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82792"><a href="https://gosfilmofond.ru/sobytiya/">СОБЫТИЯ</a></li>
+	<li id="menu-item-83617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83617"><a href="https://gosfilmofond.ru/persona-gff/">Научный отдел. Личное дело</a></li>
+	<li id="menu-item-82794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82794"><a href="https://archivefest.ru/">ММФАФ</a></li>
+	<li id="menu-item-83618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83618"><a href="https://tarkovskiy.gosfilmofond.ru/">«ТАРКОВСКИЙ. ХРОНИКА»</a></li>
+	<li id="menu-item-82791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82791"><a href="https://gosfilmofond.ru/online-proekty/">Online-проекты</a></li>
+</ul>
+</li>
+<li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="https://gosfilmofond.ru/kontakty/">Контакты</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a href="https://ep.gosfilmofond.ru/">Личный кабинет</a></li>
+</ul></nav>                            <div class="cinema-container">
+                                <a href="https://illusion-cinema.ru/" target="_blank">
+                                    <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://gosfilmofond.ru/wp-content/themes/gff/images/bg_illusion-block.svg"/>
+                                </a>
+                                <!--<a href="http://kinosaransk.ru/" target="_blank">
+                                    <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://gosfilmofond.ru/wp-content/themes/gff/images/saransk.png"/>
+                                </a>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+<section id="service" class="service-block" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div><ss3-force-full-width data-overflow-x="html" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore " data-ssid="2" tabindex="0" role="region" aria-label="Слайдер"><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  " data-ss-legacy-font-scale="1"><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2019/08/121133.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="49" data-alt="" data-title="" style="--ss-o-pos-y:49%"><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2023/07/img_20230726_152125_098.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2019/08/cinema-4213751_1920.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="4" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2023/04/1-124-1.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="5" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2022/03/01-scaled.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="6" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="49" data-alt="" data-title="" style="--ss-o-pos-y:49%"><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2022/12/1920.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="7" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img src="//gosfilmofond.ru/wp-content/uploads/2022/08/tarkovskij-1920.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,1)" style="background-color: RGBA(255,255,255,1);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 828" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="31" data-slide-public-id="1" data-title="Прием на хранение" class="n2-ss-slide n2-ow  n2-ss-slide-31"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Прием на хранение</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-1Cuhga0Od5CJ" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-VCxicR3hQ4og" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-VCxicR3hQ4og-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-NFgibVe80VIe" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-NFgibVe80VIe-inner"></div></div><div class="n2-ss-layer n2-ow order-services-button n-uc-1a63a6c9109b9" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="234" data-desktopportraittop="559" data-responsivesize="0" data-desktopportraitwidth="321" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-aee7850333490b08e9a568752f4d44f7-link  n2-ss-nowrap"><a class="n2-style-c19a63735932517f4d3605d74a5468ac-heading  n2-ow " href="https://ep.gosfilmofond.ru/"><div><div>ЗАКАЗАТЬ УСЛУГУ</div></div></a></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-TclWL6YXkSn9" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="141" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item2" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">Услуга «Прием на хранение»</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-7UqO16eHrtGL" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="246" data-responsivesize="0" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>В рамках услуги комплект исходных материалов фильма, созданного при государственной финансовой поддержке, обязательный экземпляр фильма готовятся к сдаче на государственное хранение организацией кинематографии</b><br />
+<a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>В рамках услуги комплект исходных материалов фильма, созданного при государственной финансовой поддержке, обязательный экземпляр фильма готовятся к сдаче на государственное хранение организацией кинематографии</b><br /><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>В рамках услуги комплект исходных материалов фильма, созданного при государственной финансовой поддержке, обязательный экземпляр фильма готовятся к сдаче на государственное хранение организацией кинематографии</b><br />
+<a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-Jny2qUsAJN9F" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-m30cd1nGbHKo" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="3883" data-slide-public-id="2" data-title="Лаборатория" class="n2-ss-slide n2-ow  n2-ss-slide-3883"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Лаборатория</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-oh5XDDzeStwH" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-z7o3V8jEpEjX" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-z7o3V8jEpEjX-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-HraW1DXsRiJI" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-HraW1DXsRiJI-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-BUHSHenWvjv1" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item6" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">Лаборатория</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-AQsedawWY8Xi" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="246" data-responsivesize="1" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>В нашей лаборатории возможна проявка цветных и чёрно-белых киноплёнок в оригинальных режимах Kodak, а также их сканирование. </b><br />
+<a href="/laboratoriya">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>В нашей лаборатории возможна проявка цветных и чёрно-белых киноплёнок в оригинальных режимах Kodak, а также их сканирование. Для обработки киноплёнок используются только профессиональное оборудование и оригинальная химия.<br />
+</b><br />
+<a href="/laboratoriya">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>В нашей лаборатории возможна проявка цветных и чёрно-белых киноплёнок в оригинальных режимах Kodak, а также их сканирование. Для обработки киноплёнок используются только профессиональное оборудование и оригинальная химия.<br />
+</b><br />
+<a href="/laboratoriya">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-PtMZBYq1QSsN" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-2EKcIKcQ6Aj1" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="20" data-slide-public-id="3" data-title="Авторские права" class="n2-ss-slide n2-ow  n2-ss-slide-20"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Авторские права</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-BhTxShZsOkaG" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-eImGF8xmeeQD" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-eImGF8xmeeQD-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-YDA2NNxAL9FC" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-YDA2NNxAL9FC-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-ljkptBzMzSHA" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="141" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item10" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">Авторские права</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-Y8MWecTsAEVp" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="259" data-responsivesize="0" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Реализация авторских прав Госфильмофонда осуществляется на основании типовых форм лицензионных договоров.</b><br />
+<a href="/avtorskie-prava">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>Реализация авторских прав Госфильмофонда осуществляется на основании типовых форм лицензионных договоров. А также Госфильмофонд решает все вопросы по согласованию условий конкретных лицензий и получению лицензионного вознаграждения</b><br />
+<a href="/avtorskie-prava">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Реализация авторских прав Госфильмофонда осуществляется на основании типовых форм лицензионных договоров. А также Госфильмофонд решает все вопросы по согласованию условий конкретных лицензий и получению лицензионного вознаграждения</b><br />
+<a href="/avtorskie-prava">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow order-services-button n-uc-yXSrywxkZLjH" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="500" data-responsivesize="0" data-desktopportraitwidth="321" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-aee7850333490b08e9a568752f4d44f7-link  n2-ss-nowrap"><a class="n2-style-c19a63735932517f4d3605d74a5468ac-heading  n2-ow " href="https://ep.gosfilmofond.ru/"><div><div>ЗАКАЗАТЬ УСЛУГУ</div></div></a></div></div><div class="n2-ss-layer n2-ow service-all n-uc-0lb2ej53Gws5" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-3RI6yxkWZhM8" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="3881" data-slide-public-id="4" data-title="Для исследователей" class="n2-ss-slide n2-ow  n2-ss-slide-3881"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Для исследователей</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-2qa2oc4BLVMJ" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-BPJquL9C4Wyn" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-BPJquL9C4Wyn-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-ad4HlsMuEpij" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-ad4HlsMuEpij-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-aDz21EfVszU4" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="141" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item15" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">Для исследователей</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-Ro4FX2MbMMtP" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="246" data-responsivesize="0" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Госфильмофонд РФ предоставляет оптимальный доступ к своей коллекции и опыту исследователям и студентам, которые изучают кино и могут использовать богатый архивный материал в своих проектах.<br />
+</b><br />
+<a href="/dlya-issledovatelej">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>Госфильмофонд РФ предоставляет оптимальный доступ к своей коллекции и опыту исследователям и студентам, которые изучают кино и могут использовать богатый архивный материал в своих проектах.<br />
+</b><br /><a href="/dlya-issledovatelej">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Госфильмофонд РФ предоставляет оптимальный доступ к своей коллекции и опыту исследователям и студентам, которые изучают кино и могут использовать богатый архивный материал в своих проектах.<br />
+</b><br />
+<a href="/dlya-issledovatelej">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-HlZBxs5KchGU" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-WL59NnDixXVy" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="28" data-slide-public-id="5" data-title="Иллюзион" class="n2-ss-slide n2-ow  n2-ss-slide-28"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Иллюзион</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-fTGaHMqLqLef" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-7XWvsO5C70Q4" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-7XWvsO5C70Q4-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-iv0WUdShHHNx" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-iv0WUdShHHNx-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-qj7jR9sCzcVM" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="141" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item19" class="  n2-ss-item-content n2-ss-text n2-ow" style="display:block;"><a class="n2-ow n2-font-745facd112f5836889925384165fdc3b-hover " style="display:block;" target="_blank" href="https://illuzion-cinema.ru/">Кинотеатр «Иллюзион»</a></div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-k4lhpyTmiyrj" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="246" data-responsivesize="0" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"></div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>«Иллюзион» - главная площадка Госфильмофонда России для показа архивного кино.</b><br />
+<a href="https://illusion-cinema.ru/">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>«Иллюзион» - главная площадка Госфильмофонда России для показа архивного кино.</b><br />
+<a href="https://illusion-cinema.ru/">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-bF1vYxMa85As" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-OrKP8jUaGvfO" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="3880" data-slide-public-id="6" data-title="Диафильмы" class="n2-ss-slide n2-ow  n2-ss-slide-3880"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Диафильмы</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-BP0lpd5vnrWU" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-Sz3AA4c185ET" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-Sz3AA4c185ET-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-Z3Tvcgoxr56l" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-Z3Tvcgoxr56l-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-nIRbCgbrhd7S" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item23" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">«Диафильмы»</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-shvpNaoYZOJz" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="246" data-responsivesize="1" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Онлайн-каталог диафильмов для детей и их родителей.</b><br />
+<a href="/diafilmy">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>Онлайн-каталог диафильмов для детей и их родителей.</b><br />
+<a href="/diafilmy">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Онлайн-каталог диафильмов для детей и их родителей.</b><br />
+<a href="/diafilmy">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-5esJV4FiQJ3Q" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-K8su2MpqFJg9" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div><div data-slide-duration="0" data-id="37" data-slide-public-id="7" data-title="«ТАРКОВСКИЙ. ХРОНИКА»" class="n2-ss-slide n2-ow  n2-ss-slide-37"><div role="note" class="n2-ss-slide--focus" tabindex="-1">«ТАРКОВСКИЙ. ХРОНИКА»</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-Lk8anA63ogeN" data-sstype="slide" data-pm="default"><div class="n2-ss-layer n2-ow n2-ss-layer--block n2-ss-has-self-align shadow-block n-uc-tGI1c5K6Qm4q" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="0" data-desktopportraittop="0" data-responsivesize="0" data-desktopportraitwidth="100%" data-desktopportraitheight="828" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-href="https://tarkovskiy.gosfilmofond.ru/" tabindex="0" role="button" data-target="_blank" data-n2click="url" data-force-pointer="" data-sstype="row"><div class="n2-ss-layer-row n2-ss-layer-with-background n-uc-tGI1c5K6Qm4q-inner"><div class="n2-ss-layer-row-inner "><div class="n2-ss-layer n2-ow shadow-block n-uc-dsY7ZLBhkwia" data-pm="default" data-sstype="col"><div class="n2-ss-layer-col n2-ss-layer-with-background n2-ss-layer-content n-uc-dsY7ZLBhkwia-inner"></div></div></div></div></div><div class="n2-ss-layer n2-ow title-slide n-uc-gBMuxK8ilUgY" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="83" data-responsivesize="1" data-desktopportraitwidth="810" data-desktopportraitheight="141" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div id="n2-ss-2item27" class="n2-font-745facd112f5836889925384165fdc3b-hover   n2-ss-item-content n2-ss-text n2-ow" style="display:block;">«ТАРКОВСКИЙ. ХРОНИКА»</div></div><div class="n2-ss-layer n2-ow annonce-slide n-uc-UADOcwtqijWt" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-desktopportraittop="259" data-responsivesize="0" data-desktopportraitwidth="724" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading "><b>Новый интернет-проект Госфильмофонда России, посвященный 90-летию советского кинорежиссера Андрея Тарковского.</b><br />
+<a href="https://tarkovskiy.gosfilmofond.ru/">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-4a3a42cee8df8357256cb241b5ac430c-paragraph  n2-style-fd2167e3f0ffd9219a5b5d60b9b64b2d-heading  "><b>Новый интернет-проект Госфильмофонда России, посвященный 90-летию советского кинорежиссера Андрея Тарковского.</b><br />
+<a href="https://tarkovskiy.gosfilmofond.ru/">Подробнее</a></p>
+</div></div></div><div class="n2-ss-layer n2-ow service-all n-uc-c655aEckMsyO" data-pm="absolute" data-responsiveposition="0" data-desktopportraitleft="1046" data-desktopportraittop="581" data-responsivesize="0" data-desktopportraitwidth="60" data-desktopportraitheight="60" data-desktopportraitalign="left" data-desktopportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-adaptivefont="0" data-sstype="layer"><div class="n2-ss-button-container n2-ss-item-content n2-ow n2-font-d3f83f70064715d96fa76a486a01bdc9-link  n2-ss-nowrap"><a class="n2-style-c0052a0ee082fc472d0042d7e7c38a19-heading  n2-ow " href="/services"><div><div> -&gt;</div></div></a></div></div><div class="n2-ss-layer n2-ow service-more-ref n-uc-QxiKHTp2uN5r" data-pm="absolute" data-responsiveposition="1" data-desktopportraitleft="236" data-tabletportraitleft="236" data-desktopportraittop="429" data-tabletportraittop="477" data-mobileportraittop="800" data-responsivesize="1" data-desktopportraitwidth="auto" data-tabletportraitwidth="auto" data-desktopportraitheight="auto" data-tabletportraitheight="auto" data-desktopportraitalign="left" data-tabletportraitalign="left" data-desktopportraitvalign="top" data-tabletportraitvalign="top" data-parentid="" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-hidedesktopportrait="1" data-hidetabletportrait="1" data-hidemobileportrait="1" data-sstype="layer"><div class="n2-ss-item-content n2-ss-text n2-ow-all"><div data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-desktoplandscape="1" data-hide-desktopportrait="1" data-hide-mobilelandscape="1" data-hide-mobileportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div><div class="" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" data-hide-tabletlandscape="1" data-hide-tabletportrait="1"><p class="n2-font-852dcd8f61618bb93d135ebd0ca6b0a6-paragraph  n2-style-c25d5c31d0fc7e4d8eb8fba842fb58fb-heading  "><a href="/priem-na-hranenie">Подробнее</a></p>
+</div></div></div></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" id="n2-ss-2-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobilelandscape="1" data-hide-mobileportrait="1" id="n2-ss-2-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></ss3-force-full-width></div></section> 
+<section id="catalog" class="catalog-block">
+    <div class="wrapper-content">
+        <div class="title-major">
+            <h1>
+                Госфильмофонд России            </h1>
+        </div>
+        <div class="title-minor">
+            — основной архив кинофильмов РФ, член<br/>
+Международной федерации киноархивов (FIAF)        </div>
+        <div class="catalog-container">
+            <div class="catalog-text">
+                <div class="main-text"><span class="color-red">Госфильмофонд сегодня</span> — это уникальный многофункциональный комплекс, играющий важную роль в развитии и популяризации российского кино</div>
+<div class="letter-text">Является государственным учреждением культуры — хранителем коллекции фильмов и других киноматериалов, осуществляющим собирательскую, творческо-производственную, культурно-просветительную, научно-исследовательскую, методическую и информационную деятельность в сфере кинематографии</div>
+            </div>
+            <div class="catalog-list">
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">1 134</span> 310                        </div>
+                        <div class="annonce">
+                            <b>На постоянном хранении</b><br/><p>роликов киноплёнки по состоянию на 1.01.2025 г.</p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">660</span> 515                        </div>
+                        <div class="annonce">
+                            <b>Фонд отечественных фильмов</b><br/><p><em>Роликов киноплёнки</em></p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">473</span> 795                        </div>
+                        <div class="annonce">
+                            <b>Фонд зарубежных фильмов</b><br/><p><em>Роликов киноплёнки</em></p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">535</span> 915                        </div>
+                        <div class="annonce">
+                            <b>Архив бумажных документов</b><br/><p><em>Единиц хранения</em></p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">1 125</span> 335                        </div>
+                        <div class="annonce">
+                            <b>35 мм фильмовых материалов</b><br/><p>на хранении</p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">6</span> 538                        </div>
+                        <div class="annonce">
+                            <b>70 мм фильмовых материалов</b><br/><p>на хранении</p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">2</span>437                        </div>
+                        <div class="annonce">
+                            <b>16 мм фильмовых материала</b><br/><p>на хранении</p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                                    <div class="catalog-item">
+                        <div class="number-block">
+                            <span class="color-red">70</span> 694                        </div>
+                        <div class="annonce">
+                            <b>Цифровые и аналоговые</b><br/><p>носители информации</p>
+<script>function PlayerjsAsync(){} if(window["Playerjs"]){PlayerjsAsync();}</script>                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="catalog-button">
+            <a href="/films" class="button button-major">
+                Каталог фильмов
+            </a>
+        </div>
+    </div>
+</section>
+    <section id="news" class="news-block">
+        <div class="wrapper-content">
+            <div class="title-major">Информационный раздел</div>
+            <div class="news-container">
+                <div class="news-list">
+                                                                                                                    <div class="news-item">
+                                        <div class="news-category">Новости</div>
+                                        <a href="https://gosfilmofond.ru/gosfilmofond-rossii-uchastnik-xxiii-mezhdunarodnogo-festivalya-kinodebyutov-duh-ognya/" class="news-item-link lazy"
+                                           style="" data-bg="url('https://gosfilmofond.ru/wp-content/uploads/2025/03/img_20250312_112431_130.jpg')">
+                                            <div class="news-title">
+                                                Госфильмофонд России участник XXIII Международного фестиваля кинодебютов «Дух Огня»                                            </div>
+                                            <div class="news-date">
+                                                10<br/>
+                                                <span>Мар</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                                                                                                                                    <div class="news-item">
+                                        <div class="news-category">Проекты</div>
+                                        <a href="https://gosfilmofond.ru/povtornyj-prokat/" class="news-item-link lazy"
+                                           style="" data-bg="url('https://gosfilmofond.ru/wp-content/uploads/2022/09/dyatel00091257.jpg')">
+                                            <div class="news-title">
+                                                ПОВТОРНЫЙ ПРОКАТ                                            </div>
+                                            <div class="news-date">
+                                                01<br/>
+                                                <span>Сен</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                                                                                                                                    <div class="news-item">
+                                        <div class="news-category">События</div>
+                                        <a href="https://gosfilmofond.ru/vizualnyj-i-slovesnyj-tekst-v-kinoarhive-2025/" class="news-item-link lazy"
+                                           style="" data-bg="url('https://gosfilmofond.ru/wp-content/uploads/2025/01/img29662.jpg')">
+                                            <div class="news-title">
+                                                Визуальный и словесный текст в киноархиве                                            </div>
+                                            <div class="news-date">
+                                                03<br/>
+                                                <span>Мар</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                                                    </div>
+            </div>
+            <div class="news-button">
+                <a href="/digest/" class="button button-major">
+                    Все публикации
+                </a>
+            </div>
+        </div>
+    </section>
+    <section id="youtube-main-page" class="youtube-main-page" style="background-color: #ffffff;">
+        <div class="wrapper-content">
+            <div class="title-major">Онлайн кинотеатр</div>
+            <div class="youtube-container">
+                                    <div class="video-item">
+                        <div class="video-item__thumbnail">
+                            <a class="video-item__link" href="https://www.youtube.com/watch?v=6g39X1iLq2U"
+                               target="_blank">
+                                <img class="video-item__img lazy"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://i.ytimg.com/vi/6g39X1iLq2U/mqdefault.jpg"
+                                     alt="Новая реконструкция фильма С.М. Эйзенштейна «Бежин луг»">
+                                <div class="video-item__time">05:50</div>
+                            </a>
+                        </div>
+                        <div class="video-item__detail">
+                            <a class="video-item__title"
+                               href="https://www.youtube.com/watch?v=6g39X1iLq2U"
+                               target="_blank">Новая реконструкция фильма С.М. Эйзенштейна «Бежин луг»</a>
+                            <div class="video-item__views">1171 просмотр</div>
+                            <div class="video-item__posted">6 месяцев                                назад
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="video-item">
+                        <div class="video-item__thumbnail">
+                            <a class="video-item__link" href="https://www.youtube.com/watch?v=IvexcgLPbqs"
+                               target="_blank">
+                                <img class="video-item__img lazy"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://i.ytimg.com/vi/IvexcgLPbqs/mqdefault.jpg"
+                                     alt="Архивные находки. В мгновение ока / In the blink of an eye [SUB ENG]">
+                                <div class="video-item__time">00:07</div>
+                            </a>
+                        </div>
+                        <div class="video-item__detail">
+                            <a class="video-item__title"
+                               href="https://www.youtube.com/watch?v=IvexcgLPbqs"
+                               target="_blank">Архивные находки. В мгновение ока / In the blink of an eye [SUB ENG]</a>
+                            <div class="video-item__views">1873 просмотра</div>
+                            <div class="video-item__posted">7 месяцев                                назад
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="video-item">
+                        <div class="video-item__thumbnail">
+                            <a class="video-item__link" href="https://www.youtube.com/watch?v=BdCT-x2uePI"
+                               target="_blank">
+                                <img class="video-item__img lazy"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://i.ytimg.com/vi/BdCT-x2uePI/mqdefault.jpg"
+                                     alt="«Черное лицо», 1921, реж. Франц Остен / «The Black Face», 1921, dir. Franz Osten">
+                                <div class="video-item__time">50:22</div>
+                            </a>
+                        </div>
+                        <div class="video-item__detail">
+                            <a class="video-item__title"
+                               href="https://www.youtube.com/watch?v=BdCT-x2uePI"
+                               target="_blank">«Черное лицо», 1921, реж. Франц Остен / «The Black Face», 1921, dir. Franz Osten</a>
+                            <div class="video-item__views">1647 просмотров</div>
+                            <div class="video-item__posted">11 месяцев                                назад
+                            </div>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </section>
+<footer id="contacts" class="footer-block">
+    <div class="wrapper-footer">
+        <div class="footer-content">
+            <div class="footer-top">
+
+                <div id="menu-footer-menu" class="footer-menu"><div id="menu-item-79198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79198 footer-menu__item"><div class="footer-menu__title"><a>Услуги</a></div><ul class="sub-menu footer-menu-list">	<li id="menu-item-79530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79530 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/priem-na-hranenie/">Прием на хранение</a></li>	<li id="menu-item-88964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88964 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/laboratoriya/">Лаборатория</a></li>	<li id="menu-item-90052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90052 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/avtorskie-prava/">Авторские права и лицензирование</a></li>	<li id="menu-item-88453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88453 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/dlya-issledovatelej/">Для исследователей</a></li>	<li id="menu-item-81682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81682 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/ekskursii/">Культурно-просветительское мероприятие (Выставочный комплекс)</a></li>	<li id="menu-item-88760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88760 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/wp-content/uploads/2025/01/prejskurant-na-uslugi-dlya-rossijskih-i-zarubezhnyh-yuridicheskih-i-fizicheskih-licz-ot-13.01.2025.pdf">Прейскурант</a></li></ul></div><div id="menu-item-79700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-79700 footer-menu__item"><div class="footer-menu__title"><a>О Фонде</a></div><ul class="sub-menu footer-menu-list">	<li id="menu-item-80524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80524 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/nasha-deyatelnost/">Наша деятельность</a></li>	<li id="menu-item-80035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80035 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/rukovodstvo-fonda/">Руководство фонда</a></li>	<li id="menu-item-79860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79860 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/dokumenty/">Документы</a></li>	<li id="menu-item-81879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81879 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/protivodejstvie-korrupczii/">Противодействие коррупции</a></li>	<li id="menu-item-82123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82123 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/vakansii/">Вакансии</a></li></ul></div><div id="menu-item-80404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-80404 footer-menu__item"><div class="footer-menu__title"><a href="https://gosfilmofond.ru/hranenie/">Хранение</a></div><ul class="sub-menu footer-menu-list">	<li id="menu-item-80778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80778 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/tehnicheskij-kontrol/">Технический контроль</a></li>	<li id="menu-item-80679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80679 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/oczifrovka-arhiva/">Оцифровка архива</a></li>	<li id="menu-item-80331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80331 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/films/">Каталог фильмов</a></li></ul></div><div id="menu-item-81529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-81529 footer-menu__item"><div class="footer-menu__title"><a href="https://gosfilmofond.ru/projects-detail/">Проекты</a></div><ul class="sub-menu footer-menu-list">	<li id="menu-item-83098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83098 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/povtornyj-prokat/">ПОВТОРНЫЙ ПРОКАТ</a></li>	<li id="menu-item-83619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83619 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/persona-gff/">Научный отдел. Личное дело</a></li>	<li id="menu-item-83620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83620 footer-menu-list__ilem"><a href="https://tarkovskiy.gosfilmofond.ru/">«ТАРКОВСКИЙ. ХРОНИКА»</a></li>	<li id="menu-item-82802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82802 footer-menu-list__ilem"><a href="https://archivefest.ru/">ММФАФ</a></li>	<li id="menu-item-88038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88038 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/diafilmy/">Диафильмы</a></li></ul></div><div id="menu-item-81496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-81496 footer-menu__item"><div class="footer-menu__title"><a href="https://gosfilmofond.ru/digest/">Информационный раздел</a></div><ul class="sub-menu footer-menu-list">	<li id="menu-item-81509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81509 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/news/">Новости</a></li>	<li id="menu-item-82694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82694 footer-menu-list__ilem"><a href="https://gosfilmofond.ru/sobytiya/">СОБЫТИЯ</a></li></ul></div></div>
+            </div>
+            <div class="footer-bottom">
+                <div class="footer-gff">
+                    <div class="footer-gff__links">
+                        <div class="footer-gff__social">
+                           <!-- <a href="https://www.facebook.com/gosfilmofond/" target="_blank">
+                                <i class="gff-icon-facebook" data-title="Госфильмофонд в Facebook"></i>
+                            </a>
+                            <a href="https://www.instagram.com/gosfilmofond/" target="_blank">
+                                <i class="gff-icon-inst" data-title="Госфильмофонд в Instagram"></i>
+                            </a> -->
+                            <a href="https://www.youtube.com/channel/UCI0vmWwhBJL43NDhGyLiT4Q" target="_blank">
+                                <i class="gff-icon-youtube" data-title="Госфильмофонд в Youtube"></i>
+                            </a>
+							<a href="https://rutube.ru/u/gosfilmofond" target="_blank">
+                                <i class="gff-icon-rutube" data-title="Госфильмофонд на RUTUBE"></i> 
+                            </a>
+                            <!-- <a href="https://www.youtube.com/channel/UCScACCeknTggPjw8DfMZ4dQ" target="_blank">
+                                <i class="gff-icon-youtube" data-title="Диафильмы Госфильмофонда в Youtube"></i>
+                            </a> -->
+                            <a href="https://vk.com/gosfilmfondrf" target="_blank">
+                                <i class="gff-icon-vk" data-title="Госфильмофонд во ВКонтакте"></i>
+                            </a>
+							<a href="https://ok.ru/group/64279652008185" target="_blank">
+                                <i class="gff-icon-ok" data-title="Госфильмофонд в Одноклассниках"></i>
+                            </a>
+							<a href="https://t.me/gosfilmofond" target="_blank">
+                                <i class="gff-icon-telegramm" data-title="Госфильмофонд в Телегамм"></i>
+                            </a>
+							
+                        </div>
+                        <div class="footer-gff__contacts">
+                            <a href="tel:+7 (499) 941 06 80">
+                                <div class="phone">
+                                    +7 (499) 941 06 80
+                                </div>
+                            </a>
+                            <a href="mailto:gff@gff-rf.ru">
+                                <div class="email">
+                                    gff@gff-rf.ru
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="footer-gff__logo">
+                        <a href="https://gosfilmofond.ru">
+                            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://gosfilmofond.ru/wp-content/themes/gff/images/logo_gff_white.svg">
+                        </a>
+                    </div>
+                </div>
+
+                <div class="copyright">
+                    © ФГБУК «Государственный фонд кинофильмов<br/> Российской
+                    Федерации», 2025г.
+                </div>
+
+                <div class="footer-illusion">
+                    <div class="footer-illusion__logo">
+                        <a href="https://illusion-cinema.ru/" target="_blank">
+                            <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://gosfilmofond.ru/wp-content/themes/gff/images/logo_illusion_white.svg">
+                        </a>
+                    </div>
+                    <div class="footer-illusion__links">
+                        <div class="footer-illusion__social">
+                           <!-- <a href="https://www.facebook.com/illuzioncinematheatre" target="_blank">
+                                <i class="gff-icon-facebook" data-title="Иллюзион в Facebook"></i>
+                            </a>
+                            <a href="https://www.instagram.com/illuzioncinema" target="_blank">
+                                <i class="gff-icon-inst" data-title="Иллюзион в Instagram"></i>
+                            </a> -->
+                            <a href="https://vk.com/illusion_cinema" target="_blank">
+                                <i class="gff-icon-vk" data-title="Иллюзион в ВКонтакте"></i>
+                            </a>
+							<a href="https://ok.ru/group/64279652008185" target="_blank">
+                                <i class="gff-icon-ok" data-title="Иллюзион в Одноклассниках"></i>
+                            </a>
+							<a href="https://t.me/gosfilmofond" target="_blank">
+                                <i class="gff-icon-telegramm" data-title="Иллюзион в Телегамм"></i>
+                            </a>
+                        </div>
+                        <div class="footer-illusion__contacts">
+                            <a href="tel:+7 (495) 915 43 53">
+                                <div class="phone">
+                                    +7 (495) 915 43 53
+                                </div>
+                            </a>
+                            <a href="mailto:illuzion@gff-rf.ru">
+                                <div class="email">
+                                    illuzion@gff-rf.ru
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+</footer>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" src="https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/js/popper.min.js?ver=2.8.3" id="htmega-popper-js"></script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/js/htbbootstrap.js?ver=2.8.3" id="htbbootstrap-js"></script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/js/waypoints.js?ver=2.8.3" id="waypoints-js"></script>
+<script type="text/javascript" id="htmega-widgets-scripts-js-extra">
+/* <![CDATA[ */
+var HTMEGAF = {"elementorpro":"","buttion_area_text_next":"Next","buttion_area_text_prev":"Previous"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/js/htmega-widgets-active.js?ver=2.8.3" id="htmega-widgets-scripts-js"></script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://gosfilmofond.ru/wp-content/plugins/ht-mega-for-elementor/assets/extensions/ht-builder/js/htbuilder.js?ver=2.8.3" id="htbuilder-main-js"></script>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://gosfilmofond.ru/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Получено 21126 объектов (3 МБ) от Redis через PhpRedis (v5.1.1).
+-->
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование страницы с использованием Redis 
+Отложенная загрузка
+Кэширование запросов БД 1/81 за 0.039 секунд с использованием Redis
+
+Served from: gosfilmofond.ru @ 2025-03-12 12:17:52 by W3 Total Cache
+-->

@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]><html class="app-nojs app-ie" lang="ru"><![endif]-->
+<!--[if gte IE 9]><!--><html class="app-nojs" lang="ru"><!--<![endif]-->
+<head>
+    <meta content="width=device-width" name="viewport">
+    <!--[if lt IE 9]>
+    <script src="/local/static/assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+    <title>Информация</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","storageBlocks":[],"dynamicBlocks":[],"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":0,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+
+
+<link href="/bitrix/cache/css/s1/single_page/template_6e8a21692a70faae87e44325deadb01c/template_6e8a21692a70faae87e44325deadb01c_v1.css?1737449806100411" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+
+<script src="/bitrix/js/main/core/core.min.js?1737449543225181"></script>
+
+<script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dexie","namespace":"BX.Dexie3","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ls","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fx","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"fc","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.protobuf","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"rest.client","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"N","pull_config_timestamp":0,"pull_guest_mode":"N","pull_guest_user_id":0});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>BX.Runtime.registerExtension({"name":"pull.client","namespace":"BX","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"pull","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/"});</script>
+
+
+<script  src="/bitrix/cache/js/s1/single_page/kernel_main/kernel_main_v1.js?1738665308155624"></script>
+<script src="/bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?170244615588274"></script>
+<script src="/bitrix/js/main/core/core_ls.min.js?17374495992683"></script>
+<script src="/bitrix/js/main/core/core_frame_cache.min.js?173744959911132"></script>
+<script src="/bitrix/js/pull/protobuf/protobuf.min.js?162435778976433"></script>
+<script src="/bitrix/js/pull/protobuf/model.min.js?162435778914190"></script>
+<script src="/bitrix/js/rest/client/rest.client.min.js?16243578949240"></script>
+<script src="/bitrix/js/pull/client/pull.client.min.js?172431345249664"></script>
+<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU"></script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/utils.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/local\/static\/assets\/js\/jquery.min.js","\/local\/static\/assets\/js\/init.min.js","\/local\/static\/assets\/js\/plugins.min.js","\/local\/static\/assets\/js\/jquery.form.min.js","\/local\/static\/assets\/js\/common.js","\/local\/static\/assets\/js\/jquery.media.js","\/bitrix\/components\/bitrix\/search.title\/script.js"]);</script>
+<script>BX.setCSSList(["\/local\/static\/assets\/css\/common.css","\/local\/templates\/.default\/components\/bitrix\/search.title\/header\/style.css"]);</script>
+
+
+<script  src="/bitrix/cache/js/s1/single_page/template_dc3135a2453440cac16762b70e5e28b1/template_dc3135a2453440cac16762b70e5e28b1_v1.js?1737449806255300"></script>
+
+
+<meta name="yandex-verification" content="9208dd38c9ae401f" />
+<meta name="google-site-verification" content="Vv3ee5Yz_VZ8vlE7SLne9Xxo_CKD6tRAFOlzVN3BP6c" />
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?115"></script>
+<script type="text/javascript">VK.init({apiId: 4550530, onlyWidgets: true});</script>
+
+</head>
+<body class="columns-two">
+        <div class="layout">
+        <div class="container-underlay">
+            <div class="container-underlay-inner"></div>
+        </div>
+        <header class="header">
+    <div class="header-underlay">
+        <img src="/local/static/assets/css/decor/header.jpg" alt="decor">
+        <span></span>
+    </div>
+    <div class="header-inner holder">
+        <div class="header-logo">
+            <a href="/">Мир искусств</a>
+        </div>
+        <div class="header-brand header-brand-1"></div>
+        <div class="header-brand header-brand-2"></div>
+        <div class="header-social">
+            <div class="header-social-title">
+	Следите за нашими новостями
+</div>
+<ul class="header-social-list">
+	<!--<li class="header-social-item header-social-facebook"> <a href="https://www.facebook.com/profile.php?id=100003134753427" target="_blank">Facebook</a> </li>--->
+	<li class="header-social-item header-social-vkontakte"> <a href="https://vk.com/int_ant_asg" target="_blank">VK</a> </li>
+	<li class="header-social-item header-social-lj"> <a href="https://int-ant.livejournal.com/" target="_blank">LiveJournal</a> </li>
+	<!--<li class="header-social-item header-social-insta"> <a href="http://instagram.com/int_ant_asg" target="_blank">instagram</a> </li>-->
+	<li class="header-social-item header-social-youtube"> <a href="https://www.youtube.com/user/ASGartnews/" target="_blank">Youtube</a> </li>
+</ul>        </div>
+        <div class="header-search">
+    <div class="header-search-inner">
+        <form action="/search/index.php" class="header-search-form">
+            <button type="submit" name="s" value="">Найти</button>
+            <fieldset id="title-search">
+                <input placeholder="Поиск" id="title-search-input" type="text" name="q" value="" size="23" maxlength="50" autocomplete="off">
+            </fieldset>
+        </form>
+    </div>
+</div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/about-the-project/information/',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+
+    </div>
+</header>
+
+<nav class="nav">
+    <div class="nav-inner holder">
+        <ul class="nav-list">
+	        
+	
+		
+                            <li class="nav-item nav-item-home">
+                    <div class="nav-item-inner">
+                        <a class="nav-item-link" href="/">Главная</a>
+                    </div>
+                </li>
+            
+		
+	
+	
+	        
+	
+		
+                        <li class="nav-item nav-item-dropdown">
+                <div class="nav-item-inner">
+                    <a class="nav-item-link" href="/news/">Новости</a>
+                    <ul class="nav-subitems">
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/news/news-culture/">Новости культуры</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/news/smi/">СМИ о нас</a>
+                    </li>
+                            
+		
+	
+	
+			</ul></div></li>	        
+	
+		
+                        <li class="nav-item nav-item-dropdown nav-item-multiline">
+                <div class="nav-item-inner">
+                    <a class="nav-item-link" href="/about-institute/">Международный<br> институт антиквариата</a>
+                    <ul class="nav-subitems">
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/">Об институте</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/chronology/">Хроника</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/activities/">Деятельность</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/behalf-of-the-company/">Лица компании</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/vacancies/">Вакансии</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/assembly/">Большое собрание изящных искусств ASG</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/exhibition/">Выставки</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/vestnik/">Журнал Мир искусств</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/directories/">Каталоги БСИИ</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/conference/">Конференции</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/tenders/">Тендеры</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-institute/contacts-institute/">Контакты института</a>
+                    </li>
+                            
+		
+	
+	
+			</ul></div></li>	        
+	
+		
+                        <li class="nav-item nav-item-dropdown">
+                <div class="nav-item-inner">
+                    <a class="nav-item-link" href="/about-the-project/">О проекте</a>
+                    <ul class="nav-subitems">
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem is-active">
+                        <a href="/about-the-project/information/">Информация</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/about-the-project/our-subscribers/">Наши подписчики</a>
+                    </li>
+                            
+		
+	
+	
+			</ul></div></li>	        
+	
+		
+                                                <li class="nav-item">
+                        <div class="nav-item-inner">
+                            <a class="nav-item-link" href="/manors/">Усадьбы</a>
+                        </div>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-item">
+                        <div class="nav-item-inner">
+                            <a class="nav-item-link" href="/library/">Библиотека</a>
+                        </div>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-item">
+                        <div class="nav-item-inner">
+                            <a class="nav-item-link" href="/about-institute/diaries-restoration/">Дневники реставрации</a>
+                        </div>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                        <li class="nav-item nav-item-dropdown nav-item-dropdown-right">
+                <div class="nav-item-inner">
+                    <a class="nav-item-link" href="/media/">Медиа</a>
+                    <ul class="nav-subitems">
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/media/pictures/">Фотографии</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/media/virtual-tours/">Виртуальные туры</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/media/videos/">Видеосюжеты</a>
+                    </li>
+                            
+		
+	
+	
+	        
+	
+		
+                                                <li class="nav-subitem">
+                        <a href="/media/tour/">Видеоэкскурсии</a>
+                    </li>
+                            
+		
+	
+	
+
+	</ul></div></li>
+        </ul>
+    </div>
+</nav>
+        <div class="container">
+		            <div class="container-inner holder">
+			   
+				<div class="aside push-left">
+    <section class="subnav">
+    <ul class="subnav-list">
+	        <li class="subnav-item is-active">
+            <a href="/about-the-project/information/">Информация</a>
+        </li>
+		        <li class="subnav-item">
+            <a href="/about-the-project/our-subscribers/">Наши подписчики</a>
+        </li>
+	    </ul>
+</section>
+    <section class="teaser teaser-news">
+    <h4 class="teaser-title teaser-news-title">
+        <span>Новости культуры</span>
+    </h4>
+    <ul class="teaser-news-list">
+                    <li class="teaser-news-item" id="bx_3218110189_13475">
+            <div class="teaser-news-date">
+                05 <span>мар</span>
+            </div>
+            <div class="teaser-link teaser-news-link">
+                <a href="/news/news-culture/art_k/stoly-xviii-veka-v-kollektsii-mebeli-bolshogo-sobraniya-izyashchnykh-iskusstv-asg/">Столы XVIII века в коллекции мебели Большого Собрания Изящных Искусств ASG</a>
+            </div>
+        </li>
+                    <li class="teaser-news-item" id="bx_3218110189_13474">
+            <div class="teaser-news-date">
+                25 <span>фев</span>
+            </div>
+            <div class="teaser-link teaser-news-link">
+                <a href="/news/news-culture/art_k/paneter-iz-provansalya/">Панетьер из Провансаля</a>
+            </div>
+        </li>
+        </ul>
+    <div class="teaser-more teaser-news-more">
+        <a href="/news/culture-news/">Все новости</a>
+    </div>
+</section>
+    <section class="teaser teaser-news">
+    <h4 class="teaser-title teaser-news-title">
+        <span>СМИ о нас</span>
+    </h4>
+    <ul class="teaser-news-list">
+                    <li class="teaser-news-item" id="bx_651765591_12316">
+            <div class="teaser-news-date">
+                22 <span>июл</span>
+            </div>
+            <div class="teaser-link teaser-news-link">
+                <a href="/news/smi/restoration-of-objects-of-art/the-tv-channel-broadcast-the-program-of-the-city-video-the-salvation-of-a-masterpiece/">Телеканал ЭФИР. Программа ГОРОД. Видеосюжет: &quot;Спасение шедевра&quot;</a>
+            </div>
+        </li>
+                    <li class="teaser-news-item" id="bx_651765591_10617">
+            <div class="teaser-news-date">
+                12 <span>ноя</span>
+            </div>
+            <div class="teaser-link teaser-news-link">
+                <a href="/news/smi/restoration-of-the-window/the-estate-has-united-the-interests-of-business-and-government-/">Усадьба объединила интересы бизнеса и государства </a>
+            </div>
+        </li>
+        </ul>
+    <div class="teaser-more teaser-news-more">
+        <a href="/news/media/">Все новости</a>
+    </div>
+</section>
+<section class="teaser teaser-bordered teaser-subscribe">
+    <h4 class="teaser-subscribe-title">
+        <span>Подписка на новости</span>
+    </h4>
+    <p>Я хочу получать интересные материалы</p>
+    <form action="/local/action/subscription.php" class="teaser-subscribe-form js-form">
+        <input type="hidden" name="action" value="ajax">
+        <fieldset>
+            <input type="text" name="subscribe-mail" placeholder="Введите ваш e-mail" class="js-validate js-validate-mail">
+        </fieldset>
+        <button class="button" type="submit">Подписаться</button>
+        <div class="message message-success">
+            Потвердите подписку перейдя по ссылке в письме.
+        </div>
+        <div class="message message-error">
+            Произошла ошибка. Попробуйте еще раз.
+        </div>
+    </form>
+</section>
+        <section class="teaser teaser-journal image-hover">
+        <a href="/docs/4-48-2024/index.html" target="_blank"> <img alt="Читать онлайн" src="/docs/4-48-2024/cover300.jpg"> <span class="button-light">Читать онлайн</span> </a>    </section>
+        <section class="teaser teaser-bordered teaser-sections">
+        <ul class="teaser-sections-list">
+    
+                    <li class="teaser-sections-item teaser-sections-item-1">
+                <a href="/media/tour/">
+                    <span>Видеоэкскурсии</span>
+                </a>
+            </li>
+        
+    
+                    <li class="teaser-sections-item teaser-sections-item-2">
+                <a href="/media/virtual-tours/">
+                    <span>Виртуальные прогулки</span>
+                </a>
+            </li>
+        
+    
+                    <li class="teaser-sections-item teaser-sections-item-3">
+                <a href="/media/pictures/">
+                    <span>Фотографии</span>
+                </a>
+            </li>
+        
+    
+                    <li class="teaser-sections-item teaser-sections-item-4">
+                <a href="/media/videos/">
+                    <span>Видеосюжеты</span>
+                </a>
+            </li>
+        
+            </ul>
+    </section>
+</div>                <div class="content  ">
+                    <div class="content-inner">
+                        <ul class="breadcrumbs"><li><a href="/about-the-project/" title="О проекте">О проекте</a></li><li><span>Информация</span></li></ul>                                                <section class="text texting">
+                                                        <h1 class="content-title content-title-single">
+                                Информация                            </h1>
+                            <style>
+ table.spaced td {padding:10px; border:0; vertical-align:middle; background-color:#FDD;} 
+ </style>
+
+<h2>Информационный портал Международного института антиквариата "Мир искусств"<br/>(Информационный портал "Мир искусств")</h2>
+
+<table class="spaced" style="font-size:16px;">
+<tr>
+<td>Свидетельство о регистрации СМИ:</td>
+<td><i>ЭЛ № ФС 77-58280 от 05.06.2014г. выдано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций</i></td>
+</tr>
+<tr>
+	<td>Информационный знак:</td>
+	<td><b><i>16+</i></b></td>
+</tr>
+
+<tr>
+<td>Учредитель:</td>
+<td><i>Некоммерческое партнерство «Международный институт антиквариата»</i></td>
+</tr>
+<tr>
+<td>Адрес редакции:</td>
+<td><i>420029 РТ г. Казань ул. Сибирский тракт, 34</i></td>
+</tr>
+<tr>
+<td>Главный редактор портала:</td>
+<td><i>Светлана Дамировна  Бородина</i></td>
+</tr>
+<tr>
+<td>Контакты:</td>
+<td><a href="mailto:borodina_tema@mail.ru">borodina_tema@mail.ru</td>
+</tr>
+<tr>
+<td>Телефон:</td>
+<td><a href="tel:+79046683099">89046683099</td>
+</tr>
+</table>
+
+<p style="padding-top:30px;">Информационный портал «Мир искусств» - новый проект Международного института антиквариата ASG (МИА). </p>
+
+<p>Он является преемником сайта МИА, у которого есть свои читатели и поклонники и который менее чем за три года стал узнаваемым и авторитетным ресурсом по искусству. </p>
+
+<p>Целью проекта является продвижение информации о МИА как о центре изучения, реставрации и систематизации предметов искусства среди научного и культурного сообществ России и зарубежья. </p>
+
+<p>В задачи проекта входит отражение многогранной деятельности института по сохранению предметов изобразительного и декоративно-прикладного искусства, их атрибуции, реставрации, систематизации и экспонированию. Кроме того, портал размещает наиболее примечательные новости из мира искусства: аукционы, выставки, реставрация, открытия, культурные события в мире, возрождение и популяризация объектов культурного наследия…</p>
+
+<p>Информационный портал «Мир искусств» стремится объединить научные задачи и просветительские. Поэтому портал интересен и специалистам, и любителям искусств. </p>
+
+<p>Разнообразие рубрик, сочетание объективности и занимательности изложения материалов – это то, к чему стремится портал.</p>
+
+</section>
+
+</div>
+
+</div>
+</div>
+<footer class="footer">
+    <div class="footer-about">
+        <h4 class="footer-about-title">О компании</h4>
+        <div class="footer-about-logo"></div>
+        <div class="footer-about-text">
+            <p>Международный институт антиквариата создан Инвестиционной группой компаний ASG, главой которой является <nobr>Семин Алексей Владимирович</nobr>.</p>
+<p>Международный институт антиквариата выполняет социальную миссию ASG - участие в сохранении и приумножении культурного наследия путем вовлечения частного капитала в процессы духовного возрождения общества, формирования нового поколения меценатов, привлечения средств инвесторов в культуру.</p>        </div>
+    </div>
+    <div class="footer-map">
+        <div class="footer-map-underlay">
+            <img src="/local/static/assets/css/decor/footer.jpg" alt="footer decor">
+            <span></span>
+        </div>
+        <div class="footer-map-inner holder">
+            <div class="footer-column footer-column-type-1">
+                <ul class="footer-nav">
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/news/">Новости</a>
+	</li>
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/manors/">Усадьбы</a>
+	</li>
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/library/">Библиотека</a>
+	</li>
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/forum/">Форум</a>
+	</li>
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/about-institute/diaries-restoration/">Дневники реставрации</a>
+	</li>
+</ul>            </div>
+            <div class="footer-column footer-column-type-2">
+                <ul class="footer-nav">
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/about-the-project/">О проекте</a>
+		<ul class="footer-subnav">
+			<li class="footer-subnav-item">
+				<a href="/about-the-project/information/" target="_blank">Информация</a>
+			</li>
+			<li class="footer-subnav-item">
+				<a href="/about-institute/contacts-institute/" target="_blank">Контакты</a>
+			</li>
+		</ul>
+	</li>
+</ul>            </div>
+            <div class="footer-column footer-column-type-3">
+                <ul class="footer-nav">
+	<li class="footer-nav-item">
+		<a class="footer-nav-link" href="/media/">Медиа</a>
+		<ul class="footer-subnav">
+			<li class="footer-subnav-item">
+				<a href="/media/pictures/">Фотографии</a>
+			</li>
+			<li class="footer-subnav-item">
+				<a href="/media/virtual-tours/">Виртуальные туры</a>
+			</li>
+			<li class="footer-subnav-item">
+				<a href="/media/videos/">Видеосюжеты</a>
+			</li>
+			<li class="footer-subnav-item">
+				<a href="/media/tour/">Видеоэкскурсии</a>
+			</li>
+		</ul>
+	</li>
+</ul>            </div>
+            <div class="footer-column footer-column-type-4">
+                <ul class="footer-nav">
+	<li class="footer-nav-item"> <a class="footer-nav-link" href="/about-institute/">Международный Институт Антиквариата</a>
+	<div class="clearfix">
+		<ul class="footer-subnav footer-column footer-column-type-5">
+			<li class="footer-subnav-item"> <a href="/about-institute/">Об институте</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/chronology/">Хроника</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/activities/">Деятельность</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/behalf-of-the-company/">Лица компании</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/vacancies/">Вакансии</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/exhibition/">Выставки</a> </li>
+			<li class="footer-subnav-item"> <a href="/vestnik/">Журнал МИР ИСКУССТВ</a> </li>
+			<li class="footer-subnav-item"> <a href="/conference/">Конференции</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/tenders/">Тендеры</a> </li>
+			<li class="footer-subnav-item"> <a href="/about-institute/contacts-institute/">Контакты института</a> </li>
+		</ul>
+		<ul class="footer-subnav footer-column footer-column-type-6">
+			<li class="footer-subnav-item"> <a href="/about-institute/assembly/">БСИИ ASG</a>
+			<ul class="footer-subnav">
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/zhivopis/">Коллекция Живописи</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/mebel/">Коллекция Мебели</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/chasy/">Коллекция Часов</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/collection-of-decorative-and-applied-art/">Коллекция предметов декоративно-прикладного искусства</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/shpalery/">Коллекция Шпалер</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/ikony/">Коллекция Икон</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/tekstil/">Коллекция Текстиля</a> </li>
+				<li class="footer-subnav-item"> <a href="/about-institute/assembly/prochie-izdeliya/">Предметы искусства</a> </li>
+			</ul>
+ </li>
+		</ul>
+	</div>
+ </li>
+</ul>            </div>
+            <div class="footer-contacts">
+                <div class="footer-phone">(843) 203-93-32</div>
+                <div class="footer-address"><nobr>2023 © НП «Международный институт антиквариата»</nobr><br>
+Свидетельство о регистрации выдано: Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций. 16+<br>
+ <nobr>Свидетельство о регистрации СМИ ЭЛ № ФС 77-58280 от 05.06.2014г.</nobr><br>
+ <nobr>420029, Россия, Казань, ул.Сибирский тракт, 34, корпус 5</nobr><br>
+ <a href="mailto:info@int-ant.ru">info@int-ant.ru</a>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-pane">
+        <div class="footer-pane-underlay"></div>
+        <div class="footer-pane-inner holder">
+            <div class="footer-studio">
+                <a href="//markweber.ru" rel="nofollow noopener" target="_blank">Создание сайта  <span>Markweber.ru</span></a>
+            </div>
+            <div id="bx-composite-banner"></div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(13964947, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/13964947" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>
+
+</body>
+</html><!--35ecfce5b2b40ce78aaaaa40d5b43ed9-->

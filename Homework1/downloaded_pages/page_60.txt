@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Музей Востока</title>
+     <meta name ="keywords" content="Государственного музея искусства народов Востока, Музей Востока, Никитский бульвар 12А, Музей Востока на Никитском, искусство Востока, директор Седов, коллекция Рерихов"/><meta name ="description" content="наиболее полно представлено искусство Дальнего и Ближнего Востока, а также Средней Азии, Кавказа, Закавказья, Казахстана, Бурятии, Чукотки (всего свыше 147 500 музейных экспонатов)"/>      
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#c42424">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/css/style.min.css">
+</head>
+
+<body>
+	<header class="main-header">
+        <ul class="main-header__list">
+                     <li class="main-header__item"><a href="https://orientmuseum.tn-cloud.ru/#/event/335981AA379DB13CCC0D1A923134D3F22B37900C" target="_blank">Купить билет</a></li>            
+             <li class="main-header__item"><a href="?lang=en">English</a></li>
+                    <li class="main-header__item">
+                <form action="/search/index.php" method="GET" class="search">
+                    <label for="search-field" class="visually-hidden">Поиск</label>
+                    <input type="hidden" name="lang" value="ru"/>
+					<input type="search" id="search-field" name="sea_val" placeholder="Поиск" value="">
+                    <button type="submit">Поиск</button>
+                </form>
+            </li>
+            <li class="main-header__item"><button type="button" id="bad-eye">Версия для слабовидящих</button></li>
+        </ul>
+        <nav class="main-nav">
+            <a class="logo" href="/">
+                <div class="logo__picture">
+                    <picture>
+                        <source media="(max-width: 766px)" srcset="/img/logo.png">
+                        <img src="/img/logo.svg" alt="Государственный музей Востока">
+                    </picture>
+                </div>
+                <h1 class="logo__title visually-hidden">Государственный музей Востока</h1>
+            </a>
+            <button class="main-nav__toggle" type="button">Открыть меню</button>
+            <ul class="main-nav__list">
+                 
+                <li class="main-nav__item ">
+                    <a href="/museum/index.php">О музее</a>
+                                    <ul class="main-nav__sublist ">
+                                            <li class="main-nav__subitem "><a href="/museum/history/index.php">История</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/adminisration/index.php">Администрация</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/filial/index.php">Филиалы</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/board_of_trustees/index.php">Попечительский совет</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/partners/index.php">Партнеры</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/vacancies/index.php">Вакансии</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/documents/index.php">Официальные документы</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/smi_o_nas/index.php">СМИ о нас</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/volonteri/index.php">Волонтеры</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/kontakti/index.php">Контакты</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/antiterroristicheskaya_informaciya/index.php">Антитеррористическая информация</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/ssilki_na_profilnie_resursi/index.php">Ссылки на профильные ресурсы</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/alyans_hudozhestvennih_muzeev_i_galerey_stran_briks/index.php">Альянс художественных музеев и галерей стран БРИКС</a></li>
+                                            <li class="main-nav__subitem "><a href="/museum/muzey_rerihov._sudebnie_resheniya/index.php">Музей Рерихов. Судебные решения</a></li>
+                         
+                    </ul>
+                                     
+                </li>
+                 
+                <li class="main-nav__item ">
+                    <a href="/visit/index.php">Посетителям</a>
+                                    <ul class="main-nav__sublist ">
+                                            <li class="main-nav__subitem "><a href="/visit/excursions/index.php">Экскурсии</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/lections/index.php">Лекторий</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/clubs/index.php">Кружки </a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/for_kids/index.php">Музей детям</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/tea_room/index.php">Чайная комната</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/rules/index.php">Правила посещения музея</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/accessible_museum/index.php">Посетителям с инвалидностью</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/faq1/index.php">Часто задаваемые вопросы</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/bileti_onlayn/index.php">Билеты онлайн</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/ispolzovanie_izobrazheniy/index.php">Использование изображений</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/materiali_dlya_skachivaniya/index.php">Материалы для скачивания</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/virtualnie_materiali_muzeya_vostoka/index.php">Виртуальные материалы музея</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/elektronnaya_biblioteka/index.php">Электронная библиотека Музея Востока</a></li>
+                                            <li class="main-nav__subitem "><a href="/visit/library/index.php">Библиотека</a></li>
+                         
+                    </ul>
+                                     
+                </li>
+                 
+                <li class="main-nav__item ">
+                    <a href="/exhibitions/index.php">Выставки</a>
+                                    <ul class="main-nav__sublist ">
+                                            <li class="main-nav__subitem "><a href="/exhibitions/index.php">Актуальные выставки</a></li>
+                                            <li class="main-nav__subitem "><a href="/exhibitions/archive/index.php">Архив выставок</a></li>
+                                            <li class="main-nav__subitem "><a href="/exhibitions/one_item/index.php">Выставка одного экспоната</a></li>
+                                            <li class="main-nav__subitem "><a href="/exhibitions/virtual/index.php">Виртуальные выставки</a></li>
+                                            <li class="main-nav__subitem "><a href="/exhibitions/vnemuzeynie_vistavki/index.php">Внемузейные выставки</a></li>
+                         
+                    </ul>
+                                     
+                </li>
+                 
+                <li class="main-nav__item ">
+                    <a href="/collections/index.php">Экспозиция</a>
+                                    <ul class="main-nav__sublist main-nav__sublist--big">
+                                            <li class="main-nav__subitem "><a href="/collections/japan/index.php">Искусство Японии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/china/index.php">Искусство Китая</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/korea/index.php">Искусство Кореи</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/south-east_asia/index.php">Искусство Юго-Восточной Азии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/india/index.php">Искусство Индии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/central_asia/index.php">Искусство Центральной Азии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/middle_east/index.php">Искусство Ирана и Афганистана</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/caucasus_middle_asia/index.php">Искусство Кавказа, Средней Азии и Казахстана</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/siberia_north/index.php">Искусство Северной Азии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/ancient_asia/index.php">Религии и культы домусульманской Средней Азии</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/archaeology/index.php">Особая кладовая. Археология</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/ekspoziciya_iz_fondov_muzeya_na_vdnh/index.php">Экспозиция из фондов музея на ВДНХ</a></li>
+                                            <li class="main-nav__subitem "><a href="/collections/memorialniy_kabinet_nikolaya_reriha/index.php">Мемориальный кабинет Николая Рериха</a></li>
+                         
+                    </ul>
+                                     
+                </li>
+                 
+                <li class="main-nav__item ">
+                    <a href="/news/index.php">Новости</a>
+                                     
+                </li>
+                 
+                <li class="main-nav__item ">
+                    <a href="/store/index.php">Магазин</a>
+                                     
+                </li>
+                             
+ 
+            </ul>
+        </nav>
+    </header>   
+
+    <main>
+
+        <section class="promo  promo--main">
+            <div class="promo__slider">
+					
+			
+                <div class="promo__slider-item">
+					<A href="https://orientmuseum.ru/news/2025/fevral/sovremennoe_iskusstvo_lektoriy/index.php" target="_blank">
+						<img src="/inc/mainblocks/media/sovremennoe_iskusstvo_lektoriy/3658_img.png" alt="Современное искусство лекторий">									
+						<article class="promo__slider-article">
+                    
+						</article>
+					</a>
+                </div>
+					
+			
+                <div class="promo__slider-item">
+					<A href="https://orientmuseum.ru/events/2025/vdohnovlennie_kovrom/index.php" target="_blank">
+						<img src="/inc/mainblocks/media/3679_img.png" alt="Вдохновленные ковром">									
+						<article class="promo__slider-article">
+                    
+						</article>
+					</a>
+                </div>
+					
+			
+                <div class="promo__slider-item">
+					<A href="https://orientmuseum.ru/events/2025/vspominaya_velikuyu_otechestvennuyu/index.php" target="_blank">
+						<img src="/inc/mainblocks/media/vspominaya_velikuyu_otechestvennuyu/3682_img.png" alt="Вспоминая Великую Отечественную">									
+						<article class="promo__slider-article">
+                    
+						</article>
+					</a>
+                </div>
+				
+
+            </div>
+        </section>	
+
+        <section class="buildings">
+            <div class="buildings__wrapper">
+                <div class="buildings__tab">
+				
+				
+                    <div class="buildings__btn" onclick="openCity(event, 'first')" id="defaultOpen">
+                        <img src="/img/nikitsky_light.svg" alt="Главное здание">
+                        <h2>Главное здание</h2>
+                        <p>Никитский бульвар</p>
+                    </div>
+				
+				
+                    <div class="buildings__btn" onclick="openCity(event, 'second')" >
+                        <img src="/img/roerich_light.svg" alt="Северокавказский филиал">
+                        <h2>Северокавказский филиал</h2>
+                        <p>Город Майкоп республики Адыгея</p>
+                    </div>
+				
+				
+                    <div class="buildings__btn" onclick="openCity(event, 'third')" >
+                        <img src="/img/vdnh_light.svg" alt="Музей Востока">
+                        <h2>Музей Востока</h2>
+                        <p>Павильон на ВДНХ</p>
+                    </div>
+<!--
+                    <div class="buildings__btn" onclick="openCity(event, 'second')">
+                        <img src="/img/roerich_light.svg" alt="Северокавказский филиал">
+                        <h2>Северокавказский филиал</h2>
+                        <p>Город Майкоп Краснодарского края</p>
+                    </div>
+                    <div class="buildings__btn" onclick="openCity(event, 'third')">
+                        <img src="/img/vdnh_light.svg" alt="Павильон №13">
+                        <h2>Павильон №13</h2>
+                        <p>ВДНХ</p>
+                    </div>
+-->
+				</div>
+					
+                <article class="buildings__description" id="first">
+                    <div class="buildings__about">
+						<p style="text-align: justify;">Государственный музей Востока &mdash; крупнейший культурно-просветительский центр, основанный в 1918 году. Сегодня в его коллекции находится исключительное собрание памятников искусства и художественной культуры народов Дальнего и Ближнего Востока, Средней и Центральной Азии, Кавказа и Дальнего Севера.</p>
+<p style="text-align: justify;">Фонды музея насчитывают около 150&nbsp;000 предметов искусства. В постоянной экспозиции представлено более 5000 экспонатов: скульптура, живопись, графика, декоративно-прикладное искусство, оружие, археология.</p>
+<p style="text-align: justify;">В музее проводятся выставки, экскурсии, лекции, концерты, кинопоказы. Помимо этого, можно посетить чайную комнату, записаться в Школу востоковеда, освоить искусство икебаны.</p>					</div>
+                    <div class="buildings__address">
+                        <p>Москва <br />Никитский бульвар, 12А</p>
+<p><strong>ВТ, ПТ, СБ, ВС </strong><br />11:00 - 20:00<br />Касса работает до 19:30</p>
+<p><strong>СР, ЧТ </strong><br />12:00 - 21:00<br />Касса работает до 20:30</p>
+<p>Понедельник &ndash; выходной день</p>
+<p>Тел. для справок:&nbsp;+7 495 691-02-12</p>                    </div>
+                    <div class="buildings__pictures">
+                        <img src="/museum/filial/main/121_front_img.jpg" alt="">
+                    </div>
+                </article>
+					
+                <article class="buildings__description" id="second">
+                    <div class="buildings__about">
+						<p style="text-align: justify;"><a href="http://orientmuseum-filial.ru/" target="_blank" rel="noopener">Северокавказский филиал Государственного музея Востока</a>&nbsp;&mdash; один из самых значительных, важных и гостеприимных культурных центров на Юге России.</p>
+<p style="text-align: justify;">Основан в 1985 году в столице Республики Адыгея, городе Майкоп. Филиал является культурно-просветительским и научно-исследовательским учреждением, музеем истории изобразительного искусства и культуры народов Северного Кавказа с древнейших времен до наших дней.</p>
+<p style="text-align: justify;">Сегодня музейные коллекции насчитывают более 5000 экспонатов, представленных в следующих фондах: &laquo;Драгоценные металлы и драгоценные камни&raquo;, &laquo;Живопись, графика и скульптура&raquo;, &laquo;Ткани. Тканные изделия&raquo;, &laquo;Керамика, дерево и металл&raquo;, а также предметы из фонда археологии.</p>
+<p style="text-align: justify;">&nbsp;</p>					</div>
+                    <div class="buildings__address">
+                        <p>Республика Адыгея<br />г. Майкоп<br />ул. Первомайская, 221</p>
+<p><strong>ПН</strong>&nbsp;Выходной<br /><strong>ВТ-ПТ</strong>&nbsp;10:30-19:30<br /><strong>СБ-ВС</strong>&nbsp;10:00-18:00</p>                    </div>
+                    <div class="buildings__pictures">
+                        <img src="/museum/filial/caucasus/98_front_img.jpg" alt="">
+                    </div>
+                </article>
+					
+                <article class="buildings__description" id="third">
+                    <div class="buildings__about">
+						<p style="text-align: justify;">В Музее Востока на ВДНХ представлены: <a href="https://www.orientmuseum.ru/events/2019/fondi/index.php" target="_blank" rel="noopener">коллекции из фондов музея</a>&nbsp; и&nbsp; до 16 февраля 2025 г. выставка &laquo;<a href="/events/2024/miri_maytrei/index.php">Миры Майтреи</a>&raquo;.&nbsp;</p>
+<p style="text-align: justify;">В экспозиции из фондов музея демонстрируется более 1500 экспонатов, основная часть которых ранее не выставлялась.&nbsp;Экспонируются предметы искусства Кавказа и Средней Азии, Дальнего Востока, Юго-Восточной Азии, Ближнего и Среднего Востока, Центральной Азии и Африки.</p>					</div>
+                    <div class="buildings__address">
+                        <p>Москва, ВДНХ,&nbsp;павильон&nbsp;№&nbsp;13</p>
+<p><strong>ВТ, ПТ, СБ, ВС</strong><br />с 11:00 до 20:00<br /><strong>СР, ЧТ</strong><br />с 12:00 до 21:00</p>
+<p>Понедельник &ndash; выходной день</p>                    </div>
+                    <div class="buildings__pictures">
+                        <img src="/museum/filial/vdnh/97_front_img.jpg" alt="">
+                    </div>
+                </article>
+			
+            </div>
+        </section>
+
+        <section class="activity">
+            <div class="calendar">
+
+                <div id="calendar" class="calendar_main"></div>
+
+                <!--<div id="calendar-lite" class="calendar_main"></div>-->
+<!--
+                <div class="calendar__filter-btns">
+                    <button type="button" id="todaybtn">Сегодня</button>
+                    <button type="button" id="tomorrowbtn">Завтра</button>
+                    <button type="button" id="weekends">В выходные</button>
+                    <button type="button" id="current">Текущие</button>
+                </div>
+-->
+                <ul class="calendar__list">
+<!-- cycleArray
+(
+    [id] => 3556
+    [cycle_num] => 14
+    [age] => 12+
+    [time] => 19:00
+    [cnt_ev] => 3
+    [timestamps] => Array
+        (
+            [s] => 1741122000
+            [e] => 1742417999
+        )
+
+    [name] => Array
+        (
+            [ru] => Современное искусство Африки
+            [en] => Современное искусство Африки
+        )
+
+    [menu] => Array
+        (
+            [ru] => Современное искусство Африки
+            [en] => Современное искусство Африки
+        )
+
+    [date] => Array
+        (
+            [ru] => 05.03.2025 — 19.03.2025
+            [en] => 05.03.2025 — 19.03.2025
+        )
+
+    [listname1] => Array
+        (
+            [ru] => Современное искусство Африки
+            [en] => Современное искусство Африки
+        )
+
+    [listname2] => Array
+        (
+            [ru] => 
+            [en] => 
+        )
+
+    [lector] => Array
+        (
+            [ru] => 
+            [en] => 
+        )
+
+    [cycle_info] => Array
+        (
+            [ru] => Цикл лекций №14
+            [en] => Цикл лекций №14
+        )
+
+    [cycle_price] => Array
+        (
+            [ru] => <p>Стоимость билета на 1 лекцию - 500 рублей, для льготных категорий - 300 рублей.</p>
+            [en] => <p>Стоимость билета на 1 лекцию - 500 рублей, для льготных категорий - 300 рублей.</p>
+        )
+
+    [building_name] => Array
+        (
+            [ru] => Главное здание на Никитском бульваре
+            [en] => Main building
+        )
+
+    [cycle_day_name] => Array
+        (
+            [ru] => Лекторий по средам
+            [en] => Lections on Wednesday
+        )
+
+)
+-->		
+	
+                    <li class="calendar__item  12.03.2025">
+                        <h2>Лекторий по средам</h2>
+                        <time datetime="12.03.2025">12.03.2025 в 19:00</time>
+                        <p>Лекция <a href="/events/2024/cikli_lekciy_2024-25/cikl_lekciy_14._sovremennoe_iskusstvo_afriki/12_marta._afrika._arhitektura._xx_vek_napravleniya_i_imena/index.php">Африка. Архитектура. XX век: направления и имена</a></p>
+                    </li>
+<!-- cycleArray
+(
+    [id] => 3358
+    [cycle_num] => 4
+    [age] => 8+
+    [time] => 12:00
+    [cnt_ev] => 7
+    [timestamps] => Array
+        (
+            [s] => 1737234000
+            [e] => 1744577999
+        )
+
+    [name] => Array
+        (
+            [ru] => Маленький путешественник
+            [en] => Маленький путешественник
+        )
+
+    [menu] => Array
+        (
+            [ru] => Маленький путешественник
+            [en] => Маленький путешественник
+        )
+
+    [date] => Array
+        (
+            [ru] => 19.01.2025 — 13.04.2025
+            [en] => 19.01.2025 — 13.04.2025
+        )
+
+    [listname1] => Array
+        (
+            [ru] => Маленький путешественник
+            [en] => Маленький путешественник
+        )
+
+    [listname2] => Array
+        (
+            [ru] => Путешествие по России
+            [en] => Путешествие по России
+        )
+
+    [lector] => Array
+        (
+            [ru] => 
+            [en] => 
+        )
+
+    [cycle_info] => Array
+        (
+            [ru] => Цикл лекций №4
+            [en] => Цикл лекций №4
+        )
+
+    [cycle_price] => Array
+        (
+            [ru] => <p>Лекции по воскресеньям, 2024 г.</p>
+<p>Стоимость билета на 1 лекцию - 300 рублей.</p>
+            [en] => <p>Лекции по воскресеньям, 2024 г.</p>
+<p>Стоимость билета на 1 лекцию - 300 рублей.</p>
+        )
+
+    [building_name] => Array
+        (
+            [ru] => Главное здание на Никитском бульваре
+            [en] => Main building
+        )
+
+    [cycle_day_name] => Array
+        (
+            [ru] => Воскресный лекторий
+            [en] => Lections on Sunday
+        )
+
+)
+-->		
+	
+                    <li class="calendar__item  16.03.2025">
+                        <h2>Воскресный лекторий</h2>
+                        <time datetime="16.03.2025">16.03.2025 в 12:00</time>
+                        <p>Лекция <a href="/events/2024/cikli_lekciy_2024-25/cikl_lekciy_4._malenkiy_puteshestvennik/25_fevralya._zemlya_sinovey_devi-lebedi/index.php">Земля сыновей Девы-Лебеди</a></p>
+                    </li>
+<!-- cycleArray
+(
+    [id] => 3434
+    [cycle_num] => 17
+    [age] => 6+
+    [time] => 17:00
+    [cnt_ev] => 9
+    [timestamps] => Array
+        (
+            [s] => 1726952400
+            [e] => 1745787599
+        )
+
+    [name] => Array
+        (
+            [ru] => Танец - это путь
+            [en] => Танец - это путь
+        )
+
+    [menu] => Array
+        (
+            [ru] => Танец - это путь
+            [en] => Танец - это путь
+        )
+
+    [date] => Array
+        (
+            [ru] => 22.09.2024 — 27.04.2025
+            [en] => 22.09.2024 — 27.04.2025
+        )
+
+    [listname1] => Array
+        (
+            [ru] => Танец - это путь
+            [en] => Танец - это путь
+        )
+
+    [listname2] => Array
+        (
+            [ru] => 
+            [en] => 
+        )
+
+    [lector] => Array
+        (
+            [ru] => 
+            [en] => 
+        )
+
+    [cycle_info] => Array
+        (
+            [ru] => Цикл лекций-концертов №17
+            [en] => Цикл лекций-концертов №17
+        )
+
+    [cycle_price] => Array
+        (
+            [ru] => 
+            [en] => <p>Лекции-концерты по воскресеньям, 2025 г.</p>
+<p>Стоимость билета на 1 лекцию - 500 рублей, для льготных категорий - 300 рублей.</p>
+        )
+
+    [building_name] => Array
+        (
+            [ru] => Главное здание на Никитском бульваре
+            [en] => Main building
+        )
+
+    [cycle_day_name] => Array
+        (
+            [ru] => Воскресный лекторий
+            [en] => Lections on Sunday
+        )
+
+)
+-->		
+	
+                    <li class="calendar__item  16.03.2025">
+                        <h2>Воскресный лекторий</h2>
+                        <time datetime="16.03.2025">16.03.2025 в 17:00</time>
+                        <p>Лекция <a href="/16_marta._guru_shishya_parampara._tradiciya_tanca._tanec_i_zdorove/index.php">Гуру Шишья Парампара. Традиция танца. Танец и здоровье</a></p>
+                    </li>
+<!--					
+                    <li class="calendar__item  2018-11-26">
+                        <h2>Лекторий по пятницам</h2>
+                        <time datetime="2018-11-23">23 ноября в 19:00</time>
+                        <p>Лекция <a href="#">«Живопись и каллиграфия Китая раннего средневековья».</a> Часть 2</p>
+                    </li>
+                    <li class="calendar__item  weekends">
+                        <h2>Воскресный лекторий</h2>
+                        <time datetime="2018-11-25">25 ноября в 14:00</time>
+                        <p>Лекция <a href="#">«Страна, где поют даже тени»</a>. Путешествие по Индонезии</p>
+                    </li>
+-->					
+					
+                </ul>
+
+                <a href="/visit/lections/index.php" class="calendar__link">Расписание лекционных циклов</a>
+            </div>
+
+				
+            <ul class="activity__list">
+				<li class="activity__item">
+                    <a href="events/2024/cikli_lekciy_2024-25/cikl_lekciy_14._sovremennoe_iskusstvo_afriki/12_marta._afrika._arhitektura._xx_vek_napravleniya_i_imena/index.php" class="activity__link">
+                        <img src="/events/2024/cikli_lekciy_2024-25/cikl_lekciy_14._sovremennoe_iskusstvo_afriki/12_marta._afrika._arhitektura._xx_vek_napravleniya_i_imena/3646_mainfoto.jpg" alt="Африка. Архитектура. XX век: направления и имена" width="392" height="288">
+                        <div class="activity__text activity__text--blue">
+                            <time datetime="12.03.2025">12.03.2025</time>
+                            <p>Африка. Архитектура. XX век: направления и имена</p>
+                            <span>Лекция / Главное здание на Никитском бульваре</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2023/10/elektronnaya_biblioteka/index.php" class="activity__link">
+                        <img src="/news/2023/10/elektronnaya_biblioteka/2932_mainfoto.jpg" alt="Электронная библиотека государственного Музея Востока «Ars Asiatica»" width="392" height="288">
+                        <div class="activity__text activity__text--green">
+                            <time datetime="19.10.2023">19.10.2023</time>
+                            <p>Электронная библиотека государственного Музея Востока «Ars Asiatica»</p>
+                            <span>Главное здание на Никитском бульваре</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2022/04/specialnoe_predlozhenie_dlya_derzhateley_pushkinskoy_karti/index.php" class="activity__link">
+                        <img src="/news/2022/04/specialnoe_predlozhenie_dlya_derzhateley_pushkinskoy_karti/2327_mainfoto.jpg" alt="Специальное предложение для держателей Пушкинской карты" width="392" height="288">
+                        <div class="activity__text activity__text--darkyellow">
+                            <time datetime="01.10.2024">01.10.2024</time>
+                            <p>Специальное предложение для держателей Пушкинской карты</p>
+                            <span>Главное здание на Никитском бульваре</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2024/oktyabr/olimpiada_parki_usadbi/index.php" class="activity__link">
+                        <img src="/news/2024/oktyabr/olimpiada_parki_usadbi/3497_mainfoto.jpg" alt="Олимпиада «Музеи.Парки.Усадьбы» проходит в Музее Востока" width="392" height="288">
+                        <div class="activity__text ">
+                            <time datetime="24.10.2024">24.10.2024</time>
+                            <p>Олимпиада «Музеи.Парки.Усадьбы» проходит в Музее Востока</p>
+                            <span></span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2025/fevral/sovremennoe_iskusstvo_lektoriy/index.php" class="activity__link">
+                        <img src="/news/2025/fevral/sovremennoe_iskusstvo_lektoriy/3657_mainfoto.jpg" alt="Современное искусство регионов России - в Музее Востока" width="392" height="288">
+                        <div class="activity__text activity__text--red">
+                            <time datetime="07.02.2025">07.02.2025</time>
+                            <p>Современное искусство регионов России - в Музее Востока</p>
+                            <span>Главное здание на Никитском бульваре</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2025/fevral/prodlenie_vistavki_zelenie/index.php" class="activity__link">
+                        <img src="/news/2025/fevral/prodlenie_vistavki_zelenie/3660_mainfoto.jpg" alt="Выставка «Хорошо, что вы зеленый…» продлена" width="392" height="288">
+                        <div class="activity__text ">
+                            <time datetime="12.02.2025">12.02.2025</time>
+                            <p>Выставка «Хорошо, что вы зеленый…» продлена</p>
+                            <span>Главное здание на Никитском бульваре</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2025/fevral/vdohnovlennie_kovrom/index.php" class="activity__link">
+                        <img src="/news/2025/fevral/vdohnovlennie_kovrom/3680_mainfoto.jpg" alt="Музей Востока предлагает вдохновиться коврами" width="392" height="288">
+                        <div class="activity__text activity__text--orange">
+                            <time datetime="27.02.2025">27.02.2025</time>
+                            <p>Музей Востока предлагает вдохновиться коврами</p>
+                            <span>Павильон №13</span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2025/mart/opros/index.php" class="activity__link">
+                        <img src="/news/2025/mart/opros/3689_mainfoto.jpg" alt="Пройти опрос и официально признаться в любви к Музею Востока" width="392" height="288">
+                        <div class="activity__text activity__text--lightblue">
+                            <time datetime="11.03.2025">11.03.2025</time>
+                            <p>Пройти опрос и официально признаться в любви к Музею Востока</p>
+                            <span></span>
+                        </div>
+                    </a>
+                </li>	
+				<li class="activity__item">
+                    <a href="news/2025/mart/lekciya_petroglifi/index.php" class="activity__link">
+                        <img src="/news/2025/mart/lekciya_petroglifi/3691_mainfoto.jpg" alt="Памятники наскального искусства на р. Пегтымель: экспедиция к чукотским петроглифам" width="392" height="288">
+                        <div class="activity__text activity__text--brown">
+                            <time datetime="12.03.2025">12.03.2025</time>
+                            <p>Памятники наскального искусства на р. Пегтымель: экспедиция к чукотским петроглифам</p>
+                            <span></span>
+                        </div>
+                    </a>
+                </li>	
+				
+<!--
+                <li class="activity__item  activity__item--wide">
+                    <a href="#" class="activity__link">
+                        <img src="/img/pic-5.jpg" srcset="/img/pic-5@2x.jpg 2x" alt="По страницам летописей. Очерк ранней истории Тибета" width="794" height="288">
+                        <div class="activity__text  activity__text--red">
+                            <time datetime="2018-11-16">16 ноября 2018</time>
+                            <p>«Обласканные солнцем». Женская красота в Африке</p>
+                            <span>Лекция / Главное здание</span>
+                        </div>
+                    </a>
+                </li>
+-->
+            </ul>
+        </section>
+
+        <section class="vr" style="background-image: url('');">
+            <h2 class="vr__title"><a href="
+" target="_blank"></a></h2>
+        </section>
+    </main>
+
+	<footer class="main-footer">
+         <!-- VK51836 -->
+        <div class="main-footer__wrapper">
+             
+		   <div class="social">
+                <h3 class="social__title">Музей в соцсетях</h3>
+                <ul class="social__list">
+                                     
+                    <li class="social__item"><a href="https://t.me/orientmuseum"><img src="https://orientmuseum.ru/img/icons/3042_file_1.svg">
+                               
+                            </a></li>
+                                     
+                    <li class="social__item"><a href="https://www.youtube.com/channel/UCVLLHoj91lBRBJY_4EEGK5g"><svg aria-hidden="true" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+                            </svg></a></li>
+                                     
+                    <li class="social__item"><a href="http://ok.ru/orientmuseum"><svg aria-hidden="true" data-prefix="fab" data-icon="odnoklassniki" class="svg-inline--fa fa-odnoklassniki fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+                                <path fill="currentColor" d="M275.1 334c-27.4 17.4-65.1 24.3-90 26.9l20.9 20.6 76.3 76.3c27.9 28.6-17.5 73.3-45.7 45.7-19.1-19.4-47.1-47.4-76.3-76.6L84 503.4c-28.2 27.5-73.6-17.6-45.4-45.7 19.4-19.4 47.1-47.4 76.3-76.3l20.6-20.6c-24.6-2.6-62.9-9.1-90.6-26.9-32.6-21-46.9-33.3-34.3-59 7.4-14.6 27.7-26.9 54.6-5.7 0 0 36.3 28.9 94.9 28.9s94.9-28.9 94.9-28.9c26.9-21.1 47.1-8.9 54.6 5.7 12.4 25.7-1.9 38-34.5 59.1zM30.3 129.7C30.3 58 88.6 0 160 0s129.7 58 129.7 129.7c0 71.4-58.3 129.4-129.7 129.4s-129.7-58-129.7-129.4zm66 0c0 35.1 28.6 63.7 63.7 63.7s63.7-28.6 63.7-63.7c0-35.4-28.6-64-63.7-64s-63.7 28.6-63.7 64z"></path>
+                            </svg></a></li>
+                                     
+                    <li class="social__item"><a href="http://www.vk.com/club51591430"><img src="https://orientmuseum.ru/img/icons/vk-brands.svg">
+                         </a></li>
+                                </ul>
+            </div>      
+             
+            <ul class="main-footer__menu"> 
+               
+                <li class="main-footer__menu-item"><a href="/visit/accessible_museum/index.php">Посетителям с инвалидностью</a></li>
+            <!--
+                <li class="main-footer__menu-item"><a href="#">Написать письмо</a></li>
+      
+            -->
+               
+                <li class="main-footer__menu-item"><a href="/museum/documents/anticorruption/index.php">Противодействие коррупции</a></li>
+            <!--
+                <li class="main-footer__menu-item"><a href="#">Написать письмо</a></li>
+      
+            -->
+               
+                <li class="main-footer__menu-item"><a href="/exhibitions/index.php">Выставки</a></li>
+            <!--
+                <li class="main-footer__menu-item"><a href="#">Написать письмо</a></li>
+      
+            -->
+               
+                <li class="main-footer__menu-item"><a href="/store/index.php">Магазин</a></li>
+            <!--
+                <li class="main-footer__menu-item"><a href="#">Написать письмо</a></li>
+      
+            -->
+               
+                <li class="main-footer__menu-item"><a href="/sitemap/index.php">Карта сайта</a></li>
+            <!--
+                <li class="main-footer__menu-item"><a href="#">Написать письмо</a></li>
+      
+            -->
+                          <li class="main-footer__menu-item"><a href="https://forms.mkrf.ru/e/2581/YrrHrJbi/?ap_orgcode=110126">Оценка удовлетворенности граждан</a></li>
+            </ul>
+             
+	
+	
+  			<form action="#" class="contact-form" id="subscr_news_form" method="post" onSubmit="submit_subscribe_frm(); return false;">
+				<INPUT type="hidden" name="lang" id="lang_sub" value="ru">
+                <h3 class="contact-form__title">Подписка на новости</h3>
+                <div class="contact-form__field">
+                    <input type="email" placeholder="e-mail" id="email" class="contact-form__input" required pattern="\S+@[a-z]+.[a-z]+">
+                    <label for="email" class="contact-form__label">e-mail</label>
+                    <button type="submit" id="subscr_news_form_btn">Отправить</button>
+                </div>
+                <input type="checkbox" id="check1" required value="yes">
+                <label for="check1" class="contact-form__label-checkbox"><A href="/museum/documents/sunscribe/">Я согласен(на) с условиями информационной рассылки</a></label>
+                <input type="checkbox" id="check2" required value="yes">
+                <label for="check2" class="contact-form__label-checkbox"><A href="/museum/documents/private_policy/">Я согласен(на) с Политикой конфиденциальности и обработки персональных данных</a></label>
+            </form>
+            <div class="contact-form__popup mfp-hide">
+            	<div class="contact-form__popup-messages" id="contact-form-msg" data-srverr="Ошибка связи с сервером.<br>Попробуйте отправить форму еще раз."></div>
+             <!--<p>Спасибо! Ваш электронный адрес добавлен</p>-->
+            </div>  
+             
+            <ul class="main-footer__list">
+                <li class="main-footer__list-item_"><img src="https://i.imgur.com/8ykRCrH.png"  width="150" height="150" class="img-responsive"></li>
+                <li class="main-footer__list-item"><a href="https://www.mkrf.ru/" target="_blank"><img src="/img/minkult_rus_logo.svg" alt="Министерство культуры Российской федерациии" width="250" class="img-responsive"></a></li>
+                <li class="main-footer__list-item"><a href="/"><img src="/img/logo_footer.svg" alt="Государственный музей Востока" width="250" class="img-responsive"></a></li>
+                <!-- <li class="main-footer__list-item_"><a href="https://xn--2024-u4d6b7a9f1a.xn--p1ai/"><img src="https://orientmuseum.ru/img/icons/god_semi_logo_monochrom.png"  width="250" height="250" class="img-responsive"></a></li> -->
+                <li class="main-footer__list-item"><a href="https://www.culture.ru/" target="_blank"><img src="/img/culture_ru_logo.svg" alt="Культура.рф" width="177" class="img-responsive"></a></li>
+                <li class="main-footer__list-item"><a href="https://xn--90acesaqsbbbreoa5e3dp.xn--p1ai/organizations/660367/info" target="_blank"><img src="/img/dobr.svg"
+							alt="Добровльцы России" width="177" class="img-responsive"></a></li>
+                <li class="main-footer__list-item  main-footer__copyright">
+                    <a href="/">© 2022 Государственный музей Востока</a> <br>
+                    <a href="http://museumplus.ru/?id=about" target="_blank">© 2022 ООО «Музей Плюс», разработка</a>
+                </li>
+                <li class="main-footer__list-item  main-footer__copyright"><a href="/museum/documents/ozenka_quality/index.php">Результаты независимой оценки качества оказания услуг</a></li>
+            </ul>
+             
+        </div>
+         
+         
+    </footer>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+   ym(53407132, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53407132" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+ 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-7496612-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-7496612-1');
+</script>
+<!--Счетчик ПРО.Культура  --> 
+<script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=5318" data-pixel-id="5318"></script>
+<!-- /Global site tag (gtag.js) - Google Analytics -->        
+
+    <script src="/js/libs/jquery-3.3.1.min.js"></script>
+    <script src="/js/libs/jquery.calendarlite.js"></script>
+    <script src="/js/libs/bootstrap-datepicker.min.js"></script>
+    <script src="/js/libs/bootstrap-datepicker.ru.min.js"></script>
+    <script src="/js/libs/fancyselect.js"></script>
+    <script src="/js/libs/slick.min.js"></script>
+    <script src="/js/libs/jquery.magnific-popup.min.js"></script>
+    <script src="/js/libs/readmore.min.js"></script>
+    <script src="/js/script.js"></script>
+	<script src="/js/scriptsff.js"></script>   
+
+<script language="JavaScript">
+	$('#calendar').datepicker({	
+		format: "dd.mm.yyyy",
+		maxViewMode: 0,
+		todayHighlight: true,
+		weekStart: 1,
+		language: 'ru'
+	});	
+		
+	$('#calendar').datepicker().on('changeDate', function (ev) {
+		window.location.href = '/visit/lections/index.php?ev_date='+ev.format('yyyy-mm-dd') + '&lang=ru#calendar';
+
+	});	
+	
+</script>
+
+</body>
+
+</html>

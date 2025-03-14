@@ -1,0 +1,2034 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <title>Журнал «Наше наследие»</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Наше наследие — это богатейшие материалы по истории российской культуры: тексты, иллюстрации, статьи и научные комментарии. Обширные собрания музеев, архивов, библиотек, выдающиеся памятники архитектуры, искусства, литературы, народного творчества — все богатство и многообразие мирового историко-культурного наследия — на страницах журнала Наше наследие." />
+    <meta name="keywords" content="" />
+    <meta name="copyright" content="Журнал «Наше наследие»" />
+			<meta property="og:url" content="https://www.nn.media/" />
+	<meta property="og:image" content="https://www.nn.media/___i/images/icon_logo_1x1.png" />
+    <meta data-page-config='{"pagetype": "empty", "agecontrol": false, "preloader": true, "cookiecontrol": true, "usertype": "user"}'>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+    <link href="https://www.nn.media/___i/css/theme.css?1741200383" rel="stylesheet">
+    <script src="https://www.nn.media/___i/js/uikit.min.js?1729968388"></script>
+    <script src="https://www.nn.media/___i/js/uikit-icons.min.js?1737901109"></script>
+	<script src="https://www.nn.media/___i/js/nn.js?1740688656"></script>
+		</head>
+<body>
+	<div class="tm-page">
+		<!-- HEADER MOBILE -->
+        <header class="tm-header-mobile uk-hidden@l">
+			<!-- HEADER MOBILE ITSELF-->
+            <div uk-sticky show-on-up animation="uk-animation-slide-top" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container">
+                <div class="uk-navbar-container">
+                    <div class="uk-container uk-container-expand">
+                        <nav class="uk-navbar" uk-navbar="align: left; container: .tm-header-mobile > [uk-sticky]; boundary: .tm-header-mobile .uk-navbar-container">
+                            <!-- LOGO MOBILE -->
+							<div class="uk-navbar-left">
+                                <a href="https://www.nn.media/" aria-label="На главную страницу" class="uk-logo uk-navbar-item">
+									<img alt="Наше Наследие" loading="eager" width="170" height="30" src="https://www.nn.media/___i/images/logo.png">
+								</a>
+                            </div>
+							<!-- MOBILE MENU BUTTON -->
+                            <div class="uk-navbar-right">
+ 								<!-- THEME SWITCH BUTTON -->
+								<a href="#" class="tm-theme-change-btn tm-theme-change-main" style="top:-1px" uk-toggle="target: body; cls: uk-light">
+									<span uk-icon="icon: theme-switcher"></span>
+								</a>
+								<!-- HAMBURGER -->
+                                <a uk-toggle href="#tm-menu-panel" class="uk-navbar-toggle">
+                                    <div uk-navbar-toggle-icon></div>
+                                </a>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+			<!-- HEADER MOBILE ITSELF END -->
+		</header>
+		<!-- HEADER MOBILE END -->
+		<!-- HEADER -->
+        <header class="tm-header uk-visible@l">
+			<!-- HEADER TOP LINE -->
+            <div class="tm-headerbar-default tm-headerbar tm-headerbar-top">
+                <div class="uk-container uk-container-xlarge">
+                    <div class="uk-position-relative uk-flex uk-flex-center uk-flex-middle">
+                        <!-- HEADER SEARCH AND DATE -->
+						<div class="uk-position-center-left uk-position-z-index-high">
+                            <div class="uk-grid-medium uk-child-width-auto uk-flex-middle" uk-grid>
+								<!-- SERACH -->
+                                <!--
+								<div>
+                                    <div class="uk-panel">
+                                        <a class="uk-search-toggle uk-display-block" href="#tm-search-modal" uk-search-icon uk-toggle></a>
+                                        <div id="tm-search-modal" class="uk-modal-full" uk-modal="container: true">
+                                            <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport>
+                                                <button class="uk-modal-close-full uk-close-large" type="button" uk-close uk-toggle="cls: uk-modal-close-full uk-close-large uk-modal-close-default; mode: media; media: @s"></button>
+                                                <div class="uk-search uk-search-large">
+                                                    <form action="/" method="get" role="search" class="uk-search uk-search-large">
+														<input name="s" placeholder="Search" required aria-label="Search" type="search" class="uk-search-input uk-text-center" autofocus>
+													</form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                -->
+ 								<!-- CURRENT DATE -->
+								<div>
+                                    <div class="uk-panel uk-text-center">
+                                        <div id="tm-current-date" class="tm-panel-date">
+											<!-- INSERT CURRENT DATE BY SCRIPT -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+						<!-- HEADER SEARCH AND DATE END -->
+						<!-- HEADER LOGO -->
+                        <a href="https://www.nn.media/" aria-label="На главную страницу" class="uk-logo">
+							<img alt="Наше Наследие" loading="eager" width="300" height="50" src="https://www.nn.media/___i/images/logo.png">
+						</a>
+						<!-- HEADER LOGO END -->
+                    </div>
+                </div>
+            </div>
+			<!-- HEADER TOP LINE END -->
+			<!-- MAIN MENU -->
+            <div uk-sticky media="@l" cls-active="uk-navbar-sticky" sel-target=".uk-navbar-container">
+                <div class="uk-navbar-container">
+                    <div class="uk-container uk-container-xlarge">
+                        <nav class="uk-navbar" uk-navbar="delay-show:250; delay-hide:800; align:left; container:.tm-header > [uk-sticky]; boundary:.tm-header .uk-navbar-container">
+                            <div class="uk-navbar-center">
+                                <ul class="uk-navbar-nav">
+									<!-- use class="uk-active" for <li> item hilighting -->
+                                    <li><a href="https://www.nn.media/" class="uk-preserve-width"><span uk-icon="icon: home;"></span> </a></li>
+                                    <li class="uk-parent"><a href="https://www.nn.media/magazine/">Журнал</a>
+                                        <div class="uk-drop uk-navbar-dropdown" pos="bottom-left" stretch="x" boundary=".tm-header .uk-navbar">
+                                            <div class="uk-grid tm-grid-expand uk-grid-divider uk-grid-margin" uk-grid>
+                                                <div class="uk-width-1-4@m">
+                                                    <div class="uk-h6">Журнал «Наше наследие»</div>
+                                                    <div class="uk-margin">
+                                                        <ul class="uk-margin-remove-bottom uk-nav uk-nav-default">
+                                                            
+						<li>
+							<a href="https://www.nn.media/magazine/1-131/">Свежий номер</a>
+						</li>
+					                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/">Все номера журнала</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/editorial-board/">Редакционный совет</a>
+															</li>
+                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/redaction/">Редакция</a>
+															</li>
+                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/to-the-authors/">Авторам</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/distribution/">Где&nbsp;купить</a>
+															</li>
+                                                            <li>
+                                                                <a href="https://www.nn.media/magazine/mediakit/">Медиакит</a>
+															</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                
+												<div class="uk-width-3-4@m">
+													<div class="uk-h6">В свежем номере</div>
+													<div class="tm-main-menu-item uk-margin">
+														<div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@xl uk-grid-column-small uk-grid-divider uk-grid-match" uk-grid>
+				
+
+														<div>
+															<article class="uk-panel uk-margin-remove-first-child">
+																
+							<a href="https://www.nn.media/magazine/1-131/662/">
+								<div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 340 / 210;" data-src="https://www.nn.media/images/objects/2025/1-131/00_sm-nn-235435.jpg" uk-img></div>
+							</a>
+						
+																<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																<div class="uk-h4 uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/662/">Владимир Енишерлов: «Эпоха возвращения»</a></div>
+																<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Перед Вами, дорогой читатель, журнал «Наше наследие»,  который выходит после пятилетнего перерыва.   В 2019 году, подготовив 130-й номер, мы вынуждены были  прекратить выпуск журнала ввиду финансовых проблем — их редакция не смогла  преодолеть своими силами. Теперь новые издатели и новая редакционная команда  решили возродить журнал, который ...</div>
+															</article>
+														</div>
+				
+
+														<div>
+															<article class="uk-panel uk-margin-remove-first-child">
+																
+							<a href="https://www.nn.media/magazine/1-131/634/">
+								<div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 340 / 210;" data-src="https://www.nn.media/images/objects/2025/1-131/01_sm-nn-603673.jpg" uk-img></div>
+							</a>
+						
+																<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Национальная гастрономия</div>
+																<div class="uk-h4 uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/634/">«У нас в России гастрономическая традиция крайне молода...»</a></div>
+																<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Журнал «Наше наследие» встретился с самым известным  кулинарным критиком Урала Яковом Можаевым. Разговор зашел, конечно же, о  кулинарных традициях Урала и о том, как они преобразовались в современную  национальную кухню. Мы сидели в одном из ресторанов Екатеринбурга, и первый  вопрос, который меня сильно интересовал, был вот о чем: ...</div>
+															</article>
+														</div>
+				
+
+														<div>
+															<article class="uk-panel uk-margin-remove-first-child">
+																
+							<a href="https://www.nn.media/magazine/1-131/649/">
+								<div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 340 / 210;" data-src="https://www.nn.media/images/objects/2025/1-131/00_sm-nn-566245.jpg" uk-img></div>
+							</a>
+						
+																<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Национальная гастрономия</div>
+																<div class="uk-h4 uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/649/">«Это действительно рискованное предприятие — заниматься локальной кухней...»</a></div>
+																<div class="uk-panel uk-margin-small-top uk-text-clamp-5">В поисках шедевров уральской традиционной кухни мы попали  на 24-й этаж большого бизнес-центра в Екатеринбурге. Здесь располагается  культовый для многих гурманов Дом уральской кухни Kitchen во главе с  бренд-шефом Сергеем Мирошниковым (или Мироном, как называют его друзья  ресторана). Дом уральской кухни входит в топ-10 лучших ресторанов Урала по  ...</div>
+															</article>
+														</div>
+				
+
+														<div>
+															<article class="uk-panel uk-margin-remove-first-child">
+																
+							<a href="https://www.nn.media/magazine/1-131/663/">
+								<div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 340 / 210;" data-src="https://www.nn.media/images/objects/2025/1-131/00_sm-nn-944449.jpg" uk-img></div>
+							</a>
+						
+																<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																<div class="uk-h4 uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/663/">Сергей Бурмистров: «Это не только об искусстве…»</a></div>
+																<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Дорогие друзья! Вы держите в руках первый, он же 131-й, номер журнала «Наше  наследие». Дебют журнала состоялся в августе 1988 года, он продолжал выходить  на протяжении 30 лет, пережив Советский Союз, перестройку и гласность, времена  кризисов и безвременья. Последний номер журнала, 130-й, вышел в 2019 году.  «Наше наследие» был одним из самых ...</div>
+															</article>
+														</div>
+				
+
+														</div>
+													</div>
+												</div>
+				                                            </div>
+                                        </div>
+                                    </li>
+                                    <!-- EXTRA MENU ELEMENTS END -->
+									<li><a href="https://www.nn.media/magazine/editorial-board/">Редсовет</a></li>
+                                    <li><a href="https://www.nn.media/magazine/to-the-authors/">Авторам</a></li>
+                                    <li><a href="https://www.nn.media/news/">Новости</a></li>
+                                    <li><a href="https://www.nn.media/magazine/distribution/">Где&nbsp;купить</a></li>
+                                    <li><a href="https://www.nn.media/contacts/">Контакты</a></li>
+								</ul>
+								<!-- THEME SWITCH BUTTON -->
+								<a href="#" class="tm-theme-change-btn tm-theme-change-main" uk-toggle="target: body; cls: uk-light">
+									<span uk-icon="icon: theme-switcher"></span>
+								</a>
+								<!-- OFFCANVAS MENU BUTTON -->
+                                <a uk-toggle href="#tm-menu-panel" class="uk-navbar-toggle">
+                                    <div uk-navbar-toggle-icon></div>
+                                </a>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <!-- MAIN MENU END -->
+		</header>
+		<!-- HEADER END -->
+
+		<!-- OFFCANVAS MENU -->
+		<div id="tm-menu-panel" uk-offcanvas="overlay: true; flip: true; mode: slide">
+			<div class="uk-offcanvas-bar uk-flex uk-flex-column">
+				<button class="uk-offcanvas-close uk-close-middle" type="button" uk-close uk-toggle="cls: uk-close-midle; mode: media; media: @s"></button>
+				<!-- THEME SWITCH BUTTON -->
+				<!-- <div class="tm-theme-change-btn" uk-toggle="target: body; cls: uk-light"> -->
+					<!-- <span class="uk-icon" uk-icon="icon: theme-switcher"></span> -->
+				<!-- </div> -->
+				<div class="uk-margin-auto-bottom tm-height-expand">
+					<div class="uk-grid uk-child-width-1-1" uk-grid>
+						<div>
+							<!-- SEARCH FIELD -->
+							<!--
+                            <div class="uk-panel uk-margin-small-top">
+								<form action="https://www.nn.media/search/" method="get" role="search" class="uk-search uk-search-default uk-width-1-1">
+									<span uk-search-icon></span>
+									<input name="s" placeholder="Search" required aria-label="Search" type="search" class="uk-search-input">
+								</form>
+							</div>
+							-->
+						</div>
+						<div>
+							<!-- MENU OPTIONS -->
+							<div class="uk-panel">
+								<ul class="uk-nav uk-nav-default uk-nav-divider uk-nav-accordion" uk-nav="targets: > .js-accordion">
+									<li>
+										<a href="https://www.nn.media/"><span uk-icon="icon: home;"></span></a>
+									</li>
+									<!-- use "uk-open" class for open sunbmenu -->
+									<!-- <li class="js-accordion uk-parent uk-active uk-open"> -->
+									<li class="js-accordion uk-parent uk-open">
+										<a href>Журнал <span uk-nav-parent-icon></span></a>
+										<ul class="uk-nav-sub">
+											
+						<li>
+							<a href="https://www.nn.media/magazine/1-131/">Свежий номер</a>
+						</li>
+																<li><a href="https://www.nn.media/magazine/">Все номера журнала</a></li>
+											<li><a href="https://www.nn.media/magazine/editorial-board/">Редакционный совет</a></li>
+											<li><a href="https://www.nn.media/magazine/redaction/">Редакция</a></li>
+											<li><a href="https://www.nn.media/magazine/to-the-authors/">Авторам</a></li>
+											<li><a href="https://www.nn.media/magazine/distribution/">Где&nbsp;купить</a></li>
+											<li><a href="https://www.nn.media/magazine/mediakit/">Медиакит</a></li>
+										</ul>
+									</li>
+                                    <li><a href="https://www.nn.media/magazine/editorial-board/">Редакционный совет</a></li>
+                                    <li><a href="https://www.nn.media/magazine/to-the-authors/">Авторам</a></li>
+                                    <li><a href="https://www.nn.media/news/">Новости</a></li>
+                                    <li><a href="https://www.nn.media/magazine/distribution/">Где&nbsp;купить</a></li>
+                                    <li><a href="https://www.nn.media/contacts/">Контакты</a></li>
+								</ul>
+							</div>
+						</div>
+						<div>
+							<div class="uk-panel">
+								<!--
+                                <div class="uk-grid tm-grid-expand uk-grid-small uk-margin-large" uk-grid>
+									<div class="uk-width-1-2">
+										<div class="uk-margin-large">
+											<a class="uk-width-1-1 uk-button uk-button-default" href="#tm-subscribe-signup-modal" uk-toggle onclick="UIkit.switcher('#tm-subscribe-signup-modal ul[uk-switcher]').show(0);">
+												SIGN UP    
+											</a>
+										</div>
+									</div>
+									<div class="uk-width-1-2">
+										<div class="uk-margin-large">
+											<a class="uk-width-1-1 uk-button uk-button-default" href="#tm-subscribe-signup-modal" uk-toggle onclick="UIkit.switcher('#tm-subscribe-signup-modal ul[uk-switcher]').show(1);">
+												LOG IN   
+											</a>
+										</div>
+									</div>
+								</div>
+								-->
+								<div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+									<div class="uk-width-1-1">
+										<!-- SMALL LOGO -->
+										<div class="uk-margin uk-text-center" uk-scrollspy="target: [uk-scrollspy-class];">
+											<a class="uk-logo uk-logo-small" href="https://www.nn.media/"><img src="https://www.nn.media/___i/images/logo.png" width="140" height="23" class="uk-text-emphasis" alt loading="lazy"></a>
+										</div>
+										<!-- TERM AND CONDITIONS -->
+                                        <!--
+										<div>
+											<ul class="uk-margin-remove-bottom uk-nav uk-nav-default">
+												<li>
+													<a href="#">Terms & Conditions</a>
+												</li>
+												<li>
+													<a href="#">Privacy</a>
+												</li>
+												<li>
+													<a href="#">Imprint</a>
+												</li>
+												<li>
+													<a href="#">Sitemap</a>
+												</li>
+											</ul>
+										</div>
+										-->
+										<!-- SOCIAL LINKS -->
+										<div class="uk-h3 uk-text-meta"> Наши социальные сети: </div>
+										<div>
+											<ul class="uk-margin-remove-bottom uk-nav uk-nav-default">
+                                                <li>
+                                                    <a href="https://www.nn.media/go/rutube/" target="_blank">
+                                                        <span class="uk-margin-small-right" uk-icon="icon: rutube;"></span>
+                                                        Rutube
+                                                    </a>
+                                                </li>
+                                                <li>
+													<a href="https://www.nn.media/go/vk/" target="_blank">
+														<span class="uk-margin-small-right" uk-icon="icon: vk;"></span>
+                                                        Вконтакте
+													</a>
+												</li>
+												<li>
+                                                    <a href="https://www.nn.media/go/telegram/" target="_blank">
+														<span class="uk-margin-small-right" uk-icon="icon: telegram;"></span>
+														Телеграм
+													</a>
+												</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- OFFCANVAS MENU END -->
+
+        		
+		<!-- MAIN -->
+		<main id="tm-main">
+					<!-- MAIN NEWS -->
+					<div class="uk-section-default uk-section uk-section-small uk-padding-remove-bottom">
+						<div class="uk-container uk-container-xlarge">
+							<div class="uk-grid tm-grid-expand uk-grid-small" uk-grid="">
+								<!-- BIG LEFT CARD -->
+								<div class="uk-grid-item-match uk-flex-middle uk-width-2-5@m uk-width-1-2@l uk-first-column" style="min-height:500px">
+									<div class="uk-panel uk-width-1-1 uk-height-1-1">
+				
+
+										<div class="uk-card uk-height-1-1 uk-padding-small uk-text-left uk-background-cover uk-light" data-src="https://www.nn.media/images/afisha/730-JihIaivplQKNsuNuDaEh3xJjomonMOVK.jpg" uk-img>
+											<!-- ADDITIONAL SHADOW OVERLAY -->
+											<div class="uk-position-cover" style="background: rgba(0,0,0,.521);"></div>
+											<!-- ADDITIONAL SHADOW OVERLAY END -->
+											<!-- CARD CONENT -->
+											<div class="uk-overlay uk-position-bottom">
+												<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom uk-text-clamp-1">Выставки</div>
+												<h2 class="uk-h1 uk-margin-top uk-margin-remove-bottom uk-text-clamp-3"> Выставка «Все экспозиции» </h2>
+												<div class="uk-panel uk-margin-top uk-text-clamp-4">
+													Государственный музей А. С. Пушкина приглашает посетить по единому билету свою основную экспозицию на улице Пречистенке (12/2) и выставки его филиалов. Посетителям предложат ознакомиться с коллекциями в музеях на Арбате. В Мемориальной квартире А. С. Пушкина (Арбат, д. 53) представлена обновленная после масштабной реставрации экспозиция. Мемориальная квартира А. Белого (Арбат, д. 55) познакомит с биографией и творчеством одного из самых ярких представителей эпохи Серебряного века. В Выставоч
+												</div>
+												<div class="uk-margin-large-top">
+													<a href="https://www.nn.media/news/730/" class="el-link uk-button uk-button-text">Подробнее</a>
+												</div>
+											</div>
+											<!-- CARD CONENT END -->
+										</div>
+				
+						
+									</div>
+								</div>
+								<!-- 2 x 2 NEWS GRID (right) -->
+								<div class="uk-grid-item-match uk-flex-middle uk-width-expand@m">
+									<div class="uk-height-1-1 uk-grid uk-grid-small uk-child-width-1-1 uk-child-width-1-2@s" uk-grid="" uk-height-match="target: .tm-height-match; row: false">
+				
+	
+										<div>											
+											<div class="tm-height-match uk-card uk-padding-small uk-text-left uk-background-cover uk-light" data-src="https://www.nn.media/images/objects/_public/2025/03/01_list-nn-295573.jpg" uk-img>
+												<!-- ADDITIONAL SHADOW OVERLAY -->
+												<div class="uk-position-cover" style="background: rgba(0,0,0,.521);"></div>
+												<!-- ADDITIONAL SHADOW OVERLAY END -->
+												<!-- CARD CONENT -->
+												<div class="uk-panel uk-margin-remove-first-child">
+													<!-- <img src="content/home-services-01.svg" width="40" height="40" alt="" loading="lazy" uk-svg class="uk-text-muted"> -->
+													<h3 class="uk-h3 uk-margin-top uk-margin-remove-bottom uk-text-clamp-2"> Представители культурных институций со всей страны соберутся в Екатеринбурге </h3>
+													<div class="uk-panel uk-margin-top uk-text-clamp-4"> Лаборатория CULTURALICA – масштабная дискуссионная платформа для обсуждения актуальных трендов отрасли, ключевых проблем и поиска их решений. В работе лаборатории принимают участие деятели культуры, представители власти и бизнеса, заинтересованные в партнерстве с учреждениями культуры.
+В этом году CULTURALICA проходит в Екатеринбурге в пятый раз. Главная тема лаборатории-2025: «Культура — сфера инвестиций».
+Деловая программа лаборатории </div>
+													<div class="uk-margin-large-bottom">
+													</div>													
+												</div>
+												<div class="uk-overlay uk-position-bottom uk-padding-small">
+													<a href="https://www.nn.media/news/738/" class="el-link uk-button uk-button-text">Подробнее</a>
+												</div>
+											</div>
+										</div>
+					
+	
+										<div>											
+											<div class="tm-height-match uk-card uk-padding-small uk-text-left uk-background-cover uk-light" data-src="https://www.nn.media/images/objects/_public/2025/03/00_content-nn-731912.jpg" uk-img>
+												<!-- ADDITIONAL SHADOW OVERLAY -->
+												<div class="uk-position-cover" style="background: rgba(0,0,0,.521);"></div>
+												<!-- ADDITIONAL SHADOW OVERLAY END -->
+												<!-- CARD CONENT -->
+												<div class="uk-panel uk-margin-remove-first-child">
+													<!-- <img src="content/home-services-01.svg" width="40" height="40" alt="" loading="lazy" uk-svg class="uk-text-muted"> -->
+													<h3 class="uk-h3 uk-margin-top uk-margin-remove-bottom uk-text-clamp-2"> «Полторы комнаты» совместно с «Литфондом» покажут лучшую графику авангардиста Льва Юдина </h3>
+													<div class="uk-panel uk-margin-top uk-text-clamp-4"> Сторителлинг экспозиции «Лев Юдин» развернется вокруг его книжной и журнальной графики 1930-1940-х годов. В том числе покажут макеты и эскизы иллюстраций к детским книгам, рисунки и офорты, силуэтную аппликацию и эксперименты с бумажной скульптурой. Все представленные работы будут выставлены на аукционе «Литфонда», который состоится 22 марта. </div>
+													<div class="uk-margin-large-bottom">
+													</div>													
+												</div>
+												<div class="uk-overlay uk-position-bottom uk-padding-small">
+													<a href="https://www.nn.media/news/732/" class="el-link uk-button uk-button-text">Подробнее</a>
+												</div>
+											</div>
+										</div>
+					
+	
+										<div class="uk-grid-margin">											
+											<div class="tm-height-match uk-card uk-padding-small uk-text-left uk-background-cover uk-light" data-src="https://www.nn.media/images/afisha/726-69hozQUg39Lljkm2UXCvVgJh3XG4NQTJ.jpg" uk-img>
+												<!-- ADDITIONAL SHADOW OVERLAY -->
+												<div class="uk-position-cover" style="background: rgba(0,0,0,.521);"></div>
+												<!-- ADDITIONAL SHADOW OVERLAY END -->
+												<!-- CARD CONENT -->
+												<div class="uk-panel uk-margin-remove-first-child">
+													<!-- <img src="content/home-services-01.svg" width="40" height="40" alt="" loading="lazy" uk-svg class="uk-text-muted"> -->
+													<h3 class="uk-h3 uk-margin-top uk-margin-remove-bottom uk-text-clamp-2"> Выставка «Дагер против Тальбота» </h3>
+													<div class="uk-panel uk-margin-top uk-text-clamp-4"> РОСФОТО представляет уникальный проект – выставку-лабораторию «Дагер против Тальбота». Продолжая серию исследований по истории фотографии, новая экспозиция впервые в России сопоставляет и анализирует особенности самых первых фотографических техник, параллельно изобретенных французом Луи Дагером и англичанином Генри Тальботом.  Оба процесса ранней светописи – дагеротипия и тальботипия (калотипия) – стали отправной точкой для появления фотографии, во всех известных сейчас значени </div>
+													<div class="uk-margin-large-bottom">
+													</div>													
+												</div>
+												<div class="uk-overlay uk-position-bottom uk-padding-small">
+													<a href="https://www.nn.media/news/726/" class="el-link uk-button uk-button-text">Подробнее</a>
+												</div>
+											</div>
+										</div>
+					
+	
+										<div class="uk-grid-margin">											
+											<div class="tm-height-match uk-card uk-padding-small uk-text-left uk-background-cover uk-light" data-src="https://www.nn.media/images/objects/_public/2025/03/00_list-nn-402818.jpg" uk-img>
+												<!-- ADDITIONAL SHADOW OVERLAY -->
+												<div class="uk-position-cover" style="background: rgba(0,0,0,.521);"></div>
+												<!-- ADDITIONAL SHADOW OVERLAY END -->
+												<!-- CARD CONENT -->
+												<div class="uk-panel uk-margin-remove-first-child">
+													<!-- <img src="content/home-services-01.svg" width="40" height="40" alt="" loading="lazy" uk-svg class="uk-text-muted"> -->
+													<h3 class="uk-h3 uk-margin-top uk-margin-remove-bottom uk-text-clamp-2"> Выставка «СВОЯСИ» в Историческом музее представляет национальные традиции через современное русское искусство </h3>
+													<div class="uk-panel uk-margin-top uk-text-clamp-4"> 4 марта в Государственном историческом музее открылась третья ежегодная выставка «СВОЯСИ. Путь современного русского искусства». Проект посвящен исследованию национальных традиций через актуальное творчество отечественных авторов.
+«Одна из важнейших миссий музея в современном мире – пробуждать таланты, вдохновлять на создание новых произведений искусства через осмысление колоссального культурного наследия. Исторический музей старается привлекать к популяризации </div>
+													<div class="uk-margin-large-bottom">
+													</div>													
+												</div>
+												<div class="uk-overlay uk-position-bottom uk-padding-small">
+													<a href="https://www.nn.media/news/735/" class="el-link uk-button uk-button-text">Подробнее</a>
+												</div>
+											</div>
+										</div>
+					
+						
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- MAIN NEWS END -->
+				
+			<!-- SECTION PICTURE CARD SLIDER (featured topics) -->
+			<div class="uk-section-default uk-section">
+				<div class="uk-container uk-container-xlarge">
+					<!-- 2 BIG NEWS SUBSECTION AND 5 ANONCES SUBSECTION (2 + (5 x 1)) -->
+					<div class="uk-grid tm-grid-expand uk-grid-column-small uk-grid-divider uk-grid-margin" uk-grid>
+		
+
+						<!-- BIG ARTICLE -->
+						<article class="uk-width-1-2@s uk-width-1-3@m uk-width-2-5@l" >
+							<div class="uk-margin" >
+								<a href = "https://www.nn.media/magazine/1-131/597/" >
+									<picture >
+										<img src = "https://www.nn.media/images/objects/2025-1/2025-1-ernst-main.jpg" class="tm-objectfit-cover" style = "aspect-ratio:630/394" alt loading = "lazy" >
+									</picture >
+								</a >
+							</div >
+							<div class="uk-panel uk-margin-remove-first-child uk-margin-medium uk-width-large@s uk-margin-auto uk-text-center@s" >
+								<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom" > Обращение к читателям </div >
+								<h3 class="uk-h2 uk-link-heading uk-margin-small-top uk-margin-remove-bottom" > <a href = "https://www.nn.media/magazine/1-131/597/"> Константин Эрнст: «Сохраняя традиции — вперед в&nbsp;будущее!» </a></h3>
+								<div class="uk-panel uk-margin-top"> Начиная еще с пушкинской эпохи, журналы в России были самыми эффективными «агентами времени». «Современник», «Мир искусства», «Золотое руно», «Весы», «Аполлон» и множество других сохраняли традицию, отражали настоящее и формировали будущее русского искусства и общества. </div >
+							</div >
+						</article >
+						<!-- BIG ARTICLE END -->	
+			
+
+						<!-- BIG ARTICLE -->
+						<article class="uk-width-1-2@s uk-width-1-3@m uk-width-2-5@l" >
+							<div class="uk-margin" >
+								<a href = "https://www.nn.media/magazine/1-131/663/" >
+									<picture >
+										<img src = "https://www.nn.media/images/objects/2025/1-131/00_main-nn-016982.jpg" class="tm-objectfit-cover" style = "aspect-ratio:630/394" alt loading = "lazy" >
+									</picture >
+								</a >
+							</div >
+							<div class="uk-panel uk-margin-remove-first-child uk-margin-medium uk-width-large@s uk-margin-auto uk-text-center@s" >
+								<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom" > Обращение к читателям </div >
+								<h3 class="uk-h2 uk-link-heading uk-margin-small-top uk-margin-remove-bottom" > <a href = "https://www.nn.media/magazine/1-131/663/"> Сергей Бурмистров: «Это не только об искусстве…» </a></h3>
+								<div class="uk-panel uk-margin-top"> Вы держите в руках первый, он же 131-й, номер журнала «Наше наследие». Дебют журнала состоялся в августе 1988 года, он продолжал выходить на протяжении 30 лет, пережив Советский Союз, перестройку и гласность, времена кризисов и безвременья. </div >
+							</div >
+						</article >
+						<!-- BIG ARTICLE END -->	
+			
+	
+						<!-- 5 ANONCES (on right) -->
+						<div class="uk-width-1-3@m uk-width-1-5@l">
+							<!-- ANONCES TITLE -->
+							<div class="uk-h6"> Популярные материалы </div>
+							<!-- ANONCES PICTURE (only for ultrawide screens (>=xl)) -->
+							<div class="uk-margin uk-visible@xl">
+								<!--<a href="https://www.nn.media/magazine/1-131/597/">-->
+								<picture>
+									<img src="https://nn.media/images/banners/banner_cover.jpg" class="tm-objectfit-cover" style="aspect-ratio:300/188" alt loading="lazy">
+								</picture>
+								<!--</a>-->
+								<!-- ANONCE DESCRIPTION -->
+								<!--
+								<div>
+									<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">Review: Apple AirPods Pro with wireless charging case</span></div>
+								</div>
+								-->
+							</div>
+							<!-- ANONCES PICTURE (only for ultrawide screens (>=xl)) END -->
+							<!-- ANONCES -->
+							<ul class="uk-list uk-list-decimal uk-list-divider">
+								<li>
+									<a href="https://www.nn.media/magazine/1-131/542/" class="uk-link-toggle">
+										<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap" uk-grid>
+											<!-- ANONCE PICTURE -->
+											<div class="uk-width-auto uk-flex-last uk-link-heading">
+												<picture>
+													<img src="https://www.nn.media/images/experts/2025-1-01-001.jpg" width="60" height="60" alt loading="lazy">
+												</picture>
+											</div>
+											<!-- ANONCE DESCRIPTION -->
+											<div>
+												<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">Эксклюзивное интервью с министром культуры РФ</span></div>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.nn.media/magazine/1-131/598/" class="uk-link-toggle">
+										<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap" uk-grid>
+											<div class="uk-width-auto uk-flex-last uk-link-heading">
+												<picture>
+													<img src="https://www.nn.media/images/experts/semenov-n1.jpg" width="60" height="60" alt loading="lazy">
+												</picture>
+											</div>
+											<div>
+												<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">«Иллюзии – это всё, что у нас есть…»</span></div>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.nn.media/magazine/1-131/589/" class="uk-link-toggle">
+										<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap" uk-grid>
+											<div class="uk-width-auto uk-flex-last uk-link-heading">
+												<picture>
+													<img src="https://www.nn.media/images/experts/kushnir_n1.jpg" width="60" height="60" alt loading="lazy">
+												</picture>
+											</div>
+											<div>
+												<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">Kоллекционер советского рок-андеграунда</span></div>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.nn.media/magazine/1-131/597/" class="uk-link-toggle">
+										<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap" uk-grid>
+											<div class="uk-width-auto uk-flex-last uk-link-heading">
+												<picture>
+													<img src="https://www.nn.media/images/objects/2025-1/2025-1-ernst-main.jpg" width="60" height="60" alt loading="lazy">
+												</picture>
+											</div>
+											<div>
+												<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">Сохраняя традиции — вперед в&nbsp;будущее!</span></div>
+											</div>
+										</div>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.nn.media/magazine/1-131/583/" class="uk-link-toggle">
+										<div class="uk-grid-small uk-child-width-expand uk-flex-nowrap" uk-grid>
+											<div class="uk-width-auto uk-flex-last uk-link-heading">
+												<picture>
+													<img src="https://www.nn.media/images/experts/lorenzo-quinn-n2.jpg" width="60" height="60" alt loading="lazy">
+												</picture>
+											</div>
+											<div>
+												<div class="uk-panel uk-h5"><span class="uk-link-heading uk-margin-remove-last-child">Лоренцо Куинн: «Делайте всё по-другому…»</span></div>
+											</div>
+										</div>
+									</a>
+								</li>
+							</ul>
+							<!-- ANONCES END -->
+						</div>
+						<!-- 5 ANONCES (on right) END -->
+					</div>
+					<!-- 2 BIG NEWS SUBSECTION AND 5 ANONCES SUBSECTION (2 + (5 x 1)) -->
+				</div>
+			</div>			
+			<!-- SECTION PICTURE CARD SLIDER END -->		
+		<!-- ULTRABIG CARD and 3 CARD ON RIGHT SUBSECTION (1 + (3 x 1)) -->
+<div class="uk-section-default uk-section uk-padding-remove-top">
+    <div class="uk-container uk-container-xlarge">
+        <div class="uk-grid tm-grid-expand uk-grid-column-small uk-grid-divider uk-grid-margin" uk-grid>
+            <!-- ULTRABIG CARD (visible only on wide screens (>=m)) -->
+            <article class="uk-grid-item-match uk-width-3-5@l uk-visible@m">
+                <div class="uk-flex">
+                    <!-- DIV with background image -->
+                    <div data-src="https://www.nn.media/images/objects/2025-1/2025-1-04-003.jpg" uk-img class="uk-background-norepeat uk-background-cover uk-background-center-center uk-background-image@s uk-tile uk-width-1-1 uk-flex uk-flex-middle">
+                        <div class="uk-light uk-panel uk-width-1-1">
+                            <!-- ARTICLE DESCRIPTION -->
+                            <div class="uk-panel uk-margin-remove-first-child uk-margin uk-width-large@s uk-visible@m">
+                                <!-- ARTICLE SUBCATEGORY -->
+                                <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Мировое искусство</div>
+                                <!-- ARTICLE TITLE -->
+                                <h3 class="uk-heading-small uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/583/">Лоренцо Куинн:<br>«Делайте всё по-другому…»</a> </h3>
+                                <!-- ARTICLE ANONCE -->
+                                <div class="uk-panel uk-margin-medium-top">
+                                    Лоренцо Куинн — знаменитый скульптор с мировым именем, сын голливудской кинозвезды Энтони Куинна, любимый скульптор Ватикана, создатель одной из самых знаменитых, на мой взгляд, монументальных скульптур «Поддержка», поразившей всех на Венецианской биеннале 2017, человек, пытающийся объединить всех во времена всеобщего ...
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!-- ULTRABIG CARD (visible only on wide screens (>=m)) END -->
+            <div class="uk-width-2-5@l">
+                <!-- 3 CARDS (visible only on wide screens (>=m)) -->
+                <div class="uk-margin uk-visible@m">
+                    <!-- 3 CARDS -->
+                    <div class="uk-grid uk-child-width-1-1 uk-grid-small uk-grid-divider uk-grid-match" uk-grid>
+                        <!-- ORDINARY CARD 1 -->
+                        <div>
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@m uk-flex-last@m">
+                                        <a href="https://www.nn.media/magazine/1-131/617/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/01_main-nn-652849.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архитектура</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/617/">Еконструктивизм</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Одной из главных достопримечательностей и, возможно, даже чертой характера Екатеринбурга является его ярко выраженный конструктивизм.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <!-- ORDINARY CARD 2 -->
+                        <div>
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@m uk-flex-last@m">
+                                        <a href="https://www.nn.media/magazine/1-131/609/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025-1/2025-1-koritin_01.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Музей</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/609/">«Мы не можем привезти выставку с Луны, это очень дорого…»</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Журнал «Наше наследие» побывал в гостях у директора Екатеринбургского музея изобразительных искусств Никиты Николаевича Корытина.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <!-- ORDINARY CARD 3 -->
+                        <div>
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@m uk-flex-last@m">
+                                        <a href="https://www.nn.media/magazine/1-131/616/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/09-nn-871588.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частный музей</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/616/">Музейный комплекс г.&nbsp;Верхняя Пышма</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Музейный комплекс в городе Верхняя Пышма, неподалеку от Екатеринбурга, один из самых больших в мире музеев гражданской и военной техники.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                    <!--3 CARDS END -->
+                </div>
+                <!-- LAYOUT FOR MIDDLE AND LESS SCREENS (<m)  -->
+                <div class="uk-margin uk-hidden@m">
+                    <div class="uk-grid uk-child-width-1-1 uk-grid-small uk-grid-divider uk-grid-match" uk-grid>
+                        <div>
+                            <!-- ULTRABIG CARD AS ORDINARY CARD -->
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <!-- ARTICLE PICTURE -->
+                                    <div class="uk-width-1-2@s uk-flex-last@s">
+                                        <a href="https://www.nn.media/magazine/1-131/583/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025-1/2025-1-04-003.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <!-- ARTICLE DESCRIPTION -->
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <!-- ARTICLE SUBCATEGORY -->
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Мировое искусство</div>
+                                        <!-- ARTICLE TITLE -->
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/583/">Лоренцо Куинн: «Делайте всё по-другому…»</a> </h3>
+                                        <!-- ARTICLE ANONCE -->
+                                        <div class="uk-panel uk-margin-top">Лоренцо Куинн — знаменитый скульптор с мировым именем, сын голливудской кинозвезды Энтони Куинна, любимый скульптор Ватикана, создатель одной из самых знаменитых монументальных скульптур «Поддержка», поразившей всех на Венецианской биеннале 2017, человек, пытающийся объединить всех во времена всеобщего ...</div>
+                                    </div>
+                                </div>
+                            </article>
+                            <!-- ULTRABIG CARD AS ORDINARY CARD END -->
+                        </div>
+                        <!-- 3 CARDS -->
+                        <div>
+                            <!-- ORDINARY CARD 1 -->
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <!-- ARTICLE PICTURE -->
+                                    <div class="uk-width-1-2@s uk-flex-last@s">
+                                        <a href="https://www.nn.media/magazine/1-131/617/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/01_main-nn-652849.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <!-- ARTICLE DESCRIPTION -->
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <!-- ARTICLE SUBCATEGORY -->
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архитектура</div>
+                                        <!-- ARTICLE TITLE -->
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/617/">Эдуард Кубенский: «Еконструктивизм»</a> </h3>
+                                        <!-- ARTICLE ANONCE -->
+                                        <div class="uk-panel uk-margin-top">Одной из главных достопримечательностей и, возможно, даже чертой характера Екатеринбурга является его ярко выраженный конструктивизм.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <!-- ORDINARY CARD 2 -->
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@s uk-flex-last@s">
+                                        <a href="https://www.nn.media/magazine/1-131/609/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025-1/2025-1-koritin_01.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Музей</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/609/">«Мы не можем привезти выставку с Луны, это очень дорого…»</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Журнал «Наше наследие» побывал в гостях у директора Екатеринбургского музея изобразительных искусств Никиты Николаевича Корытина.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <!-- ORDINARY CARD 3 -->
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@s uk-flex-last@s">
+                                        <a href="https://www.nn.media/magazine/1-131/616/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/09-nn-871588.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частный музей</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/616/">Музейный комплекс г.&nbsp;Верхняя Пышма</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Музейный комплекс в городе Верхняя Пышма, неподалеку от Екатеринбурга, один из самых больших в мире музеев гражданской и военной техники. Впечатляет не только масштаб, но и состав коллекции.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <!-- 3 CARDS END -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ULTRABIG CARD and 3 CARD ON RIGHT SUBSECTION (1 + (3 x 1)) END -->
+    </div>
+</div>
+<!-- MAIN SECTION (complex layout) END --><!-- FULL WIDTH SECTION WITH VIDEO -->
+<div class="uk-section-secondary uk-section">
+  <div class="uk-container uk-container-xlarge">
+    <!-- FULL WIDTH VIDEO CARD -->
+    <article class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+      <!-- FULL WIDTH VIDEO DESCRIPTION -->
+      <div class="uk-width-1-2@s uk-width-2-5@l">
+        <!-- SECTION TITLE -->
+        <div class="uk-divider-small"></div>
+        <h2 class="uk-h6 uk-margin-small"> Видео </h2>
+        <!-- MAIN VIDEO TITLE -->
+        <h3 class="uk-heading-small"> <a class="uk-link-heading" href="https://www.nn.media/news/668/">Обновленный журнал «Наше наследие» представил первый после перерыва выпуск</a> </h3>
+        <!-- MAIN VIDEO DESCRIPTION -->
+        <div class="uk-panel uk-margin-medium uk-width-large">Возвращение легендарного журнала. Издание, появившееся в 1988 году по инициативе академика Дмитрия Лихачева, тогда произвело настоящую революцию.</div>
+        <!-- PLAY BUTTON -->
+        <div class="uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-button uk-button-default uk-flex-inline uk-flex-center uk-flex-middle" href="https://www.1tv.ru/embed/499690:11" data-caption="Обновленный журнал «Наше наследие» представил первый после перерыва выпуск" data-type="iframe">
+            <span class="uk-margin-small-right" uk-icon="play"></span>
+            Смотреть видео
+          </a>
+        </div>
+      </div>
+      <!-- FULL WIDTH VIDEO DESCRIPTION END -->
+      <!-- VIDEO BANNER -->
+      <div class="uk-grid-item-match uk-flex-middle uk-width-1-2@s uk-width-3-5@l">
+        <div class="uk-panel uk-width-1-1">
+          <div class="uk-light uk-margin-remove-vertical uk-text-center" uk-lightbox="video-autoplay: true">
+            <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://www.1tv.ru/embed/499690:11" data-caption="Обновленный журнал «Наше наследие» представил первый после перерыва выпуск" data-type="iframe">
+              <!-- VIDEO WALLPAPER -->
+              <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/banners/video/1tv_03.jpg" uk-img="loading: lazy"></div>
+              <!-- PLAY BUTTON -->
+              <div class="uk-overlay-primary uk-position-cover"></div>
+              <div class="uk-position-bottom-left">
+                <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                  <div class="uk-text-meta uk-text-primary uk-margin-top">
+                    <img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">
+                    4:53
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <hr class="uk-margin-medium uk-hidden@s">
+        </div>
+      </div>
+      <!-- VIDEO BANNER END -->
+    </article>
+    <!-- FULL WIDTH VIDEO CARD END -->
+    <!-- GRID  WITH VIDEO CARDS (1x5) -->
+    <div class="uk-grid uk-child-width-1-1 uk-grid-margin" uk-grid>
+      <article class="uk-width-1-3@s uk-width-1-5@l">
+        <div class="uk-light uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://rutube.ru/play/embed/38ef38ff6f622eebaeb4a8320a0e0ef2/" data-caption="Сергей Бурмистров — о возрожденном журнале «Наше наследие»" data-type="iframe">
+            <!-- VIDEO WALLPAPER -->
+            <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/objects/_public/2025/02/00_content-nn-477463.jpg" uk-img="loading: lazy"></div>
+            <!-- PLAY BUTTON -->
+            <div class="uk-overlay-primary uk-position-cover"></div>
+            <div class="uk-position-bottom-left">
+              <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                <div class="uk-text-meta uk-text-primary uk-margin-top"><img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">9:47</div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <!-- VIDEO TITLE -->
+        <h3 class="uk-margin-small"> <a class="uk-link-heading" href="https://www.nn.media/news/725/">Сергей Бурмистров — о&nbsp;возрожденном журнале «Наше наследие»</a> </h3>
+      </article>
+      <article class="uk-width-1-3@s uk-width-1-5@l">
+        <div class="uk-light uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://rutube.ru/play/embed/c237cd1702e5900515d755ae9db8b567/" data-caption="Аукцион в поддержку журнала «Наше наследие»" data-type="iframe">
+            <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/objects/2025/1-131/00_main-nn-139691.jpg" uk-img="loading: lazy"></div>
+            <div class="uk-overlay-primary uk-position-cover"></div>
+            <div class="uk-position-bottom-left">
+              <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                <div class="uk-text-meta uk-text-primary uk-margin-top"><img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">1:43</div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <h3 class="uk-margin-small"> <a class="uk-link-heading" href="https://www.nn.media/news/669/">Аукцион в&nbsp;поддержку журнала «Наше наследие»</a> </h3>
+      </article>
+      <article class="uk-width-1-3@s uk-width-1-5@l">
+        <div class="uk-light uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://rutube.ru/play/embed/ab9ab65e2131680fb11460072cee1b71/" data-caption="«Наше наследие»: журнал о&nbsp;культуре&nbsp;№1" data-type="iframe">
+            <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/objects/2025/1-131/01-nn-793780.jpg" uk-img="loading: lazy"></div>
+            <div class="uk-overlay-primary uk-position-cover"></div>
+            <div class="uk-position-bottom-left">
+              <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                <div class="uk-text-meta uk-text-primary uk-margin-top"><img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">4:17</div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <h3 class="uk-margin-small"> «Наше наследие»: журнал о&nbsp;культуре&nbsp;№1 </h3>
+      </article>
+      <article class="uk-width-1-3@s uk-width-1-5@l">
+        <div class="uk-light uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://rutube.ru/play/embed/02765f36f2a0a586a6ef69cd4d0a2791/" data-caption="Никита Корытин: «Мы не&nbsp;можем привезти выставку с&nbsp;Луны, это очень дорого…»" data-type="iframe">
+            <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/objects/2025-1/2025-1-koritin_07.jpg" uk-img="loading: lazy"></div>
+            <div class="uk-overlay-primary uk-position-cover"></div>
+            <div class="uk-position-bottom-left">
+              <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                <div class="uk-text-meta uk-text-primary uk-margin-top"><img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">18:46</div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <h3 class="uk-margin-small"> <a class="uk-link-heading" href="https://www.nn.media/magazine/1-131/609/">Никита Корытин: «Мы не&nbsp;можем привезти выставку с&nbsp;Луны, это очень дорого…»</a> </h3>
+      </article>
+      <article class="uk-width-1-3@s uk-width-1-5@l">
+        <div class="uk-light uk-margin" uk-lightbox="video-autoplay: true">
+          <a class="uk-width-1-1 uk-inline-clip uk-link-toggle" href="https://rutube.ru/play/embed/30a36b57b25fc576a5a084d534c97f76/" data-caption="Музейный комплекс города Верхняя Пышма" data-type="iframe">
+            <div class="uk-background-norepeat uk-background-cover" style="aspect-ratio: 16 / 10;" data-src="https://www.nn.media/images/objects/2025/1-131/54-nn-340213.jpg" uk-img="loading: lazy"></div>
+            <div class="uk-overlay-primary uk-position-cover"></div>
+            <div class="uk-position-bottom-left">
+              <div class="uk-overlay uk-padding-small uk-margin-remove-first-child">
+                <div class="uk-text-meta uk-text-primary uk-margin-top"><img alt class="uk-margin-small-right" src="/___i/icons/videoplay.svg" loading="lazy">15:19</div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <h3 class="uk-margin-small"> <a class="uk-link-heading" href="https://www.nn.media/magazine/1-131/616/">Музейный комплекс города Верхняя Пышма</a> </h3>
+      </article>
+    </div>
+    <!-- GRID  WITH VIDEO CARDS (1x5) END -->
+  </div>
+</div>
+<!-- FULL WIDTH SECTION WITH VIDEO END --><!-- CATEGORY SIMPLE SECTION (one extra big cars and row grid with two big cards 1x2) -->
+<div class="uk-section-default uk-section uk-padding-remove-bottom">
+    <div class="uk-container uk-container-xlarge">
+        <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+            <!-- SECTION TITLE -->
+            <div class="uk-width-1-5@m">
+                <div class="uk-divider-small"></div>
+                <h2 class="uk-h6 uk-margin-small"> Музеи </h2>
+            </div>
+            <!-- SECTION TITLE END -->
+            <!-- BIG CARD PICTURE AND TITLE -->
+            <div class="uk-width-4-5@m">
+                <!-- BIG CARD PICTURE -->
+                <div class="uk-margin">
+                    <a href="https://www.nn.media/magazine/1-131/616/">
+                        <picture>
+                            <img src="https://www.nn.media/images/banners/cars/02.jpg" class="tm-objectfit-cover" style="aspect-ratio:1280/560" alt loading="lazy">
+                        </picture>
+                    </a>
+                </div>
+                <!-- BIG CARD TITLE -->
+                <div class="uk-h6 uk-text-primary"> Частный музей </div>
+            </div>
+        </div>
+        <div class="uk-grid tm-grid-expand uk-margin-small" uk-grid>
+            <div class="uk-width-1-5@m">
+            </div>
+            <div class="uk-width-1-2@s uk-width-2-5@m">
+                <h2 class="uk-h1"> <a class="uk-link-heading" href="Частный музей">Музейный комплекс города Верхняя&nbsp;Пышма </a> </h2>
+            </div>
+            <div class="uk-width-1-2@s uk-width-2-5@m">
+                <div class="uk-panel uk-margin">Музейный комплекс в городе Верхняя Пышма, неподалеку от Екатеринбурга, один из самых больших в мире музеев гражданской и военной техники. Впечатляет не только масштаб, но и состав коллекции: самый большой в мире самосвал, космический корабль, стратегический бомбардировщик, подводные лодки, роскошные ретроавтомобили и многое другое..</div>
+                <!--
+                <div class="uk-panel uk-margin-medium">
+                    <div class="uk-grid-column-small uk-flex-middle" uk-grid>
+                        <div class="uk-width-auto">
+                            <picture>
+                                <img src="content/pic-05-200x200.jpg" width="40" height="40" alt="Adrian Phelps" loading="lazy" class="uk-border-circle">
+                            </picture>
+                        </div>
+                        <div class="uk-width-expand uk-margin-remove-first-child">
+                            <div class="uk-h5 uk-margin-top uk-margin-remove-bottom"> СБ </div>
+                        </div>
+                    </div>
+                </div>
+                -->
+            </div>
+        </div>
+        <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+            <div class="uk-width-1-5@m">
+            </div>
+            <div class="uk-width-4-5@m">
+                <hr>
+                <div class="uk-margin-medium">
+                    <div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-grid-column-small uk-grid-divider uk-grid-match" uk-grid>
+                        <div>
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@l">
+                                        <a href="https://www.nn.media/magazine/1-131/646/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/05-nn-010400.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/450" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частный музей</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/646/">Павел Неганов & Музей Андеграунда</a> </h3>
+                                        <div class="uk-panel uk-margin-top">Журнал «Наше наследие» встретился с владельцем Музея Андеграунда Павлом Негановым, чтобы поговорить о его собрании художественного андеграунда.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                        <div>
+                            <article class="uk-panel">
+                                <div class="uk-grid-medium" uk-grid>
+                                    <div class="uk-width-1-2@l">
+                                        <a href="https://www.nn.media/magazine/1-131/651/">
+                                            <picture>
+                                                <img src="https://www.nn.media/images/objects/2025/1-131/18-nn-127484.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/450" alt loading="lazy">
+                                            </picture>
+                                        </a>
+                                    </div>
+                                    <div class="uk-width-expand uk-margin-remove-first-child">
+                                        <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Центр культуры и искусства</div>
+                                        <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/651/">«Наша задача — быть интересными самой широкой аудитории…»</a> </h3>
+                                        <div class="uk-panel uk-margin-top">«Синара Центр» — один из самых ярких проектов культурно исторического редевелопмента Екатеринбурга за последние годы.</div>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- CATEGORY SIMPLE SECTION END --><!-- CATEGORY SIMPLE SECTION (one row grid with two big cards 1x2) -->
+<div class="uk-section-default uk-section uk-padding-remove-bottom">
+    <div class="uk-container uk-container-xlarge">
+        <!-- SEPARTOR -->
+        <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+            <div class="uk-width-1-1@m">
+                <hr>
+            </div>
+        </div>
+        <!-- SEPARTOR END -->
+        <div class="uk-grid tm-grid-expand uk-margin-large" uk-grid>
+            <!-- SECTION TITLE -->
+            <div class="uk-width-1-5@m">
+                <div class="uk-divider-small"></div>
+                <h2 class="uk-h6 uk-margin-small"> Национальная гастрономия </h2>
+            </div>
+            <!-- SECTION TITLE END -->
+            <div class="uk-width-4-5@m">
+                <div class="uk-margin">
+                    <div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-grid-column-small uk-grid-divider uk-grid-match" uk-grid>
+                        <div>
+                            <article class="uk-panel uk-margin-remove-first-child">
+                                <a href="https://www.nn.media/magazine/1-131/649/">
+                                    <picture>
+                                        <img src="https://www.nn.media/images/objects/2025/1-131/02-nn-919621.jpg" class="tm-objectfit-cover" style="aspect-ratio:630/394" alt loading="lazy">
+                                    </picture>
+                                </a>
+                                <div class="uk-h6 uk-text-primary uk-margin-medium-top uk-margin-remove-bottom">Национальная гастрономия</div>
+                                <h3 class="uk-h1 uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/649/">«Это рискованное предприятие — заниматься локальной кухней...»</a> </h3>
+                                <div class="uk-panel uk-margin-top">В поисках шедевров уральской традиционной кухни мы попали на 24-й этаж большого бизнес-центра в Екатеринбурге. Здесь располагается культовый для многих гурманов Дом уральской кухни Kitchen во главе с бренд-шефом Сергеем Мирошниковым.</div>
+                            </article>
+                        </div>
+                        <div>
+                            <article class="uk-panel uk-margin-remove-first-child">
+                                <a href="https://www.nn.media/magazine/1-131/634/">
+                                    <picture>
+                                        <img src="https://www.nn.media/images/objects/2025/1-131/04-nn-708734.jpg" class="tm-objectfit-cover" style="aspect-ratio:630/394" alt loading="lazy">
+                                    </picture>
+                                </a>
+                                <div class="uk-h6 uk-text-primary uk-margin-medium-top uk-margin-remove-bottom">Национальная гастрономия</div>
+                                <h3 class="uk-h1 uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/1-131/634/">«У нас в России гастрономическая традиция крайне молода...»</a> </h3>
+                                <div class="uk-panel uk-margin-top">Журнал «Наше наследие» встретился с самым известным кулинарным критиком Урала Яковом Можаевым. Разговор зашел, конечно же, о кулинарных традициях Урала и о том, как они преобразовались в современную национальную кухню.</div>
+                            </article>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- CATEGORY SIMPLE SECTION END --><!-- 5 CARDS SUBSECTION -->
+<div class="uk-section-default uk-section uk-padding-remove-bottom">
+    <div class="uk-container uk-container-xlarge">
+        <!-- SEPARATOR -->
+        <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+            <div class="uk-width-1-1">
+                <hr>
+                <h2 class="uk-h6 uk-margin">Архив журнала «Наше наследие»</h2>
+            </div>
+        </div>
+        <!-- SEPARATOR -->
+        <!-- FIRST LINE -->
+        <div class="uk-grid uk-grid-column-small uk-grid-divider uk-child-width-1-1 uk-child-width-1-3@s uk-child-width-1-5@l uk-grid-margin" uk-grid>
+            <!-- CARD 1 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <!-- ARTICLE PICTURE -->
+                    <a href="https://www.nn.media/magazine/101/530/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2012-101/2012-101-TZ52HHHG4OPRFG7V5WT4JZDVOAEUGNU7.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <!-- ARTICLE SUBCATEGORY -->
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <!-- ARTICLE TITLE -->
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/101/530/">Николай Гумилев — встречи в Париже в 1917–1918 годах</a> </h3>
+                    <!-- ARTICLE ANONCE -->
+                    <div class="uk-panel uk-margin-top">Историю альбома рассказал Ларионов, отвечая на запрос Струве относительно проставленной там даты «1916» и времени исполнения рисунков к стихам Гумилева.</div>
+                </article>
+            </div>
+            <!-- CARD 2 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/101/540/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2012-101/2012-101-NONBMWYKWO5QD2IKJYGOPYO1CRUAL3TJ.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/101/540/">Детские книги читать</a> </h3>
+                    <div class="uk-panel uk-margin-top">Очередная выставка иллюстрированных книг из необозримой коллекции Михаила Сеславинского была названа «Гирлянда из книг и картинок»и посвящена детскому чтению в дореволюционной России.</div>
+                </article>
+            </div>
+            <!-- CARD 3 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/104/452/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2012-104/2012-104-WJCFDSEKJHTY88FJLHOY7ZC0HUU1BLNA.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/104/452/">«Прощай, сказка моя!..»</a> </h3>
+                    <div class="uk-panel uk-margin-top">Выступление С.Городецкого на вечере памяти С.Есенина 4 января 1926 года в московском Государственном Камерном театре.</div>
+                </article>
+            </div>
+            <!-- CARD 4 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/104/459/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2012-104/2012-104-KEBXWTBI2GAZB6RDVCEBY4CDE5HYK4M1.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/104/459/">Русский плакат прекрасной эпохи</a> </h3>
+                    <div class="uk-panel uk-margin-top">«Не-актуальная реклама. Русский плакат начала ХХ века» — так называлась недавняя выставка в Государственной Третьяковской галерее.</div>
+                </article>
+            </div>
+            <!-- CARD 5 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/107/394/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2013-107/2013-107-XYMRTUXIBAFDJ0TBMJWRZ091BGSBHIOC.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/107/394/">«Ваше мнение мне очень дорого»</a> </h3>
+                    <div class="uk-panel uk-margin-top">В 1977 году, в дни столетия А.М.Ремизова, в одной из русских эмигрантских газет очень точно назвали его «мучительным и веселым народным писателем».</div>
+                </article>
+            </div>
+
+            <!-- CARD 6 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <!-- ARTICLE PICTURE -->
+                    <a href="https://www.nn.media/magazine/107/398/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2013-107/2013-107-ACUJ3HIRIWAKJCPDI2EQ5RDKO1GV7I4U.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <!-- ARTICLE SUBCATEGORY -->
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <!-- ARTICLE TITLE -->
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/107/398/">Бумаги царевича Алексея, или Ключ от «особого ящика»</a> </h3>
+                    <!-- ARTICLE ANONCE -->
+                    <div class="uk-panel uk-margin-top">Четырехсотлетняя история правившего Россией царского дома Романовых хранит несметное множество политических, династических, государственных, личных тайн.</div>
+                </article>
+            </div>
+            <!-- CARD 7 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/107/406/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2013-107/2013-107-1A6MBVJLRDES2GOKBSRMRSEIDNHFCS0D_main.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/107/406/">«Знаки зодиака» Эрте</a> </h3>
+                    <div class="uk-panel uk-margin-top">В 1915 году Эрте заключил контракт с американским журналом мод «Harper’s Bazaar». В последующие десятилетия он создал для журнала около 250 эскизов обложек.</div>
+                </article>
+            </div>
+            <!-- CARD 8 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/110/347/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2014-110/2014-110-T3RXYUNROCOJNHAD7ZXBMU7WAYVXVVUK.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/110/347/">Конструктивизм, уничтоженный на бегу</a> </h3>
+                    <div class="uk-panel uk-margin-top">Есть единственная короткая и яркая эпоха в мировом искусстве, когда наша страна была «впереди планеты всей», когда мы лидировали в изобразительном искусстве и архитектуре.</div>
+                </article>
+            </div>
+            <!-- CARD 9 -->
+            <div>
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/111/310/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2014-111/2014-111-L8LEPR7A8CW9K2V99693EBO15JOFBFTO.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/111/310/">Китайская шкатулка на Мясницкой</a> </h3>
+                    <div class="uk-panel uk-margin-top">Любимый несколькими поколениями москвичей магазин на Мясницкой обрел свой облик, сохраненный и поныне, в 1896 году.</div>
+                </article>
+            </div>
+            <!-- CARD 10 -->
+            <div class="uk-visible@l">
+                <article class="uk-panel uk-margin-remove-first-child uk-margin">
+                    <a href="https://www.nn.media/magazine/113/291/">
+                        <picture>
+                            <img src="https://www.nn.media/images/objects/2015-113/2015-113-ZQROFHAT9ZXCWVQBW0LKEMSUPMDYORFT_main.jpg" class="tm-objectfit-cover" style="aspect-ratio:610/380" alt loading="lazy">
+                        </picture>
+                    </a>
+                    <div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архив</div>
+                    <h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom"> <a href="https://www.nn.media/magazine/113/291/">Мир искусства Зинаиды Серебряковой</a> </h3>
+                    <div class="uk-panel uk-margin-top">В инувшем году в Третьяковской галерее прошла выставка «Зинаида Серебрякова. Парижский период. Александр и Екатерина Серебряковы».</div>
+                </article>
+            </div>
+        </div>
+        <!-- SECOND LINE END -->
+
+    </div>
+</div>
+<!-- 5 CARDS SUBSECTION END -->
+												<!-- SECTION SUBCATEGORY (1 x 4) * n -->
+												<div class="uk-section-default uk-section">
+													<div class="uk-container uk-container-xlarge">
+														<!-- SEPARATOR -->
+														<div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+															<div class="uk-width-1-1@m">
+																<hr>
+															</div>
+														</div>
+														<!-- SEPARATOR END -->
+														<div class="uk-grid tm-grid-expand uk-margin-large" uk-grid>
+															<!-- SECTION TITLE -->
+															<div class="uk-width-1-5@m">
+																<div class="uk-divider-small"></div>
+																<h2 class="uk-h6 uk-margin-small">В свежем номере</h2>
+															</div>
+															<!-- SECTION TITLE END -->
+															<div class="uk-width-4-5@m">
+																<div class="uk-margin">
+																	<div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-4@l uk-grid-column-small uk-grid-divider uk-grid-match" uk-grid>
+				
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/597/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-ernst-content.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/597/">Сохраняя традиции — вперед в будущее!</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Дорогие читатели первого номера возрожденного журнала «Наше наследие»! Начиная еще с пушкинской эпохи, журналы в России были самыми эффективными «агентами времени». «Современник», «Мир искусства», «Золотое руно», «Весы», «Аполлон» и множество других сохраняли традицию, отражали настоящее и формировали будущее русского ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/662/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-983260.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/662/">Владимир Енишерлов: «Эпоха возвращения»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Перед Вами, дорогой читатель, журнал «Наше наследие»,  который выходит после пятилетнего перерыва.   В 2019 году, подготовив 130-й номер, мы вынуждены были  прекратить выпуск журнала ввиду финансовых проблем — их редакция не смогла  преодолеть своими силами. Теперь новые издатели и новая редакционная команда  решили возродить журнал, который ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/663/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-559205.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/663/">Сергей Бурмистров: «Это не только об искусстве…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Дорогие друзья! Вы держите в руках первый, он же 131-й, номер журнала «Наше  наследие». Дебют журнала состоялся в августе 1988 года, он продолжал выходить  на протяжении 30 лет, пережив Советский Союз, перестройку и гласность, времена  кризисов и безвременья. Последний номер журнала, 130-й, вышел в 2019 году.  «Наше наследие» был одним из самых ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/640/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/01_content-nn-393313.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Редкие книги</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/640/">Житие славного Эзопа и его басни</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Одним из древнейших литературных жанров по праву считались  басни. Переходя из века в век, фабулы (так называли их греки) продолжали  оставаться актуальными благодаря своей иносказательности. Да и творцы  знаменитых басен вызывали интерес у читателя. Поэтому, наряду с баснями,  создавались и распространялись жизнеописания их авторов.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/652/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-373820.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Камнерезное дело</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/652/">«Я считаю это высшим искусством...»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">История объемной мозаики началась задолго до знаменитых фигурок Фаберже. Самым ранним примером такой мозаики, выполненной во Флоренции, можно считать созданный в конце XVI века «Миниатюрный алтарь». Он был украшен мозаичным пейзажем и объемными фигурами Христа и самаритянки, набранными из разно цветной яшмы, агата, аметиста.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/608/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/uchaykina_content_index.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Обращение к читателям</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/608/">Свердловская область. Чтим прошлое, созидаем будущее</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Исторически Свердловская область является одним из самых многонациональных регионов России. Бережно храня многообразие самобытных культур, обычаев и традиций, мы создаем связь между прошлым и будущим, задаем ориентиры на десятилетия вперед. На сегодняшний день на Среднем Урале насчитывается более 2800 учреждений культуры. Регион ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/653/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-159325.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Антиквариат</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/653/">«Продолжать бизнес, основанный на коллекционерском  авторитете отца, было непросто…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Любой коллекционер, приезжая в новый город, первым делом  ищет адреса интересных антикварных магазинов и галерей. В Екатеринбурге, как в  любом большом городе, таких адресов достаточно много. Но в центре города есть  два самых больших антикварных магазина, принадлежащих династии екатеринбургских  антикваров Алексиных.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/634/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/01_content-nn-154759.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Национальная гастрономия</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/634/">«У нас в России гастрономическая традиция крайне молода...»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Журнал «Наше наследие» встретился с самым известным  кулинарным критиком Урала Яковом Можаевым. Разговор зашел, конечно же, о  кулинарных традициях Урала и о том, как они преобразовались в современную  национальную кухню. Мы сидели в одном из ресторанов Екатеринбурга, и первый  вопрос, который меня сильно интересовал, был вот о чем: ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/616/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/01-nn-435205.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частный музей</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/616/">Музейный комплекс г. Верхняя Пышма</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Музейный комплекс в городе Верхняя Пышма, неподалеку от Екатеринбурга, один из самых больших в мире музеев гражданской и военной техники. Впечатляет не только масштаб, но и состав коллекции: самый большой в мире самосвал, космический корабль, стратегический бомбардировщик, подводные лодки, роскошные ретроавтомобили и многое другое....</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/606/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-loginov-content.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">История фотографии</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/606/">Ноэль Леребур: Акватинты с первых дагеротипов Москвы</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Всего спустя два года после изобретения первой фотографической технологии — дагеротипии — француз Ноэль Паймаль Леребур предложил публике первые в истории репродукции фотографических видов, снятых в различных городах мира. Внешне эти виды очень напоминали живописные, однако у них было одно важное отличие: их предельная ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/641/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-307570.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Наука</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/641/">«Его знание самое полное...»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Исполнилось 190 лет Дмитрию Ивановичу Менделееву (1834–1907) — замечательному российскому химику, энциклопедисту, педагогу и общественному деятелю.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/617/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/01_content-nn-382271.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Архитектура</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/617/">Еконструктивизм</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Одной из главных достопримечательностей и, возможно, даже  чертой характера Екатеринбурга является его ярко выраженный конструктивизм.  Искать здания в этом стиле в городе не нужно, они сами бросаются в глаза и  всегда выходят на первый план. О том, что такое конструктивизм в Екатеринбурге,  и какую роль он играет для города, мы ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/646/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-249127.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частный музей</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/646/">Павел Неганов & Музей Андеграунда</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Журнал «Наше наследие» встретился с владельцем Музея  Андеграунда Павлом Негановым, чтобы поговорить о его собрании художественного  андеграунда, которое со временем переросло в большой музей в центре  Екатеринбурга.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/542/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-01-001.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Эксклюзивное интервью</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/542/">Мы сотрудничаем со всеми странами, которым интересна русская культура</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Министр культуры Российской Федерации Ольга Любимова — о вызовах и поводах для гордости, культурной жизни регионов России, музеях как центрах притяжения, думающей молодежи, будущем библиотек и о многом другом — в эксклюзивном интервью с главным редактором журнала «Наше Наследие».</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/575/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/SHustova-01.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частное собрание</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/575/">Образцовое книгохранилище 
+русского библиофила</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Книжное собрание Александра Юрьевича Смузикова  представляет одну из богатейших частных коллекций редких изданий в России. В  состав библиотеки входит обширный отдел ценнейших книг кириллической печати  XV–XVII веков, редчайшие петровские издания, иллюстрированные книги второй  четверти – конца XVIII века, славянские церковные и гражданские ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/589/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-kushnir-main.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Частная коллекция</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/589/">Kоллекционер советского рок-андеграунда</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Последние несколько лет на российских аукционах все чаще и  чаще появляются артефакты, связанные с историей советского музыкального  андеграунда и русского рока. Некоторые из них бьют ценовые рекорды,  сопоставимые с продажами музыкальных меморабилий мировых рок-звезд на ведущих  аукционных площадках мира.</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/649/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-731497.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Национальная гастрономия</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/649/">«Это действительно рискованное предприятие — заниматься локальной кухней...»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">В поисках шедевров уральской традиционной кухни мы попали  на 24-й этаж большого бизнес-центра в Екатеринбурге. Здесь располагается  культовый для многих гурманов Дом уральской кухни Kitchen во главе с  бренд-шефом Сергеем Мирошниковым (или Мироном, как называют его друзья  ресторана). Дом уральской кухни входит в топ-10 лучших ресторанов Урала по  ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/565/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-135376.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Политическая философия</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/565/">В поиске самодовления России</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Савицкий пламенно выступал за экономическое, политическое, культурное самодовление России, то есть за самостоятельность ее пути, за отсутствие западопоклонства (оно им отметалось так же, как и азиатопоклонство, к примеру — китаепоклонство, иранопоклонство и т. д.).</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/651/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/00_content-nn-516801.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Центр культуры и искусства</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/651/">«Наша задача — быть интересными самой широкой аудитории…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">«Синара Центр» — один из самых ярких проектов культурно  исторического редевелопмента Екатеринбурга за последние годы. Сегодня это центр  притяжения общественной и выставочной жизни города. Журнал «Наше наследие»  встретился с Генеральным директором «Синара Центра» Ириной Доминой и  арт-директором Галереи Синара Арт Юлией ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/598/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-semenov-main.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Современные художники</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/598/">«Иллюзии – это всё, что у нас есть…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Открывая дискуссию о современном искусстве, его прошлом,  настоящем и будущем, я оказался в уютной квартире-мастерской художника Евгения  Семенова, куда всегда прихожу с большим удовольствием. За постмодернистскими  разговорами на грани фола об искусстве и его цене здесь время всегда летит  незаметно…</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/609/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025-1/2025-1-koritin_content.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Музей</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/609/">«Мы не можем привезти выставку с Луны, это очень дорого…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Журнал «Наше наследие» побывал в гостях у директора Екатеринбургского музея изобразительных искусств Никиты Николаевича Корытина. Мы поговорили о скрытых от глаз посетителей музейных фондах, о работе ключевых подразделений и служб музея, о том, каким образом пополняется музейное собрание, как хранят и реставрируют произведения ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/626/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/01_content-nn-890621.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Искусство и культура в регионах</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/626/">Горенбург + Екатеринбург</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">С Евгением Горенбургом мы познакомились ровно год назад. Я  бы охарактеризовал его как главную движущую творческую силу города  Екатеринбурга, человека множества ипостасей: продюсер, организатор фестивалей и  мероприятий, музыкант, сценарист и даже президент спортивного клуба по хоккею  на траве «Динамо-Екатеринбург».</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		<div >
+																			<!-- CARD -->
+																			<article class="uk-panel uk-margin-remove-first-child">
+																				<!-- ARTICLE PICTURE -->
+																				
+							<a href="https://www.nn.media/magazine/1-131/583/">																					
+								<!-- universal layout - any pictures possible -->
+								<picture>
+									<img src="https://www.nn.media/images/objects/2025/1-131/2025-1-04-016-nn-116128.jpg" class="tm-objectfit-cover" style="aspect-ratio:340/230" loading="lazy">
+								</picture>
+							</a>
+						
+																				<!-- ARTICLE SUBCATEGORY -->
+																				<div class="uk-h6 uk-text-primary uk-margin-top uk-margin-remove-bottom">Мировое искусство</div>
+																				<!--ARTICLE TITLE -->
+																				<h3 class="uk-link-heading uk-margin-small-top uk-margin-remove-bottom uk-text-clamp-2"><a href="https://www.nn.media/magazine/1-131/583/">Лоренцо Куинн: «Делайте всё по-другому…»</a></h3>
+																				<!-- ARTICLE ANONCE -->
+																				<div class="uk-panel uk-margin-small-top uk-text-clamp-5">Лоренцо Куинн — знаменитый скульптор с мировым именем, сын голливудской кинозвезды Энтони Куинна, любимый скульптор Ватикана, создатель одной из самых знаменитых, на мой взгляд, монументальных скульптур «Поддержка», поразившей всех на Венецианской биеннале 2017, человек, пытающийся объединить всех во времена всеобщего разъединения и упадка ...</div>
+																			</article >
+																			<!-- CARD END -->
+																		</div>
+					
+
+																		
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<!-- SECTION SUBCATEGORY (1 x 4) END -->
+				
+					<!-- SECTION SHOPS LOGOTYPES CLOUD SLIDER -->
+					<div class="uk-section-default uk-section uk-padding-remove-top">
+						<div class="uk-container uk-container-xlarge">
+							<div class="uk-grid tm-grid-expand uk-grid-column-small uk-grid-divider uk-grid-margin" uk-grid>
+								<!-- SECTION TITLE -->
+								<div class="uk-width-1-5@m">
+									<div class="uk-divider-small uk-margin-large uk-margin-remove-bottom"></div>
+									<h2 class="uk-h6 uk-margin"> Купить журнал </h2>
+								</div>
+								<!-- SECTION TITLE END -->
+								<div class="uk-width-4-5@m">
+		
+									<!-- SHOPS LOGOTYPES SLIDER -->
+									<div class="uk-slider-container tm-shops-places-slider" tabindex="-1" uk-slider="finite: false; center: false;">
+										<div class="uk-position-relative">
+											<div class="uk-slider-items">
+				
+
+												<div class="tm-logo-black"><a href="https://www.litfund.ru/news/16089/" target="_blank"><img src="https://www.nn.media/images/icons/litfund_v2.png" alt="Литфонд"></a></div>
+					
+
+												<div><a href="https://www.nn.media/go/ozon/" target="_blank"><img src="https://www.nn.media/images/icons/ozon-logo-blue.webp" alt="Озон"></a></div>
+					
+
+												<div class="tm-logo-black"><a href="https://www.nn.media/go/avito/" target="_blank"><img src="https://www.nn.media/images/icons/avito_v1.svg" alt="Авито"></a></div>
+					
+
+												<div><a href="https://www.nn.media/go/wildberries/" target="_blank"><img src="https://www.nn.media/images/icons/wb_v1.png" alt="Wildberries"></a></div>
+					
+
+												<div class="tm-logo-black"><a href="https://www.nn.media/go/moscowbooks/" target="_blank"><img src="https://www.nn.media/images/icons/moscowbooks.png" alt="ТДК Москва"></a></div>
+					
+
+												<div class="tm-logo-black"><a href="https://www.nn.media/go/beton/" target="_blank"><img src="https://www.nn.media/images/icons/beton-shop_v2.png" alt="Beton Shop"></a></div>
+					
+
+												<div class="tm-logo-black"><a href="https://www.nn.media/go/sneg/" target="_blank"><img src="https://www.nn.media/images/icons/sheg-logo_v1.png" alt="Издательство «СНЕГ»"></a></div>
+					
+	
+											</div>
+											<!-- SLIDER NAV -->
+											<!-- <div class="uk-visible@s uk-hidden-hover uk-hidden-touch"> -->
+												<!-- <a class="uk-position-small uk-position-center-left" href="#" uk-slidenav-previous uk-slider-item="previous"></a> -->
+												<!-- <a class="uk-position-small uk-position-center-right" href="#" uk-slidenav-next uk-slider-item="next"></a> -->
+											<!-- </div> -->
+											<!-- SLIDER NAV END -->									
+										</div>
+									</div>
+									<!-- SHOPS LOGOTYPES SLIDER -->
+								
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- SECTION SHOPS LOGOTYPES CLOUD SLIDER END -->			
+				        </main>
+        <!-- MAIN END -->
+		
+	    <!-- FOOTER -->
+		<footer>
+            <!-- FOOTER TOP SECTION -->
+            <div class="uk-section-secondary uk-section uk-section-small uk-padding-remove-bottom">
+                <div class="uk-container uk-container-xlarge">
+                    <div class="uk-grid tm-grid-expand uk-grid-margin" uk-grid>
+						<!-- LOGO -->
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-1@s uk-width-1-3@m uk-width-1-2@l uk-width-3-5@xl">
+                            <div class="uk-panel uk-width-1-1">
+                                <div class="uk-margin uk-text-center" uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <a href="https://www.nn.media/" class="uk-logo">
+										<img src="https://www.nn.media/___i/images/logo.png" width="170" height="28" alt loading="lazy">
+									</a>
+                                </div>
+                            </div>
+                        </div>
+						<!-- LOGO END -->
+						 <!-- SUBSCRIBE FORM -->
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-2@s uk-width-1-3@m uk-width-1-4@l uk-width-1-5@xl uk-flex-first@m">                         
+							<div class="uk-panel uk-width-1-1">
+                                <!--
+                                <div class="uk-margin-remove-vertical uk-text-left uk-visible@s">
+                                    <form class="uk-form uk-panel js-form-newsletter" method="post" action="">
+                                        <div class="uk-grid-small uk-child-width-expand@s" uk-grid>
+                                            <div><input class="uk-input" type="email" name="email" placeholder="Email address" aria-label="Email address" required></div>
+                                            <div class="uk-width-auto@s"><button class="uk-button uk-button-primary" type="submit">Sign Up</button></div>
+                                        </div>
+                                        <input type="hidden" name="settings" value="eyJuYW1lIjoibWFpbGNoaW1wIiwiYWZ0ZXJfc3VibWl0IjoibWVzc2FnZSIsIm1lc3NhZ2UiOiJZb3UndmUgYmVlbiBzdWJzY3JpYmVkIHN1Y2Nlc3NmdWxseS4iLCJyZWRpcmVjdCI6IiIsImNsaWVudF9pZCI6IiIsImxpc3RfaWQiOiIiLCJkb3VibGVfb3B0aW4iOnRydWV9">
+                                        <div class="message uk-margin uk-hidden"></div>
+                                    </form>
+                                </div>
+                                -->
+                                <div class="uk-margin-remove-vertical uk-text-left uk-visible@s">
+                                    <div style="color: white;">
+                                        Издаётся с 1988 года<!-- INSERT CURRENT DATE BY SCRIPT -->
+                                    </div>
+                                </div>
+                                <!--
+                                <div class="uk-margin uk-text-center uk-hidden@s">
+                                    <form class="uk-form uk-panel js-form-newsletter" method="post" action="">
+                                        <div class="uk-position-relative">
+                                            <button class="uk-form-icon uk-form-icon-flip" uk-icon="icon: mail;" type="submit" title="Subscribe"></button> <input class="uk-input" type="email" name="email" placeholder="Email address"
+                                                aria-label="Email address" required> </div>
+                                        <input type="hidden" name="settings" value="eyJuYW1lIjoibWFpbGNoaW1wIiwiYWZ0ZXJfc3VibWl0IjoibWVzc2FnZSIsIm1lc3NhZ2UiOiJZb3UndmUgYmVlbiBzdWJzY3JpYmVkIHN1Y2Nlc3NmdWxseS4iLCJyZWRpcmVjdCI6IiIsImNsaWVudF9pZCI6IiIsImxpc3RfaWQiOiIiLCJkb3VibGVfb3B0aW4iOnRydWV9">
+                                        <div class="message uk-margin uk-hidden"></div>
+                                    </form>
+                                </div>
+                                -->
+                            </div>							
+					    </div>
+						<!-- SUBSCRIBE FORM END -->
+						<!-- SOCIAL LINKS -->
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-1-2@s uk-width-1-3@m uk-width-1-4@l uk-width-1-5@xl">
+                            <div class="uk-panel uk-width-1-1">
+                                <div class="uk-margin uk-text-right@s uk-text-center" uk-scrollspy="target: [uk-scrollspy-class];">
+                                    <ul class="uk-child-width-auto uk-grid-small uk-flex-inline uk-flex-middle" uk-grid>
+                                        <li>
+                                            <a href="https://www.nn.media/go/rutube/" rel="noreferrer" target="_blank"><span uk-icon="icon: rutube;"></span></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nn.media/go/vk/" rel="noreferrer" target="_blank"><span uk-icon="icon: vk;"></span></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.nn.media/go/telegram/" rel="noreferrer" target="_blank"><span uk-icon="icon: telegram;"></span></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+						<!-- SOCIAL LINKS END -->
+					</div>
+					<!-- SEPARATOR -->
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-margin-medium">
+                        <div class="uk-width-1-1">
+                            <hr>
+                        </div>
+                    </div>
+					<!-- SEPARATOR END -->
+                </div>
+            </div>
+			<!-- FOOTER TOP SECTION END -->
+
+			<!-- FOOTER BOTTOM SECTION -->
+            <div class="uk-section-secondary uk-section uk-section-small uk-padding-remove-top">
+                <div class="uk-container uk-container-xlarge">
+                    <div class="uk-grid tm-grid-expand uk-child-width-1-1 uk-grid-margin">
+                        <div class="uk-width-1-1">
+                            <hr>
+                        </div>
+                    </div>
+                    <div class="uk-grid tm-grid-expand uk-margin-medium" uk-grid>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-expand@m">
+                            <div class="uk-panel uk-width-1-1">
+                                <div class="uk-panel uk-text-small uk-text-muted uk-margin uk-text-left@m uk-text-center">
+									© 1988–2025 «Наше наследие»
+
+								</div>
+                            </div>
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-auto@m">
+                            <div class="uk-panel uk-width-1-1">
+                                <div class="uk-panel uk-text-small uk-text-muted uk-margin uk-text-center">
+                                    <a class="uk-link-muted" href="https://www.nn.media/magazine/1-131/">Свежий номер</a>&emsp;|&emsp;
+                                    <a class="uk-link-muted" href="https://www.nn.media/magazine/">Все номера</a>&emsp;|&emsp;
+                                    <a class="uk-link-muted" href="https://www.nn.media/magazine/editorial-board/">Редсовет</a>&emsp;|&emsp;
+                                    <a class="uk-link-muted" href="https://www.nn.media/magazine/mediakit/">Медиакит</a>&emsp;|&emsp;
+                                    <a class="uk-link-muted" href="https://www.nn.media/magazine/distribution/">Где&nbsp;купить</a>&emsp;|&emsp;
+                                    <a class="uk-link-muted" href="https://www.nn.media/contacts/">Контакты</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="uk-grid-item-match uk-flex-middle uk-width-expand@m">
+                            <div class="uk-panel uk-width-1-1">
+                                <div class="uk-margin uk-text-right@m uk-text-center">
+                                    <div class="uk-child-width-expand@m uk-grid-collapse uk-flex-inline uk-flex-middle" uk-grid>
+                                        <div class="uk-width-auto@m">
+                                            <a href="#" uk-totop uk-scroll></a> 
+										</div>
+                                        <div class="uk-flex-first@m uk-width-auto@m">
+                                            <div class="uk-text-meta">Наверх</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<!-- FOOTER BOTTOM SECTION END -->
+		</footer>
+		<!-- FOOTER END -->
+	</div>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(99686314, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/99686314" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

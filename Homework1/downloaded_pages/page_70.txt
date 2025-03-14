@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="ru"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta name="Description" content="Доставка обязательного экземпляра аудиовизуальной продукции осуществляется в филиал ВГТРК Гостелерадиофонд согласно порядку, установленному Федеральным законом от 29 декабря 1994 года № 77-ФЗ «Об обязательном экземпляре документов»" />
+    <meta name="Keywords" content="обязательный экземпляр документов, аудиовизуальная продукция, ВГТРК, филиал, Гостелерадиофонд, доставка, сроки, прием, электронные носители, ОЭД" />
+    <title>Филиал ВГТРК Гостелерадиофонд</title>    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+<meta name="viewport" content="width=device-width, initial-scale=0.55, maximum-scale=1.0" >    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/lib/bootstrap/dist/css/bootstrap-theme.min.css" media="screen" rel="stylesheet" type="text/css" >
+<link href="/css/main.css?v=25.11.2022.1" media="screen" rel="stylesheet" type="text/css" >    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="/js/html5shiv.min.js"></script>
+    <script src="/js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body data-version="25.11.2022.1" data-env="production">
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <header class="header">
+        <div class="header__upper">
+            <div class="upper__container">
+                <div class="upper-left"><span class="left-coil"></span><span class="left-text">Государственный фонд телевизионных и радиопрограмм (ФГУП ВГТРК)</span></div>
+                <div class="upper__social-icons">
+                    <div class="social-icon">
+                        <ul class="social-icon__list">
+<!--                            <li class="social-icon__item"><a class="social-icon__link apple" target="_blank" href="https://itunes.apple.com/ru/app/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-xx-%D0%B2%D0%B5%D0%BA/id1336486169?mt=8">-->
+<!--                                <svg>-->
+<!--                                    <use xlink:href="/img/sprite.svg#apple"></use>-->
+<!--                                </svg></a></li>-->
+<!--                            <li class="social-icon__item"><a class="social-icon__link android" target="_blank" href="https://play.google.com/store/apps/details?id=ru.gtrf">-->
+<!--                                <svg>-->
+<!--                                    <use xlink:href="/img/sprite.svg#android"></use>-->
+<!--                                </svg></a></li>-->
+<!--                            <li class="social-icon__item"><a class="social-icon__link fb" target="_blank" href="https://www.facebook.com/gosteleradiofond">-->
+<!--                                <svg>-->
+<!--                                    <use xlink:href="/img/sprite.svg#fb"></use>-->
+<!--                                </svg></a></li>-->
+                            <li class="social-icon__item"><a class="social-icon__link vk" target="_blank" href="https://vk.com/teleradiofond">
+                                <svg>
+                                    <use xlink:href="/img/sprite.svg#vk"></use>
+                                </svg></a></li>
+                            <li class="social-icon__item"><a class="social-icon__link ok" target="_blank" href="https://ok.ru/gosteleradiofond">
+                                <svg>
+                                    <use xlink:href="/img/sprite.svg#ok"></use>
+                                </svg></a></li>
+                            <li class="social-icon__item"><a class="social-icon__link youtube" target="_blank" href="https://www.youtube.com/channel/UC7FDlGcSUqeSZHh1LRMM1OQ">
+                                <svg>
+                                    <use xlink:href="/img/sprite.svg#youtube"></use>
+                                </svg></a></li>
+                            <li class="social-icon__item"><a class="social-icon__link apple" target="_blank" href="https://dzen.ru/fond">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28">
+                                        <path fill="#2C3036" d="M16.7 16.7c-2.2 2.27-2.36 5.1-2.55 11.3 5.78 0 9.77-.02 11.83-2.02 2-2.06 2.02-6.24 2.02-11.83-6.2.2-9.03.35-11.3 2.55M0 14.15c0 5.59.02 9.77 2.02 11.83 2.06 2 6.05 2.02 11.83 2.02-.2-6.2-.35-9.03-2.55-11.3-2.27-2.2-5.1-2.36-11.3-2.55M13.85 0C8.08 0 4.08.02 2.02 2.02.02 4.08 0 8.26 0 13.85c6.2-.2 9.03-.35 11.3-2.55 2.2-2.27 2.36-5.1 2.55-11.3m2.85 11.3C14.5 9.03 14.34 6.2 14.15 0c5.78 0 9.77.02 11.83 2.02 2 2.06 2.02 6.24 2.02 11.83-6.2-.2-9.03-.35-11.3-2.55">
+                                        </path>
+                                        <path fill="#fff" d="M28 14.15v-.3c-6.2-.2-9.03-.35-11.3-2.55-2.2-2.27-2.36-5.1-2.55-11.3h-.3c-.2 6.2-.35 9.03-2.55 11.3-2.27 2.2-5.1 2.36-11.3 2.55v.3c6.2.2 9.03.35 11.3 2.55 2.2 2.27 2.36 5.1 2.55 11.3h.3c.2-6.2.35-9.03 2.55-11.3 2.27-2.2 5.1-2.36 11.3-2.55">
+                                        </path>
+                                    </svg></a></li>
+                            <li class="social-icon__item"><a class="social-icon__link youtube" target="_blank" href="https://t.me/gosteleradiofond">
+                                    <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+                                        <g>
+                                            <path d="M128,0 C57.307,0 0,57.307 0,128 L0,128 C0,198.693 57.307,256 128,256 L128,256 C198.693,256 256,198.693 256,128 L256,128 C256,57.307 198.693,0 128,0 L128,0 Z" fill="#40B3E0"></path>
+                                            <path d="M190.2826,73.6308 L167.4206,188.8978 C167.4206,188.8978 164.2236,196.8918 155.4306,193.0548 L102.6726,152.6068 L83.4886,143.3348 L51.1946,132.4628 C51.1946,132.4628 46.2386,130.7048 45.7586,126.8678 C45.2796,123.0308 51.3546,120.9528 51.3546,120.9528 L179.7306,70.5928 C179.7306,70.5928 190.2826,65.9568 190.2826,73.6308" fill="#FFFFFF"></path>
+                                            <path d="M98.6178,187.6035 C98.6178,187.6035 97.0778,187.4595 95.1588,181.3835 C93.2408,175.3085 83.4888,143.3345 83.4888,143.3345 L161.0258,94.0945 C161.0258,94.0945 165.5028,91.3765 165.3428,94.0945 C165.3428,94.0945 166.1418,94.5735 163.7438,96.8115 C161.3458,99.0505 102.8328,151.6475 102.8328,151.6475" fill="#D2E5F1"></path>
+                                            <path d="M122.9015,168.1154 L102.0335,187.1414 C102.0335,187.1414 100.4025,188.3794 98.6175,187.6034 L102.6135,152.2624" fill="#B5CFE4"></path>
+                                        </g>
+                                    </svg></a></li>
+<!--                            <li class="social-icon__item"><a class="social-icon__link instagram" target="_blank" href="https://instagram.com/gosteleradiofond">-->
+<!--                                    <svg enable-background="new 0 0 24 24" height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="instagram" gradientTransform="matrix(0 -1.982 -1.844 0 -132.522 -51.077)" gradientUnits="userSpaceOnUse" x1="-37.106" x2="-26.555" y1="-72.705" y2="-84.047"><stop offset="0" stop-color="#fd5"/><stop offset=".5" stop-color="#ff543e"/><stop offset="1" stop-color="#c837ab"/></linearGradient><path d="m1.5 1.633c-1.886 1.959-1.5 4.04-1.5 10.362 0 5.25-.916 10.513 3.878 11.752 1.497.385 14.761.385 16.256-.002 1.996-.515 3.62-2.134 3.842-4.957.031-.394.031-13.185-.001-13.587-.236-3.007-2.087-4.74-4.526-5.091-.559-.081-.671-.105-3.539-.11-10.173.005-12.403-.448-14.41 1.633z" fill="url(#instagram)"/><path d="m11.998 3.139c-3.631 0-7.079-.323-8.396 3.057-.544 1.396-.465 3.209-.465 5.805 0 2.278-.073 4.419.465 5.804 1.314 3.382 4.79 3.058 8.394 3.058 3.477 0 7.062.362 8.395-3.058.545-1.41.465-3.196.465-5.804 0-3.462.191-5.697-1.488-7.375-1.7-1.7-3.999-1.487-7.374-1.487zm-.794 1.597c7.574-.012 8.538-.854 8.006 10.843-.189 4.137-3.339 3.683-7.211 3.683-7.06 0-7.263-.202-7.263-7.265 0-7.145.56-7.257 6.468-7.263zm5.524 1.471c-.587 0-1.063.476-1.063 1.063s.476 1.063 1.063 1.063 1.063-.476 1.063-1.063-.476-1.063-1.063-1.063zm-4.73 1.243c-2.513 0-4.55 2.038-4.55 4.551s2.037 4.55 4.55 4.55 4.549-2.037 4.549-4.55-2.036-4.551-4.549-4.551zm0 1.597c3.905 0 3.91 5.908 0 5.908-3.904 0-3.91-5.908 0-5.908z" fill="#fff"/></svg>-->
+<!--                                </a></li>-->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__center">
+            <div class="center__container">
+                <a href="/grants/index" class="grants-link">
+                    <span>Информация для организаций-получателей гос. поддержки (субсидий) в области ЭСМИ</span>
+                </a>
+            </div>
+        </div>
+        <div class="header__mobile-upper">
+            <div class="header__mobile-container">
+                <div class="upper__hamburger">
+                    <label class="nav-toggle item-hamburger">
+                        <svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" id="hamburger" width="100%" height="100%"><path fill-rule="evenodd" d="M0 7.5v5h50v-5zm0 15v5h50v-5zm0 15v5h50v-5z"></path></svg>
+                        </svg>
+                    </label>
+                </div>
+<!--                <div class="upper-mobile"><a class="logo-text" href="/"><img class="logo_pic" src="/img/logo_mobile.png"></a><span class="mobile-text">Гостелерадиофонд</span></div>-->
+                <div class="upper-mobile"><a class="logo-text" href="/">
+                    <svg>
+                        <defs>
+                            <linearGradient id="MyGradient" gradientUnits="userSpaceOnUse" x1="78.667" y1="162.8549" x2="78.667" y2="1.6759" gradientTransform="matrix(1 0 0 -1 0 162.8549)">
+                                <stop  offset="0" style="stop-color:#447CBF"/>
+                                <stop  offset="0.1859" style="stop-color:#3F6EAF"/>
+                                <stop  offset="0.5606" style="stop-color:#345092"/>
+                                <stop  offset="1" style="stop-color:#282972"/>
+                            </linearGradient>
+                        </defs>
+                        <use xlink:href="/img/sprite.svg#logo"></use>
+                    </svg></a><span class="mobile-text">Гостелерадиофонд</span>
+                </div>
+            </div>
+        </div>
+        <div class="header__lower">
+            <div class="header__logo"><a class="logo" href="/" id="logo"><img class="logo_pic" src="/img/logo.png"></a></div>
+            <nav class="header__menu">
+                <ul class="menu-list">
+                    <li class="menu-item"><a class="menu-link" href="/law/index" title="Закон">Закон</a></li>
+                    <li class="menu-item"><a class="menu-link" href="/faq/index" title="Вопросы и ответы">Вопросы и ответы</a></li>
+                    <li class="menu-item"><a class="menu-link" href="/contacts/index" title="Контакты">Контакты</a></li>
+                </ul>
+            </nav>
+            <div class="header__btn-fond"><a class="btn-fond" href="/sales/index" id="btn-sales-header"><span>Предоставление фондовых материалов</span></a></div>
+        </div>
+    </header>
+
+    <nav class="nav__menu-hover active">
+        <ul class="nav__menu-list">
+            <li class="nav__menu-item"><a class="menu__item-link" href="/law/index">
+                    <div class="menu__item-text">Закон</div></a></li>
+            <li class="nav__menu-item"><a class="menu__item-link" href="/faq/index">
+                    <div class="menu__item-text">Вопросы и ответы</div></a></li>
+            <li class="nav__menu-item"><a class="menu__item-link" href="/contacts/index">
+                    <div class="menu__item-text">Контакты</div></a></li>
+        </ul>
+        <div class="nav__btn-fond"><a class="btn-fond" href="/sales/index"><span>Предоставление фондовых материалов</span></a></div>
+        <div class="nav__title-mobile">Наши приложения</div>
+        <div class="social-icon">
+            <div class="icon-menu">
+                <ul class="social-icon__list">
+                    <li class="social-icon__item"><a class="social-icon__link apple" target="_blank" href="https://itunes.apple.com/ru/app/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-xx-%D0%B2%D0%B5%D0%BA/id1336486169?mt=8">
+                        <svg>
+                            <use xlink:href="/img/sprite.svg#apple"></use>
+                        </svg></a></li>
+                    <li class="social-icon__item"><a class="social-icon__link android" target="_blank" href="https://play.google.com/store/apps/details?id=ru.gtrf">
+                        <svg>
+                            <use xlink:href="/img/sprite.svg#android"></use>
+                        </svg></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="nav__title-mobile">Мы в соцсетях</div>
+        <div class="social-icon">
+            <div class="icon-menu">
+                <ul class="social-icon__list">
+<!--                    <li class="social-icon__item"><a class="social-icon__link fb" target="_blank" href="https://www.facebook.com/gosteleradiofond">-->
+<!--                            <svg>-->
+<!--                                <use xlink:href="/img/sprite.svg#fb"></use>-->
+<!--                            </svg></a></li>-->
+                    <li class="social-icon__item"><a class="social-icon__link vk" target="_blank" href="https://vk.com/teleradiofond">
+                            <svg>
+                                <use xlink:href="/img/sprite.svg#vk"></use>
+                            </svg></a></li>
+                    <li class="social-icon__item"><a class="social-icon__link ok" target="_blank" href="https://ok.ru/gosteleradiofond">
+                            <svg>
+                                <use xlink:href="/img/sprite.svg#ok"></use>
+                            </svg></a></li>
+                    <li class="social-icon__item"><a class="social-icon__link youtube" target="_blank" href="https://www.youtube.com/channel/UC7FDlGcSUqeSZHh1LRMM1OQ">
+                            <svg>
+                                <use xlink:href="/img/sprite.svg#youtube"></use>
+                            </svg></a></li>
+                    <li class="social-icon__item"><a class="social-icon__link apple" target="_blank" href="https://dzen.ru/fond">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28">
+                                <path fill="#2C3036" d="M16.7 16.7c-2.2 2.27-2.36 5.1-2.55 11.3 5.78 0 9.77-.02 11.83-2.02 2-2.06 2.02-6.24 2.02-11.83-6.2.2-9.03.35-11.3 2.55M0 14.15c0 5.59.02 9.77 2.02 11.83 2.06 2 6.05 2.02 11.83 2.02-.2-6.2-.35-9.03-2.55-11.3-2.27-2.2-5.1-2.36-11.3-2.55M13.85 0C8.08 0 4.08.02 2.02 2.02.02 4.08 0 8.26 0 13.85c6.2-.2 9.03-.35 11.3-2.55 2.2-2.27 2.36-5.1 2.55-11.3m2.85 11.3C14.5 9.03 14.34 6.2 14.15 0c5.78 0 9.77.02 11.83 2.02 2 2.06 2.02 6.24 2.02 11.83-6.2-.2-9.03-.35-11.3-2.55">
+                                </path>
+                                <path fill="#fff" d="M28 14.15v-.3c-6.2-.2-9.03-.35-11.3-2.55-2.2-2.27-2.36-5.1-2.55-11.3h-.3c-.2 6.2-.35 9.03-2.55 11.3-2.27 2.2-5.1 2.36-11.3 2.55v.3c6.2.2 9.03.35 11.3 2.55 2.2 2.27 2.36 5.1 2.55 11.3h.3c.2-6.2.35-9.03 2.55-11.3 2.27-2.2 5.1-2.36 11.3-2.55">
+                                </path>
+                            </svg></a></li>
+                    <li class="social-icon__item"><a class="social-icon__link vk" target="_blank" href="https://t.me/gosteleradiofond">
+                            <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+                                <g>
+                                    <path d="M128,0 C57.307,0 0,57.307 0,128 L0,128 C0,198.693 57.307,256 128,256 L128,256 C198.693,256 256,198.693 256,128 L256,128 C256,57.307 198.693,0 128,0 L128,0 Z" fill="#40B3E0"></path>
+                                    <path d="M190.2826,73.6308 L167.4206,188.8978 C167.4206,188.8978 164.2236,196.8918 155.4306,193.0548 L102.6726,152.6068 L83.4886,143.3348 L51.1946,132.4628 C51.1946,132.4628 46.2386,130.7048 45.7586,126.8678 C45.2796,123.0308 51.3546,120.9528 51.3546,120.9528 L179.7306,70.5928 C179.7306,70.5928 190.2826,65.9568 190.2826,73.6308" fill="#FFFFFF"></path>
+                                    <path d="M98.6178,187.6035 C98.6178,187.6035 97.0778,187.4595 95.1588,181.3835 C93.2408,175.3085 83.4888,143.3345 83.4888,143.3345 L161.0258,94.0945 C161.0258,94.0945 165.5028,91.3765 165.3428,94.0945 C165.3428,94.0945 166.1418,94.5735 163.7438,96.8115 C161.3458,99.0505 102.8328,151.6475 102.8328,151.6475" fill="#D2E5F1"></path>
+                                    <path d="M122.9015,168.1154 L102.0335,187.1414 C102.0335,187.1414 100.4025,188.3794 98.6175,187.6034 L102.6135,152.2624" fill="#B5CFE4"></path>
+                                </g>
+                            </svg></a></li>
+<!--                    <li class="social-icon__item"><a class="social-icon__link instagram" target="_blank" href="https://instagram.com/gosteleradiofond">-->
+<!--                            <svg enable-background="new 0 0 24 24" height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="instagram_mob" gradientTransform="matrix(0 -1.982 -1.844 0 -132.522 -51.077)" gradientUnits="userSpaceOnUse" x1="-37.106" x2="-26.555" y1="-72.705" y2="-84.047"><stop offset="0" stop-color="#fd5"/><stop offset=".5" stop-color="#ff543e"/><stop offset="1" stop-color="#c837ab"/></linearGradient><path d="m1.5 1.633c-1.886 1.959-1.5 4.04-1.5 10.362 0 5.25-.916 10.513 3.878 11.752 1.497.385 14.761.385 16.256-.002 1.996-.515 3.62-2.134 3.842-4.957.031-.394.031-13.185-.001-13.587-.236-3.007-2.087-4.74-4.526-5.091-.559-.081-.671-.105-3.539-.11-10.173.005-12.403-.448-14.41 1.633z" fill="url(#instagram_mob)"/><path d="m11.998 3.139c-3.631 0-7.079-.323-8.396 3.057-.544 1.396-.465 3.209-.465 5.805 0 2.278-.073 4.419.465 5.804 1.314 3.382 4.79 3.058 8.394 3.058 3.477 0 7.062.362 8.395-3.058.545-1.41.465-3.196.465-5.804 0-3.462.191-5.697-1.488-7.375-1.7-1.7-3.999-1.487-7.374-1.487zm-.794 1.597c7.574-.012 8.538-.854 8.006 10.843-.189 4.137-3.339 3.683-7.211 3.683-7.06 0-7.263-.202-7.263-7.265 0-7.145.56-7.257 6.468-7.263zm5.524 1.471c-.587 0-1.063.476-1.063 1.063s.476 1.063 1.063 1.063 1.063-.476 1.063-1.063-.476-1.063-1.063-1.063zm-4.73 1.243c-2.513 0-4.55 2.038-4.55 4.551s2.037 4.55 4.55 4.55 4.549-2.037 4.549-4.55-2.036-4.551-4.549-4.551zm0 1.597c3.905 0 3.91 5.908 0 5.908-3.904 0-3.91-5.908 0-5.908z" fill="#fff"/></svg>-->
+<!--                        </a></li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <a href="#" class="scrollup"><span class="glyphicon glyphicon-circle-arrow-up"></span></a>
+
+<section id="first">
+    <div class="container full-height content-mobile">
+        <div class="wrapper wrapper-max">
+            <h2>
+                Доставка обязательного экземпляра аудиовизуальной продукции <br>
+                осуществляется в соответствии с порядком и сроками, <br>установленными Федеральным
+                законом от 29 декабря 1994 года № 77-ФЗ <br><b>«Об обязательном экземпляре документов»</b>
+            </h2>
+            <div class="col-md-5 text-center relative chart">
+                <img src="/img/left_diagramma.png" data-pin-nopin="true">
+                <p style="font-size: 2em;">
+                    4 966 455                    экземпляров                </p>
+                <small class="col-md-10 col-md-offset-1">уже находятся на хранении в Гoстелерадиофонде</small>
+                <div class="union visible-md-block visible-lg-block" style="top:60%">это</div>
+            </div>
+            <div class="col-md-2 text-center">&nbsp;</div>
+            <div class="col-md-5 text-center chart">
+                <img src="./img/right_diagramma.png" data-pin-nopin="true">
+                <p style="font-size: 2em;">
+                    4 128                    компаний                </p>
+                <small class="col-md-10 col-md-offset-1">предоставили материалы для размещения в фонде</small>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</section>
+
+<section id="choose">
+    <div class="container">
+        <div class="wrapper wrapper-min">
+            <div class="col-md-offset-1 col-md-10">
+                <h3 class="text-center no-top-margin">Выберите один из вариантов доставки ОЭД</h3>
+
+                <div class="col-md-5 col-xs-6 relative">
+                    <a class="btn btn-info pull-right btn-landing" href="#" data-href="#delivery-mail">
+                        <span style="display: block; margin-top: 13px; word-wrap: break-word; white-space: normal; line-height: 1.1em;">
+                            Доставка ОЭД на электронном <br /> носителе
+                        </span>
+                    </a>
+                    <div class="union visible-md-block visible-lg-block">или</div>
+                </div>
+                <div class="col-md-2 hidden-sm hidden-xs">&nbsp;</div>
+                <div class="col-md-5 col-xs-6">
+                    <a class="btn btn-info pull-left btn-landing" href="#" data-href="#delivery-web">
+                        <span style="display: block; margin-top: 18px;">
+                            Доставка ОЭД по Интернет
+                        </span>
+                    </a>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="delivery-mail" class="header-clear ul-blue separated">
+    <div class="separator">
+        <img src="/img/mail-separator.png" class="center-block" >
+    </div>
+    <div class="container content-mobile">
+        <div class="wrapper col-md-10 col-md-offset-1 col-sm-12 col-sm-offset-0">
+            <h1 class="text-center no-top-margin">Доставка ОЭД на электронном<br> носителе</h1>
+            <div class="col-sm-6">
+                <div class="col-md-13">
+                    <h4><strong>Корреспонденция с&nbsp;</strong>обязательным&nbsp;экземпляром документов содержит:</h4>
+
+<ul>
+	<li>сопроводительное письмо с реквизитами обязательного экземпляра аудиовизуальной продукции</li>
+	<li>аудиовизуальная/аудио продукция, созданная для телевидения и радиовещания, доставляется в двух экземплярах на электронных носителях* (пункт 1 статьи 12 Закона)</li>
+</ul>
+
+<p>&nbsp;<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<small>Электронный носитель - материальный носитель, используемый для записи, хранения и воспроизведения информации, обрабатываемой с помощью средств вычислительной техники (ГОСТ 2.051-2013 введен в действие Приказом Росстандарта от 22.11.2013 N 1628-ст)</small></em></p>
+
+<ul>
+	<li>фонопродукция, кинопродукция, созданная для телевидения и радиовещания, доставляется в двух экземплярах в виде позитивных копий вместе с монтажными или диалоговыми листами* (пункты 1 и 2 статьи 12 Закона)</li>
+</ul>
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *<small>Позитивная копия - копия кинодокумента с изображением и фонограммой на одной позитивной кинопленке (ГОСТ 7.69-95 СИБИД (ИСО 5127-11-83),сопровождающаяся монтажными и диалоговыми листами</small></em></p>
+
+<p><small><strong>Примечание.</strong> Дефектные обязательные экземпляры по запросам получателя документов заменяются производителями документов в месячный срок (статья 6 Закона).</small></p>
+
+<p>&nbsp;</p>
+
+<h4><strong>Вид и адрес доставки</strong>*</h4>
+
+<ul>
+	<li>почтовыми отправлениями (посылками, бандеролями) по адресу: 125040,&nbsp;г. Москва, 5-я ул. Ямского Поля, д. 19-21 с пометкой &laquo;В филиал ВГТРК Гостелерадиофонд. Обязательный экземпляр&raquo;</li>
+	<li>
+	<p>курьерами и курьерской почтой с понедельника по пятницу с 9:00 до 16:00,&nbsp;кроме выходных и праздничных дней по адресу: г. Москва, ул. Академика Королева, д. 19 АСК-3. Прием отправлений осуществляется по описи, содержащей состав корреспонденции.</p>
+	</li>
+</ul>
+
+<p><small><em>*Упаковка носителей обязательных экземпляров аудиовизуальной продукции должна обеспечивать сохранность материального носителя и записи на нем при транспортировке и хранении.</em></small></p>
+
+<p>&nbsp;</p>                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="col-md-12">
+                    <h4><strong>Реквизиты</strong> обязательного экземпляра аудиовизуальной продукции</h4>
+
+<p>В соответствии с требованиями, установленными статьей 1 Закона, доставляемый обязательный экземпляр аудиовизуальной продукции должен сопровождаться&nbsp;реквизитами&nbsp;(элемент оформления документа, содержащий о нем сведения*), позволяющими его идентифицировать:</p>
+
+<ul>
+	<li>наименование материалов</li>
+	<li>наименование СМИ, обеспечившего&nbsp;выход в эфир **</li>
+	<li>дата выхода материалов в эфир (статья 12 Закона)</li>
+	<li>наименование организации, производящей телерадиопродукцию,&nbsp;или телерадиовещательной организации, или организации, по заказу которой материалы созданы (статья 12 Закона)***.&nbsp;</li>
+</ul>
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small> *Сведения оформляются сопроводительным письмом за подписью уполномоченного лица на бланке организации и доставляются вместе с обязательным экземпляром; </small></em></p>
+
+<p><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>**Рекомендуется указывать сведения Свидетельства о регистрации СМИ; </em></small></p>
+
+<p><small><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Полное фирменное наименование юридического лица.</em></small></p>
+
+<p>&nbsp;</p>
+
+<h4><b>Наименование получателя</b> обязательного экземпляра аудиовизуальной продукции:</h4>
+
+<p>Филиал федерального государственного унитарного предприятия &laquo;Всероссийская государственная телевизионная и радиовещательная компания&raquo; &laquo;Государственный фонд телевизионных и радиопрограмм&raquo; (Гостелерадиофонд).</p>                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="files">
+    <div class="container full-height content-mobile">
+        <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 note-block no-top-margin no-bottom-margin">
+            <h3 class="no-top-margin text-center">Рекомендуемые документы</h3>
+
+            <div class="file">
+                <a href="/files/oed_delivery_fz.doc">
+                    <span class="glyphicon glyphicon-file pull-left file-icon"></span>
+                    <span class="glyphicon glyphicon-save pull-right file-download-icon"></span>
+                    <div>Доставка обязательного экземпляра аудиовизуальной продукции</div>
+                    <small>Скачать файл Word, 66Кб</small>
+                </a>
+            </div>
+
+            <div class="file">
+                <a href="/files/oed-blank-n-form-production.doc">
+                    <span class="glyphicon glyphicon-file pull-left file-icon"></span>
+                    <span class="glyphicon glyphicon-save pull-right file-download-icon"></span>
+                    <div>Рекомендуемая форма уведомления о предоставлении ОЭД</div>
+                    <small>Скачать файл Word, 87,6Кб</small>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+ 
+<section id="delivery-web" class="separated">
+    <div class="separator">
+        <img src="/img/arrow-separator.png" class="center-block" >
+    </div>
+    <div class="container content-mobile">
+        <h2 class="text-center no-top-margin">Доставка ОЭД по Интернет</h2>
+        <h3 class="text-center no-top-margin col-md-offset-4 col-md-4">Преимущества доставки по Интернет</h3>
+
+        <div class="col-sm-12">
+            <div class="text-center col-md-offset-2 col-md-8">
+                <p><strong>Филиал ВГТРК Гостелерадиофонд </strong> предлагает услугу&nbsp;по использованию аппаратно-программного комплекса цифрового хранения материалов&nbsp;для&nbsp;доставки обязательных экземпляров документов теле- и/или радиопродукции в соответствии с Федеральным законом от 29.12.1994 № 77-ФЗ &laquo;Об обязательном экземпляре документов&raquo; в форме электронно-цифровых копий посредством сети Интернет.</p>
+
+<p><small><span class="marker">Работа с сервисом происходит через Личные кабинеты с персонализированным доступом для каждого юридического лица.</span></small></p>            </div>
+
+            <div class="clearfix"></div>
+            <br />&nbsp;<br />
+
+            <ul class="benefits col-sm-12 list-inline list-unstyled">
+                                    <li class="col-md-3">
+                        <div class="col-sm-12">
+                            <p><strong>Преимущество 1</strong></p>
+
+<p>Удаленный доступ к сервису и возможность оперативной отправки ОЭД&nbsp;из любой точки России круглосуточно семь&nbsp;дней в неделю без ограничений.</p>                        </div>
+                    </li>
+                                    <li class="col-md-3">
+                        <div class="col-sm-12">
+                            <p><strong>Преимущество 2</strong></p>
+
+<p>Доставка без посредничества (почтовых и курьерских служб) исключает вероятность потерь, задержек или иных досадных обстоятельств. Вы сами своевременно&nbsp;доставляете ОЭД.</p>                        </div>
+                    </li>
+                                    <li class="col-md-3">
+                        <div class="col-sm-12">
+                            <p><strong>Преимущество 3</strong></p>
+
+<p>Вы самостоятельно загружаете файлы и отслеживаете историю их приема на хранение. Вместо громоздких сопроводительных писем - удобный интерфейс и продуманная система метаданных.</p>                        </div>
+                    </li>
+                                    <li class="col-md-3">
+                        <div class="col-sm-12">
+                            <p><strong>Преимущество 4</strong></p>
+
+<p>Пользование сервисом начинается сразу после заключения типового соглашения, подготовленного Гостелерадиофондом. Подробности по телефону<br />
+<a href="tel:&gt;84951099890"><strong><i>8 (495) 109-98-90</i></strong></a>.</p>                        </div>
+                    </li>
+                            </ul>
+        </div>
+
+        <hr class="col-md-8 col-md-offset-2" style="margin-top:0; margin-bottom:0"/>
+    </div>
+</section>
+
+<section id="delivery-order" class="header-clear">
+    <div class="container content-mobile">
+        <h3 class="text-center">Порядок доставки</h3>
+        <div class="wrapper">
+            <ul class="delivery-order text-center list-unstyled col-md-12 col-sm-12 col-sm-offset-0 no-top-margin">
+                                <li class="text-justify col-md-3 col-xs-12">
+                    <div class="number number-top col-md-12 hidden-xs hidden-sm">1</div>
+                    <div class="number number-left col-xs-2 hidden-md hidden-lg">1</div>
+                    <div class="col-xs-10 col-md-12"><p>Оформление и <a href="http://gtrf.ru/faq/index"><strong>подписание документов и оплата услуги</strong></a> по предоставлению доступа к сервису по электронной приемке ОЭД.</p></div>
+                </li>
+                                <li class="text-justify col-md-3 col-xs-12">
+                    <div class="number number-top col-md-12 hidden-xs hidden-sm">2</div>
+                    <div class="number number-left col-xs-2 hidden-md hidden-lg">2</div>
+                    <div class="col-xs-10 col-md-12"><p>Открытие Личного кабинета, предоставление реквизитов доступа к аппаратно-программному комплексу.</p></div>
+                </li>
+                                <li class="text-justify col-md-3 col-xs-12">
+                    <div class="number number-top col-md-12 hidden-xs hidden-sm">3</div>
+                    <div class="number number-left col-xs-2 hidden-md hidden-lg">3</div>
+                    <div class="col-xs-10 col-md-12"><p>Загрузка метаданных и соответствующих им медиафайлов через Личный кабинет в систему электронной приемки ОЭД.</p></div>
+                </li>
+                                <li class="text-justify col-md-3 col-xs-12">
+                    <div class="number number-top col-md-12 hidden-xs hidden-sm">4</div>
+                    <div class="number number-left col-xs-2 hidden-md hidden-lg">4</div>
+                    <div class="col-xs-10 col-md-12"><p>Для доставки ОЭД можно использовать API. Подробное описание выложено на <a href="http://oed.gtrf.ru/docs/api"><strong>странице документации API.</strong></a></p></div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</section>
+
+<section id="tech-params" class="ul-blue header-clear">
+    <div class="container content-mobile">
+        <div class="wrapper wrapper-min">
+            <h3>Технические параметры</h3>
+            <div class="col-md-5 col-sm-6 tech-params" id="audio-params">
+                <div><p>Обязательный экземпляр аудиопродукции предоставляется в Гостелерадиофонд в соответствии со следующими параметрами:</p>
+
+<ul>
+	<li>&nbsp;в формате MPEG-1 Layers I, II, III (MP3), 48 kHz, 16 bit, 64 kbps, stereo</li>
+</ul></div>
+            </div>
+            <div class="col-md-2 hidden-sm hidden-xs">&nbsp;</div>
+            <div class="col-md-5 col-sm-6 tech-params" id="video-params">
+                <div><p>Обязательный экземпляр аудиовизуальной продукции предоставляется в Гостелерадиофонд в виде файла в формате H.264 с параметрами:</p>
+
+<ul>
+	<li>Размер изображения &ndash; не более 720 пикселей по горизонтали;</li>
+	<li>Допустимое соотношение сторон 4:3, 16:9;</li>
+	<li>Скорость видеопотока не менее 400 Kbit/s и не более 450 Kbit/s;</li>
+	<li>Должен содержать хотя бы одну дорожку форматов: MPEG-1 Layers I, II, III (MP3), 48 kHz, 128 kbps&nbsp; или MPEG-2/4 (HE)-AAC, 48 KHz, 128 kbps;</li>
+	<li>Формат контейнера &ndash; avi, mkv, mov, mp4 (предпочтительный).</li>
+</ul></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="files">
+    <div class="container full-height content-mobile">
+        <div class="col-xs-10 col-xs-offset-1 col-md-8 col-md-offset-2 note-block no-top-margin no-bottom-margin">
+            <h3 class="no-top-margin text-center">Типовые формы Соглашения и Спецификаций</h3>
+
+            <div class="file">
+                <a href="/files/oed-agreement.doc">
+                    <span class="glyphicon glyphicon-file pull-left file-icon"></span>
+                    <span class="glyphicon glyphicon-save pull-right file-download-icon"></span>
+                    <div>Соглашение по оказанию услуги</div>
+                    <small>Скачать файл Word, 180Кб</small>
+                </a>
+            </div>
+
+            <div class="file">
+                <a href="/files/specification-of-the-agreement-for-TV-production.doc">
+                    <span class="glyphicon glyphicon-file pull-left file-icon"></span>
+                    <span class="glyphicon glyphicon-save pull-right file-download-icon"></span>
+                    <div>Спецификация к Соглашению для ТЕЛЕ продукции (для каждого СМИ отдельная спецификация)</div>
+                    <small>Скачать файл Word, 78Кб</small>
+                </a>
+            </div>
+
+            <div class="file">
+                <a href="/files/specification-of-the-agreement-for-radio-production.doc">
+                    <span class="glyphicon glyphicon-file pull-left file-icon"></span>
+                    <span class="glyphicon glyphicon-save pull-right file-download-icon"></span>
+                    <div>Спецификация к Соглашению для РАДИО продукции (для каждого СМИ отдельная спецификация)</div>
+                    <small>Скачать файл Word, 78Кб</small>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="manual">
+    <div class="container">
+        <div class="wrapper wrapper-min">
+            <h3 class="text-center col-xs-6 col-xs-offset-3 no-top-margin">Инструкция по доставке ОЭД по Интернет</h3>
+            <div class="col-md-10 col-md-offset-1">
+                <img class="img-responsive" src="./img/manual.jpg">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="delivery-control">
+    <div class="container content-mobile">
+        <div class="wrapper wrapper-min">
+            <h3 class="text-center col-sm-8 col-sm-offset-2 no-top-margin">Контроль за доставкой обязательного экземпляра аудиовизуальной продукции</h3>
+            <div class="col-sm-12">
+                <div class="col-md-6 text-justify"><p>ВГТРК на основании статьи 21 Закона осуществляет контроль за доставкой обязательного экземпляра аудиовизуальной продукции и направляет <strong>с</strong><strong>ведения о недоставке, несвоевременной и неполной доставке </strong>обязательного экземпляра в Федеральную службу по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор).</p>
+
+<p>С учетом порядка и сроков, установленных Законом для доставки обязательных экземпляров аудиовизуальной продукции, созданной для телевидения и радиовещания, ВГТРК направляет сведения</p></div>
+                <div class="col-md-6 text-justify"><p><strong>о недоставке:</strong>&nbsp;обязательный экземпляр не поступал; поступивший&nbsp;обязательный экземпляр не имеет реквизитов, позволяющих его идентифицировать;</p>
+
+<p><strong>о неполной доставке:</strong> поступил только один экземпляр электронного&nbsp;носителя (позитивной копии), содержащий обязательный экземпляр; в реквизитах отсутствуют сведения о СМИ, в котором материалы вышли в эфир, о наименовании материала;</p>
+
+<p><strong>о несвоевременной доставке:</strong> нарушены сроки предоставления обязательного&nbsp;экземпляра, в т.ч. сроки замены дефектного экземпляра (статья 6 Закона).</p></div>
+                <div class="clearfix"></div>
+                <div class="note-block"><p>Нарушение установленного Законом порядка представления обязательного экземпляра документов влечет наложение административного штрафа на граждан в размере от двухсот до пятисот рублей; на должностных лиц &ndash; от одной тысячи до двух тысяч рублей; на юридических лиц &ndash; от десяти тысяч до двадцати тысяч рублей (ст. 13.23 Кодекса Российской Федерации об административных правонарушениях).</p>
+
+<p><strong>Внимание! </strong>В соответствии со статьей 6 Закона производители документов относят затраты на подготовку, публикацию (выпуск) и рассылку (передачу, доставку) обязательных экземпляров на себестоимость документов, входящих в состав обязательного экземпляра. Доставка обязательного экземпляра аудиовизуальной продукции осуществляется за счет направляющей стороны.</p></div>
+            </div>
+        </div>
+    </div>
+</section>
+    <script type="text/javascript" src="/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+<script type="text/javascript" src="/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/main.js?v=25.11.2022.1"></script>            <script>
+            (function (d, w, c) {
+                (w[c] = w[c] || []).push(function() {
+                    try {
+                        w.yaCounter40308930 = new Ya.Metrika({
+                            id:40308930,
+                            clickmap:true,
+                            trackLinks:true,
+                            accurateTrackBounce:true,
+                            webvisor:true
+                        });
+                    } catch(e) { }
+                });
+
+                var n = d.getElementsByTagName("script")[0],
+                    s = d.createElement("script"),
+                    f = function () { n.parentNode.insertBefore(s, n); };
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+                if (w.opera == "[object Opera]") {
+                    d.addEventListener("DOMContentLoaded", f, false);
+                } else { f(); }
+            })(document, window, "yandex_metrika_callbacks");
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/40308930" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+            <section id="bottom">
+        <div class="container">
+            <p class="text-center"><a href="/files/suot_svedeniya.pdf" target="_blank">Сведения о результатах проведения специальной оценки условий труда</a></p>
+            <p class="text-center">Филиал ВГТРК Гостелерадиофонд, 2025 &copy;</p>
+        </div>
+    </section>
+</body>
+</html>

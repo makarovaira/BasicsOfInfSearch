@@ -1,0 +1,1129 @@
+	
+<!doctype html>
+<html prefix="og: https://ogp.me/ns#
+      fb: https://ogp.me/ns/fb#
+      article: https://ogp.me/ns/article#">
+<head>
+<meta charset="windows-1251">
+<meta http-equiv="Cache-Control" content="private">
+
+<link rel="icon" type="image/png" href="/favicon.png">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="yandex-verification" content="4932070bbe40bfe0" />
+<meta property="og:image" content="https://peterhof.ru/images/thumb.jpg" />
+<meta property="og:url" content="https://peterhof.ru" />
+<meta property="og:description" content="Информация о парках, музеях, гостиницах, новости, объявления и многое другое" />
+<meta property="og:title" content="Сайт о городе Петергофе"/>
+<meta property="og:image:type" content="image/jpeg" />
+
+	
+	<!-- Google tag (gtag.js) -->
+	
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Петергоф - Петродворец  &nbsp;&#8226;&nbsp;  сайт о городе фонтанов, музеев и парков</title>
+
+<meta name="description" content="Информация о городе Петергофе (Петродворце), о музеях и парках, отели петергофа, рестораны и кафе Петергофа. Сдать или снять квартиру в Петергофе">
+<link href="/b4/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="/style_main.css?id=2" rel="stylesheet" type="text/css">
+<link href="/css/ob.css?id=1" rel="stylesheet" type="text/css">
+<link href="/b4/main_b_4.css?id=3" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+<link rel="stylesheet" href="/css/owl.theme.default.css">
+<link href="/fonts/web-fonts-with-css/css/all.css" rel="stylesheet" type="text/css">
+<link href="/css/animate.css" rel="stylesheet" type="text/css">
+<link href="/css/fancybox.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/css/lightcase.css"><script type="text/javascript" src="/js/jquery.js"></script>
+<script src="/js/owl.carousel.js"></script>
+<script type="text/javascript" src="/js/send_form.js"></script>
+<script type="text/javascript" src="/js/jquery.form.min.js"></script>
+<!--<script type="text/javascript" src="js/scroll.js"></script>-->
+<script src="/js/send.js"></script>
+<script type="text/javascript" src="/js/delete.js"></script>
+<script type="text/javascript" src="/js/fancybox.umd.js"></script>
+<script type="text/javascript" src="/js/lightcase.js"></script>
+<script type="text/javascript" src="/js/jquery.events.touch.js"></script>
+<script>
+function black(){ 
+$('#mess').html('<i class="fas fa-sync fa-spin fa-3x text-primary"></i>'); 
+setTimeout ("$('#mess').fadeIn('fast');", 1);
+//setTimeout ("$('#mess').fadeOut('fast');", 3000);
+}
+</script>
+
+	    <script>        
+        $(document).on('click', '.text_more', function(){
+            var block = $(this).attr('block');    
+    if ($("#" +'link_' + block).html() === '<i class="fas fa-chevron-down" style="color: green"></i> Показать весь текст') {
+      $("#" +'link_' + block).html('<i class="fas fa-chevron-up" style="color: red"></i> Скрыть текст')
+		$(".text_dop").addClass("text_all");
+	  //$(".text_dop").slideDown(200);
+	}
+    else {
+      $("#" +'link_' + block).html('<i class="fas fa-chevron-down" style="color: green"></i> Показать весь текст')
+		$(".text_dop").removeClass("text_all").addClass("text_dop");
+      //$(".text_dop").slideUp(200);
+	}
+});
+</script>
+
+<script>
+$(document).ready(function(){
+    $(".se").click(function () {
+        if ($("#search").is(":hidden")) {
+            $("#search").slideDown("slow");
+        } else {
+            $("#search").slideUp("slow");
+        }
+        return false;
+    });
+});
+</script>
+
+<script type="text/javascript">
+    	jQuery(document).ready(function($) {
+    		$('a[data-rel^=lightcase]').lightcase({
+	showSequenceInfo: false,
+	useKeys: true,
+    showCaption: true,
+	showSequenceInfo: false,
+	transition: 'scrollHorizontal',
+	swipe: true
+			});
+    	});
+    </script>
+
+<!-- VK -->
+<script type="text/javascript" src="https://userapi.com/js/api/openapi.js?34"></script>
+<script type="text/javascript" src="https://userapi.com/js/api/openapi.js?45"></script>
+<script type="text/javascript">
+  VK.init({apiId: 2461460, onlyWidgets: true});
+</script>
+
+<!-- Yandex.RTB -->
+	
+</head>
+<body>
+<!-- Yandex.RTB R-A-163352-8 -->
+<script>
+window.yaContextCb.push(()=>{
+	Ya.Context.AdvManager.render({
+		"blockId": "R-A-163352-8",
+		"type": "floorAd",
+		"platform": "touch"
+	})
+})
+</script>
+	<div class="row justify-content-center">
+            <div class="panel_search" id="search">	
+				<div class="container">
+  <div class="se fa-xl btn_close">
+					<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" fill="currentColor" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/>
+  <path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/>
+</svg>
+					</div>
+              <form action="/poisk-po-saytu" method="POST" enctype="multipart/form-data" >
+                <div class="input-group mt-2">
+                  <input name="search" type="text" required="required" class="form-control" id="search" placeholder="Поиск" style="max-width: 100%;">
+                  <div class="input-group-append">
+                    <input name="id" type="hidden" id="id" value="159">
+                    <button class="btn btn-info" type="submit"><i class="fa fa-search fa-sm" style="color: white"></i></button>
+                  </div>
+                </div>
+              </form>
+					</div>
+            </div>
+          </div>
+	
+<div id="mess" class="mesages" style="z-index: 1100"></div>
+<div class="wrr">
+  <div class="content">
+    <div style="position: relative;">
+      <div id="up_men" style="position: absolute; z-index: 3; top: 0; bottom: 0; left: 0; right: 0; margin: auto;">
+        <div class="container">
+          <div class="row justify-content-end">
+            <div class="col-auto mb-2 logindata" style="font-size: 12px; z-index: 6" id="logindata">
+              <a href="#" class="up_padge se" style="color: #1F1F1F;">
+<i class="fas fa-search fa-sm"></i> Поиск </a> <span style="color: #1F1F1F;"> | </span>
+<a href="/forma-obratnoy-svyazi" class="up_padge" style="color: #1F1F1F;">
+<i class="fas fa-at fa-sm"></i> Контакты</a><span style="color: #1F1F1F;"> | </span><a href="#" class="up_padge reg" id="1" style="color: #1F1F1F;">
+<i class="fas fa-user fa-sm"></i> Вход</a><span style="color: #1F1F1F;"> | </span>
+<a href="/registraciya-na-sayte" class="up_padge" style="color: #1F1F1F;"><i class="fas fa-registered fa-sm"></i> Регистрация</a>            </div>
+          </div>
+        </div>
+        <div class="navbar_">
+          <div class="container">
+            	
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300&amp;subset=cyrillic" rel="stylesheet"> 
+		
+	<link href="/menu/superfish.min.css" rel="stylesheet" type="text/css">
+	<link href="/menu/jquery.mmenu.all.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/menu/menu.css">
+<div class="wrapper">	
+			<div class="pl-0 pr-0">
+				
+	<div class="logo-wrap">
+				<a href="../"><img src="/img/logo_wh.png" /></a></div>
+				
+								<div class="up_info_text">
+              Петергоф - Петеродворец<br>
+город фонтанов, музеев и парков
+            </div>
+							<a href="../">
+				<div class="up_info_text_wrap d-none d-sm-block d-lg-none" style="color: #fff">
+              Петергоф - Петеродворец<br>
+город фонтанов, музеев и парков
+           </div>
+			  </a>
+	
+			<a href="#mobile-menu" class="toggle-mnu"><span></span></a>
+			<div class="header-wrap clearfix">
+
+                <div class="top-mnu">		
+<ul class="sf-menu">
+    <li><a href="/novosti">Новости</a></li>
+<li><a href="/gorod" class="ajxsub">Город</a><ul><li><a href="/istoriya-petergofa" class="ajxsub">История Петергофа</a>
+<ul><li class ="sub_menu"><a href="/aerodrom-noviy-petergof">Аэродром Новый Петергоф</a></li>
+</ul>
+<li><a href="/voennie-godi-i-vosstanovlenie" class="ajxsub">Военные годы и восстановление</a>
+<ul><li class ="sub_menu"><a href="/petergof-nakanune-voyni">Петергоф накануне войны</a></li>
+<li class ="sub_menu"><a href="/o-date-zahvata-petergofa">О дате захвата Петергофа</a></li>
+<li class ="sub_menu"><a href="/petergofskiy-desant">Петергофский десант</a></li>
+<li class ="sub_menu"><a href="/vosstanovlenie-monplezira">Восстановление Монплезира</a></li>
+<li class ="sub_menu"><a href="/ekaterininskiy-korpus">Екатерининский корпус</a></li>
+<li class ="sub_menu"><a href="/dvorec-marli">Дворец "Марли"</a></li>
+<li class ="sub_menu"><a href="/pavilon-ermitaj">Павильон "Эрмитаж"</a></li>
+<li class ="sub_menu"><a href="/park-ozerki">Парк Озерки</a></li>
+<li class ="sub_menu"><a href="/ostrova-na-olginom-prudu">Острова на Ольгином пруду</a></li>
+<li class ="sub_menu"><a href="/puteshestviya-neptuna">Путешествия "Нептуна"</a></li>
+</ul>
+<li><a href="/velikie-lyudi-petergofa" class="ajxsub">Великие люди Петергофа</a>
+<ul><li class ="sub_menu"><a href="/benua-nl">Бенуа Н.Л.</a></li>
+<li class ="sub_menu"><a href="/nikolo-miketti">Николо Микетти</a></li>
+<li class ="sub_menu"><a href="/zemcov-mg">Земцов М.Г.</a></li>
+<li class ="sub_menu"><a href="/shtakenshneyder-ai">Штакеншнейдер А.И.</a></li>
+<li class ="sub_menu"><a href="/rastrelli-fb">Растрелли Ф.Б.</a></li>
+<li class ="sub_menu"><a href="/menelas-aa">Менелас А.А.</a></li>
+<li class ="sub_menu"><a href="/gan-el">Ган Э.Л.</a></li>
+<li class ="sub_menu"><a href="/strelnikov-fa">Стрельников Ф.А.</a></li>
+<li class ="sub_menu"><a href="/tuvolkov-vg">Туволков В.Г.</a></li>
+<li class ="sub_menu"><a href="/braunshteyn-if">Браунштейн И.Ф.</a></li>
+<li class ="sub_menu"><a href="/blank-iya">Бланк И.Я.</a></li>
+<li class ="sub_menu"><a href="/karl-fridrih-shinkel">Карл Фридрих Шинкель</a></li>
+<li class ="sub_menu"><a href="/andreas-shlyuter">Андреас Шлютер</a></li>
+<li class ="sub_menu"><a href="/voronihin-an">Воронихин А.Н.</a></li>
+<li class ="sub_menu"><a href="/kozlovskiy-mi">Козловский М.И.</a></li>
+<li class ="sub_menu"><a href="/shubin-fi">Шубин Ф.И.</a></li>
+<li class ="sub_menu"><a href="/schedrin-ff">Щедрин Ф.Ф.</a></li>
+<li class ="sub_menu"><a href="/martos-ip">Мартос И.П.</a></li>
+<li class ="sub_menu"><a href="/prokofev-ip">Прокофьев И.П.</a></li>
+<li class ="sub_menu"><a href="/antokolskiy-m-m">Антокольский М. М.</a></li>
+<li class ="sub_menu"><a href="/rastrelli-bk">Растрелли Б.К.</a></li>
+<li class ="sub_menu"><a href="/felten-yum">Фельтен Ю.М.</a></li>
+</ul>
+<li><a href="/poeti-o-petergofe">Поэты о Петергофе</a>
+</li><li><a href="/arhitektura" class="ajxsub">Архитектура</a>
+<ul><li class ="sub_menu"><a href="/sobor-petra-i-pavla">Собор Петра и Павла</a></li>
+<li class ="sub_menu"><a href="/dvorec-belveder">Дворец Бельведер</a></li>
+<li class ="sub_menu"><a href="/petergofskiy-vokzal">Петергофский вокзал</a></li>
+<li class ="sub_menu"><a href="/carskaya-melnica">Царская мельница</a></li>
+<li class ="sub_menu"><a href="/nijnyaya-dacha-nikolaya-ii">Нижняя дача Николая II</a></li>
+<li class ="sub_menu"><a href="/sobstvennaya-dacha">Собственная дача</a></li>
+<li class ="sub_menu"><a href="/imperatorskie-konyushni">Императорские конюшни</a></li>
+<li class ="sub_menu"><a href="/krasniy-prud-i-okrestnosti">Красный пруд и окрестности</a></li>
+<li class ="sub_menu"><a href="/konstantinovskiy-dvorec">Константиновский дворец</a></li>
+<li class ="sub_menu"><a href="/nikolskiy-domik">Никольский домик</a></li>
+<li class ="sub_menu"><a href="/rozoviy-pavilon">Розовый павильон</a></li>
+<li class ="sub_menu"><a href="/cerkov-svmc-aleksandri">Церковь св.мц. Александры</a></li>
+</ul>
+<li><a href="/pamyatniki" class="ajxsub">Памятники</a>
+<ul><li class ="sub_menu"><a href="/memorial-primorskiy">Мемориал "Приморский"</a></li>
+<li class ="sub_menu"><a href="/jertvam-revolyucii">Жертвам революции</a></li>
+<li class ="sub_menu"><a href="/pamyatnik-rubinshteynu">Памятник Рубинштейну</a></li>
+<li class ="sub_menu"><a href="/pamyatnik-shtiglicu">Памятник Штиглицу</a></li>
+<li class ="sub_menu"><a href="/stroitelyam-petergofa">Строителям Петергофа</a></li>
+<li class ="sub_menu"><a href="/sadovomu-masteru-erleru">Садовому мастеру Эрлеру</a></li>
+<li class ="sub_menu"><a href="/petr-i-c-maloletnim-lyudovikom-xv">Пётр I c малолетним Людовиком XV</a></li>
+<li class ="sub_menu"><a href="/pamyatnik-popovu-as">Памятник Попову А.С.</a></li>
+</ul>
+<li><a href="/sport-i-otdih" class="ajxsub">Спорт и отдых</a>
+<ul><li class ="sub_menu"><a href="/veloekskursii-v-petergofe">Велоэкскурсии и прокат в Петергофе</a></li>
+<li class ="sub_menu"><a href="/prokat-sap-bordov">Прокат сап-бордов</a></li>
+<li class ="sub_menu"><a href="/prokat-vatrushek-finskih-saney">Прокат ватрушек, финских саней</a></li>
+<li class ="sub_menu"><a href="/hokkeyniy-klub-ska-petergof">Хоккейный клуб "СКА-Петергоф"</a></li>
+<li class ="sub_menu"><a href="/sportivniy-klub-sobol">Спортивный клуб "Соболь"</a></li>
+<li class ="sub_menu"><a href="/konniy-klub-bulava">Конный клуб "Булава"</a></li>
+</ul>
+<li><a href="/obuchenie" class="ajxsub">Обучение</a>
+<ul><li class ="sub_menu"><a href="/language-link-v-petergofe">Language Link  в Петергофе</a></li>
+</ul>
+<li><a href="/salon-krasoti-u-vardana">Салон красоты "У Вардана"</a>
+</li></ul>
+<li><a href="/okrestnosti" class="ajxsub">Окрестности</a><ul><li><a href="/poselok-strelna">Поселок Стрельна</a>
+</li><li><a href="/usadba-mihaylovka">Усадьба Михайловка</a>
+</li><li><a href="/sergievka">Сергиевка</a>
+</li><li><a href="/russkaya-derevnya-shuvalovka">Русская деревня "Шуваловка"</a>
+</li><li><a href="/usadba-znamenka">Усадьба Знаменка</a>
+</li><li><a href="/poselok-nizino">Поселок "Низино"</a>
+</li></ul>
+<li><a href="/turistam" class="ajxsub">Туристам</a><ul><li><a href="/kak-dobratsya">Как добраться до Петергофа</a>
+</li><li><a href="/parki" class="ajxsub">Парки петергофа</a>
+<ul><li class ="sub_menu"><a href="/lugovoy-park">Луговой парк</a></li>
+<li class ="sub_menu"><a href="/kolonistskiy-park">Колонистский парк</a></li>
+<li class ="sub_menu"><a href="/park-aleksandriya">Парк Александрия</a></li>
+<li class ="sub_menu"><a href="/angliyskiy-park">Английский парк</a></li>
+</ul>
+<li><a href="/muzei-petergofa" class="ajxsub">Музеи Петергофа</a>
+<ul><li class ="sub_menu"><a href="/petrodvorcoviy-muzey-chasov">Петродворцовый музей часов</a></li>
+<li class ="sub_menu"><a href="/tsaricin-i-olgin-paviloni">Царицын и Ольгин павильоны </a></li>
+<li class ="sub_menu"><a href="/fermerskiy-dvorec">Фермерский дворец</a></li>
+<li class ="sub_menu"><a href="/dvorec-kottedj">Дворец "Коттедж"</a></li>
+<li class ="sub_menu"><a href="/kapella">Готичекая капелла</a></li>
+</ul>
+<li><a href="/fontani-i-kaskadi" class="ajxsub">Фонтаны и каскады</a>
+<ul><li class ="sub_menu"><a href="/kaskad-bolshoy">Каскад "Большой"</a></li>
+<li class ="sub_menu"><a href="/fontan-samson">Фонтан "Самсон"</a></li>
+<li class ="sub_menu"><a href="/kaskad-shahmatnaya-gora">Каскад "Шахматная гора"</a></li>
+<li class ="sub_menu"><a href="/kaskad-zolotaya-gora">Каскад "Золотая гора"</a></li>
+<li class ="sub_menu"><a href="/kaskad-lviniy">Каскад "Львиный"</a></li>
+<li class ="sub_menu"><a href="/voronihinskie-kolonnadi">Воронихинские колоннады</a></li>
+<li class ="sub_menu"><a href="/fontan-eva">Фонтан "Ева"</a></li>
+<li class ="sub_menu"><a href="/fontan-piramida">Фонтан "Пирамида"</a></li>
+<li class ="sub_menu"><a href="/fontan-oranjereyniy">Фонтан "Оранжерейный"</a></li>
+<li class ="sub_menu"><a href="/fontani-rimskie">Фонтаны "Римские"</a></li>
+<li class ="sub_menu"><a href="/fontan-solnce">Фонтан "Солнце"</a></li>
+<li class ="sub_menu"><a href="/fontani-chashi">Фонтаны "Чаши"</a></li>
+<li class ="sub_menu"><a href="/fontani-menajernie">Фонтаны "Менажерные"</a></li>
+</ul>
+<li><a href="/put-vodi" class="ajxsub">Путь воды</a>
+<ul><li class ="sub_menu"><a href="/samsonovskiy-kanal">Самсоновский канал</a></li>
+</ul>
+<li><a href="/gde-ostanovitsya" class="ajxsub">Где остановиться</a>
+<ul><li class ="sub_menu"><a href="/otel-noviy-petergof">Отель "Новый Петергоф"</a></li>
+<li class ="sub_menu"><a href="/gostinica-samson">Гостиница "Самсон"</a></li>
+<li class ="sub_menu"><a href="/otel-grand-petergof">Отель "Гранд Петергоф"</a></li>
+<li class ="sub_menu"><a href="/belveder-hotel-and-spa"> Belveder Hotel and spa</a></li>
+<li class ="sub_menu"><a href="/gostinica-aleksandriya-petergof">Гостиница "Александрия-Петергоф"</a></li>
+<li class ="sub_menu"><a href="/grin-otel">Грин отель</a></li>
+<li class ="sub_menu"><a href="/profilaktoriy-orlovskiy">Профилакторий "Орловский"</a></li>
+<li class ="sub_menu"><a href="/otel-domik-u-prichala">Отель "Домик у причала"</a></li>
+<li class ="sub_menu"><a href="/gostevoy-dom-svet-mayaka">Гостевой дом "Свет Маяка"</a></li>
+<li class ="sub_menu"><a href="/sanatoriy-petrodvorec">Санаторий "Петродворец"</a></li>
+<li class ="sub_menu"><a href="/otel-kottedj-f-f">Отель-коттедж "Ф&Ф"</a></li>
+</ul>
+<li><a href="/restorani-i-kafe-petergofa" class="ajxsub">Рестораны и кафе Петергофа</a>
+<ul><li class ="sub_menu"><a href="/restoran-samson">Ресторан "Самсон"</a></li>
+<li class ="sub_menu"><a href="/semeyniy-restoran-family">Ресторан "Funny Family"</a></li>
+<li class ="sub_menu"><a href="/restoran-letniy-dvorec">Ресторан "Летний Дворец"</a></li>
+<li class ="sub_menu"><a href="/kafe-truffe">Кафе "Truffe"</a></li>
+<li class ="sub_menu"><a href="/restoran-shtandart">Ресторан "Штандарт"</a></li>
+<li class ="sub_menu"><a href="/restoran-aviator">Ресторан "Авиатор"</a></li>
+<li class ="sub_menu"><a href="/restoran-krasniy-kabachok">Ресторан "Красный кабачок"</a></li>
+<li class ="sub_menu"><a href="/gastropab-duck-drake">Гастропаб Duck & Drake</a></li>
+<li class ="sub_menu"><a href="/banketniy-kompleks-aleksandriya-petergof">Банкетный комплекс "Александрия-Петергоф"</a></li>
+<li class ="sub_menu"><a href="/restoran-korkuli">Ресторан "Коркули"</a></li>
+<li class ="sub_menu"><a href="/picceriya-lamericano">Пиццерия "L'Americano"</a></li>
+<li class ="sub_menu"><a href="/restoran-royal-time">Ресторан "ROYAL TIME"</a></li>
+</ul>
+</ul>
+<li><a href="/stati">Статьи</a></li>
+<li><a href="/foto">Фотоальбомы</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+</div>
+<script src="../menu/superfish.min.js"></script>
+<script src="../menu/jquery.mmenu.min.all.js"></script>
+<script src="../menu/common.js"></script>	
+          </div>
+        </div>
+      </div>
+    </div>
+        <style>
+#item13 { background-image: url("/files/up/1613117992.jpg"); } #item17 { background-image: url("/files/up/1736077002.jpg"); } #item16 { background-image: url("/files/up/1641461736.jpg"); } #item8 { background-image: url("/files/up/1563008767.jpg"); } #item15 { background-image: url("/files/up/1639242362.jpg"); } #item7 { background-image: url("/files/up/1563008750.jpg"); } #item10 { background-image: url("/files/up/1575742874.jpg"); }             </style>
+    <div style="position: relative;" class="mb-4 drop-shadow-up round">
+      <div class="owl-carousel owl-big">
+        <a href="/park-aleksandriya"><div class="item text-right" id="item13"><div class="container"><p>Парк "Александрия"</p>
+</div>
+					</div></a><div class="item text-right" id="item17"><div class="container"></div>
+					</div><a href="/samsonovskiy-kanal"><div class="item text-right" id="item16"><div class="container"><p>Самсоновский канал</p>
+</div>
+					</div></a><div class="item text-right" id="item8"><div class="container"><p style="text-align:right">Утро в Верхнем саду</p>
+</div>
+					</div><a href="/petergofskiy-vokzal"><div class="item text-right" id="item15"><div class="container"><p>Петергофский вокзал</p>
+</div>
+					</div></a><div class="item text-right" id="item7"><div class="container"><p style="text-align:right">Утро в Верхнем саду</p>
+</div>
+					</div><div class="item text-right" id="item10"><div class="container"></div>
+					</div>      </div>
+    </div>
+        
+    <!--Блок новостей-->
+    
+        <div class="container">
+     
+		  
+        		  
+                <div class="card-deck mt-2 mb-2">
+                        <div class="card ind-news border-0 mb-0 pl-0 pb-0"> <a href="/novosti/maslenica-v-petergofe-2025">
+              <div class="card-body p-0">
+                <table width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="16%" align="left" valign="top"><div class="ind-news-photo"> <img src="../files/news/1740844365.jpg" border="0"/> </div></td>
+                      <td width="84%" valign="top"><div class="ind-news-zag"> Масленица в Петергофе </div>
+                        <div class="d-none d-lg-block mb-1">
+                          Муниципальный Совет и местная администрация муниципального образования город Петергоф приглашают жителей и гостей города на праздничное гуляние &laquo;Масленица в Петергофе&raquo;.
+Мероприятие                           ... </div></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              </a> </div>
+                        <div class="card ind-news border-0 mb-0 pl-0 pb-0"> <a href="/novosti/poezd-deda-moroza-v-petergofe">
+              <div class="card-body p-0">
+                <table width="100%" border="0">
+                  <tbody>
+                    <tr>
+                      <td width="16%" align="left" valign="top"><div class="ind-news-photo"> <img src="../files/news/1735457356.jpg" border="0"/> </div></td>
+                      <td width="84%" valign="top"><div class="ind-news-zag"> Поезд Деда Мороза в Петергофе </div>
+                        <div class="d-none d-lg-block mb-1">
+                          
+
+6 и 7 января 2025г.&nbsp; в Новый Петергоф прибудет поезд Деда Мороза!
+
+6 января с 10:00 до 19:00
+7 января с 10:00                           ... </div></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              </a> </div>
+                      </div>
+		
+		
+      <!-- Tab panes -->
+      <div class="tab-content pt-0">
+        <div class=" border-bottom mb-3"></div>
+      </div>
+    </div>
+        <!--Tab panel конец--> 
+    
+    <!--Центральная часть-->
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                    <div class="d-none d-lg-block">
+                        <div class="row">
+                            <div class="col-12 ind-news-zag d-flex justify-content-between">
+                <div class="zag text-uppercase col-auto pl-0"> Памятники Петергофа </div>
+                <div class="pr-0 col-auto text-right align-self-center"> <a href="/pamyatniki"><i class="fas fa-grip-horizontal text-warning" data-toggle="tooltip" data-placement="bottom" title="Перейти в раздел"></i></a> </div>
+              </div>
+                            <div class="col-6 m-0 float-right mb-2 mt-1"> <a href="/pamyatnik-popovu-as">
+                <div> <img src="/files/photoglav/smail/1305046178.jpg" border="0" class="img-fluid photo_hover" style="min-width: 100%">
+                  <div class="m-0 text-center text-muted" style="font-size: 11px">Памятник Попову А.С.</div>
+                </div>
+                </a> </div>
+                            <div class="col-6 m-0 float-right mb-2 mt-1"> <a href="/petr-i-c-maloletnim-lyudovikom-xv">
+                <div> <img src="/files/photoglav/smail/1297160401.jpg" border="0" class="img-fluid photo_hover" style="min-width: 100%">
+                  <div class="m-0 text-center text-muted" style="font-size: 11px">Пётр I c малолетним Людовиком XV</div>
+                </div>
+                </a> </div>
+                            <div class="col-6 m-0 float-right mb-2 mt-1"> <a href="/sadovomu-masteru-erleru">
+                <div> <img src="/files/photoglav/smail/1284184512.jpg" border="0" class="img-fluid photo_hover" style="min-width: 100%">
+                  <div class="m-0 text-center text-muted" style="font-size: 11px">Садовому мастеру Эрлеру</div>
+                </div>
+                </a> </div>
+                            <div class="col-6 m-0 float-right mb-2 mt-1"> <a href="/memorial-primorskiy">
+                <div> <img src="/files/photoglav/smail/1282983698.jpg" border="0" class="img-fluid photo_hover" style="min-width: 100%">
+                  <div class="m-0 text-center text-muted" style="font-size: 11px">Мемориал "Приморский"</div>
+                </div>
+                </a> </div>
+                          </div>
+            
+            <!-- реклама -->
+            <div class="main_reclama mt-5"> 
+              <a href="/salon-krasoti-u-vardana" title="Салон красоты - У Вардана"> <img src="/images/index/vardan.png" alt="Салон красоты - У Вардана" class="img-fluid" border="0" /> </a> <br>
+              <br>
+              <!-- Yandex.RTB R-A-163352-2 -->
+            </div>
+            <!-- реклама конец --> 
+          </div>
+          <!--Блок каскад, и объявления конец--> 
+        </div>
+        <div class="col-12 col-sm-12 col-md-7 col-lg-5 col-xl-5 order-1 order-md-2">
+	 <div class="zag text-uppercase">Последние фотографии на сайте</div>
+ <div class="owl-carousel owl-nabor owl-theme-sm">
+          <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=7b9d0cfa27e775605af01e21d16c2bd7.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/7b9d0cfa27e775605af01e21d16c2bd7.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=b4300b12bf7f474c60402712ae7964e1.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/b4300b12bf7f474c60402712ae7964e1.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=be35bb1c9c81ca691aa7d374ab74d7df.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/be35bb1c9c81ca691aa7d374ab74d7df.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=f49c267187e5d25dec46e15834b659f5.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/f49c267187e5d25dec46e15834b659f5.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=e78c891fd8fa292479cd15ad7c1ec545.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/e78c891fd8fa292479cd15ad7c1ec545.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=e570cbec2ce45be9037bccc0ae94888e.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/e570cbec2ce45be9037bccc0ae94888e.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=7414828b11a312393743c73300da8272.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/7414828b11a312393743c73300da8272.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+                    <div class="photo_hover">
+			  			<a data-fancybox="gallery_" 
+			   data-im="album"
+			   data-caption="" 
+			   data-src="/servis/photo_img.php?img=17231545d41969d25731e5601b7223ac.jpg&folder=zima"  style="cursor: pointer">
+            <img src="/files/photoalbum/zima/smail/17231545d41969d25731e5601b7223ac.jpg" class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="">
+              </a>              
+     </div>     
+           </div>    <div class="row">  
+<div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">В Петергофе идёт очистка Никольского пруда в Луговом парке</div>
+<a href="/stati/v-petergofe-idet-ochistka-nikolskogo-pruda-v-lugovom-parke">
+
+  <div class="photo_hover mb-2">
+        <img src="files/stat/1644654142.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3">	
+Никольский пруд - это водоем искусственного происхождения. Он располагается на территории Лугового (Озеркового) парка и входит в водоподводящую систему фонтанов ...</div>
+    </a></div>
+        
+        
+<div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Аэродром Новый Петергоф</div>
+<a href="/aerodrom-noviy-petergof">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=7d30044fd224367bb18421d8e142e552.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+К столетию аэродрома Новый Петергоф 1918 - 2018
+
+К 100-летию Морской Авиации Ораниенбауме муниципальная администрация МО г. Ломоносов издала книгу &laquo;В небе Ораниенбаума&raquo; группы авторов (Галина Вабищевич, Владимир Журавлёв и Дмитрий Митюрин). В книге рассказывается, что у морских авиаторов Ораниенбаума история ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+К столетию аэродрома Новый Петергоф 1918 - 2018
+
+К 100-летию Морской Авиации Ораниенбауме муниципальная администрация МО г. Ломоносов издала книгу &laquo;В ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Царская мельница</div>
+<a href="/carskaya-melnica">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=1308240620.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+В Луговом парке вблизи Руинного пруда, несколько к востоку от него, на водопроводном канале находится так называемая Царская мельница. Здание построено, по повелению Императора Николая I, для крестьян соседних деревень. Строил мельницу неизменный помощник Государя во всех его архитектурных затеях, ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+В Луговом парке вблизи Руинного пруда, несколько к востоку от него, на водопроводном канале находится так называемая Царская мельница. Здание ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Петергофский десант</div>
+<a href="/petergofskiy-desant">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=1201540873_M1.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+
+&nbsp;&nbsp;&nbsp;Есть в Нижнем парке Петергофа малоизвестная достопримечательность &ndash; памятник балтийским морякам, участникам морского десанта 5 октября 1941г. Невысокий гранитный постамент редко привлекает внимание посетителей и мало кто знает о случившейся здесь трагедии. Что же произошло в петергофском парке?
+&nbsp;&nbsp;&nbsp; В сентябре ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+
+&nbsp;&nbsp;&nbsp;Есть в Нижнем парке Петергофа малоизвестная достопримечательность &ndash; памятник балтийским морякам, участникам морского десанта 5 октября 1941г. Невысокий гранитный постамент ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Царицын и Ольгин павильоны </div>
+<a href="/tsaricin-i-olgin-paviloni">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=cc29a8a12b84c7216e79db18de1be52c.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+Недалеко от Верхнего сада находится огромный Ольгин пруд. Он был вырыт в 1840-е гг. на месте Охотничьего болота и служил для водоснабжения города и запасов воды для фонтанов. Вырытую землю использовали для устройства на пруду двух островов - Царицына и ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+Недалеко от Верхнего сада находится огромный Ольгин пруд. Он был вырыт в 1840-е гг. на месте Охотничьего болота и служил ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Луговой парк</div>
+<a href="/lugovoy-park">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=cdd25b59f60933859cb26e860c30ef38.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+&nbsp;&nbsp; Луговой (Озерковый) парк. Двухкилометровая липовая аллея, проложенная от Верхнего сада вдоль Самсониевского чугунного водовода, соединяет парковый ансамбль XVIII века с Луговым парком, одним из красивейших ансамблей пейзажного стиля, созданным при Николае I. Территория Лугового парка делится на три района: ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+&nbsp;&nbsp; Луговой (Озерковый) парк. Двухкилометровая липовая аллея, проложенная от Верхнего сада вдоль Самсониевского чугунного водовода, соединяет парковый ансамбль XVIII века ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Собор Петра и Павла</div>
+<a href="/sobor-petra-i-pavla">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=1346062819.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+Гордость Петергофа - Собор святых апостолов Петра и Павла - сияет на солнце позолотой глав, радует сердце и даже в самый мрачный день освящает лик города своей красотой.
+Сегодня уже многие знают имя того, кто дал жизнь этому прекрасному храму. Создателем ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+Гордость Петергофа - Собор святых апостолов Петра и Павла - сияет на солнце позолотой глав, радует сердце и даже в ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Дворец Бельведер</div>
+<a href="/dvorec-belveder">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=1148988853.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+Венчая композицию Лугового парка, на двадцатиметровом Бабигонском холме возвышается величественное здание Бельведера (итал.- прекрасный вид). С верхней галереи Бельведера открываются бескрайние перспективы окрестностей и далей Финского залива; видны подернутые легкой дымкой Кронштадт и Петербург. Местность, на которой построен дворец, известна ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+Венчая композицию Лугового парка, на двадцатиметровом Бабигонском холме возвышается величественное здание Бельведера (итал.- прекрасный вид). С верхней галереи Бельведера открываются ...</div>
+    </a></div>
+       <div class="col-12 col-sm-6 col-md-12">
+<div class="zag m-0 text-uppercase">Отель "Новый Петергоф"</div>
+<a href="/otel-noviy-petergof">
+
+  <div class="photo_hover mb-2">
+        <img src="servis/resize_in.php?pic=109bcc71b789fcc19c7367e145616663.jpg" border="0" class="img-fluid mt-0" style="min-width: 100%">
+</div>
+    <div class="mb-3 d-none d-md-block">	
+
+	Отель &laquo;Новый Петергоф&raquo; находится в центре Петергофа, рядом с главным входом в парк. Из окон отеля открывается прекрасный вид на Верхний парк, живописный берег Ольгиного пруда и на Собор Святых Апостолов Петра и Павла. Элегантные интерьеры отеля и гостеприимный персонал ...</div>
+    <div class="mb-3 d-sm-block d-md-none">	
+
+	Отель &laquo;Новый Петергоф&raquo; находится в центре Петергофа, рядом с главным входом в парк. Из окон отеля открывается прекрасный вид на ...</div>
+    </a></div>
+          
+	
+   
+</div>
+    </div>
+ <div class="col-12 col-sm-12 col-md-5 col-lg-4 col-xl-4 order-2 order-md-2">
+	 <div class="row">
+   <div class="col-12">
+     <div>
+<div class="zag text-uppercase">А Вы знаете, что?...</div>
+<div class="owl-carousel owl-wiev owl-theme-sm">
+          <div><img src="/files/news/1462184313.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>В 1875 году начальник Петергофского дворцового правления Баумгартен зачем-то решил "облагородить" внешний облик "Шахматной горы". По его приказу в бассейне каскада установили перевезенную из Колонистского парка бронзовую скульптуру "Сатир и Нимфа", а верхнюю стенку грота украсили найденным на бронзовой фабрике Шопена в Петербурге орлом с распростертыми крыльями. Эти "новшества" нарушали общую идею и целостность композиции каскада, но тем не менее благополучно простояли до 1941 года. Историческая справедливость своеобразно восторжествовала во время войны: немцы вывезли не только фигуры драконов, но и злополучных орла и сатира с нимфой. Драконов после войны восстановили, а вот о "новшествах" Баумгартена даже не вспомнили.</div></div>
+                    <div><img src="/files/news/1462110379.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>В еде Великий Петр был неприхотлив и умерен. Ему приписывают такие слова: «Какую пользу может принести тело отечеству, когда оно состоит из одного брюха!». Однако любил он угощать и потчевать гостей. По свидетельству иностранцев, двор царя был не менее блестящ, чем двор любого европейского государя. Поводов для праздников в бурное Петрово царствование было предостаточно. Это и военные победы, и спуски на воду новых кораблей, открытие новых дворцов, фонтанов, семейные даты, приемы иностранных дипломатов и купцов. В Петергофе пировали по нескольку суток, и застолья носили самый разгульный характер.</div></div>
+                    <div><img src="/files/news/1462110505.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Когда после войны ремонтировали стрельнинский Деревянный дворец Петра, то под полом нашли старинный саркофаг с изображением гербов, в котором обнаружили находящееся в жидкости тело в старинной воинской форме. Вполне возможно, что это был один из потомков основателя Стрелингофа. В настоящее время Общество ревнителей истории Стрельны собирает сведения об этой легенде.</div></div>
+                    <div><img src="/files/news/1462110570.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Любимая всеми с детства сказка «Три толстяка», снятая по мотивам одноименной сказки Юрия Олеши о ловком канатоходце Тибуле, борющемся вместе с оружейником Просперо и всем трудовым народом против тиранов - трех Толстяков, о смелой и дерзкой акробатке Суок, о добром докторе Гаспаре и о наследнике Тутти. Снималась  в Петергофе в 1966 году, на территории бывших <a href="/imperatorskie-konyushni">Императорских конюшен</a>, сейчас там расположен <a href="/sanatoriy-petrodvorec">Санаторий «Петродворец»</a>.</div></div>
+                    <div><img src="/files/news/1462110886.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Скульптуры укротителей коней на Аничковом мосту, которые придумал любимец Николая I барон Петр Клодт, вызывали такой восторг, что их пришлось повторить для королевского дворца в Берлине, неаполитанского королевского дворца, «Бельведера» в Петергофе и конного двора Кузьминка в подмосковье. После Октябрьской революции <a href="/dvorec-belveder">дворец Бельведер</a> стал домом отдыха трудящихся. Во время Великой Отечественной войны дворец серьезно пострадал, скульптурные группы Клодта безвозвратно исчезли.</div></div>
+                    <div><img src="/files/news/1462111082.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>По задумке Петра Первого в центре большого каскада Петергофских фонтанов должна была находиться фигура Геракла, побеждающего Лернейскую гидру, что символизировало бы победу России в Северной войне. Однако его преемники нашли более удачную символику. Ключевая в той войне Полтавская битва состоялась в день святого Самсония Странноприимца, в связи с этим вспомнили библейскую легенду о Самсоне, голыми руками победившем льва, а ведь именно львы являются ключевыми фигурами на шведском гербе. Так и появился знаменитый фонтан «Самсон, разрывающий пасть льву».</div></div>
+                    <div><img src="/files/news/1462111214.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Самая старая скульптурная группа в Петродворне - «Нептун», она с 1800 года находится в Верхнем саду, создана скульптором и золотых дел мастером Христофором Риттером в 1660 году, всего в композицию группы входит более 30 фигур и декоративных деталей.</div></div>
+                    <div><img src="/files/news/1462111029.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Скульптура «Самсон», раздирающий пасть льва, бронзовая, она весит 5 тонн, высота 3 метра, на покрытие ее ушло 160 грамм золота. «Самсон» один из мощных фонтанов мира, он поднимает на высоту до 20 метров 2800 литров воды в минуту.</div></div>
+                    <div><img src="/files/news/1462108204.jpg" style="max-width: 100%; height: auto; padding-bottom:7px">
+          <div>Воронихинские колоннады построены в 1803 году, их построили из кирпича и покрыли штукатуркой, а через 50 лет при Николае I Штакеншнейдер облицевал их мрамором, употребив 500 тонн этого материала.</div></div>
+           </div>
+	 <div id="yandex_rtb_R-A-163352-2" class="mb-2 mt-2"></div>
+</div>    </div>
+	 <div class="col-12 col-sm-6 col-md-12 col-lg-12 col-xl-12">	
+	 	 </div>         
+    <div class="col-12 col-sm-6 col-md-12 col-lg-12 col-xl-12">		
+    				 <div class="row">
+					 <div class="col-xl-12 zag text-uppercase">Самые посещаемые страницы
+					 </div>
+					 <div class="col-xl-12 text-center"><span class="badge badge-light">сегодня: 12.03.2025</span>
+					 </div>
+					               					 <div class="col-10 size">
+						 <a href="/turistam">Туристам</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">52%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/voennie-godi-i-vosstanovlenie">Восстановление Петергофа в послевоенные </a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">8%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/fontani-i-kaskadi">Фонтаны и каскады Петергофа, информация,</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">8%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/gostevoy-dom-svet-mayaka">Гостевой дом "Свет Маяка"</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">6%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/otel-noviy-petergof">Отель "Новый Петергоф" в самом центре Пе</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">5%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/rozoviy-pavilon">Розовый павильон</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">5%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/novosti/maslenica-v-petergofe-2025">Масленица в Петергофе</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">5%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/put-vodi">Движение воды к фонтанам Петергофа</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">5%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/tuvolkov-vg">Туволков В.Г.</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">4%</span>
+					 </div>					 
+					 					 <div class="col-10 size">
+						 <a href="/foto/starie-otkritki-i-foto">Фотографии Петергофа</a>
+					 </div>
+					 <div class="col-2">
+						 <span class="badge badge-info">4%</span>
+					 </div>					 
+					 					 
+				 </div>
+	 <div id="yandex_rtb_R-A-163352-5" class="mb-2 mt-2"></div>    </div>
+         
+<div class="col-lg-12 d-lg-none">
+	<a href="salon-krasoti-u-vardana">
+        <div class="bg-secondary text-white p-1 mb-2 mt-2 d-flex align-items-stretch">
+			<div class="pr-2">
+      <img src="/images/index/vardan-s.png" width="75" height="54" alt=""/>
+				</div><div class="d-flex align-items-center">Салон красоты "У Вардана" - стильные стрижки по доступным ценам в Новом Петергофе!</div>
+         </div>
+		</a>
+	<a href="language-link-v-petergofe">
+	        <div class="bg-warning text-white p-1 mb-2 mt-2">
+      Language LINK в Петергофе – это курсы английского языка с преподавателями из Великобритании, США, Канады, Австралии, России для взрослых и детей от 3-х лет.
+         </div> </a>
+</div>
+            
+</div>
+</div>      </div>
+    </div>
+    
+    <!--Центральная часть конец--> 
+    
+  </div>
+  <div class="footer">
+        <style type="text/css">
+  .YMaps-b-balloon-content {
+	min-width: 100px!important;
+	max-width: 300px!important;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+  }
+</style>
+<!-- блок карты  (начало) -->
+<script src="https://api-maps.yandex.ru/1.1/?key=AJAAnE0BAAAA77akTgIArZAQafn7tTE9R3fId-kliBTE_EIAAAAAAAAAAAAmC9k8h2sokuI9ljzlbaILoMLa_Q==&modules=pmap&wizard=constructor" type="text/javascript"></script>
+<script type="text/javascript">
+    YMaps.jQuery(window).load(function () {
+        var map = new YMaps.Map(YMaps.jQuery("#YMapsID-3651")[0]);
+        map.setCenter(new YMaps.GeoPoint(29.910787616229346,59.87985229271946), 15, YMaps.MapType.MAP);
+		           map.addControl(new YMaps.TypeControl());
+           map.addControl(new YMaps.ToolBar());
+           map.addControl(new YMaps.SmallZoom());
+           map.addControl(new YMaps.ScaleLine());
+          // map.addControl(new YMaps.SearchControl()); 
+				//Колонистский парк
+		var polygon = new YMaps.Polygon([ new YMaps.GeoPoint(29.906522,59.879672),new YMaps.GeoPoint(29.903261,59.873383),new YMaps.GeoPoint(29.905321,59.873135),new YMaps.GeoPoint(29.911672,59.87293),new YMaps.GeoPoint(29.91414,59.877321),new YMaps.GeoPoint(29.91378,59.877574),new YMaps.GeoPoint(29.913343,59.877571),new YMaps.GeoPoint(29.912545,59.877969),new YMaps.GeoPoint(29.911619,59.878238),new YMaps.GeoPoint(29.910406,59.87854),new YMaps.GeoPoint(29.908716,59.878928),new YMaps.GeoPoint(29.907971,59.87909),new YMaps.GeoPoint(29.907912,59.879494)
+                                ]);
+								polygon.name = "Колонистский парк";
+            polygon.description = "Небольшой Колонистский парк площадью всего в 29 гектаров расположен вблизи Верхнего сада. Значительную его часть занимает обширный Ольгин пруд с двумя островками, окаймленный аллеей серебристых ив."; 
+map.addOverlay(polygon);
+
+var style = new YMaps.Style();
+style.polygonStyle = new YMaps.PolygonStyle();
+style.polygonStyle.fill = true;
+style.polygonStyle.outline = true;
+style.polygonStyle.strokeWidth = 3;
+style.polygonStyle.strokeColor = "41414150";
+style.polygonStyle.fillColor = "4AE4FD50";
+polygon.setStyle(style);
+map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.896071,59.888933), "default#fishingIcon", "<b>Рыбалка в Нижнем парке Петергофа</b> <p>В Секторальных прудах перед дворцом Марли расположена историческая рыбная ловля. Посетителям предлагается поймать рыбу, оплатив ее стоимость. Предоставляются необходимые снасти.</p> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.946831, 59.875244), "default#bicycleIcon", "<b>Прокат велосипедов, роликов, а зимой ватрушек</b> <p>Петергоф &ndash; это идеальное место для велопрогулок. Исторический садово-парковый ансамбль из 14 парков с системой водоводов на берегу Финского залива. И никаких автомобилей.</p> <br><a href=/veloekskursii-v-petergofe target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.91241,59.87885), "default#greySmallPoint", "<b>Собор Петра и Павла</b> <p>Гордость Петергофа - Собор святых апостолов Петра и Павла - сияет на солнце позолотой глав, радует сердце и даже в самый мрачный день освящает лик города своей красотой.</p> <br><a href=/sobor-petra-i-pavla target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.910179,59.879217), "default#campingIcon", "<b>Отель \"Новый Петергоф\"</b> <p>Отель &quot;Новый Петергоф&quot; находится в центре Петергофа. Из окон отеля открывается прекрасный вид на Верхний парк, живописный берег Ольгиного пруда и на Собор Святых Апостолов Петра и Павла.</p> <br><a href=/otel-noviy-petergof target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.924282,59.87408), "default#stadiumIcon", "<b>Стадион \"Ракета\"</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.925456,59.864009), "default#trainIcon", "<b>Здание вокзала - платформа \"Новый Петергоф\"</b> <p>Здание вокзала было возведено в 1854-1857-х годах по проекту Н. Л. Бенуа (1813-1898). Центральная часть вокзала - дебаркадер - перекрыта металлическими фермами. Западный фасад здания трактован в виде четырехярусной башни, по сторонам которой находятся стрельчатые арки для прохода составов.</p> <br><a href=/petergofskiy-vokzal target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.912067,59.890238), "default#shipIcon", "<b>Причал в \"Нижнем\" парке</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.907453,59.879756), "default#campingIcon", "<b>Отель \"Самсон\"</b> <p>В гостинице смогут разместиться 135 человек в 59 номерах. Отель располагает 3 одноместными номерами, 29 двухместными, 14 трехместными, 10 номерами &ldquo;Люкс&rdquo; и 3 номерами для людей с ограниченными физическими возможностями. Во всех номерах к Вашим услугам: ванная комната, фен, мини-бар, кондиционер, телефон, сейф, спутниковое ТВ, доступ в Интернет. Номера люкс оснащены DVD плеером.</p> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.892583,59.881859), "default#buildingsIcon", "<b>ТРК \"Ракета\"</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.917131,59.877059), "default#hospitalIcon", "<b>\"Николаевская\"&nbsp;больница</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.916037,59.87611), "default#cinemaIcon", "<b>Культурный центр \"Каскад\"</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.879043,59.848429), "default#campingIcon", "<b>Гостиница \"Императорский Бельведер\"</b> <p>Гостиница &laquo;Императорский Бельведер&raquo; расположена на территории просторного Лугового парка на двадцатиметровой Бабигонской возвышенности. Из окон гостиницы открывается вид на Дворец Бельведер, творение архитектора А. И. Штакеншнейдера.</p> <br><a href=/gostinica-imperatorskiy-belveder target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.902175,59.884814), "default#carIcon", "<b>Платная парковка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.906316,59.880047), "default#carIcon", "<b>Парковка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.890888,59.882776), "default#gasStationIcon", "<b>Заправка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.95451,59.860994), "default#gasStationIcon", "<b>Заправка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.908204,59.879734), "default#restaurauntIcon", "<b>Ресторан \"Самсон\"</b> <p>Ресторан &laquo;Самсон&raquo; на 90 посадочных мест и банкетным залом на 20 мест предлагает насладиться русской и европейской кухней под аккомпанемент живой музыки в классическом и джазовом стиле. Для ценителей русской кухни будет предложено царское меню, блюда которого приготовлены по рецептам XVIII-XIX веков, бережно хранимыми в архивах Дворца.</p> <br><a href=/restoran-samson target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.843456,59.87916), "default#campingIcon", "<b>Отель-коттедж \"Ф&Ф\"</b> <p>Отель расположен между Старым Петергофом и Университетом. В отеле пять уютных номеров, каждый из которых оформлен по-своему. Возможно одно- двух- и трехместное размещение.</p> <br><a href=/otel-kottedj-f-f target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.908516,59.887979), "default#restaurauntIcon", "<b>Ресторан \"Штандарт\"</b> <p>В самом центре Нижнего парка в окружении фонтанов Петергофа расположен ресторан &quot;Штандарт&quot;. Раньше на этом месте располагался Иллюминационный двор, служивший для хранения пиротехники, а также склад - &quot;Шлюпный элинг&quot;, построенный еще при Петре I.</p> <br><a href=/restoran-shtandart target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.992385,59.860127), "default#campingIcon", "<b>Отель \"Гранд Петергоф\"</b> <p>&quot;Гранд Петергоф Спа Отель&quot; - это новый загородный отель в стиле дворянской усадьбы XIX века, расположенный между Константиновским Дворцом и Государственным музеем-заповедником &quot;Петергоф&quot;.</p> <br><a href=/otel-grand-petergof target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.885438,59.884092), "default#greySmallPoint", "<b>Мемориал «Приморский»</b> <p>Приморский мемориальный комплекс, также Приморский мемориал - комплекс мемориальных сооружений Зелёного пояса Славы, расположен в Петергофе вблизи Петродворцового часового завода и Английского парка.</p> <br><a href=/memorial-primorskiy target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.851062,59.89241), "default#greySmallPoint", "<b>Конный клуб \"Аргамак\"</b> <p>Конный клуб &quot;Аргамак&quot; находится в живописном парке на территории бывшей императорской Собственной дачи.</p> <br><a href=/konniy-klub-argamak target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.924254,59.879124), "default#campingIcon", "<b>Санаторий \"Петродворец\" (бывшие императорские конюшни)</b> <p>В Петергофе с времен Петра Великого для царского двора сооружались подсобные помещения, которые мало чем отличались от дворцов. Особый интерес представляют постройки возведенные архитектором Бенуа.</p> <br><a href=/sanatoriy-petrodvorec target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.976848,59.866573), "default#restaurauntIcon", "<b>Ресторан \"Летний дворец\"</b> <p>&quot;Летний Дворец&quot; - ресторанно-гостиничный комплекс, расположенный на Санкт-Петербургском шоссе, неподалеку от знаменитых фонтанов Петергофа. Интерьеры ресторана выдержаны в дворцовом стиле XVIII-XIX веков и производят яркое впечатление богатством и изяществом убранства.</p> <br><a href=/restoran-letniy-dvorec target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.902132,59.882042), "default#restaurauntIcon", "<b>Ресторан \"Funny Family\"</b> <p>Funny Family &ndash; уютный, ресторан, расположившийся рядом с Верхним садом дворцово-паркового ансамбля &laquo;Петергоф&raquo;.</p> <br><a href=/semeyniy-restoran-family target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.91373,59.884442), "default#restaurauntIcon", "<b>Ресторан \"Большая оранжерея\"</b> <p>В ресторане, удобно расположенном в чудесных садах нижнего парка, вы сможете оценить истинно российское гостеприимство. В зависимости от формы обслуживания, в двух залах ресторана можно принять до 350 гостей.</p> <br><a href=/restoran-bolshaya-oranjereya target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.861566,59.877057), "default#gymIcon", "<b>Спортивный клуб \"Соболь\"</b> <p>В Петергофе уже более 4х лет находится Спортивный Клуб Соболь. В стенах клуба находятся тренажёрные и танцевальные залы.</p> <br><a href=/sportivniy-klub-sobol target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.897647,59.86367), "default#greySmallPoint", "<b>Павильон \"Озерки\" (Розовый павильон)</b> <p>Павильон построен по проекту Штакеншнейдера в 1848 году в греко-римском (помпейском) стиле. С южной стороны его полукруглая ниша с колоннами, посреди ниши - скамейка. В другой нише бронзовая статуя Императрицы Александры Феодоровны.</p> <br><a href=/rozoviy-pavilon target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.892326,59.869874), "default#greySmallPoint", "<b>Никольский домик</b> <p>У северного конца Никольского пруда, там, где воды его сбегают вниз, чтобы в виде речки достичь Английского пруда, стоит красивый двухэтажный сельский домик, носящий название Никольского.</p> <br><a href=/nikolskiy-domik target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.879687,59.848451), "default#greySmallPoint", "<b>Дворец \"Бельведер\" </b> <br><a href=/dvorec-belveder target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.893806,59.854593), "default#greySmallPoint", "<b>Царская мельница</b> <p>В Луговом парке вблизи Руинного пруда, несколько к востоку от него, на водопроводном канале находится так называемая Царская мельница. Здание построено, по повелению Императора Николая I, для крестьян соседних деревень.</p> <br><a href=/carskaya-melnica target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.878329,59.83881), "default#campingIcon", "<b>Грин отель</b> <br><a href=/grin-otel target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.89018,59.882161), "default#greySmallPoint", "<b>Музей часов</b> <p>Музей часов основан в конце 70-х годов на базе Петродворцового часового завода. Сегодня это уникальный, единственный в России музей часов, который посетили уже десятки жителей России и Запада.</p> <br><a href=/petrodvorcoviy-muzey-chasov target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.908247,59.872593), "default#greySmallPoint", "<b>Центральная районная библиотека</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.98159,59.868083), "default#greySmallPoint", "<b>Русская деревня \"Шуваловка\"</b> <p>Всего каких-то тридцать минут езды от Петербурга, и вы в настоящей сказке - в русской деревне &laquo;Шуваловка&raquo;. Несколько веков назад, в 1714 году, по указу Петра I эта земля на берегу Финского залива &laquo;была отдана в пользование&raquo;.</p> <br><a href=/russkaya-derevnya-shuvalovka target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.932623,59.879454), "default#greySmallPoint", "<b>Парк Александрия</b> <p>Дворцово-парковый ансамбль &quot;Александрия&quot; - резиденция русских императоров XIX - начала XX веков. Расположенная восточнее Нижнего парка, она отделена от него каменной стеной, которую прорезают Звериные, Никольские и Морские ворота, а с другой стороны граничит с усадьбой Знаменка.</p> <br><a href=/park-aleksandriya target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.89459,59.881417), "default#greySmallPoint", "<b>Language Link  в Петергофе</b> <br><a href=/language-link-v-petergofe target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.905801,59.883935), "default#greySmallPoint", "<b>ГМЗ \"Петергоф\"</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.9019685129884,59.88264576306546), "default#carIcon", "<b>Большая платная парковка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.903108,59.884135), "default#carIcon", "<b>Платная парковка</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.792526,59.987253), "", "<b>Кронштадт</b> "));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.949747,59.873445), "default#campingIcon", "<b>Гостиница \"Александрия-Петергоф\"</b> <br><a href=/gostinica-aleksandriya-petergof target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.878164,59.835957), "default#greySmallPoint", "<b>Посёлок \"Низино\"</b> <p>Местность известна с XV века под названием Поповой горы, что в шведских писцовых книгах и на картах было обозначено как Pappingondo (Поповский приход).</p> <br><a href=/poselok-nizino target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.880127,59.84093), "default#greySmallPoint", "<b>Церковь во имя святой мученицы царицы Александры</b> <p>К юго-востоку от Бельведера расположена красивая каменная церковь, стоящая на отдельном холме среди небольшой рощицы. Церковь эта была выстроена А. Штакеншнейдером в 1854 году по желанию Николая I.</p> <br><a href=/cerkov-svmc-aleksandri target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.899285,59.874171), "default#restaurauntIcon", "<b>Кафе \"Truffe\"</b> <br><a href=/kafe-truffe target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.88988,59.882113), "default#restaurauntIcon", "<b>Ресторан \"Авиатор\"</b> <br><a href=/restoran-aviator target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.89154291, 59.88127314), "default#restaurauntIcon", "<b>Пиццерия \"L\'Americano\"</b> <br><a href=/picceriya-lamericano target=_parent>Смотреть на сайте</a>"));map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(30.058189229814417,59.853893392990635), "default#greySmallPoint", "<b>Константиновский дворец</b> "));    
+        function createObject (type, point, style, description) {
+            var allowObjects = ["Placemark", "Polyline", "Polygon"],
+                index = YMaps.jQuery.inArray( type, allowObjects),
+                constructor = allowObjects[(index == -1) ? 0 : index];
+                description = description || "";
+            
+            var object = new YMaps[constructor](point,{style: style});
+            object.description = description;
+            
+            return object;
+        }
+    });
+</script>
+<div id="YMapsID-3651" class="y-map mb-2"></div>    <div class="container footer_line pb-0" >
+      <div class="row justify-content-between pt-2" style="height: 70px">
+        <div class="col-sm-auto col-12 mb-2 text-center"> 
+          <!-- Rating@Mail.ru counter --> 
+          <script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "820956", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script>
+          <noscript>
+          <div> <img src="https://top-fwz1.mail.ru/counter?id=820956;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" /> </div>
+          </noscript>
+          <!-- //Rating@Mail.ru counter --> 
+          <!-- Rating@Mail.ru logo --> 
+          <a href="https://top.mail.ru/jump?from=820956" target="new"> <img src="https://top-fwz1.mail.ru/counter?id=820956;t=602;l=1" style="border:0;" height="40" width="88" alt="Top.Mail.Ru" /></a> 
+          <!-- Yandex.Metrika informer --> 
+          <a href="https://metrika.yandex.ru/stat/?id=4722598&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/4722598/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="4722598" data-lang="ru" /></a> 
+          <!-- /Yandex.Metrika informer --> 
+          
+          <!-- Yandex.Metrika counter --> 
+          <script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(4722598, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+          <noscript>
+          <div><img src="https://mc.yandex.ru/watch/4722598" style="position:absolute; left:-9999px;" alt="" /></div>
+          </noscript>
+        </div>
+        <div class="col-sm-auto col-12 text-center text-12"> При использование информации<br>
+          с сайта, активная ссылка на<br>
+          www.peterhof.ru, обязательна </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Модальное окно -->
+<div class="modal fade" id="access_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div id="info"></div>
+  </div>
+</div>
+<!-- Модальное окно фото-->
+<div class="modal fade" style="z-index: 1045" id="photo_modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-main" role="document">
+    <div id="photoinfo"></div>
+  </div>
+</div>
+<script>
+		$( ".owl-nabor" ).owlCarousel( {
+			items: 5,
+			stagePadding: 25,
+			loop: false,
+			nav: false,
+			smartSpeed: 500,
+			margin: 10,
+			autoplay: false,
+			autoplayTimeout: 3000,
+			autoHeight: true,
+			responsiveClass: false,
+			autoplayHoverPause: true,
+			responsive: {
+				0: {
+					items: 3
+				},
+				600: {
+					items: 4
+				},
+                760: {
+					items: 4
+				}
+			}
+		} );
+    $( ".owl-galerei" ).owlCarousel( {
+			items: 5,
+			loop: false,
+			nav: false,
+			smartSpeed: 500,
+			margin: 10,
+			autoplay: false,
+			autoplayTimeout: 3000,
+			autoHeight: true,
+			responsiveClass: false,
+			autoplayHoverPause: true,
+			responsive: {
+				0: {
+					items: 3
+				},
+				600: {
+					items: 4
+				},
+                760: {
+					items: 5
+				}
+			}
+		} );
+    		$( ".owl-photo" ).owlCarousel( {
+			items: 5,
+			loop: false,
+			nav: false,
+			smartSpeed: 500,
+			margin: 10,
+			autoplay: false,
+			autoplayTimeout: 3000,
+			autoHeight: true,
+			responsiveClass: false,
+			autoplayHoverPause: true,
+			responsive: {
+				0: {
+					items: 2
+				},
+				500: {
+					items: 3
+				},
+                760: {
+					items: 4
+				}
+			}
+		} );
+	$( ".owl-news" ).owlCarousel( {
+			items: 5,
+			loop: false,
+			nav: false,
+			smartSpeed: 500,
+			margin: 10,
+			autoplay: false,
+			autoplayTimeout: 3000,
+			autoHeight: true,
+			responsiveClass: false,
+			autoplayHoverPause: true,
+			responsive: {
+				0: {
+					items: 5,
+					nav: false
+				},
+				600: {
+					items: 10,
+					nav: false
+				},
+				1000: {
+					items: 10,
+					nav: false,
+				}
+			}
+		} );
+    	$( ".owl-ads" ).owlCarousel( {
+			items: 4,
+			loop: false,
+			nav: false,
+			smartSpeed: 500,
+			margin: 10,
+			autoplay: false,
+			autoplayTimeout: 3000,
+			autoHeight: true,
+			responsiveClass: false,
+			autoplayHoverPause: true,
+			responsive: {
+				0: {
+					items: 1,
+					nav: false
+				},
+                450: {
+					items: 2,
+					nav: false
+				},
+				800: {
+					items: 3,
+					nav: false
+				},
+				1000: {
+					items: 4,
+					nav: false,
+				}
+			}
+		} );
+		$( ".owl-big" ).owlCarousel( {
+			items: 1,
+			loop: true,
+			nav: true,
+			smartSpeed: 800,
+			margin: 0,
+			autoplay: true,
+			autoplayTimeout: 8000,
+			autoHeight: false,
+			dots: false,
+			autoplayHoverPause: true,
+			navText: ['<span class="fas fa-chevron-left"></span>','<span class="fas fa-chevron-right"></span>']
+		} );
+		$( ".owl-wiev" ).owlCarousel( {
+			items: 1,
+			loop: true,
+			nav: false,
+			smartSpeed: 800,
+			margin: 0,
+			autoplay: true,
+			autoplayTimeout: 8000,
+			autoHeight: true,
+			dots: true,
+			autoplayHoverPause: true
+		} );
+	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/popper.min.js"></script>
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<!--Скрипт для переключения вкладок-->
+<script>
+$(document).ready(function(){
+    $(".nav-tabs a").click(function(){
+        $(this).tab('show');
+    });
+});
+	$(document).ready(function() {
+    if(location.hash) {
+        $('a[href=' + location.hash + ']').tab('show');
+    }
+    $(document.body).on("click", "a[data-toggle]", function(event) {
+        location.hash = this.getAttribute("href");
+    });
+});
+$(window).on('popstate', function() {
+    var anchor = location.hash || $("a[data-toggle=tab]").first().attr("href");
+    $('a[href=' + anchor + ']').tab('show');
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover({
+		html: true
+    });
+});
+	$(function () {
+  $('[data-toggle="tooltip"]').tooltip({
+    html: true  
+  })
+});
+    $('.collapse').collapse('hide')
+</script>
+<script type="text/javascript" src="/js/bootstrap-filestyle.min.js"></script>
+<script type="text/javascript">
+			$('#files').filestyle({
+				text : 'Выбрать файлы',
+				btnClass : 'btn-danger',
+				buttonBefore : true,
+				placeholder : 'файлы в формате JPEG или JPG',
+				htmlIcon: '<span class="far fa-images"></span> ',
+				badge: true
+			});
+
+	</script>
+<script>
+Fancybox.bind('[data-im="album"]', {
+dragToClose: false,
+Thumbs: false,
+Toolbar: false,
+infinite: false,
+closeButton: "top",        
+Toolbar: {
+display: [
+      { id: "counter", position: "center" },
+      "zoom",
+      "slideshow",
+      "thumbs",
+      "close",
+    ],
+  },
+  Image: {
+  zoom: false,
+  },
+/*Carousel: {
+    Navigation: {
+      prevTpl:
+        '<i class="fas fa-chevron-circle-left fa-3x"></i>',
+      nextTpl:
+        '<i class="fas fa-chevron-circle-right fa-3x"></i>',
+    },
+  },*/
+	l10n: {
+		CLOSE:"Закрыть",
+		NEXT:"Следующая",
+		PREV:"Предыдущая",
+		MODAL:"Закрыть окно можно нажав ESC",
+		ERROR:"Что-то пошло не так. Пожалуйста, повторите попытку позже",
+		IMAGE_ERROR:"Изображение не найдено",
+		ELEMENT_NOT_FOUND:"HTML элемент не найден",
+		AJAX_NOT_FOUND:"Ошибка загрузки AJAX: не найден",
+		AJAX_FORBIDDEN:"Ошибка при загрузке AJAX: запрещено",
+		IFRAME_ERROR:"Ошибка загрузки страницы",
+		TOGGLE_ZOOM:"Увеличить изображение",
+		TOGGLE_THUMBS:"Включить миниатюры",
+		TOGGLE_SLIDESHOW:"Включить слайд-шоу",
+		TOGGLE_FULLSCREEN:"Полноэкранный режим",
+		DOWNLOAD:"Сохранить"
+	}
+});   
+    </script>
+<script type="text/javascript" src="/js/send_pass.js"></script></body>
+</html>

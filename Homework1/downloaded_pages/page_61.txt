@@ -1,0 +1,565 @@
+<html xmlns:umi="http://www.umi-cms.ru/TR/umi">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta>
+<link rel="apple-touch-icon" sizes="57x57" href="/templates/new/images/new1/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/templates/new/images/new1/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/templates/new/images/new1/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/templates/new/images/new1/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/templates/new/images/new1/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/templates/new/images/new1/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/templates/new/images/new1/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/templates/new/images/new1/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/templates/new/images/new1/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/templates/new/images/new1/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/templates/new/images/new1/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/templates/new/images/new1/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/templates/new/images/new1/favicon.ico">
+<link rel="manifest" href="/templates/new/images/new1/manifest.json">
+<link rel="stylesheet" href="/templates/new/css/jquery.arcticmodal-0.3.css">
+<link rel="stylesheet" href="/templates/new/css/style.css?2">
+<link href="https://fonts.googleapis.com/css?family=Alice&amp;display=swap&amp;subset=cyrillic,cyrillic-ext" rel="stylesheet">
+<title>Государственный дворцово-парковый музей-заповедник «Останкино и Кусково»</title>
+<script>
+                    function reCaptchaLoad(){
+                    var items =  $('div[data-captcha ^="captcha"]'), reCap;
+                    $.each( items, function( key, value ) {
+
+                    reCap =  grecaptcha.render($(this).attr('id'), {
+                    'sitekey' : '6Ldo68IUAAAAAO6YfofuHQ3sk-C_pG5BqvhkZLEt',
+                    'theme' : 'light',
+                    'callback' : function(){
+                    $('input.captcha').val(1);
+                    }
+                    });
+                    });
+
+                    }
+                </script><script src="https://culturaltracking.ru/static/js/spxl.js?pixelId=2289" data-pixel-id="2289"></script><script src="https://www.google.com/recaptcha/api.js?onload=reCaptchaLoad&amp;render=explicit" async="async" defer></script><script src="/templates/new/js/jquery.js"></script><script type="text/javascript">var site = {};site = {module : 'content',method : 'content',domain : 'kuskovo.ru',domain_id : '7',domain_url : 'https://kuskovo.ru',system_build : '91974',lang : 'ru',lang_id : '1',header : 'Государственный дворцово-парковый музей-заповедник «Останкино и Кусково»',title : 'ГМЗ «Останкино и Кусково»',site_name : 'kuskovo',request_url : 'https://kuskovo.ru/',template_id : '28',pageId : '5757',is_default : '1',request_uri : '/'};site.user = {id : '13',type : 'guest'};site.page = {id : '5757',parentId : '0',link : '/',object_id : '36376',type_id : '52',type_guid : 'content-page',alt_name : 'main',update_time : '1675409913',is_default : '1',is_active : '1'};site.template_resources = '/templates/new/';</script><!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','//mc.yandex.ru/metrika/tag.js', 'ym');
+
+    ym(40520945, 'init', {accurateTrackBounce:true, trackLinks:true, webvisor:true, clickmap:true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/40520945" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script src="https://planograph.net/js/run.js"></script>
+</head>
+<body class="main-page">
+<div class="burgermenu"><div class="burgermenu__content">
+<div class="header__logo">
+<a class="header__department" href="https://www.mos.ru/kultura/" target="_blank"><img class="header__department-logo" src="/images/new/logo-department.png" alt="Департамент Культуры г. Москвы" title="Департамент Культуры г. Москвы" role="presentation" style="width: 195px;"></a><span class="header__logo-link"><img src="/images/new/logo.png" alt="Логотип" class="header__logo-img"></span>
+</div>
+<nav class="header-mini__menu"><ul class="header-mini__menu-list">
+<li class="header-mini__menu-item"><a href="/posetitelyam/rezhim-raboty-muzeya/" class="header-mini__menu-link" alt="Режим работы " title="Режим работы ">Режим работы </a></li>
+<li class="header-mini__menu-item"><a href="/posetitelyam/stoimost_biletov/" class="header-mini__menu-link" alt="Билеты" title="Билеты">Билеты</a></li>
+<li class="header-mini__menu-item"><a href="https://kids.kuskovo.ru/main/" class="header-mini__menu-link" alt="Музей-детям" title="Музей-детям">Музей-детям</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/exhibitions/" class="header-mini__menu-link" alt="Выставки" title="Выставки">Выставки</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/concerts/" class="header-mini__menu-link" alt="Концерты" title="Концерты">Концерты</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/excursions/" class="header-mini__menu-link" alt="Экскурсии" title="Экскурсии">Экскурсии</a></li>
+<li class="header-mini__menu-item"><a href="/blog/" class="header-mini__menu-link" alt="Наш блог" title="Наш блог">Наш блог</a></li>
+<li class="header-mini__menu-item"><a href="https://vk.com/share.php?url=http://kuskovo.foxinet.ru" class="header-mini__menu-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 0 512 512.001" width="512pt"><path d="m328.289062 344.289062c-22.851562 0-43.585937 9.199219-58.730468 24.074219l-109.609375-77.191406c4.96875-10.707031 7.761719-22.617187 7.761719-35.171875s-2.792969-24.46875-7.761719-35.171875l109.609375-77.191406c15.140625 14.875 35.878906 24.074219 58.730468 24.074219 46.242188 0 83.855469-37.617188 83.855469-83.855469s-37.613281-83.855469-83.855469-83.855469c-46.238281 0-83.855468 37.617188-83.855468 83.855469 0 12.558593 2.792968 24.46875 7.761718 35.171875l-109.609374 77.191406c-15.140626-14.875-35.878907-24.074219-58.730469-24.074219-46.238281 0-83.855469 37.617188-83.855469 83.855469s37.617188 83.855469 83.855469 83.855469c22.851562 0 43.589843-9.199219 58.730469-24.074219l109.609374 77.191406c-4.96875 10.707032-7.761718 22.617188-7.761718 35.171875 0 46.238281 37.617187 83.855469 83.855468 83.855469 46.242188 0 83.855469-37.617188 83.855469-83.855469s-37.613281-83.855469-83.855469-83.855469zm-53.734374 83.855469c0-29.632812 24.105468-53.738281 53.734374-53.738281 29.632813 0 53.738282 24.109375 53.738282 53.738281 0 29.628907-24.105469 53.738281-53.738282 53.738281-29.628906 0-53.734374-24.109374-53.734374-53.738281zm-190.699219-118.40625c-29.632813 0-53.738281-24.109375-53.738281-53.738281s24.109374-53.738281 53.738281-53.738281c29.632812 0 53.738281 24.109375 53.738281 53.738281s-24.105469 53.738281-53.738281 53.738281zm190.699219-225.882812c0-29.628907 24.105468-53.738281 53.734374-53.738281 29.632813 0 53.738282 24.109374 53.738282 53.738281 0 29.632812-24.105469 53.738281-53.738282 53.738281-29.628906 0-53.734374-24.109375-53.734374-53.738281zm0 0"></path></svg></a></li>
+</ul></nav><a class="footer__phone" style="    white-space: nowrap;" href="tel:%0A+74953753131%0A">
+                    +7 495 375 31 31
+                </a><div class="footer__border footer__write-us"><a href="/fr1/"><img src="/templates/new/images/envelope.svg">
+                        Напишите нам
+                    </a></div>
+<span><a href="https://ostankino-museum.ru/"><img src="/images/new/logo-ostankino.png" alt="Логотип"></a></span>
+</div></div>
+<div class="info-top"><div class="container"><div class="info-top__inner">
+<img src="/templates/new/images/help.png" class="info-top__icon"><p>Перед прогулкой по музею рекомендуем ознакомиться с разделом <a href="https://kuskovo.ru/posetitelyam/independent_visit/">"Самостоятельное посещение"</a></p><div class="info-top__close"><img src="/templates/new/images/close.png" alt="x"></div>
+</div></div></div>
+<div class="wrap">
+<header class="header hidden-xs"><div class="container"><div class="header__inner">
+<div class="header__left">
+<a href="https://www.mos.ru/kultura/" class="header__department" target="_blank"><img class="header__department-logo" src="/images/new/logo-department.png" alt="Департамент Культуры г. Москвы" title="Департамент Культуры г. Москвы" role="presentation" style="width: 195px;"></a><span class="header__logo"><img src="/images/new/logo.png" alt="Логотип"></span>
+</div>
+<div class="header__right">
+<div class="header__top-links">
+<span class="header__logo__ostankino"><a href="https://ostankino-museum.ru/"><img src="/images/new/logo-ostankino.png" alt="Логотип" class="header__logo__ostankino"></a></span><a class="header__top-links-item" style="    white-space: nowrap;" href="tel:%0A+74953753131%0A">
+                                +7 495 375 31 31
+                            </a><a href="/our-events/excursions/" class="header__top-links-item" alt="Экскурсии" title="Экскурсии">Экскурсии</a><a href="https://kuskovo.ru/muzej/vklad_v_muzey/" class="header__top-links-item" alt="Сделать вклад" title="Сделать вклад">Сделать вклад</a>
+</div>
+<nav class="header__menu"><ul class="header__menu-list">
+<li class="header__menu-item"><a href="/posetitelyam/rezhim-raboty-muzeya/" class="header__menu-link" alt="Режим работы" title="Режим работы">Режим работы</a></li>
+<li class="header__menu-item"><a href="/posetitelyam/stoimost_biletov/" class="header__menu-link" alt="Билеты" title="Билеты">Билеты</a></li>
+<li class="header__menu-item"><a href="/our-events/concerts/" class="header__menu-link" alt="Концерты" title="Концерты">Концерты</a></li>
+<li class="header__menu-item"><a href="/our-events/exhibitions/" class="header__menu-link" alt="Выставки" title="Выставки">Выставки</a></li>
+<li class="header__menu-item"><a href="https://kids.kuskovo.ru" class="header__menu-link" alt="Музей-детям" title="Музей-детям">Музей-детям</a></li>
+<li class="header__menu-item"><a href="/blog/" class="header__menu-link" alt="Наш блог" title="Наш блог">Наш блог</a></li>
+</ul></nav>
+</div>
+</div></div></header><header class="header-mini"><div class="container"><div class="header-mini__inner">
+<div class="header-mini__left">
+<div class="burgermenu__toggle hidden-gt-xs"></div>
+<div class="header-mini__logo"><span class="header-mini__logo-link"><img src="/images/new/logo-mini.png" alt="Кусково"></span></div>
+</div>
+<div class="header-mini__link-mobile hidden-gt-xs"><a href="http://restoration.kuskovo.ru" class="btn btn__primary-transparent">Сделать вклад</a></div>
+<nav class="header-mini__menu hidden-xs"><ul class="header-mini__menu-list">
+<li class="header-mini__menu-item"><a href="/posetitelyam/rezhim-raboty-muzeya/" class="header-mini__menu-link" alt="Режим работы " title="Режим работы ">Режим работы </a></li>
+<li class="header-mini__menu-item"><a href="/posetitelyam/stoimost_biletov/" class="header-mini__menu-link" alt="Билеты" title="Билеты">Билеты</a></li>
+<li class="header-mini__menu-item"><a href="https://kids.kuskovo.ru/main/" class="header-mini__menu-link" alt="Музей-детям" title="Музей-детям">Музей-детям</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/exhibitions/" class="header-mini__menu-link" alt="Выставки" title="Выставки">Выставки</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/concerts/" class="header-mini__menu-link" alt="Концерты" title="Концерты">Концерты</a></li>
+<li class="header-mini__menu-item"><a href="/our-events/excursions/" class="header-mini__menu-link" alt="Экскурсии" title="Экскурсии">Экскурсии</a></li>
+<li class="header-mini__menu-item"><a href="/blog/" class="header-mini__menu-link" alt="Наш блог" title="Наш блог">Наш блог</a></li>
+</ul></nav>
+</div></div></header><section class="slider-main m-main is-top"><div class="slider-main__item">
+<img src="./images/1_NEW/TOP/territoriya-keramiki---1.jpg" alt='Выставка "Территория керамики"'><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">ТЕРРИТОРИЯ</div>
+<div class="slider-main__title-color">КЕРАМИКИ</div>
+<div class="slider-main__text"><p>Керамика стала первым искусственным материалом на основе природного, позволившим человеку впервые испытать чувство со-Творения. Необыкновенно вариативная по составу и методам обработки, с широким спектром декоративных качеств, она оказалась востребованной у разных народов в самых удаленных уголках земли.</p></div>
+<a href="https://kuskovo.ru/our-events/exhibitions/territoriya_keramoki/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/banner.jpg" alt='Выставка "Поэзия японской керамики"'><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Поэзия</div>
+<div class="slider-main__title-color">японской керамики</div>
+<div class="slider-main__text"><p>Выставочный проект, посвященный теме единства образной системы японской керамики и поэзии.</p></div>
+<a href="https://kuskovo.ru/our-events/exhibitions/poesia_yaponskoy_keramiki/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/shahmaty.jpg" alt="ШАХМАТЫ"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">ШАХМАТЫ</div>
+<div class="slider-main__title-color">Фарфоровая партия</div>
+<div class="slider-main__text"><p>Выставка посвящена искусству фарфоровых шахмат XX-XXI веков и приурочена к 125-летию Первого Всероссийского шахматного турнира, состоявшегося в Москве в сентябре 1899 года</p></div>
+<a href="https://kuskovo.ru/our-events/exhibitions/shahmati/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/kobal_t-5.jpg" alt='Выставка "Многоликий кобальт"'><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Многоликий</div>
+<div class="slider-main__title-color">КОБАЛЬТ</div>
+<div class="slider-main__text"><p>Мифический дух гор, химический элемент, металл серебристого цвета, краситель и все оттенки синего на новой выставке из коллекции Музея</p></div>
+<a href="https://kuskovo.ru/our-events/exhibitions/mnogolikij_kobal_t/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/mf-baner.png" alt='Выставка "Фарфор из коллекции императрицы Марии Фёдоровны"'><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Фарфор из коллекции</div>
+<div class="slider-main__title-color">императрицы Марии Фёдоровны</div>
+<div class="slider-main__text"><p>Произведения датских и шведских мастеров из коллекции императрицы Марии Фёдоровны.</p></div>
+<a href="https://kuskovo.ru/our-events/exhibitions/farfor_marii/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/deti-vesna-3.jpg" alt="Детское Кусково"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">ДЕТСКОЕ</div>
+<div class="slider-main__title-color">КУСКОВО</div>
+<div class="slider-main__text"><p>Все детские программы и мастер-классы Художественно-керамической мастерской собраны на одном сайте. Здесь можно уточнить расписание, выбрать и забронировать удобный сеанс, а также узнать последние новости из жизни усадьбы</p></div>
+<a href="https://kids.kuskovo.ru/" class="slider-main__link">Посмотреть</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/sdelaj-vklad.jpg" alt="Сделать вклад в искусство"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Сделай свой вклад</div>
+<div class="slider-main__title-color">в искусство</div>
+<div class="slider-main__text"><p>Музей керамики в усадьбе Кусково объявляет сбор средств на приобретение уникальной скульптуры А.С. Пушкина работы И.Г. Фрих-Хара в коллекцию музея.</p></div>
+<a href="https://kuskovo.ru/muzej/vklad_v_muzey/" class="slider-main__link">Сделать вклад</a>
+</div></div></div>
+</div>
+<div class="slider-main__item">
+<img src="./images/1_NEW/TOP/ostankino-2.jpg" alt="ОСТАНКИНО"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Усадьба</div>
+<div class="slider-main__title-color">ОСТАНКИНО</div>
+<div class="slider-main__text"><p>Останкинский дворец &ndash; подлинная жемчужина русского искусства XVIII в., где в единении находятся театральное помещение со сценой, зрительным залом, гримировочными комнатами, скульптурой, живописью, графикой и декоративным искусством</p></div>
+<a href="https://ostankino-museum.ru/" class="slider-main__link">На сайт усадьбы</a>
+</div></div></div>
+</div></section><section class="excursion m-main fon-logo-right"><div class="container">
+<h2 class="title-main"><a href="/our-events/excursions/" title="Экскурсии" class="title-main__text">Экскурсии</a></h2>
+<div class="excursion__tiles">
+<div class="excursion__tile">
+<a href="/our-events/excursions/obzornaya_ekskursiya_arhitekturno-parkovyj_ansambl_usad_by_kuskovo/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/9d4abecde96ef079064c104bde97d6f768f94319/dsc_5377_400_auto_jpg_5_100.jpg" class="" alt='Обзорная экскурсия "Архитектурно-парковый ансамбль усадьбы Кусково"' title='Обзорная экскурсия "Архитектурно-парковый ансамбль усадьбы Кусково"'></a><div class="excursion__category"><a href="/our-events/excursions/obzornaya_ekskursiya_arhitekturno-parkovyj_ansambl_usad_by_kuskovo/" class="excursion__category-item">Обзорная экскурсия "Архитектурно-парковый ансамбль усадьбы Кусково"</a></div>
+<a href="/our-events/excursions/obzornaya_ekskursiya_arhitekturno-parkovyj_ansambl_usad_by_kuskovo/" class="excursion__name">Дворец-Парк-Парковый павильон</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time">По предварительной записи</div>
+<div class="excursion__schedule-duration">до 90 минут</div>
+</div>
+</div>
+</div>
+<div class="excursion__tile">
+<a href="/our-events/excursions/avtorskaya_poezia/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/9d4abecde96ef079064c104bde97d6f768f94319/dsc03854_1_1_400_auto_jpg_5_100.jpg" class="" alt='Авторская экскурсия по выставке "Поэзия японской керамики"' title='Авторская экскурсия по выставке "Поэзия японской керамики"'></a><div class="excursion__category"><a href="/our-events/excursions/avtorskaya_poezia/" class="excursion__category-item">Авторская экскурсия по выставке "Поэзия японской керамики"</a></div>
+<a href="/our-events/excursions/avtorskaya_poezia/" class="excursion__name">Итальянский домик</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time">Март 2025</div>
+<div class="excursion__schedule-duration">до 90 мин</div>
+</div>
+</div>
+</div>
+<div class="excursion__tile">
+<a href="/our-events/excursions/obzornaya_ekskursiya_dlya_sbornyh_grupp_dvorec_i_park_usad_by_kuskovo/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/9d4abecde96ef079064c104bde97d6f768f94319/2020-09-30_12_51_13_heic_400_auto_jpeg_5_100.jpeg" class="" alt='Обзорная экскурсия для индивидуальных групп "Дворец, парк и павильон Грот"' title='Обзорная экскурсия для индивидуальных групп "Дворец, парк и павильон Грот"'></a><div class="excursion__category"><a href="/our-events/excursions/obzornaya_ekskursiya_dlya_sbornyh_grupp_dvorec_i_park_usad_by_kuskovo/" class="excursion__category-item">Обзорная экскурсия для индивидуальных групп "Дворец, парк и павильон Грот"</a></div>
+<a href="/our-events/excursions/obzornaya_ekskursiya_dlya_sbornyh_grupp_dvorec_i_park_usad_by_kuskovo/" class="excursion__name">Дворец-парк-Грот</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time">Для групп до 5 человек</div>
+<div class="excursion__schedule-duration">до 90 минут</div>
+</div>
+</div>
+</div>
+</div>
+</div></section><section class="concert m-main is-fon-color pt-50 pt-xs-30 pb-xs-20 pb-40"><div class="container">
+<h2 class="title-main"><a href="/our-events/concerts/" title="Концерты" class="title-main__text">Концерты</a></h2>
+<div class="concert__item">
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">6</div>апреля</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">вс., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/v_ritme_tango_muzyka_iz_kinofilmov_populyarnaya_muzyka_muzyka_ispanskih_kompozitorov/" class="concert__name">«В ритме танго»</a><div class="concert__info">Ирина Гайдукова, Лидия Спиридонова, струнный квартет "Каприччио"</div>
+</div>
+</div>
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">30</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">вс., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/vesne_dorogu/" class="concert__name">Весне дорогу!</a><div class="concert__info"> Анна Яковлева, Анна Гаврич-Миллер, ансамбль «Da camera e da сhiesa»</div>
+</div>
+</div>
+</div>
+<div class="concert__item">
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">29</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">сб., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/organnye_vechera_v_kuskovo_nebesnye_struny_golos_i_organ/" class="concert__name">Органные вечера в Кусково. Небесные струны. Голос и орган</a><div class="concert__info">Евгения Кривицкая, Ксения Вязникова</div>
+</div>
+</div>
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">16</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">вс., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/vremya_tango1/" class="concert__name">Время танго </a><div class="concert__info">Марина Шиганова, Илья Самсонов, Дмитрий Максименко </div>
+</div>
+</div>
+</div>
+<div class="concert__item">
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">15</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">сб., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/organnye_vechera_v_kuskovo_arfa_saksofon_i_organ_etno_i_dzhaz/" class="concert__name">Органные вечера в Кусково. Арфа, саксофон и орган. Этно и джаз.</a><div class="concert__info">Антон Котиков, Мария Кулакова, Мария Моисеева</div>
+</div>
+</div>
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">9</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">вс., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/organnye_vechera_v_kuskovo_muzyka_kino2/" class="concert__name">Органные вечера в Кусково. Музыка кино</a><div class="concert__info">Анна Суслова, Андрей Юматов, Роман Могучев</div>
+</div>
+</div>
+</div>
+<div class="concert__item">
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">8</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">сб., 15:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/organnye_vechera_v_kuskovo_fleur_koncert_francuzskoj_muzyki_arfa_flejta_i_organ/" class="concert__name">Органные вечера в Кусково. “Fleur”. Концерт французской музыки.  Арфа, флейта и орган</a><div class="concert__info">Айдана Карашева, Нина Лиманская, Игорь Гольденберг</div>
+</div>
+</div>
+<div class="concert__item-box">
+<div class="concert__left">
+<div class="concert__date">
+<div class="concert__date-number">8</div>марта</div>
+<div class="concert__day">
+<img src="/templates/new/images/clock.svg">сб., 13:00</div>
+</div>
+<div class="concert__right">
+<a href="/our-events/concerts/organnye_vechera_v_kuskovo_arfa_flejta_i_organ_fleur_koncert_francuzskoj_muzyki/" class="concert__name">Органные вечера в Кусково. Арфа, флейта и орган. “Fleur”. Концерт французской музыки </a><div class="concert__info">Айдана Карашева, Нина Лиманская, Игорь Гольденберг</div>
+</div>
+</div>
+</div>
+</div></section><section class="exhibition m-main"><div class="container">
+<h2 class="title-main"><a href="/our-events/exhibitions/" title="Выставки" class="title-main__text">Выставки</a></h2>
+<div class="exhibition__items ">
+<a href="/our-events/exhibitions/poesia_yaponskoy_keramiki/" class="exhibition__item"><span class="exhibition__item-content"><span class="exhibition__date"><img src="/templates/new/images/calendar.svg">14 ноября 2024 г. - 20 апреля 2025 г.</span><span class="exhibition__name">Поэзия японской керамики</span></span><span class="exhibition__curtain tess">Одна из интереснейших московских коллекций японской керамики, включающая более 30 произведений XIX — I четверти XX вв..</span><img src="/images/cms/thumbs/f6a81cfa99a6f94915715faedb979064c0ee5efb/4_oblozhka_na_glavnuyu_stranicu_sajta_format_4x3_1024h768_570_430_png_5_100.png" class="exhibition__img" alt="Поэзия японской керамики" title="Поэзия японской керамики"></a><a href="/our-events/exhibitions/shahmati/" class="exhibition__item"><span class="exhibition__item-content"><span class="exhibition__date"><img src="/templates/new/images/calendar.svg">9 октября 2024 г. – 16 марта 2025 г.</span><span class="exhibition__name">Шахматы. Фарфоровая партия</span></span><span class="exhibition__curtain tess">Произведения СССР и России  из коллекции ГМЗ «Останкино и Кусково» и частных собраний</span><img src="/images/cms/thumbs/f6a81cfa99a6f94915715faedb979064c0ee5efb/shah-3h4-2_570_430_jpg_5_100.jpg" class="exhibition__img" alt="Шахматы. Фарфоровая партия" title="Шахматы. Фарфоровая партия"></a><a href="/our-events/exhibitions/territoriya_keramoki/" class="exhibition__item"><span class="exhibition__item-content"><span class="exhibition__date"><img src="/templates/new/images/calendar.svg">4 сентября 2024 г. - 7 сентября 2025 г.</span><span class="exhibition__name">Территория керамики </span></span><span class="exhibition__curtain tess">Впервые в истории Музей керамики в усадьбе Кусково представляет одно из лучших в стране собраний художественной керамики XX–XXI вв.</span><img src="/images/cms/thumbs/f6a81cfa99a6f94915715faedb979064c0ee5efb/territoriya-3h4_570_430_jpg_5_100.jpg" class="exhibition__img" alt="Территория керамики " title="Территория керамики "></a><a href="/our-events/exhibitions/biografia_marina_stepanova_lanskaya/" class="exhibition__item"><span class="exhibition__item-content"><span class="exhibition__date"><img src="/templates/new/images/calendar.svg">27 февраля - 23 марта 2025 г.</span><span class="exhibition__name">БИОГРАФИЯ. Марина Степанова-Ланская</span></span><span class="exhibition__curtain tess">Персональная выставка художника-керамиста в рамках проекта "Территория керамики"</span><img src="/images/cms/thumbs/f6a81cfa99a6f94915715faedb979064c0ee5efb/oblozhka_3h4_18_vybrannyj_i_soglasovannyj_variant_435kb_570_430_jpg_5_100.jpg" class="exhibition__img" alt="БИОГРАФИЯ. Марина Степанова-Ланская" title="БИОГРАФИЯ. Марина Степанова-Ланская"></a>
+</div>
+</div></section><section class="slider-main m-main is-mini"><div class="slider-main__item">
+<img src="./images/new/pic.png" alt="Сделай свой вклад"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Сделай свой вклад</div>
+<div class="slider-main__title-color">в искусство</div>
+<div class="slider-main__text"><p>Музей объявляет об открытии новой акции по сбору средств на реставрацию картины из собрания графов Шереметевых - "Корабли в гавани Флиссингена" неизвестного голландского художника XVII века.</p></div>
+<a href="https://restoration.kuskovo.ru/" class="slider-main__link">Сделать вклад</a>
+</div></div></div>
+</div></section><section class="excursion is-mini m-main fon-logo-left"><div class="container">
+<h2 class="title-main"><a href="/our-events/museum-for-children/" title="Музей-детям" class="title-main__text">Музей - детям</a></h2>
+<div class="excursion__tiles">
+<div class="excursion__tile">
+<a href="/our-events/museum-for-children/muzejshkolam/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/87d4153f90402e196a95640c001805372110e23a/muzej_shkole_2_kopiya_400_auto_jpg_5_100.jpg" class="" alt="Музей - школе" title="Музей - школе"><span class="excursion__limit"></span></a><div class="excursion__category"><a href="/our-events/museum-for-children/muzejshkolam/" class="excursion__category-item">Программа</a></div>
+<a href="/our-events/museum-for-children/muzejshkolam/" class="excursion__name">Музей - школе</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time"></div>
+<div class="excursion__schedule-duration">Олимпиада "Музеи.Парки.Усадьбы", Урок в музее, "Московский экскурсовод", Учебный день в музее</div>
+</div>
+</div>
+</div>
+<div class="excursion__tile">
+<a href="/our-events/museum-for-children/vesennie_cveti/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/87d4153f90402e196a95640c001805372110e23a/gollandiya-2_400_auto_jpg_5_100.jpg" class="" alt="В мире весенних цветов" title="В мире весенних цветов"><span class="excursion__limit"></span></a><div class="excursion__category"><a href="/our-events/museum-for-children/vesennie_cveti/" class="excursion__category-item">Программа</a></div>
+<a href="/our-events/museum-for-children/vesennie_cveti/" class="excursion__name">В мире весенних цветов</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time">апрель 2025</div>
+<div class="excursion__schedule-duration">до 75 мин.</div>
+</div>
+</div>
+</div>
+<div class="excursion__tile">
+<a href="/our-events/museum-for-children/kuskovskaya_maslenica2025/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/87d4153f90402e196a95640c001805372110e23a/maslenica-novoe-1_400_auto_jpg_5_100.jpg" class="" alt="Кусковская Масленица-2025" title="Кусковская Масленица-2025"><span class="excursion__limit"></span></a><div class="excursion__category"><a href="/our-events/museum-for-children/kuskovskaya_maslenica2025/" class="excursion__category-item">Программа</a></div>
+<a href="/our-events/museum-for-children/kuskovskaya_maslenica2025/" class="excursion__name">Кусковская Масленица-2025</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time">По сеансам с 14 февраля по 16 марта</div>
+<div class="excursion__schedule-duration">90 мин.</div>
+</div>
+</div>
+</div>
+<div class="excursion__tile">
+<a href="/our-events/museum-for-children/kids_kuskovo/" class="excursion__tile-link-img"><img src="/images/cms/thumbs/87d4153f90402e196a95640c001805372110e23a/deti-vesna-3h4-5_400_auto_jpg_5_100.jpg" class="" alt="Все программы и мастер-классы" title="Все программы и мастер-классы"><span class="excursion__limit"></span></a><div class="excursion__category"><a href="/our-events/museum-for-children/kids_kuskovo/" class="excursion__category-item">Программа</a></div>
+<a href="/our-events/museum-for-children/kids_kuskovo/" class="excursion__name">Все программы и мастер-классы</a><div class="excursion__schedule">
+<img src="/templates/new/images/clock.svg" class="excursion__schedule-clock"><div class="excursion__schedule-text">
+<div class="excursion__schedule-time"></div>
+<div class="excursion__schedule-duration"></div>
+</div>
+</div>
+</div>
+</div>
+</div></section><section class="slider-main m-main is-mini"><div class="slider-main__item">
+<img src="./images/new/italy-home.png" alt="Итальянский домик"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Архитектурно-парковый ансамбль</div>
+<div class="slider-main__text"><p><span>Итальянский домик был выстроен в 1754-1755 годах под руководством Ю.И. Кологривова &ndash;&nbsp;</span><span>тонкого знатока искусства.<br /></span><span>В структуре усадебных праздников Итальянский домик выполнял роль дворца для &laquo;малых приемов&raquo;.</span></p></div>
+<a href="http://kuskovo.ru/eto_interesno/arhitekturno-parkovyj_ansambl_kuskovo/" class="slider-main__link">Посмотреть ансамбль</a>
+</div></div></div>
+</div></section><section class="blog-tile m-main"><div class="container">
+<h2 class="title-main"><a href="/blog/" class="title-main__text">Наш Блог</a></h2>
+<div class="blog-tile__tiles">
+<div class="blog-tile__tile">
+<a href="/blog/steklo_i_keramika_v_starinnom_parke_2026/" class="blog-tile__link-img"><img alt="Опен-колл для художников" title="Опен-колл для художников" src="/images/1_NEW/BLOG/steklo_i_keramika_v_parke_3h4.jpg"></a><div class="blog-tile__date">
+<img src="/templates/new/images/calendar.png">10 марта, 2025</div>
+<a href="/blog/steklo_i_keramika_v_starinnom_parke_2026/" class="blog-tile__name">Опен-колл для художников</a><div class="blog-tile__info"><p>Открыт прием заявок на участие в ежегодной выставке-акции "Стекло и керамика в старинном парке"</p></div>
+</div>
+<div class="blog-tile__tile">
+<a href="/blog/opros_kotoryj_pomozhet_uchrezhdeniyam_kultury_stat_luchshe/" class="blog-tile__link-img"><img alt="Опрос, который поможет учреждениям культуры стать лучше " title="Опрос, который поможет учреждениям культуры стать лучше " src="/images/1_NEW/BLOG/3h4dvorec.jpg"></a><div class="blog-tile__date">
+<img src="/templates/new/images/calendar.png">2 марта, 2025</div>
+<a href="/blog/opros_kotoryj_pomozhet_uchrezhdeniyam_kultury_stat_luchshe/" class="blog-tile__name">Опрос, который поможет учреждениям культуры стать лучше </a><div class="blog-tile__info"></div>
+</div>
+<div class="blog-tile__tile">
+<a href="/blog/keramika_soavtor_drug_i_obraz_mysli/" class="blog-tile__link-img"><img alt="Керамика: соавтор, друг и образ мысли" title="Керамика: соавтор, друг и образ мысли" src="/images/1_NEW/BLOG/zastavka_v_opisanii_vystavki_4_biografiya_soglasovannyj_variant_jpg_307_kb.jpg"></a><div class="blog-tile__date">
+<img src="/templates/new/images/calendar.png">28 февраля, 2025</div>
+<a href="/blog/keramika_soavtor_drug_i_obraz_mysli/" class="blog-tile__name">Керамика: соавтор, друг и образ мысли</a><div class="blog-tile__info"><p>О творчестве художника Марины Степановой-Ланской</p></div>
+</div>
+<div class="blog-tile__tile">
+<a href="/blog/vasa_shukina/" class="blog-tile__link-img"><img alt="Ваза Щукина " title="Ваза Щукина " src="/images/1_NEW/BLOG/Shukin/3h4vaza.png"></a><div class="blog-tile__date">
+<img src="/templates/new/images/calendar.png">25 февраля, 2025</div>
+<a href="/blog/vasa_shukina/" class="blog-tile__name">Ваза Щукина </a><div class="blog-tile__info"><p>О реставрации уникального предмета из собрания Музея керамики, принадлежавшего известному коллекционеру и меценату</p></div>
+</div>
+</div>
+</div></section><section class="slider-main m-main is-mini"><div class="slider-main__item">
+<img src="./images/1_NEW/kollekcii_png.png" alt="Коллекции музея"><div class="slider-main__content"><div class="container"><div class="slider-main__content-inner">
+<div class="slider-main__title qweewq">Коллекции музея</div>
+<div class="slider-main__text"><p><span style="font-size: medium;">ГМЗ "Останкино и Кусково" является одним из крупнейших московских музеев. В настоящее время в общую коллекцию объединенного музея входят более 70 000 предметов.</span></p></div>
+<a href="https://kuskovo.museum-online.moscow/" class="slider-main__link">Узнать больше</a>
+</div></div></div>
+</div></section><section class="excursion fon-double is-mini m-main fon-logo-left"><div class="container">
+<h2 class="title-main"><span class="title-main__text">Сервис</span></h2>
+<div class="excursion__tiles">
+<li class="visitor__item"><a href="/servis/svad-by-v-usad-be-kuskovo/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/wedding-ring.png"></span><span class="visitor__text">Свадьбы в усадьбе Кусково</span></a></li>
+<li class="visitor__item"><a href="/servis/salon-magazin/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/commerce-and-shopping.png"></span><span class="visitor__text">Салон-магазин</span></a></li>
+<li class="visitor__item"><a href="/servis/kafe/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/tea-cup.png"></span><span class="visitor__text">Кафе</span></a></li>
+<li class="visitor__item"><a href="/servis/lodochnaya-stanciya/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/boat.png"></span><span class="visitor__text">Лодочная станция</span></a></li>
+<li class="visitor__item"><a href="/servis/organizaciya-meropriyatij1/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/family.png"></span><span class="visitor__text">Организация мероприятий</span></a></li>
+<li class="visitor__item"><a href="/servis/konnyj-ekipazh/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/riding.png"></span><span class="visitor__text">Конный экипаж</span></a></li>
+<li class="visitor__item"><a href="/servis/petank/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/%D0%97%D0%BD%D0%B0%D1%87%D0%BA%D0%B8/petank_2.png"></span><span class="visitor__text">Петанк</span></a></li>
+<li class="visitor__item"><a href="/servis/pushkinskaya_karta/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/%D0%97%D0%BD%D0%B0%D1%87%D0%BA%D0%B8/pk_2_1.png"></span><span class="visitor__text">Пушкинская карта</span></a></li>
+<li class="visitor__item"><a href="/servis/mangalnye_zony/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/%D0%97%D0%BD%D0%B0%D1%87%D0%BA%D0%B8/logo_1.png"></span><span class="visitor__text">Мангальные зоны в лесопарке</span></a></li>
+</div>
+</div></section><section class="excursion fon-double is-mini m-main fon-logo-left"><div class="container">
+<h2 class="title-main"><span class="title-main__text">Посетителям</span></h2>
+<div class="excursion__tiles">
+<li class="visitor__item"><a href="/posetitelyam/rezhim-raboty-muzeya/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/calendar_1.png"></span><span class="visitor__text">Режим работы </span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/stoimost_biletov/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/tickets.png"></span><span class="visitor__text">Билеты</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/independent_visit/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/icons/ital_yanskij.png"></span><span class="visitor__text">Самостоятельное посещение</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/plan-usad-by-kuskovo/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/map-icon.png"></span><span class="visitor__text">План усадьбы Кусково</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/pravila-poseweniya-muzeya-kuskovo1/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/script.png"></span><span class="visitor__text">Правила посещения музея</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/dostupnyj_muzej/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/1_NEW/handicapped.png"></span><span class="visitor__text">Доступный музей</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/museum_week/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/icons/oranzhereya.png"></span><span class="visitor__text">Московская музейная неделя</span></a></li>
+<li class="visitor__item"><a href="/posetitelyam/tvoy_den/" class="visitor__link"><span class="visitor__icon-wrap"><img class="visitor__icon" src="/images/icons/grot_1.png"></span><span class="visitor__text">Акция "Твой день-2025"</span></a></li>
+</div>
+</div></section><section xmlns:xlink="http://www.w3.org/TR/xlink" class="map-wrap"><div id="map" class="map"></div>
+<div class="map__inner"><div class="map__info"><div class="map__info-title">Время работы:&nbsp;<br />Среда - Воскресенье</div>
+<div class="map__info-flex mb-15">
+<div class="map__info-flex-item color-white fz-17 fz-xs-17 fs-italic">
+<div style="text-align: left;">
+<div class="color-primary fz-16 fz-xs-14 fs-italic">Понедельник и вторник - выходной</div>
+<div class="color-primary fz-16 fz-xs-14 fs-italic mb-25">Последняя среда месяца - санитарный день</div>
+</div>
+<div style="text-align: left;">
+<p>Дворец, Грот, Итальянский домик: с 10:00 до 16:00 (вход до 15:30);</p>
+<p>Парковые павильоны: с 10:00 до 18:00 (вход до 17:30);</p>
+<p>Парк: с 10:00 до 18:00. Касса до 17:30</p>
+</div>
+</div>
+</div><div class="map__info-title">Проезд:</div><div class="fz-16 fs-italic mb-5 color-white">м. <span class="color-primary">"Рязанский проспект" "Окская"</span>, далее авт. 133 и 208 до ост. "Музей Кусково";</div>
+<div class="fz-16 fs-italic mb-5 color-white">м. <span class="color-primary">"Выхино"</span>, далее авт. 409, 620 до ост. "Музей Кусково";</div>
+<div class="fz-16 fs-italic color-white">м. <span class="color-primary">"Новогиреево"</span>, далее авт. т64, т75, 247, 314, 974 до ост. "Улица Юности".</div>
+<div class="fz-16 fs-italic color-white">Станция МЦД-3 <span class="color-primary">"Вешняки"</span>, далее 133, 208 до ост. "Музей Кусково"</div>
+<div class="fz-16 fs-italic color-white">Станция МЦД-4 <span class="color-primary">"Новогиреево"</span>, далее авт. 133, 409, 208 до ост. "Музей Кусково"</div>
+<div class="fz-16 fs-italic color-white">Станция МЦД-4 <span class="color-primary">"Кусково"</span>, далее 10 мин. пешком</div>
+<div class="fz-16 fs-italic color-white"></div></div></div></section><footer class="footer"><div class="container">
+<div class="footer__inner">
+<div class="footer__inner-item">
+<a href="https://www.mos.ru/kultura/" class="header__department mb-40 mb-xs-20" target="_blank"><img class="header__department-logo" src="/images/new/logo-department.png" alt="Департамент Культуры г. Москвы" title="Департамент Культуры г. Москвы" role="presentation" style="width: 195px;"></a><a href="https://www.mos.ru/afisha/" class="header__department" target="_blank"><img class="header__department-logo" src="/images/new/mos_bilet.png" alt="Мосбилет" title="Мосбилет" role="presentation" style="width: 195px;"></a><a href="https://kultura.mos.ru/" class="header__department" target="_blank"><img class="header__department-logo" src="/images/new/mosculture_logo.png" alt="Культура Москвы" title="Культура Москвы" role="presentation" style="width: 195px;"></a><span class="footer__logo"><img src="/images/new/logo_footer.png" alt="Кусково"></span><ul class="social">
+<li class="social__item"><a href="https://vk.com/museum_kuskovo" class="social__link"><img src="https://kuskovo.ru/images/new/vk.png" alt="vk"></a></li>
+<li class="social__item"><a href="https://t.me/kuskovo_museum" class="social__link"><img src="https://kuskovo.ru/images/new/tg.png" alt="tg"></a></li>
+<li class="social__item"><a href="https://ok.ru/kuskovo" class="social__link"><img src="https://kuskovo.ru/images/new/ok.png" alt="ок"></a></li>
+<li class="social__item"><a href="https://youtube.com/channel/UC8H0LdocE6jIWqpWCw5g2YA" class="social__link"><img src="https://kuskovo.ru/images/icons/youtube.png" alt="youtube"></a></li>
+<li class="social__item is-dzen" style="background: url('https://kuskovo.ru/images/icons/zen.png') no-repeat;background-size: cover;"><a href="https://zen.yandex.ru/kuskovo_museum" class="social__link"><img src="https://kuskovo.ru/images/icons/zen.png" alt="zen"></a></li>
+</ul>
+<a href="tel:%0A+74953753131%0A" style="    white-space: nowrap;" class="footer__phone hidden-xs">
+                            +7 495 375 31 31
+                        </a><div class="color-white-80 fz-16 fz-xs-14 hidden-xs"> Москва, улица Юности, дом 2</div>
+<div class="footer__border footer__write-us hidden-xs"><a href="/fr1/"><img src="/templates/new/images/envelope.svg">
+                                Напишите нам
+                            </a></div>
+<a href="https://kuskovo.ru/nezavisimaya-ocenka/" class="footer__assessment hidden-xs"><img src="/templates/new/images/assessment.png" alt="" class="footer__assessment-icon"><img src="/templates/new/images/assessment-text.png" alt="" class="footer__assessment-text"></a><div class="footer__border footer__mistake hidden-xs">
+<div class="footer__mistake-text">Нашли ошибку?</div>
+<a href="/fr2/" class="slider-main__link is-white">Сообщите нам</a>
+</div>
+<div class="footer__lang"><a title="English version" href="https://kuskovo.ru/the_kuskovo_memorial_estate/" class="footer__lang-link">English</a></div>
+</div>
+<div class="footer__inner-item">
+<div class="footer__columns">
+<div class="footer__column">
+<span class="footer__column-title">События</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/our-events/museum-for-children/" class="footer__column-list-link">Музей-детям</a></li>
+<li class="footer__column-list-item"><a href="/our-events/exhibitions/" class="footer__column-list-link">Выставки</a></li>
+<li class="footer__column-list-item"><a href="/our-events/concerts/" class="footer__column-list-link">Концерты</a></li>
+<li class="footer__column-list-item"><a href="/our-events/excursions/" class="footer__column-list-link">Экскурсии</a></li>
+</ul>
+</div>
+<div class="footer__column">
+<span class="footer__column-title">Сервис</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/servis/svad-by-v-usad-be-kuskovo/" class="footer__column-list-link">Свадьбы в усадьбе Кусково</a></li>
+<li class="footer__column-list-item"><a href="/servis/salon-magazin/" class="footer__column-list-link">Салон-магазин</a></li>
+<li class="footer__column-list-item"><a href="/servis/kafe/" class="footer__column-list-link">Кафе</a></li>
+<li class="footer__column-list-item"><a href="/servis/lodochnaya-stanciya/" class="footer__column-list-link">Лодочная станция</a></li>
+<li class="footer__column-list-item"><a href="/servis/organizaciya-meropriyatij1/" class="footer__column-list-link">Организация мероприятий</a></li>
+<li class="footer__column-list-item"><a href="/servis/konnyj-ekipazh/" class="footer__column-list-link">Конный экипаж</a></li>
+<li class="footer__column-list-item"><a href="/servis/petank/" class="footer__column-list-link">Петанк</a></li>
+<li class="footer__column-list-item"><a href="/servis/pushkinskaya_karta/" class="footer__column-list-link">Пушкинская карта</a></li>
+<li class="footer__column-list-item"><a href="/servis/mangalnye_zony/" class="footer__column-list-link">Мангальные зоны в лесопарке</a></li>
+</ul>
+</div>
+<div class="footer__column">
+<span class="footer__column-title">Посетителям</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/posetitelyam/rezhim-raboty-muzeya/" class="footer__column-list-link">Режим работы </a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/stoimost_biletov/" class="footer__column-list-link">Билеты</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/independent_visit/" class="footer__column-list-link">Самостоятельное посещение</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/plan-usad-by-kuskovo/" class="footer__column-list-link">План усадьбы Кусково</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/pravila-poseweniya-muzeya-kuskovo1/" class="footer__column-list-link">Правила посещения музея</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/dostupnyj_muzej/" class="footer__column-list-link">Доступный музей</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/museum_week/" class="footer__column-list-link">Московская музейная неделя</a></li>
+<li class="footer__column-list-item"><a href="/posetitelyam/tvoy_den/" class="footer__column-list-link">Акция "Твой день-2025"</a></li>
+</ul>
+</div>
+</div>
+<div class="footer__columns">
+<div class="footer__column">
+<span class="footer__column-title">Это интересно</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/eto_interesno/o_muzee/" class="footer__column-list-link">О музее</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/vr_360/" class="footer__column-list-link">Виртуальный тур. VR/360</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/kollekcii/" class="footer__column-list-link">Коллекции</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/arhitekturno-parkovyj_ansambl_kuskovo/" class="footer__column-list-link">Архитектурно-парковый ансамбль Кусково</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/interery_usadby/" class="footer__column-list-link">Интерьеры усадьбы</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/istoriya_roda_sheremetevyh/" class="footer__column-list-link">История рода Шереметевых</a></li>
+<li class="footer__column-list-item"><a href="/eto_interesno/drugie_vladeniya_sheremetevyh/" class="footer__column-list-link">Другие владения рода Шереметевых</a></li>
+</ul>
+</div>
+<div class="footer__column">
+<span class="footer__column-title">Специалистам</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/specialistam/vnemuzejnaya-deyatel-nost/" class="footer__column-list-link">Внемузейная деятельность</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/spisok_publikacij_muzeya/" class="footer__column-list-link">Публикации. Шереметевы и усадьба Кусково</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/spisok_publikacij_v_nauchno-populyarnyh_izdaniyah/" class="footer__column-list-link">Публикации. Каталоги</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/usad_ba_kuskovo_xviii_veka/" class="footer__column-list-link">Публикации. Изобразительное искусство</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/muzej_keramiki/" class="footer__column-list-link">Публикации. Декоративно-прикладное искусство</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/katalogi/" class="footer__column-list-link">Публикации. Сборники статей</a></li>
+<li class="footer__column-list-item"><a href="/specialistam/publikacii-v-smi/" class="footer__column-list-link">Публикации в СМИ</a></li>
+</ul>
+</div>
+<div class="footer__column">
+<span class="footer__column-title">Музей</span><ul class="footer__column-list">
+<li class="footer__column-list-item"><a href="/muzej/kontakty/" class="footer__column-list-link">Контакты</a></li>
+<li class="footer__column-list-item"><a href="/muzej/komanda/" class="footer__column-list-link">Наша команда</a></li>
+<li class="footer__column-list-item"><a href="/muzej/volontry/" class="footer__column-list-link">Волонтёры</a></li>
+<li class="footer__column-list-item"><a href="/muzej/vakansii/" class="footer__column-list-link">Вакансии</a></li>
+<li class="footer__column-list-item"><a href="/muzej/partnyory_muzeya/" class="footer__column-list-link">Партнёры музея</a></li>
+<li class="footer__column-list-item"><a href="/muzej/dlya_pressy/" class="footer__column-list-link">Для прессы</a></li>
+<li class="footer__column-list-item"><a href="/muzej/oficial_nye_dokumenty/" class="footer__column-list-link">Официальные документы</a></li>
+<li class="footer__column-list-item"><a href="/muzej/vklad_v_muzey/" class="footer__column-list-link">Ваш вклад в пополнение коллекции</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer__copyright">© 1919-2024. Государственный дворцово-парковый музей-заповедник «Останкино и Кусково» </div>
+</div></footer><div class="eyeglasses">
+<a href="" class="eyeglasses__link" id="specialversion"><img class="eyeglasses__img" src="/templates/new/images/reading-eyeglasses.png"></a><div class="eyeglasses__close"><img src="/templates/new/images/close-2.png"></div>
+</div>
+</div>
+<div class="loader-area"><div class="loader-area__loader"></div></div>
+<div class="totop"></div>
+<script>
+                     var map;
+                    function initMap() {
+                    map = new google.maps.Map(document.getElementById('map'), {
+
+                    center: window.matchMedia("(max-width: 767px)").matches ? {lat: 55.735409, lng: 37.807067} : {lat: 55.734999, lng: 37.823078},
+                    zoom: 15
+                    });
+                    var marker = new google.maps.Marker({
+                    position: {lat: 55.735409, lng: 37.807067},
+                    map: map,
+                    icon: '/templates/new/images/location.png'
+                    });
+
+                    }
+                    
+
+                </script><script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=b3f26473-da84-4988-8cc7-b1b6126e0a45" type="text/javascript"></script><script src="/templates/new/js/slick.min.js"></script><script src="/templates/new/js/masonry.pkgd.min.js"></script><script src="/templates/new/js/jquery.magnific-popup.min.js"></script><script src="/templates/new/js/i18n.ru.js"></script><script src="/templates/new/js/foxi.message.js"></script><script src="/templates/new/js/foxi.forms.js?v=1.1"></script><script src="/templates/new/js/custom.js"></script><script src="/templates/new/js/jquery.arcticmodal-0.3.min.js"></script><script src="/templates/new/js/jquery.maskedinput.min.js"></script><script src="/templates/new/js/jquery.cookie.js"></script><div style="display: none"><div class="cookie-info" id="privacy_modal">
+<div class="cookie-info__text">Этот сайт использует куки-файлы и другие технологии, чтобы помочь вам в навигации, а также предоставить лучший пользовательский опыт, анализировать использование наших продуктов и услуг, повысить качество рекламных и маркетинговых активностей.</div>
+<div class="mb-20"><a href="https://kuskovo.ru/politika_konfidencialnosti/" target="_blank">Политика конфиденциальности данных</a></div>
+<p><button class="btn btn__white is-mini">Принять</button></p>
+</div></div>
+<script>d=document,n=d.getElementsByTagName("script")[0],s=d.createElement("script"),s.type="text/javascript",s.async=!0,s.src=("https://special.prolexgroup.ru/api/v1/specversion.js"),f=function(){n.parentNode.insertBefore(s,n)},f();</script>
+</body>
+</html>
+<!-- This page generated in 0.724113 secs by XSLT, SITE MODE -->

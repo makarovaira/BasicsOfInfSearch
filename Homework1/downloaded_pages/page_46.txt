@@ -1,0 +1,2934 @@
+    <!DOCTYPE html>
+    <html prefix="og: http://ogp.me/ns#" class="no-js" lang="ru">
+    <head>
+        <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+        <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+        <meta property="og:image" content="https://shm.ru/img/rassilka.png">
+        <link rel="stylesheet" href="/local/templates/shm_bw/css/bvi.min.css" type="text/css">
+
+        <meta name="format-detection" content="telephone=no">
+        <script src="/local/templates/shm_bw/bootstrap-5.1.1-dist/js/jquery-3.6.0.min.js"></script>
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="государственный, исторический, музей, Москва, описание, на красной, площади, сегодня, ГИМ, официальный, сайт" />
+<meta name="description" content="Коллекции, выставки и мероприятия крупнейшего государственного исторического музея в Москве сегодня. Ознакомиться подробнее можно на официальном сайте ГИМ." />
+<link href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" type="text/css"  rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/panzoom/panzoom.css" type="text/css"  rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.css" type="text/css"  rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.thumbs.css" type="text/css"  rel="stylesheet" />
+<link href="https://code.jquery.com/ui/1.14.0/themes/base/jquery-ui.css" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/font-awesome.min.css?164804720923748" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171888689523463" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16784492882320" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?168632488426598" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/core/css/core_date.min.css?16863248079928" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/socialservices/css/ss.min.css?16863245454772" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/nimax/shows_on_main_slider/.default/style.css?17204347533276" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/news.list/branches_acordion/style.css?16820800923162" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/news.list/index_show/style.css?17265952391090" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/catalog.smart.filter/index-calendar/style.min.css?172010030213420" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/catalog.smart.filter/index-calendar/themes/wood/colors.min.css?17201003024373" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/system.pagenavigation/calendar_event_show_more_2_white/style.css?1736435790528" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/news.list/index-calendar_event/style.css?17368834664466" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/catalog.section/teasers-market-karusel/style.css?17332253841637" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/catalog.section/teasers-col-4/style.css?1634675274665" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/catalog.section/teasers-action-slider/style.css?16595361081898" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/libs/animate.css?169582671557531" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/bootstrap-5.1.1-dist/css/bootstrap.min.css?1631793022162764" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/css/lightslider.min.css?16339222455537" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/css/shonin.css?169262135121862" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/lvs/lvs.css?158392760834450" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/menu/top_menu_bw/style.css?16402640302048" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/nimax/menu/main/style.css?17411773663971" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/system.auth.form/auth/style.css?1631513080442" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/components/bitrix/subscribe.edit/simplified-to-popap/style.css?16315130781059" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/styles.css?174129751357136" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/shm_bw/template_styles.css?17290865471616" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script src="/bitrix/js/main/core/core.min.js?1708430387223197"></script>
+
+<script>BX.Runtime.registerExtension({'name':'main.core','namespace':'BX','loaded':true});</script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script>BX.Runtime.registerExtension({'name':'ui.design-tokens','namespace':'window','loaded':true});</script>
+<script>BX.Runtime.registerExtension({'name':'ui.fonts.opensans','namespace':'window','loaded':true});</script>
+<script>BX.Runtime.registerExtension({'name':'main.popup','namespace':'BX.Main','loaded':true});</script>
+<script>BX.Runtime.registerExtension({'name':'popup','namespace':'window','loaded':true});</script>
+<script>(window.BX||top.BX).message({'AMPM_MODE':false});(window.BX||top.BX).message({'MONTH_1':'Январь','MONTH_2':'Февраль','MONTH_3':'Март','MONTH_4':'Апрель','MONTH_5':'Май','MONTH_6':'Июнь','MONTH_7':'Июль','MONTH_8':'Август','MONTH_9':'Сентябрь','MONTH_10':'Октябрь','MONTH_11':'Ноябрь','MONTH_12':'Декабрь','MONTH_1_S':'января','MONTH_2_S':'февраля','MONTH_3_S':'марта','MONTH_4_S':'апреля','MONTH_5_S':'мая','MONTH_6_S':'июня','MONTH_7_S':'июля','MONTH_8_S':'августа','MONTH_9_S':'сентября','MONTH_10_S':'октября','MONTH_11_S':'ноября','MONTH_12_S':'декабря','MON_1':'янв','MON_2':'фев','MON_3':'мар','MON_4':'апр','MON_5':'мая','MON_6':'июн','MON_7':'июл','MON_8':'авг','MON_9':'сен','MON_10':'окт','MON_11':'ноя','MON_12':'дек','DAY_OF_WEEK_0':'Воскресенье','DAY_OF_WEEK_1':'Понедельник','DAY_OF_WEEK_2':'Вторник','DAY_OF_WEEK_3':'Среда','DAY_OF_WEEK_4':'Четверг','DAY_OF_WEEK_5':'Пятница','DAY_OF_WEEK_6':'Суббота','DOW_0':'Вс','DOW_1':'Пн','DOW_2':'Вт','DOW_3':'Ср','DOW_4':'Чт','DOW_5':'Пт','DOW_6':'Сб','FD_SECOND_AGO_0':'#VALUE# секунд назад','FD_SECOND_AGO_1':'#VALUE# секунду назад','FD_SECOND_AGO_10_20':'#VALUE# секунд назад','FD_SECOND_AGO_MOD_1':'#VALUE# секунду назад','FD_SECOND_AGO_MOD_2_4':'#VALUE# секунды назад','FD_SECOND_AGO_MOD_OTHER':'#VALUE# секунд назад','FD_SECOND_DIFF_0':'#VALUE# секунд','FD_SECOND_DIFF_1':'#VALUE# секунда','FD_SECOND_DIFF_10_20':'#VALUE# секунд','FD_SECOND_DIFF_MOD_1':'#VALUE# секунда','FD_SECOND_DIFF_MOD_2_4':'#VALUE# секунды','FD_SECOND_DIFF_MOD_OTHER':'#VALUE# секунд','FD_SECOND_SHORT':'#VALUE#с','FD_MINUTE_AGO_0':'#VALUE# минут назад','FD_MINUTE_AGO_1':'#VALUE# минуту назад','FD_MINUTE_AGO_10_20':'#VALUE# минут назад','FD_MINUTE_AGO_MOD_1':'#VALUE# минуту назад','FD_MINUTE_AGO_MOD_2_4':'#VALUE# минуты назад','FD_MINUTE_AGO_MOD_OTHER':'#VALUE# минут назад','FD_MINUTE_DIFF_0':'#VALUE# минут','FD_MINUTE_DIFF_1':'#VALUE# минута','FD_MINUTE_DIFF_10_20':'#VALUE# минут','FD_MINUTE_DIFF_MOD_1':'#VALUE# минута','FD_MINUTE_DIFF_MOD_2_4':'#VALUE# минуты','FD_MINUTE_DIFF_MOD_OTHER':'#VALUE# минут','FD_MINUTE_0':'#VALUE# минут','FD_MINUTE_1':'#VALUE# минуту','FD_MINUTE_10_20':'#VALUE# минут','FD_MINUTE_MOD_1':'#VALUE# минуту','FD_MINUTE_MOD_2_4':'#VALUE# минуты','FD_MINUTE_MOD_OTHER':'#VALUE# минут','FD_MINUTE_SHORT':'#VALUE#мин','FD_HOUR_AGO_0':'#VALUE# часов назад','FD_HOUR_AGO_1':'#VALUE# час назад','FD_HOUR_AGO_10_20':'#VALUE# часов назад','FD_HOUR_AGO_MOD_1':'#VALUE# час назад','FD_HOUR_AGO_MOD_2_4':'#VALUE# часа назад','FD_HOUR_AGO_MOD_OTHER':'#VALUE# часов назад','FD_HOUR_DIFF_0':'#VALUE# часов','FD_HOUR_DIFF_1':'#VALUE# час','FD_HOUR_DIFF_10_20':'#VALUE# часов','FD_HOUR_DIFF_MOD_1':'#VALUE# час','FD_HOUR_DIFF_MOD_2_4':'#VALUE# часа','FD_HOUR_DIFF_MOD_OTHER':'#VALUE# часов','FD_HOUR_SHORT':'#VALUE#ч','FD_YESTERDAY':'вчера','FD_TODAY':'сегодня','FD_TOMORROW':'завтра','FD_DAY_AGO_0':'#VALUE# дней назад','FD_DAY_AGO_1':'#VALUE# день назад','FD_DAY_AGO_10_20':'#VALUE# дней назад','FD_DAY_AGO_MOD_1':'#VALUE# день назад','FD_DAY_AGO_MOD_2_4':'#VALUE# дня назад','FD_DAY_AGO_MOD_OTHER':'#VALUE# дней назад','FD_DAY_DIFF_0':'#VALUE# дней','FD_DAY_DIFF_1':'#VALUE# день','FD_DAY_DIFF_10_20':'#VALUE# дней','FD_DAY_DIFF_MOD_1':'#VALUE# день','FD_DAY_DIFF_MOD_2_4':'#VALUE# дня','FD_DAY_DIFF_MOD_OTHER':'#VALUE# дней','FD_DAY_AT_TIME':'#DAY# в #TIME#','FD_DAY_SHORT':'#VALUE#д','FD_MONTH_AGO_0':'#VALUE# месяцев назад','FD_MONTH_AGO_1':'#VALUE# месяц назад','FD_MONTH_AGO_10_20':'#VALUE# месяцев назад','FD_MONTH_AGO_MOD_1':'#VALUE# месяц назад','FD_MONTH_AGO_MOD_2_4':'#VALUE# месяца назад','FD_MONTH_AGO_MOD_OTHER':'#VALUE# месяцев назад','FD_MONTH_DIFF_0':'#VALUE# месяцев','FD_MONTH_DIFF_1':'#VALUE# месяц','FD_MONTH_DIFF_10_20':'#VALUE# месяцев','FD_MONTH_DIFF_MOD_1':'#VALUE# месяц','FD_MONTH_DIFF_MOD_2_4':'#VALUE# месяца','FD_MONTH_DIFF_MOD_OTHER':'#VALUE# месяцев','FD_MONTH_SHORT':'#VALUE#мес','FD_YEARS_AGO_0':'#VALUE# лет назад','FD_YEARS_AGO_1':'#VALUE# год назад','FD_YEARS_AGO_10_20':'#VALUE# лет назад','FD_YEARS_AGO_MOD_1':'#VALUE# год назад','FD_YEARS_AGO_MOD_2_4':'#VALUE# года назад','FD_YEARS_AGO_MOD_OTHER':'#VALUE# лет назад','FD_YEARS_DIFF_0':'#VALUE# лет','FD_YEARS_DIFF_1':'#VALUE# год','FD_YEARS_DIFF_10_20':'#VALUE# лет','FD_YEARS_DIFF_MOD_1':'#VALUE# год','FD_YEARS_DIFF_MOD_2_4':'#VALUE# года','FD_YEARS_DIFF_MOD_OTHER':'#VALUE# лет','FD_YEARS_SHORT_0':'#VALUE#л','FD_YEARS_SHORT_1':'#VALUE#г','FD_YEARS_SHORT_10_20':'#VALUE#л','FD_YEARS_SHORT_MOD_1':'#VALUE#г','FD_YEARS_SHORT_MOD_2_4':'#VALUE#г','FD_YEARS_SHORT_MOD_OTHER':'#VALUE#л','CAL_BUTTON':'Выбрать','CAL_TIME_SET':'Установить время','CAL_TIME':'Время','FD_LAST_SEEN_TOMORROW':'завтра в #TIME#','FD_LAST_SEEN_NOW':'только что','FD_LAST_SEEN_TODAY':'сегодня в #TIME#','FD_LAST_SEEN_YESTERDAY':'вчера в #TIME#','FD_LAST_SEEN_MORE_YEAR':'более года назад'});</script>
+<script type="extension/settings" data-extension="main.date">{"formats":{"FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","SHORT_DATE_FORMAT":"d.m.Y","MEDIUM_DATE_FORMAT":"j M Y","LONG_DATE_FORMAT":"j F Y","DAY_MONTH_FORMAT":"j F","DAY_SHORT_MONTH_FORMAT":"j M","SHORT_DAY_OF_WEEK_MONTH_FORMAT":"D, j F","SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT":"D, j M","DAY_OF_WEEK_MONTH_FORMAT":"l, j F","FULL_DATE_FORMAT":"l, j F  Y","SHORT_TIME_FORMAT":"H:i","LONG_TIME_FORMAT":"H:i:s"}}</script>
+<script>BX.Runtime.registerExtension({'name':'main.date','namespace':'BX.Main','loaded':true});</script>
+<script>(window.BX||top.BX).message({'WEEK_START':'1'});</script>
+<script>BX.Runtime.registerExtension({'name':'date','namespace':'window','loaded':true});</script>
+<script>BX.Runtime.registerExtension({'name':'fx','namespace':'window','loaded':true});</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1741772720','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'00b28d31b74ebd2d806ac3154a30c86d'});</script>
+
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LdzchwoAAAAAKfVa6L5Sw1h_CYz0iz4k21IpZii"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.maskedinput@1.4.1/src/jquery.maskedinput.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/panzoom/panzoom.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.thumbs.umd.js"></script>
+<script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
+<script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?170843038565824"></script>
+<script src="/bitrix/js/main/date/main.date.min.js?168632488017992"></script>
+<script src="/bitrix/js/main/core/core_date.min.js?164837651526661"></script>
+<script src="/bitrix/js/main/core/core_fx.min.js?16480474379768"></script>
+<script src="/bitrix/js/socialservices/ss.js?15294050741419"></script>
+<script>
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<meta property="og:image" content="https://shm.ru/img/rassilka.png" />
+<meta property="og:title" content="Государственный исторический музей" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://shm.ru/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:site_name" content="Государственный исторический музей" />
+<meta property='og:description' content='История и коллекции крупнейшего музея России, информация о музейном комплексе. Анонсы выставок и мероприятий, экскурсии, образовательные программы для детей. Медиапортал. Электронный каталог предметов и виртуальные экскурсии. Издания музея.' />
+
+
+
+<script src="/local/templates/shm_bw/bootstrap-5.1.1-dist/js/bootstrap.min.js?163179302859733"></script>
+<script src="/local/templates/shm_bw/bootstrap-5.1.1-dist/js/bootstrap.bundle.min.js?163179302678871"></script>
+<script src="/local/templates/shm_bw/js/f.js?1720630058122095"></script>
+<script src="/local/templates/shm_bw/js/lightslider.min.js?163392212816023"></script>
+<script src="/local/templates/shm_bw/libs/wow.min.js?16346352078157"></script>
+<script src="/local/templates/shm_bw/components/nimax/menu/main/script.js?16504423912173"></script>
+<script src="/local/templates/shm_bw/components/bitrix/subscribe.edit/simplified-to-popap/script.js?1631513078270"></script>
+<script src="/local/templates/shm_bw/components/nimax/shows_on_main_slider/.default/script.js?17201214891043"></script>
+<script src="/local/templates/shm_bw/components/bitrix/catalog.smart.filter/index-calendar/script.min.js?172010030214556"></script>
+<script src="/local/templates/shm_bw/components/bitrix/news.list/index-calendar_event/script.js?1736883009169"></script>
+<script src="/local/templates/shm_bw/components/bitrix/catalog.section/teasers-market-karusel/script.js?1697818209557"></script>
+<script src="/local/templates/shm_bw/components/bitrix/catalog.section/teasers-action-slider/script.js?1640574790266"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "323ad1499a4e25c6816cef95d82322dc"]); _ba.push(["host", "shm.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+        <link rel="stylesheet" href="">
+        <script src=""></script>
+
+        <title>Государственный исторический музей в Москве на Красной площади - официальный сайт ГИМ</title>
+                        <!--
+	<link rel="stylesheet" href="/css/style.css?v=1660780793">
+	<link rel="stylesheet" href="/css/jquery.fancybox.min.css">
+	-->
+
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+
+        <link rel="shortcut icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+        <link rel="shortcut icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+        <link rel="shortcut icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+        <link rel="shortcut icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+
+        <script>
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-46713500-1']);
+            _gaq.push(['_setDomainName', 'shm.ru']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+
+        <!--<link rel="stylesheet" href="/css/media.css?v=1660780793">-->
+        <script src="/js/resp.js?v3"></script>
+
+        <meta name="yandex-verification" content="156f3394555f1b41"/>
+        <meta name="yandex-verification" content="328c43da5e53477a"/>
+        <meta name="google-site-verification" content="Bo14EQcPx4RUqZPPrFrvapPnOordeOv54TGwTL76b9g"/>
+        <meta name="robots" content="noyaca"/>
+
+
+        <script async src="https://culturaltracking.ru/static/js/spxl.js?pixelId=4925" data-pixel-id="4925"></script>
+
+
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-P3VH4WZ');</script>
+        <!-- End Google Tag Manager -->
+    </head>
+
+
+<body class="
+black dark_theme mainPage">
+
+
+    <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=1510780749205155";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+    <style type="text/css">
+
+    </style>
+    <header id="header-wrapper" class="index-page">
+        <div class="container-xxl">
+            <div class="mobil_header">
+                <div class="alerts-popup">
+                    <div class="alerts-popup__close"></div>
+                    <div class="alerts-popup__title">
+                        Информация для посетителей
+                    </div>
+                    <div class="alerts-popup__items">
+
+                        
+                            <div class="alerts-popup__item" notif_id="42661">
+                                <div class="alerts-popup__icons">
+                                    <img src="/upload/iblock/7dc/vgeqgd7lbbbqd64uxb9waqpo4g0bvqew/local_fire_department_24dp_5F6368-1.svg">
+                                </div>
+                                <div class="alerts-popup__item-wrap">
+                                    <div class="alerts-popup__item-name">
+                                        Акция «Встречаем весну вместе!»                                    </div>
+                                    <div class="alerts-popup__item-text">
+                                        До 15 марта совершайте покупки в интернет-магазине Исторического музея и получайте подарки!                                    </div>
+                                                                            <a href="https://shop.shm.ru/company/news/vstrechaem_vesnu_vmeste/" class="alerts-popup__item-link">
+                                            
+                                                                                            Подробнее
+                                                                                    </a>
+                                                                    </div>
+                            </div>
+
+
+                        
+                    </div>
+                </div>
+                <a href="/" class="logo bvi-no-styles"></a>
+                <div class="sandvich_wrap">
+                                            <div class="alert-popup-btn"
+
+                                                            notifications="1"
+                                                    >
+                        </div>
+
+                    
+                    <a href="https://tickets.shm.ru/?id=1&sid=4" target="_black" class="tiketsm">Билеты</a>
+
+                    <div class="sandvich">
+
+                        <div class="sandvich_line"></div>
+                        <div class="sandvich_line"></div>
+                        <div class="sandvich_line"></div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="menublock">
+                <a href="/" class="logo bvi-no-styles"></a>
+                <div class="top_menu">
+
+
+                    
+<ul id="top_menu">
+	<li class="">
+
+	    <div class="alert-popup-btn"
+
+	            	                notifications="1"
+	            	    >        
+	    </div>
+<div class="alerts-popup">
+    <div class="alerts-popup__close"></div>
+    <div class="alerts-popup__title">
+        Информация для посетителей
+    </div>
+    <div class="alerts-popup__items">
+
+    
+        <div class="alerts-popup__item" notif_id="42661">
+            <div class="alerts-popup__icons">
+                <img src="/upload/iblock/7dc/vgeqgd7lbbbqd64uxb9waqpo4g0bvqew/local_fire_department_24dp_5F6368-1.svg">
+            </div>
+            <div class="alerts-popup__item-wrap">
+                <div class="alerts-popup__item-name">
+                    Акция «Встречаем весну вместе!»                </div>
+                <div class="alerts-popup__item-text">
+                    До 15 марта совершайте покупки в интернет-магазине Исторического музея и получайте подарки!                </div>
+                                    <a href="https://shop.shm.ru/company/news/vstrechaem_vesnu_vmeste/" class="alerts-popup__item-link">
+                                                    Подробнее
+                                            </a>
+                            </div>
+        </div>
+        
+
+    
+    </div>
+</div>
+		</li>
+	
+	<li class="hover_block">
+		<a href="https://tickets.shm.ru/?id=1&sid=4" 
+			 id="tickets_menu_item" class="icon_menu_item">
+			Билеты		</a>
+	</li>
+
+	
+	<li class="hover_block">
+		<a href="https://shop.shm.ru" 
+			 id="store_menu_item" class="icon_menu_item">
+			Интернет-магазин		</a>
+	</li>
+
+	
+	<li class="hover_block">
+		<a href="/klub-druzey-istoricheskogo-muzeya/" 
+			 id="club_menu_item" class="icon_menu_item">
+			Клуб друзей		</a>
+	</li>
+
+	
+	<li class="hover_block">
+		<a href="#" 
+			 id="bvi_menu_item" class="bvi-open icon_menu_item">
+			Слабовидящим		</a>
+	</li>
+
+		</ul>                </div>
+                			
+
+<div class="nav-wrap">
+        <ul class="main_menu">
+
+
+            									<li id="menu-2" class="parent_item hover_block">
+						<a href=" javascript:void(0);">Посетителям <span class="arrow"></span></a>
+
+
+
+						<ul class="submenu">
+																																<li>
+									<a href="/vash_vizit/" class="">Запланировать визит</a>									</li>
+									
+																																								<li>
+									<a href="/visit/tickets/gim/" class="">Билеты</a>									</li>
+									
+																																								<li>
+									<a href="/visit/excursions/" class="">Экскурсии </a>									</li>
+									
+																																								<li>
+									<a href="/education/" class="">Образовательные программы</a>									</li>
+									
+																																								<li>
+									<a href="/dostupnyy-muzey/" class="">ГИМ. Доступно</a>									</li>
+									
+																																								<li>
+									<a href="/visit/services/gim/ " class="">Правила посещения музея</a>									</li>
+									
+																																								<li>
+									<a href="/visit/ofitsialnye-suvenirnye-magaziny/" class="">Официальные музейные магазины</a>									</li>
+									
+																																								<li>
+									<a href="/visit/kontakty-i-rezhim-raboty/" class="">Контакты</a>									</li>
+									
+																																								<li>
+									<a href="/visit/pushkinskaya-karta/" class="">Пушкинская карта</a>									</li>
+									
+																
+						</ul>
+					</li>
+																																	<li id="menu-3" class="hover_block">
+							<a href="/shows/" class="">Выставки и события</a></li>
+												
+																									<li id="menu-4" class="parent_item hover_block">
+						<a href=" javascript:void(0);">Коллекции <span class="arrow"></span></a>
+
+
+
+						<ul class="submenu">
+																																<li>
+									<a href="https://catalog.shm.ru/" class="">Электронный каталог музейных предметов</a>									</li>
+									
+																																								<li>
+									<a href="/kollektsii-i-muzeynyy-kompleks/fondovye-otdely/" class="">Фондовые отделы</a>									</li>
+									
+																																								<li>
+									<a href="/zakaz-izobrazheniy/" class="">Заказ изображений</a>									</li>
+									
+																
+						</ul>
+					</li>
+																				<li id="menu-5" class="parent_item hover_block">
+						<a href=" javascript:void(0);">Наука <span class="arrow"></span></a>
+
+
+
+						<ul class="submenu">
+																																<li>
+									<a href="/issledovatelyam/nauchnaya-rabota-v-otdelakh/" class="">Работа в читальных залах</a>									</li>
+									
+																																								<li>
+									<a href="/issledovatelyam/premii-zabelina/" class="">Премия имени И. Е. Забелина</a>									</li>
+									
+																																								<li>
+									<a href="/issledovatelyam/nauchno-metodicheskaya-deyatelnost/" class="">Научно-методическая работа</a>									</li>
+									
+																																								<li>
+									<a href="/issledovatelyam/stazhirovki/" class="">Стажировки</a>									</li>
+									
+																																								<li>
+									<a href="/issledovatelyam/conf_calendar/" class="">Календарь конференций</a>									</li>
+									
+																																								<li>
+									<a href="/issledovatelyam/spetsialistam/" class="">Специалистам</a>									</li>
+									
+																																								<li>
+									<a href="/books/" class="">Наши издания</a>									</li>
+									
+																
+						</ul>
+					</li>
+																				<li id="menu-6" class="parent_item hover_block">
+						<a href=" javascript:void(0);">О музее <span class="arrow"></span></a>
+
+
+
+						<ul class="submenu">
+																																<li>
+									<a href="/missiya-i-organizatsiya/museum_history/" class="">История музея</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/gim/" class="">Руководство</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/partnery-i-sponsory/" class="">Партнеры и спонсоры</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/press-sluzhba/" class="">Для СМИ</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/ofitsialnaya-informatsiya/" class="">Официальная информация</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/regionalnaya-deyatelnost/">Региональные и международные проекты</a>									</li>
+									
+																																								<li>
+									<a href="/kommercheskie-uslugi/" class="">Коммерческие услуги</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/vakansii/" class="">Вакансии</a>									</li>
+									
+																																								<li>
+									<a href="/missiya-i-organizatsiya/volonterstvo/" class="">Волонтерство</a>									</li>
+									
+																
+						</ul>
+					</li>
+																																	<li id="menu-7" class="hover_block">
+							<a href="https://mediashm.ru" class=""  target='_blank' >Медиапортал</a>
+						</li>
+												
+																																						<li id="menu-8" class="hover_block">
+							<a href="/visit/kontakty-i-rezhim-raboty" class="">Контакты</a></li>
+												
+																        </ul>
+
+
+        <form action="/search/" class="form-search">
+				<input type="text" class="textInput textInput-placeholder folded" placeholder="Поиск по сайту" name="q">
+				<button type="submit" class="button"></button>
+		</form>
+</div>            </div>
+
+        </div>
+    </header>
+
+
+
+	<div id="main_top_slider" class="dark_theme">	
+		<div class="slider_wrap">
+								<div class="slide_wrap">
+				<a href="/shows/41633/" class="slide_item" style="display:block;background-image:url('/upload/iblock/121/ml3yq6vikkgm1uthlbb56pqv5dpgiqo4/bez_bukov.jpg?v=v1741772720');" title="«Драгоценности! Блеск русского двора» " alt="«Драгоценности! Блеск русского двора» ">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+													<div class="museum_type">Выставка</div>
+																			<div class="name">
+								«Драгоценности! Блеск русского двора» 							</div>
+																			<div class="time">
+								<span class="date_from">18 декабря 2024</span>
+																	&mdash; <span class="date_to">12 мая 2025</span>
+															</div>
+																	</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="/shows/42530/" class="slide_item" style="display:block;background-image:url('/upload/iblock/ff1/3z2uh1w35h5ir184khqivzl1uxq2z4l9/svoyasi_bn_dark.jpg?v=v1741772720');" title="«СВОЯСИ. Путь современного русского искусства»" alt="«СВОЯСИ. Путь современного русского искусства»">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+													<div class="museum_type">Выставка</div>
+																			<div class="name">
+								«СВОЯСИ. Путь современного русского искусства»							</div>
+																			<div class="time">
+								<span class="date_from">05 марта 2025</span>
+																	&mdash; <span class="date_to">11 августа 2025</span>
+															</div>
+																	</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="/shows/41111/" class="slide_item" style="display:block;background-image:url('/upload/iblock/ba6/6w0lkhiudrn6vza0htqd3n3sokwydr7p/banner_sayt.jpg?v=v1741772720');" title="«Россия – Любовь моя! Искусство ювелиров России. XIX-XXI век»" alt="«Россия – Любовь моя! Искусство ювелиров России. XIX-XXI век»">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+													<div class="museum_type">Выставка</div>
+																			<div class="name">
+								«Россия – Любовь моя! Искусство ювелиров России. XIX-XXI век»							</div>
+																			<div class="time">
+								<span class="date_from">30 октября 2024</span>
+																	&mdash; <span class="date_to">24 марта 2025</span>
+															</div>
+																	</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="/shows/40933/" class="slide_item" style="display:block;background-image:url('/upload/iblock/d8d/9323gk8nf16zy4du1im3jbnoew0bc7rj/Lenin.Saytobanner-_4_.jpg?v=v1741772720');" title="«Ленин» " alt="«Ленин» ">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+													<div class="museum_type">Выставка</div>
+																			<div class="name">
+								«Ленин» 							</div>
+																			<div class="time">
+								<span class="date_from">16 октября 2024</span>
+																	&mdash; <span class="date_to">18 августа 2025</span>
+															</div>
+																	</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="/shows/42533/" class="slide_item" style="display:block;background-image:url('/upload/iblock/f6d/a3q7bp4egd889wvs3hcqz5llbrlaz3hl/gorizont-sai_t.png?v=v1741772720');" title="«Наследие». Предисловие к коллекции. Выставка художника-ювелира Ильгиза Фазулзянова " alt="«Наследие». Предисловие к коллекции. Выставка художника-ювелира Ильгиза Фазулзянова ">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+													<div class="museum_type">Выставка</div>
+																			<div class="name">
+								«Наследие». Предисловие к коллекции. Выставка художника-ювелира Ильгиза Фазулзянова 							</div>
+																			<div class="time">
+								<span class="date_from">28 февраля 2025</span>
+																	&mdash; <span class="date_to">20 апреля 2025</span>
+															</div>
+																	</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="https://kids.shm.ru/" class="slide_item" style="display:block;background-image:url('/upload/iblock/eca/l3tern3k4gnoyrabxjnv6w6gtmgla25e/BANNER_DETSKIY.jpg?v=v1741772720');" title="ГИМ Детям" alt="ГИМ Детям">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+																			<div class="name">
+								ГИМ Детям							</div>
+																							</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="https://shop.shm.ru/" class="slide_item" style="display:block;background-image:url('/upload/iblock/c8a/hkh32bffzkit6vaffe7hbcbyck8hwvuu/BANNER3.webp?v=v1741772720');" title="Официальный интернет-магазин Государственного исторического музея" alt="Официальный интернет-магазин Государственного исторического музея">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+																			<div class="name">
+								Официальный интернет-магазин Государственного исторического музея							</div>
+																							</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+								<div class="slide_wrap">
+				<a href="/shows/34304/" class="slide_item" style="display:block;background-image:url('/upload/iblock/8b3/jvpat9jgl4a14xnqf9cseiqfinzazc2o/Zoloto_banner.webp?v=v1741772720');" title="Золотая кладовая Исторического музея" alt="Золотая кладовая Исторического музея">
+				<div class="container-xxl">
+					<div class="hover_block description_block">
+
+																			<div class="name">
+								Золотая кладовая Исторического музея							</div>
+																							</div>
+				</div>	
+					
+				</a>
+			</div>
+			
+				</div>
+		<div class="pause_btn pause" play_status="pause"></div>
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <!-- аккордеон музеев -->
+    <section class="dark_theme">
+        <div class="container-xxl">
+            <div class="branches_acordion">
+<style>
+	.branches_acordion .museum_item .collection .body.bg_color_f00 {background: linear-gradient(0, #f00 0%, rgba(0, 0, 0, 0) 66px)}
+</style>
+			<div class="museum_item " id="bx_3218110189_8">
+		<div class="collection">
+			<div class="heading hover_block">
+				<span class="name">
+					
+										
+										
+										
+														<div class="color_point" style="background-color:#f00"></div>
+					 Исторический музей				</span>
+									<span class="time">Сегодня мы работаем до 18:00</span>
+							</div>
+			<div class="body bg_color_f00">
+				<div class="row">
+					<div class="col-md-3">
+
+					
+						<img src="/upload/iblock/532/gosudarstvennyi_istoricheskii_muzei_.png" alt=" Исторический музей" class="img" title=" Исторический музей" alt=" Исторический музей">
+					</div>
+					<div class="col-md-3">
+						<div class="week_title">Часы работы</div>
+						<div class="week_body">
+							<div class="day">
+								<span class="day_name">Понедельник</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Вторник</span>
+								<span class="time">выходной</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Среда</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Четверг</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Пятница</span>
+								<span class="time">10:00-21:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Суббота</span>
+								<span class="time">10:00-21:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Воскресенье</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+						</div>
+						<div class="non-working_days">Касса и вход в музей закрываются за 1 час до окончания работы музея. </div>
+
+					</div>
+					<div class="col-md-3">
+						<div class="adress">
+							<div class="adress_title">Адрес</div>
+							<div class="adress_body"><p>109012, Москва, Красная площадь, д. 1</p>
+ 
+<p>Экскурсионный центр: 
+<br>
+<a href="tel:+74956923731">+7 (495) 692-37-31</a>, 
+<br>
+<a href="mailto:visitor@shm.ru">visitor@shm.ru</a></p>
+
+
+</div>
+						</div>
+					</div>
+				</div>
+				<div class="links">
+										<a href="https://tickets.shm.ru/?id=1&sid=4" class="tikets hover_block" target="_blank">Купить билет</a>
+																<a href="/museum/gim/" class="read_more hover_block">Подробнее о музее</a>
+									</div>
+			</div>
+		</div>
+	</div>
+<style>
+	.branches_acordion .museum_item .collection .body.bg_color_299BD2 {background: linear-gradient(0, #299BD2 0%, rgba(0, 0, 0, 0) 66px)}
+</style>
+			<div class="museum_item " id="bx_3218110189_9">
+		<div class="collection">
+			<div class="heading hover_block">
+				<span class="name">
+					
+										
+										
+										
+														<div class="color_point" style="background-color:#299BD2"></div>
+					Храм Василия Блаженного				</span>
+									<span class="time">Сегодня мы работаем до 17:00</span>
+							</div>
+			<div class="body bg_color_299BD2">
+				<div class="row">
+					<div class="col-md-3">
+
+					
+						<img src="/upload/iblock/0a1/sobor.png" alt="Храм Василия Блаженного" class="img" title="Храм Василия Блаженного" alt="Храм Василия Блаженного">
+					</div>
+					<div class="col-md-3">
+						<div class="week_title">Часы работы</div>
+						<div class="week_body">
+							<div class="day">
+								<span class="day_name">Понедельник</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Вторник</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Среда</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Четверг</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Пятница</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Суббота</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Воскресенье</span>
+								<span class="time">11:00-17:00</span>
+							</div>
+						</div>
+						<div class="non-working_days">Касса и вход в музей закрываются за 45 минут до окончания работы музея. </div>
+
+					</div>
+					<div class="col-md-3">
+						<div class="adress">
+							<div class="adress_title">Адрес</div>
+							<div class="adress_body"><p>109012, Москва, Красная площадь, 7</p>
+ 
+<p>Администратор: 
+<br>
+<a href="tel:+74956983304">+7 (495) 698-33-04</a>, <a href="mailto:visitor@shm.ru">visitor@shm.ru</a>
+</p>
+
+</div>
+						</div>
+					</div>
+				</div>
+				<div class="links">
+										<a href="https://tickets.shm.ru/event/29934E48E02EB0DFEC86E4F8ADE4E778AFD9C234/2022-10-20" class="tikets hover_block" target="_blank">Купить билет</a>
+																<a href="/museum/hvb/" class="read_more hover_block">Подробнее о музее</a>
+									</div>
+			</div>
+		</div>
+	</div>
+<style>
+	.branches_acordion .museum_item .collection .body.bg_color_008C6A {background: linear-gradient(0, #008C6A 0%, rgba(0, 0, 0, 0) 66px)}
+</style>
+			<div class="museum_item " id="bx_3218110189_10">
+		<div class="collection">
+			<div class="heading hover_block">
+				<span class="name">
+					
+										
+										
+														<div class="color_point" style="background-color:#008C6A"></div>
+					Музей Отечественной войны 1812 года				</span>
+									<span class="time">Сегодня мы работаем до 18:00</span>
+							</div>
+			<div class="body bg_color_008C6A">
+				<div class="row">
+					<div class="col-md-3">
+
+					
+						<img src="/upload/iblock/84c/muzei_1812_goda.png" alt="Музей Отечественной войны 1812 года" class="img" title="Музей Отечественной войны 1812 года" alt="Музей Отечественной войны 1812 года">
+					</div>
+					<div class="col-md-3">
+						<div class="week_title">Часы работы</div>
+						<div class="week_body">
+							<div class="day">
+								<span class="day_name">Понедельник</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Вторник</span>
+								<span class="time">выходной</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Среда</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Четверг</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Пятница</span>
+								<span class="time">10:00-21:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Суббота</span>
+								<span class="time">10:00-21:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Воскресенье</span>
+								<span class="time">10:00-18:00</span>
+							</div>
+						</div>
+						<div class="non-working_days">Касса и вход в музей закрываются за 1 час до окончания работы музея. </div>
+
+					</div>
+					<div class="col-md-3">
+						<div class="adress">
+							<div class="adress_title">Адрес</div>
+							<div class="adress_body"><p>109012, Москва, площадь Революции, д. 2/3</p>
+ 
+<p>Администратор: <a href="tel:+74956982497">+7 (495) 698-24-97</a>, <a href="mailto:visitor@shm.ru">visitor@shm.ru</a></p>
+
+
+
+  </div>
+						</div>
+					</div>
+				</div>
+				<div class="links">
+										<a href="https://tickets.shm.ru/event/EC1AAE6739009DC6BF61565BB58B086097C7A32E/2022-10-19" class="tikets hover_block" target="_blank">Купить билет</a>
+																<a href="/museum/mov/" class="read_more hover_block">Подробнее о музее</a>
+									</div>
+			</div>
+		</div>
+	</div>
+<style>
+	.branches_acordion .museum_item .collection .body.bg_color_E29856 {background: linear-gradient(0, #E29856 0%, rgba(0, 0, 0, 0) 66px)}
+</style>
+			<div class="museum_item " id="bx_3218110189_11">
+		<div class="collection">
+			<div class="heading hover_block">
+				<span class="name">
+					
+										
+										
+														<div class="color_point" style="background-color:#E29856"></div>
+					Палаты бояр Романовых				</span>
+									<span class="time">Сегодня мы работаем до 18:00</span>
+							</div>
+			<div class="body bg_color_E29856">
+				<div class="row">
+					<div class="col-md-3">
+
+					
+						<img src="/upload/iblock/f62/palaty_boyar_romanovykh.png" alt="Палаты бояр Романовых" class="img" title="Палаты бояр Романовых" alt="Палаты бояр Романовых">
+					</div>
+					<div class="col-md-3">
+						<div class="week_title">Часы работы</div>
+						<div class="week_body">
+							<div class="day">
+								<span class="day_name">Понедельник</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Вторник</span>
+								<span class="time">выходной </span>
+							</div>
+							<div class="day">
+								<span class="day_name">Среда</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Четверг</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Пятница</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Суббота</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+							<div class="day">
+								<span class="day_name">Воскресенье</span>
+								<span class="time">11:00-18:00</span>
+							</div>
+						</div>
+						<div class="non-working_days">Касса и вход в музей закрываются за 1 час до окончания работы музея. Вторник и первый понедельник месяца — выходные дни.
+<br>
+<br>
+Внимание: вход в музей по сеансам, количество билетов ограничено.</div>
+
+					</div>
+					<div class="col-md-3">
+						<div class="adress">
+							<div class="adress_title">Адрес</div>
+							<div class="adress_body"><p>109012, Москва, ул. Варварка, д. 10</p>
+ 
+<p>Справочная: <a href="tel:+74956981256">+7 (495) 698-12-56</a></p>
+ 
+
+
+
+
+
+
+
+  </div>
+						</div>
+					</div>
+				</div>
+				<div class="links">
+										<a href="https://tickets.shm.ru/event/A0E7DF8F76CE0D08217DCBF31B3D58BD807DD0C9/2022-10-19" class="tikets hover_block" target="_blank">Купить билет</a>
+																<a href="/museum/pbr/" class="read_more hover_block">Подробнее о музее</a>
+									</div>
+			</div>
+		</div>
+	</div>
+</div>
+    </div>
+    </section>
+
+    <!-- расписание музеев -->
+    <section class="dark_theme">
+        <div class="container-xxl">
+
+            
+            <h2>Cобытия</h2>
+            
+<div class="events events_chess">
+	<div class="row">
+								
+									
+			<div class="col-12 col-md-8" id="bx_651765591_41642">
+				<div class="row">
+
+					<div class="col-12 col-md-11 big">
+						
+						<div class="item">
+							<div class="body">
+								<div class="image hover_block" title="Мероприятия к выставке «Драгоценности! Блеск русского двора»">
+									<a href="/shows/41642/" style="background-image:url(/upload/iblock/99b/o840zyyqxjn5ktlel9y0fgd79q08dpk1/anons_meropriyatiya_1.png);" title="Мероприятия к выставке «Драгоценности! Блеск русского двора»">
+									</a>
+								</div>
+								<span class="description">
+									<div class="event-type">
+									Программы									</div>
+									<div class="events-name">
+										<a href="/shows/41642/">Мероприятия к выставке «Драгоценности! Блеск русского двора»</a>
+									</div>
+								</span>
+								<div class="caption">
+																										<a class="museum hover_block" href="/">Исторический музей</a>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-4">
+				<div class="row">
+					<div class="col-md-12">
+																														<div class="item">
+							<div class="body">
+								<div class="image hover_block">
+									<a href="/shows/42601/" style="background-image:url(/upload/iblock/a1c/3tpw3mu9d5t6wqrkppor300ppoipkjc8/anons_svoyasi_2.jpg);" title="Мероприятия к выставке «СВОЯСИ. Путь современного русского искусства»">
+									</a>
+								</div>
+								<span class="description">
+									<div class="event-type">
+									Программы									</div>
+									<div class="events-name">
+										<a href="/shows/42601/">Мероприятия к выставке «СВОЯСИ. Путь современного русского искусства»</a>
+									</div>
+								</span>
+								<div class="caption">
+																										<a class="museum hover_block" href="/">Исторический музей</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12">
+																														<div class="item">
+							<div class="body">
+								<div class="image hover_block">
+									<a href="/shows/40317/" style="background-image:url(/upload/iblock/966/uk16s1x4lqn13q2sc4qvtme4qkb4pdna/deti_fevral.jpg);" title="«Исторический музей детям» ">
+									</a>
+								</div>
+								<span class="description">
+									<div class="event-type">
+									Программы									</div>
+									<div class="events-name">
+										<a href="/shows/40317/">«Исторический музей детям» </a>
+									</div>
+								</span>
+								<div class="caption">
+																										<a class="museum hover_block" href="/">Исторический музей</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+									
+						
+												<div class="col-md-4">
+				<div class="item">
+					<div class="body">
+						<div class="image hover_block">
+							<a href="/shows/40930/" style="background-image:url(/upload/iblock/e9c/mg82ry2wwzm18vf7uuvd6zlx0fh7sa3x/chetverg_v_istoricheskom_2.jpg);" title="«Четверг в Историческом»">
+							</a>
+						</div>
+						<span class="description">
+							<div class="event-type">
+							Программы							</div>
+							<div class="events-name">
+								<a href="/shows/40930/">«Четверг в Историческом»</a>
+							</div>
+						</span>
+						<div class="caption">						
+																				<a class="museum hover_block" href="/">Исторический музей</a>
+						</div>
+					</div>
+				</div>
+			</div>
+						
+												<div class="col-md-4">
+				<div class="item">
+					<div class="body">
+						<div class="image hover_block">
+							<a href="/shows/42157/" style="background-image:url(/upload/iblock/a51/92t4driqalr2gdqg5tb7r5jzlirpy0wd/sai_t-mini-PS-konkurs-2025_03.jpg);" title="Детский творческий конкурс «Я ужасно полюбил Москву…»">
+							</a>
+						</div>
+						<span class="description">
+							<div class="event-type">
+							Конкурс							</div>
+							<div class="events-name">
+								<a href="/shows/42157/">Детский творческий конкурс «Я ужасно полюбил Москву…»</a>
+							</div>
+						</span>
+						<div class="caption">						
+																				<a class="museum hover_block" href="/museum/hvb/">Покровский собор</a>
+						</div>
+					</div>
+				</div>
+			</div>
+						
+												<div class="col-md-4">
+				<div class="item">
+					<div class="body">
+						<div class="image hover_block">
+							<a href="/shows/41279/" style="background-image:url(/upload/iblock/1e1/qnklf6p2ygp5x06dzosr3fhgg6kftll2/moskva_pri_petre.jpg);" title="«Москва – колыбель и трон Романовых» ">
+							</a>
+						</div>
+						<span class="description">
+							<div class="event-type">
+							Программы							</div>
+							<div class="events-name">
+								<a href="/shows/41279/">«Москва – колыбель и трон Романовых» </a>
+							</div>
+						</span>
+						<div class="caption">						
+																				<a class="museum hover_block" href="/museum/pbr/">Палаты бояр Романовых</a>
+						</div>
+					</div>
+				</div>
+			</div>
+						
+												<div class="col-md-4">
+				<div class="item">
+					<div class="body">
+						<div class="image hover_block">
+							<a href="/shows/41183/" style="background-image:url(/upload/iblock/498/1m8kc1ze8qgf5ur4tqzp33z3tnl7gokr/palaty_osen_3.jpg);" title="Театрализованная программа «Россия – XVII век. Старина и новизна»">
+							</a>
+						</div>
+						<span class="description">
+							<div class="event-type">
+							Экскурсии							</div>
+							<div class="events-name">
+								<a href="/shows/41183/">Театрализованная программа «Россия – XVII век. Старина и новизна»</a>
+							</div>
+						</span>
+						<div class="caption">						
+																				<a class="museum hover_block" href="/museum/pbr/">Палаты бояр Романовых</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+    </div> 
+</div>
+
+            <div class="container-xxl">
+    <div class="calendar_block">
+        <div class="calendar_block__title h2">
+                Расписание на 12 марта        </div>
+        <div class="calendar_block__inner">
+            <div class="calendar_block__title calendar_block__title_table h2">
+                Расписание на 12 марта            </div>
+                        <style type="text/css">
+	.ui-datepicker-calendar tr td{
+		padding: 0;
+		min-width: auto;
+	}
+	.ui-datepicker .ui-datepicker-header{
+		border:none;
+		background: transparent;
+	}
+	.ui-widget.ui-widget-content{
+		border: transparent;
+		background: transparent;
+	}
+	.calendar_bx{
+		display: none;
+	}
+	.ui-state-default, .ui-widget-content .ui-state-default{
+		background: transparent;
+		border: none;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		height: 30px;
+		width: 30px;
+		padding: 0;
+		color: white;
+		font-family: "Open Sans";
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 150%; /* 24px */
+	}
+	.ui-state-active, .ui-widget-content .ui-state-active{
+		background: #D00B0B;
+		border-radius: 50%;
+		color: white;
+	}
+	#calendar_filter{
+		flex-shrink: 0;
+		width: 278px;
+	}
+	.ui-widget-header{
+		color: white;
+	}
+	.ui-datepicker-calendar thead{
+		color: white;
+	}
+	.ui-datepicker .ui-datepicker-header{
+		display: flex;
+		gap: 5px;
+	}
+	.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next{
+		position: static;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		transition-duration: 0.3s;
+		cursor: pointer;
+	}
+	.ui-datepicker .ui-datepicker-prev:hover, .ui-datepicker .ui-datepicker-next:hover{
+		opacity: 0.5;
+	}
+	.ui-datepicker .ui-datepicker-prev span, .ui-datepicker .ui-datepicker-next span{
+		position: static;
+		margin: 0;
+		background-position: center;
+		background-size: contain;
+	}
+	.ui-datepicker .ui-datepicker-prev span{
+		background-image: url("local/templates/shm_bw/components/bitrix/catalog.smart.filter/index-calendar/images/previous.png");
+	}
+	.ui-datepicker .ui-datepicker-next span{
+		background-image: url("local/templates/shm_bw/components/bitrix/catalog.smart.filter/index-calendar/images/next.png");
+	}
+	.ui-datepicker .ui-datepicker-prev.ui-state-hover{
+		background: transparent;
+		border: none;
+	}
+	.ui-datepicker .ui-datepicker-next.ui-state-hover{
+		background: transparent;
+		border: none;
+	}
+	.ui-datepicker-title{
+		order: -1;
+		margin: 0 auto 0 10px!important;
+	}
+</style>
+<form id="calendar_filter" name="CalendarFilt_form" action="/" method="get" class="filter">
+				<div class="" data-role="bx_filter_block">
+		
+				<script>
+					$( function() {
+						$( "#datepicker" ).datepicker({
+							minDate: 0,
+							maxDate: "16.03.2025 00:00:00",
+							defaultDate: '',
+							onSelect: function(dateText, inst, extensionRange) {
+							    let ms = inst.currentDay+'.'+(inst.currentMonth+1)+'.'+inst.currentYear;
+							    let filtName = 'CalendarFilt_387_MIN';
+							    let filtName2 = 'CalendarFilt_387_MAX';
+							    let curUrl = 'https://shm.ru/'+'?set_filter=Показать&'+filtName+'='+ms+'&'+filtName2+'='+ms;
+							    var targetContainer = $('.calendar_event_container');         //  Контейнер, в котором хранятся элементы
+							    var targetContainerM = $('.calendar_event_mobile');
+						        /*var url =  $(this).attr('data-href');    //  URL, из которого будем брать элементы
+						        let pagenold=$(".show_more_2").attr('data-href');
+
+						        let pagennew = pagenold+'$set_filter=Показать&'+filtName+'='+ms+'&'+filtName2+'='+ms;*/
+						        console.log(curUrl);
+						        if (curUrl !== undefined) {
+						            $.ajax({
+						                type: 'GET',
+						                url: curUrl,
+						                dataType: 'html',
+						                success: function(data){
+						                	history.pushState(null, null, curUrl);
+						                	$('.calendar_block__title').html( $(data).find('.calendar_block__title').html() );
+						                	targetContainer.html( $(data).find('.calendar_event_container').html() );
+						                	targetContainerM.html( $(data).find('.calendar_event_mobile').html() );
+						                	$('.show_more_calendar_container').removeClass('show_more_active');
+						                }
+						            })
+						        }
+							    $('#CalendarFilt_387_MIN').val(ms);
+							    $('#CalendarFilt_387_MAX').val(ms);
+							    //smartFilter.click(this)
+							  }
+						});
+					});
+				</script>
+
+				<div id="datepicker"></div>
+				<div class="calendar_bx">
+
+						<input type="text" id="CalendarFilt_387_MIN" name="CalendarFilt_387_MIN" value="" class="calendar" placeholder="31.01.2019" onkeyup="smartFilter.keyup(this)" onchange="smartFilter.keyup(this)"/><img src="/bitrix/js/main/core/images/calendar-icon.gif" alt="Выбрать дату в календаре" class="calendar-icon" onclick="BX.calendar({node:this, field:'CalendarFilt_387_MIN', form: 'CalendarFilt_form', bTime: false, currentTime: '1741783520', bHideTime: true});" onmouseover="BX.addClass(this, 'calendar-icon-hover');" onmouseout="BX.removeClass(this, 'calendar-icon-hover');" border="0"/>					
+						<input type="text" id="CalendarFilt_387_MAX" name="CalendarFilt_387_MAX" value="" class="calendar" placeholder="31.03.2019" onkeyup="smartFilter.keyup(this)" onchange="smartFilter.keyup(this)"/><img src="/bitrix/js/main/core/images/calendar-icon.gif" alt="Выбрать дату в календаре" class="calendar-icon" onclick="BX.calendar({node:this, field:'CalendarFilt_387_MAX', form: 'CalendarFilt_form', bTime: false, currentTime: '1741783520', bHideTime: true});" onmouseover="BX.addClass(this, 'calendar-icon-hover');" onmouseout="BX.removeClass(this, 'calendar-icon-hover');" border="0"/>					
+				</div>
+			</div>
+	</form>
+
+                        
+            
+<style type="text/css">
+
+</style>
+
+
+<div class="calendar_event_container show_more_calendar_container">
+			
+	<div id="bx_1373509569_42678" class="calendar_event_container__item ">
+
+		<a class="calendar_event_container__text" href="https://shm.ru/shows/41111/">
+			<div class="calendar_event_container__title">
+				 Экскурсия «Россия - Любовь моя»			</div>
+			<div class="calendar_event_container__infos">
+								<div>
+					от 600 до 1400 руб. (в зависимости от категории)				</div>
+												<div>
+					10:30 				</div>
+							</div>
+			<div class="calendar_event_container__museum">
+				<div class="calendar_event_container__museum_color" style="background: #008C6A;">
+					
+				</div>
+				<div class="calendar_event_container__museum_name">
+					Выставочный комплекс				</div>
+			</div>	
+		</a>
+				<div class="calendar_event_container__btn_container">
+			<a href="https://tickets.shm.ru/event/22AA89271511BB11D160066DB6E3D14E58403BAF/2025-03-12/10:30" target="_blank">Купить билет</a>
+		</div>
+			</div>
+
+		
+	<div id="bx_1373509569_42677" class="calendar_event_container__item ">
+
+		<a class="calendar_event_container__text" href="https://shm.ru/excursions/14111/">
+			<div class="calendar_event_container__title">
+				Экскурсия «Памятники и реликвии Отечественной войны 1812 года»			</div>
+			<div class="calendar_event_container__infos">
+								<div>
+					от 500 до 1500 руб. (в зависимости от категории)				</div>
+												<div>
+					12:00, 14:00 				</div>
+							</div>
+			<div class="calendar_event_container__museum">
+				<div class="calendar_event_container__museum_color" style="background: #008C6A;">
+					
+				</div>
+				<div class="calendar_event_container__museum_name">
+					Музей Отечественной войны 1812 года				</div>
+			</div>	
+		</a>
+				<div class="calendar_event_container__btn_container">
+			<a href="https://tickets.shm.ru/event/78D45676764BACA878C158A05E37A8E8A878A855/2025-03-12" target="_blank">Купить билет</a>
+		</div>
+			</div>
+
+		
+	<div id="bx_1373509569_42676" class="calendar_event_container__item ">
+
+		<a class="calendar_event_container__text" href="https://shm.ru/excursions/12303/">
+			<div class="calendar_event_container__title">
+				Экскурсия «Приглашение в Древнюю Русь»			</div>
+			<div class="calendar_event_container__infos">
+								<div>
+					от 500 до 2500 руб. (в зависимости от категории)				</div>
+												<div>
+					14:00 				</div>
+							</div>
+			<div class="calendar_event_container__museum">
+				<div class="calendar_event_container__museum_color" style="background: #f00;">
+					
+				</div>
+				<div class="calendar_event_container__museum_name">
+					 Исторический музей				</div>
+			</div>	
+		</a>
+				<div class="calendar_event_container__btn_container">
+			<a href="https://tickets.shm.ru/event/804B9F4A1C53DDBE7E3E6234955C8647FE73C0F6/2025-03-12/14:00" target="_blank">Купить билет</a>
+		</div>
+			</div>
+
+		
+	<div id="bx_1373509569_42679" class="calendar_event_container__item only_show_more">
+
+		<a class="calendar_event_container__text" href="https://shm.ru/shows/42530/">
+			<div class="calendar_event_container__title">
+				Экскурсия «СВОЯСИ. Путь современного русского искусства»			</div>
+			<div class="calendar_event_container__infos">
+								<div>
+					от 600 до 1300 руб. (в зависимости от категории)				</div>
+												<div>
+					15:00 				</div>
+							</div>
+			<div class="calendar_event_container__museum">
+				<div class="calendar_event_container__museum_color" style="background: #f00;">
+					
+				</div>
+				<div class="calendar_event_container__museum_name">
+					Новый выставочный зал				</div>
+			</div>	
+		</a>
+				<div class="calendar_event_container__btn_container">
+			<a href="https://tickets.shm.ru/event/F2E9FFCA83F0E3E49A89B70F1F71DFF227479FF9/2025-03-12/15:00" target="_blank">Купить билет</a>
+		</div>
+			</div>
+
+		
+	<div id="bx_1373509569_42680" class="calendar_event_container__item only_show_more">
+
+		<a class="calendar_event_container__text" href="https://shm.ru/shows/11866/">
+			<div class="calendar_event_container__title">
+				Встреча «Тюрьма возле Покровского собора в XVIII в.: топография, внешний вид, повседневность»			</div>
+			<div class="calendar_event_container__infos">
+								<div>
+					от 200 до 400 руб. (в зависимости от категории)				</div>
+												<div>
+					19:00 				</div>
+							</div>
+			<div class="calendar_event_container__museum">
+				<div class="calendar_event_container__museum_color" style="background: #299BD2;">
+					
+				</div>
+				<div class="calendar_event_container__museum_name">
+					Храм Василия Блаженного				</div>
+			</div>	
+		</a>
+				<div class="calendar_event_container__btn_container">
+			<a href="https://tickets.shm.ru/event/680EC0675952A211E0E52319EE22F9F6B7B8B98C/2025-03-12/19:00" target="_blank">Купить билет</a>
+		</div>
+			</div>
+
+	
+		    <div class="calendar_event_show_more">
+		    <div class="show_more_2 show_all_calendar">Показать еще</div>
+		</div>
+    	
+</div>
+
+
+<div class="calendar_event_mobile show_more_calendar_container" id="calendar_event_mobile">
+	    
+	<div class="calendar_event_mobile_item ">
+    	<a href="https://shm.ru/shows/41111/" class="calendar_event_mobile_name">
+    		 Экскурсия «Россия - Любовь моя»    	</a>
+
+		<div class="calendar_event_container__infos">
+						<div>
+				от 600 до 1400 руб. (в зависимости от категории)			</div>
+									<div>
+				10:30 			</div>
+						
+		</div>
+    	<div class="calendar_event_container__museum">
+			<div class="calendar_event_container__museum_color" style="background: #008C6A;">
+				
+			</div>
+			<div class="calendar_event_container__museum_name">
+				Выставочный комплекс			</div>
+		</div>
+    	    	<a href="https://tickets.shm.ru/event/22AA89271511BB11D160066DB6E3D14E58403BAF/2025-03-12/10:30" class="calendar_event_mobile_btn" target="_blank">
+    		Купить билет
+    	</a>
+    		</div>
+
+
+    
+	<div class="calendar_event_mobile_item ">
+    	<a href="https://shm.ru/excursions/14111/" class="calendar_event_mobile_name">
+    		Экскурсия «Памятники и реликвии Отечественной войны 1812 года»    	</a>
+
+		<div class="calendar_event_container__infos">
+						<div>
+				от 500 до 1500 руб. (в зависимости от категории)			</div>
+									<div>
+				12:00, 14:00 			</div>
+						
+		</div>
+    	<div class="calendar_event_container__museum">
+			<div class="calendar_event_container__museum_color" style="background: #008C6A;">
+				
+			</div>
+			<div class="calendar_event_container__museum_name">
+				Музей Отечественной войны 1812 года			</div>
+		</div>
+    	    	<a href="https://tickets.shm.ru/event/78D45676764BACA878C158A05E37A8E8A878A855/2025-03-12" class="calendar_event_mobile_btn" target="_blank">
+    		Купить билет
+    	</a>
+    		</div>
+
+
+    
+	<div class="calendar_event_mobile_item only_show_more">
+    	<a href="https://shm.ru/excursions/12303/" class="calendar_event_mobile_name">
+    		Экскурсия «Приглашение в Древнюю Русь»    	</a>
+
+		<div class="calendar_event_container__infos">
+						<div>
+				от 500 до 2500 руб. (в зависимости от категории)			</div>
+									<div>
+				14:00 			</div>
+						
+		</div>
+    	<div class="calendar_event_container__museum">
+			<div class="calendar_event_container__museum_color" style="background: #f00;">
+				
+			</div>
+			<div class="calendar_event_container__museum_name">
+				 Исторический музей			</div>
+		</div>
+    	    	<a href="https://tickets.shm.ru/event/804B9F4A1C53DDBE7E3E6234955C8647FE73C0F6/2025-03-12/14:00" class="calendar_event_mobile_btn" target="_blank">
+    		Купить билет
+    	</a>
+    		</div>
+
+
+    
+	<div class="calendar_event_mobile_item only_show_more">
+    	<a href="https://shm.ru/shows/42530/" class="calendar_event_mobile_name">
+    		Экскурсия «СВОЯСИ. Путь современного русского искусства»    	</a>
+
+		<div class="calendar_event_container__infos">
+						<div>
+				от 600 до 1300 руб. (в зависимости от категории)			</div>
+									<div>
+				15:00 			</div>
+						
+		</div>
+    	<div class="calendar_event_container__museum">
+			<div class="calendar_event_container__museum_color" style="background: #f00;">
+				
+			</div>
+			<div class="calendar_event_container__museum_name">
+				Новый выставочный зал			</div>
+		</div>
+    	    	<a href="https://tickets.shm.ru/event/F2E9FFCA83F0E3E49A89B70F1F71DFF227479FF9/2025-03-12/15:00" class="calendar_event_mobile_btn" target="_blank">
+    		Купить билет
+    	</a>
+    		</div>
+
+
+    
+	<div class="calendar_event_mobile_item only_show_more">
+    	<a href="https://shm.ru/shows/11866/" class="calendar_event_mobile_name">
+    		Встреча «Тюрьма возле Покровского собора в XVIII в.: топография, внешний вид, повседневность»    	</a>
+
+		<div class="calendar_event_container__infos">
+						<div>
+				от 200 до 400 руб. (в зависимости от категории)			</div>
+									<div>
+				19:00 			</div>
+						
+		</div>
+    	<div class="calendar_event_container__museum">
+			<div class="calendar_event_container__museum_color" style="background: #299BD2;">
+				
+			</div>
+			<div class="calendar_event_container__museum_name">
+				Храм Василия Блаженного			</div>
+		</div>
+    	    	<a href="https://tickets.shm.ru/event/680EC0675952A211E0E52319EE22F9F6B7B8B98C/2025-03-12/19:00" class="calendar_event_mobile_btn" target="_blank">
+    		Купить билет
+    	</a>
+    		</div>
+
+
+    
+    	    <div class="calendar_event_show_more">
+		    <div class="show_more_2 show_all_calendar">Показать еще</div>
+		</div>
+    
+</div>
+
+<script>
+	$('.show_all_calendar').on('click', function(){
+		$('.show_more_calendar_container').addClass('show_more_active');
+	});
+</script>        </div>
+    </div>
+</div>            
+            <!--
+                    <img id="bxid_540995" src="/bitrix/images/fileman/htmledit2/php.gif" border="0"  />
+                    -->
+        </div>
+    </section>
+
+    <!-- Интернет-магазин -->
+    <section class="light_theme">
+        <div class="container-xxl">
+            	<div class="teasers teasers-market-karusel">
+		<hr>
+		<div class="teasers_block_title"><a href="https://shop.shm.ru" target="_blank" title="Перейти в Интернет-магазин">Интернет-магазин</a></div>
+		<div class="carusel">
+					
+				<a href="https://shop.shm.ru/catalog/knigi/izdaniya-k-vystavkam/dragotsennosti_blesk_russkogo_dvora_katalog_vystavki_np_print_1300_00/">
+				<div id="bx_3966226736_41849" class="item">
+					<div class="img hover_block" style="background-image: url('/upload/iblock/a55/93hk3tp73qir67qsw7kiet2sqn99wj8l/20241211_5I3A9218_Edit.jpg')" title="«Драгоценности! Блеск русского двора». Каталог выставки"></div>
+					<div class="h4"><div class="button_name hover_block">«Драгоценности! Блеск русского двора». Каталог выставки</div></div>
+				</div>
+				</a>
+					
+				<a href="https://shop.shm.ru/catalog/knigi/katalogi-kollektsiy/kostyumy_narodov_rossiyskoy_imperii_v_sobranii_istoricheskogo_muzeya_kniga_np_print_1500_00/">
+				<div id="bx_3966226736_41796" class="item">
+					<div class="img hover_block" style="background-image: url('/upload/iblock/62e/duckb83rwvdie1pwpxfygbvlnwnhxseq/kostyum.jpg')" title="Костюмы народов Российской империи. Из собрания Исторического музея"></div>
+					<div class="h4"><div class="button_name hover_block">Костюмы народов Российской империи. Из собрания Исторического музея</div></div>
+				</div>
+				</a>
+					
+				<a href="https://shop.shm.ru/catalog/knigi/katalogi-kollektsiy/porokhovnitsy_xvi_nachala_xx_veka_v_sobranii_istoricheskogo_muzeya_kniga_np_print_1998_00/">
+				<div id="bx_3966226736_41212" class="item">
+					<div class="img hover_block" style="background-image: url('/upload/iblock/31a/ywv7g2ag53jvmqsx5wdijxzvi3qsgcxq/porokhovnitsy.jpg')" title="Пороховницы XVI – начала XX века в собрании Исторического музея"></div>
+					<div class="h4"><div class="button_name hover_block">Пороховницы XVI – начала XX века в собрании Исторического музея</div></div>
+				</div>
+				</a>
+				</div>
+	</div>
+        </div>
+    </section>
+
+    <!-- Клуба друзей музея -->
+<section class="dark_theme">
+    <div class="container-xxl"><br>
+        <div class="h2"> 
+            <a href="https://shm.ru/klub-druzey-istoricheskogo-muzeya/" style="text-decoration: none;">
+                Клуб друзей Исторического музея
+            </a>
+        </div><br>
+        <div class="main_friendsclub">
+ <a href="https://shm.ru/klub-druzey-istoricheskogo-muzeya/"><img alt="Клуб друзей Исторического музея" src="/upload/friendsclub.webp" class="topshelf" title="Клуб друзей Исторического музея"></a> <a href="/klub-druzey-istoricheskogo-muzeya/" target="_blank" class="btn hover_block">Подробнее</a>
+	</div>
+</div>
+     
+</section>
+
+
+
+
+
+    <!-- Экскурсии -->
+        <!-- Образовательные программы -->
+    <section class="light_theme">
+        <div class="container-xxl">
+            
+	<div class="teasers">
+		<div class="teasers_block_title">Образовательные программы</div>
+		<div class="row">
+							
+			<div id="bx_1970176138_31013" class="col-md-4">
+				<a href="/education/filter/education_category-is-музейные занятия/apply/">
+				<div class="item hover_block">
+					<div class="img" style="background-image: url('/upload/iblock/563/35ji8wl67j1s5kot67nws03sutz841pp/Zaglushki_1080_E7204-6.jpeg')"  title=" "></div>
+					<div class="h4"> </div>
+					<div class="description"></div>
+				</div>
+				</a>
+			</div>
+							
+			<div id="bx_1970176138_39632" class="col-md-4">
+				<a href="https://shm.ru/excursions/">
+				<div class="item hover_block">
+					<div class="img" style="background-image: url('/upload/iblock/3ad/5c7jzr38zrpsw8k27ae22xlrjr9qkjdu/ekskursii.jpeg')"  title=" "></div>
+					<div class="h4"> </div>
+					<div class="description"></div>
+				</div>
+				</a>
+			</div>
+							
+			<div id="bx_1970176138_39429" class="col-md-4">
+				<a href="/education/filter/education_category-is-кружки/apply/">
+				<div class="item hover_block">
+					<div class="img" style="background-image: url('/upload/iblock/757/lwg054wdlsdkk2z3cey1dpmxnh2s5pn2/Zaglushki_1080_E7204-5.jpeg')"  title=" "></div>
+					<div class="h4"> </div>
+					<div class="description"></div>
+				</div>
+				</a>
+			</div>
+							
+			<div id="bx_1970176138_39020" class="col-md-4">
+				<a href="education/filter/education_category-is-лекции/apply/">
+				<div class="item hover_block">
+					<div class="img" style="background-image: url('/upload/iblock/66d/y2cg87dgy7a2dfvt2edzv65kiwnfv8x3/Zaglushki_1080_E7204-4.jpeg')"  title=" "></div>
+					<div class="h4"> </div>
+					<div class="description"></div>
+				</div>
+				</a>
+			</div>
+							
+			<div id="bx_1970176138_33532" class="col-md-4">
+				<a href="/education/14048/">
+				<div class="item hover_block">
+					<div class="img" style="background-image: url('/upload/iblock/a46/t1sq7mpit4nzs8t7muazls9cnl7e7q0f/Zaglushki_1080_E7204-2.jpeg')"  title=" "></div>
+					<div class="h4"> </div>
+					<div class="description"></div>
+				</div>
+				</a>
+			</div>
+				</div>
+	</div>
+        </div>
+    </section>
+
+
+<style>
+	@media screen and (max-width: 1000px) {
+		.kids_banner .main_friendsclub .btn{
+			position: initial;
+		    margin: 11px 0 8px;
+		}
+	}
+	.victori{
+		margin-top: -15px;
+		position: initial;
+		width: fit-content;
+	    color: white;
+	    background: linear-gradient(90deg, #A376EB 0%, #FF5A2E 49%, #FF70B3 100%);
+	    background-size: 400% 400%;
+	    animation: gradient 10s ease infinite;
+	    transform: translate3d(0, 0, 0);
+	   	border-radius: 0 0 10px 10px;
+	    font-size: 12px;
+	    font-style: normal;
+	    font-weight: 700;
+	    line-height: 110%; /* 13.2px */
+	    padding: 10px 5px;
+	    height: fit-content;
+	    display: flex;
+	    align-items: center;
+	}
+
+	.victori__text{
+	    position: relative;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    gap: 0px;
+	    text-align: center;
+	}
+	.victori__text:after{
+	    content:"";
+	    position: relative;
+	    flex-shrink: 0;
+	    display: block;
+	    width: 18px;
+	    height: 38px;
+	    background-image: url(https://kids.shm.ru/local/templates/kids/icons/wing-right.svg);
+	}
+	.victori__text:before{
+	    content:"";
+	    position: relative;
+	    display: block;
+	    flex-shrink: 0;
+	    width: 18px;
+	    height: 38px;
+	    background-image: url(https://kids.shm.ru/local/templates/kids/icons/wing-left.svg);
+	}
+	@media screen and (min-width: 700px){
+		.victori{
+			position: absolute;
+			top: -64px;
+			margin-top: 0px;
+		}
+	}
+	@media screen and (min-width: 992px){
+		.victori{
+	        border-radius: 0 0 10px 10px;
+	        font-size: 18px;
+		    font-weight: 450;
+		    line-height: 150%; /* 27px */
+		    padding: 20px 10px;
+		    
+	    }
+	    .victori__text{
+		    gap: 10px;
+		}
+	}
+</style>
+<section class="light_theme">
+	<div class="container-xxl kids_banner">
+		<div class="main_friendsclub">
+			<div class="victori MOB__only">
+	            <div class="victori__text">
+	                Лучший просветительский проект 2024 года
+	            </div>
+	        </div>
+		 	<a href="https://kids.shm.ru">
+		 		<img alt="Гим-детям" src="/upload/kidsshm.webp" class="topshelf" title="Гим-детям">
+		 	</a>
+		 	<a href="https://kids.shm.ru/" target="_blank" class="btn hover_block">Открыть онлайн-ресурс</a>
+		</div>
+	</div>
+</section>
+    <!-- Медиапортал -->
+    <section class="dark_theme" style="/*background-color: rgb(250, 239, 239);*/">
+        <div class="container-xxl">
+            <div class="mediaportal">
+	<div class="h2">
+		 <a href="https://mediashm.ru/" style="text-decoration: none;">Медиапортал</a>
+	</div>
+	<div class="row">
+		<div class="col-md-4">
+			<ul class="tags">
+				<li><a href="javascript:void(0)" onclick="mediaportal_term(4, 'categories', 'Лекции', 'https://mediashm.ru/?cat=4');">Лекции</a></li>
+				<li><a href="javascript:void(0)" onclick="mediaportal_term(9, 'categories', 'Трансляции', 'https://mediashm.ru/?cat=9');">Трансляции</a></li>
+				<li><a href="javascript:void(0)" onclick="mediaportal_term(347, 'tags', 'Слово историку', 'https://mediashm.ru/?tag=347');">Слово историку</a></li>
+				<li><a href="javascript:void(0)" onclick="mediaportal_term(325, 'tags', 'Предметный разговор', 'https://mediashm.ru/?tag=325');">Предметный разговор</a></li>
+				<li><a href="javascript:void(0)" onclick="mediaportal_term(208, 'categories', 'Фильмы о музее', 'https://mediashm.ru/?cat=208');">Фильмы о музее</a></li>
+			</ul>
+			<div class="read_more">
+ <a href="https://mediashm.ru/" target="_blank">Все материалы</a>
+			</div>
+		</div>
+		<div class="col-md-8">
+			<div class="row items">
+			</div>
+		</div>
+	</div>
+</div>
+ <script>			
+			
+
+			function mediaportal_term(id, respType='tags', catname, catlink){
+				if(can != false)$('.mediaportal').find('.items').html('');
+				if(can == false){
+					return;
+				}
+				can = false;
+				let blo = document.querySelectorAll('.mediaportal  li a');
+				for (let i = 0; i < blo.length; i++) {
+					blo[i].classList.add('blocked');
+				}		
+				let xhr = new XMLHttpRequest();
+				let body = 'api=true&'+respType+'='+id;
+				xhr.open('POST', 'https://mediashm.ru/', true);
+				xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+				xhr.onreadystatechange = function() {
+					if (this.readyState != 4) return;
+					let dt = JSON.parse(this.responseText).data;
+					insertItems(dt, catname, catlink);					
+
+				}
+				xhr.send(body);
+				return false;
+			}
+			
+			function insertItems(dt, catname, catlink){		
+				var itemProto = '<div class="col-md-6"><div class="item"><div class="b-video"><iframe id="bxid_402668" src="" width="560" height="315" frameborder="0" allowfullscreen></iframe></div><a id="bxid_918796" href="" class="name" target="_blank" ></a><div class="caption"><span class="begin"></span><a id="bxid_963178" href="" target="_blank" class="type" ></a></div></div></div>';
+
+				
+				for (let i = 0; i < 4; i++) {
+					item = createItem($(itemProto), dt[i], catname, catlink);	
+				}
+				
+				
+				let blo = document.querySelectorAll('.mediaportal  li a');
+				for (let i = 0; i < blo.length; i++) {
+					blo[i].classList.remove('blocked');
+				}
+				
+				can = true;
+				
+				
+			}
+			
+			function createItem(item, dtItem=false, catname, catlink){
+					if(!dtItem)return;
+					item.find('iframe').attr('src',dtItem.url+'&emb=1');
+					item.find('.name').attr('href',dtItem.url);
+					item.find('.name').text(dtItem.title);
+					item.find('.begin').text(dtItem.time);
+					item.find('.type').attr('href',catlink);
+					item.find('.type').text(catname);
+					$('.mediaportal').find('.items').append(item);
+					
+					return item;
+			}
+			
+			var can = true;
+			mediaportal_term(4, 'last', 'Новое видео', 'https://mediashm.ru/');
+
+</script> <br>        </div>
+    </section>
+
+    <!-- Тысячи экспонатов в онлайн-коллекции Исторического музея -->
+    <section class="dark_theme main_collection_wrap" style="border-top: 1px solid #343434;">
+        <div class="container-xxl">
+            <div class="main_collection">
+	<div class="element_col el1">
+ <a href="https://catalog.shm.ru"><img alt="Электронный каталог" src="/img/F3.png" title="Электронный каталог"></a> <!--     <div class="name">Название экспоната. <span>1547г</span></div> -->
+	</div>
+	<div class="element_col el2">
+ <img alt="Электронный каталог" src="/img/Украшение.png" title="Электронный каталог"> <!--     <div class="name">Название экспоната. <span>1547г</span></div> -->
+	</div> <br>
+	<div class="h2">
+		 Тысячи экспонатов в&nbsp;онлайн-коллекции Исторического музея
+	</div>
+ <a href="https://catalog.shm.ru" target="_blank" class="btn hover_block">Открыть каталог</a>
+</div>
+ <br>        </div>
+
+        <div class="element_col el3" style="background-color: transparent!important;">
+            <img src="/img/Петух.png" style="background-color: transparent!important;" title="Электронный каталог"
+                 alt="Электронный каталог"/>
+            <!--     <div class="name">Название экспоната. <span>1547г</span></div> -->
+        </div>
+    </section>
+
+    <!-- карусель тизеров -->
+    <section class="light_theme">
+        <div class="container-xxl">
+            	<div class="teasers action">
+		<div class="slider">
+					
+		
+				
+				<div id="bx_40480796_39922" class="item">
+					<div class="col_1">
+						<div class="top">
+							<div class="h4"><i> </i>Конференция Исторического музея</div>
+							
+							
+						</div>
+						<div class="bottom">
+							<div class="description">Онлайн-ресурс для специалистов музейного дела</div>
+							<a class="readmore hover_block" href="https://andm.shm.ru">Подробнее</a>
+						</div>
+					</div>
+					<div class="col_2">
+						<div class="img" style="background-image: url('/upload/iblock/f86/aazmdy37fczq2acsl2qkrr5a5iv79ok9/konferentsiya_gl.jpeg')" title="Конференция Исторического музея"></div>
+					</div>					
+				</div>
+				
+					
+		
+				
+				<div id="bx_40480796_30396" class="item">
+					<div class="col_1">
+						<div class="top">
+							<div class="h4"><i>Участникам программы </i>Пушкинская карта</div>
+							
+							
+						</div>
+						<div class="bottom">
+							<div class="description">В Исторический музей по Пушкинской карте</div>
+							<a class="readmore hover_block" href="https://shm.ru/visit/pushkinskaya-karta/">Подробнее</a>
+						</div>
+					</div>
+					<div class="col_2">
+						<div class="img" style="background-image: url('/upload/iblock/a82/pushkinskaya_karta.jpg')" title="Пушкинская карта"></div>
+					</div>					
+				</div>
+				
+					
+		
+				
+				<div id="bx_40480796_30018" class="item">
+					<div class="col_1">
+						<div class="top">
+							<div class="h4"><i>Подкаст </i>Обыкновенная история</div>
+							
+							
+						</div>
+						<div class="bottom">
+							<div class="description"><p>Подкаст Исторического музея об&nbsp;истории и&nbsp;не&nbsp;только. Любопытные факты об&nbsp;известных людях, которые творили историю и&nbsp;сами стали её&nbsp;частью.</p>
+</div>
+							<a class="readmore hover_block" href="https://pod.mediashm.ru">Подробнее</a>
+						</div>
+					</div>
+					<div class="col_2">
+						<div class="img" style="background-image: url('/upload/iblock/d9f/itunescover.jpg')" title="Обыкновенная история"></div>
+					</div>					
+				</div>
+				
+				</div>
+	</div>
+        </div>
+    </section>
+
+    <!-- ГИМ Online -->
+    <section class="dark_theme">
+        <div class="container-xxl">
+            
+
+ 
+<div class="gim_online"> 
+  <div class="h2">Спецпроекты</div>
+ 			 
+  <div class="row">
+    
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/150-let/" class="img" target="_blank" >
+	  <img src="/upload/iblock/857/4z1holtpzda2alvgptesqkz6lvk0l3bg/spets_proekt.jpg" title="Первый. Российский. Исторический." alt="Первый. Российский. Исторический."  />
+	  </a>
+	  <a href="https://shm.ru/150-let/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Первый. Российский. Исторический.	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/uvarov/" class="img" target="_blank" >
+	  <img src="/upload/iblock/4b9/icecbf0bf30h1542v10jn1mxork341ag/uvarov_sai_t.jpg" title="Граф А.С. Уваров — археолог, коллекционер, просветитель. К 200-летию со дня рождения" alt="Граф А.С. Уваров — археолог, коллекционер, просветитель. К 200-летию со дня рождения"  />
+	  </a>
+	  <a href="https://shm.ru/uvarov/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Граф А.С. Уваров — археолог, коллекционер, просветитель. К 200-летию со дня рождения	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://gim.aif.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/114/_.jpg" title="150 уникальных экспонатов Исторического музея" alt="150 уникальных экспонатов Исторического музея"  />
+	  </a>
+	  <a href="https://gim.aif.ru/" class="name" target="_blank" >
+	  <i>Совместный спецпроект</i> 150 уникальных экспонатов Исторического музея	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://blog.mediashm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/643/zaglushki_955_535.jpg" title="Блог Исторического музея" alt="Блог Исторического музея"  />
+	  </a>
+	  <a href="https://blog.mediashm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Блог Исторического музея	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://zen.yandex.ru/id/5b3e24fa27773000a99911c3" class="img" target="_blank" >
+	  <img src="/upload/iblock/205/0ysyxlnbr1g78ttuxu9z7v6gyi7vgig1/IMG_1520.jpeg" title="Яндекс Дзен" alt="Яндекс Дзен"  />
+	  </a>
+	  <a href="https://zen.yandex.ru/id/5b3e24fa27773000a99911c3" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Яндекс Дзен	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://lenin.shm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/f33/zaglushki_955_5352.jpg" title="Виртуальный музей Владимира Ильича Ленина" alt="Виртуальный музей Владимира Ильича Ленина"  />
+	  </a>
+	  <a href="https://lenin.shm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Виртуальный музей Владимира Ильича Ленина	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/iwt/" class="img" target="_blank" >
+	  <img src="/upload/iblock/157/zaglushki_955_5356.jpg" title="Исторический музей в годы Великой Отечественной войны" alt="Исторический музей в годы Великой Отечественной войны"  />
+	  </a>
+	  <a href="https://shm.ru/iwt/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Исторический музей в годы Великой Отечественной войны	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://cs.shm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/2ec/cmrg9opfc2124aj4y1sy2o2bcqaraw28/E851D7EA_AFE2_4B2C_8ACA_8F16812C4B10.png" title="История казачества в России" alt="История казачества в России"  />
+	  </a>
+	  <a href="https://cs.shm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> История казачества в России	  </a>
+	  </div>
+     </div>
+   			 </div>
+</div>
+
+
+
+<div class="branches_acordion">
+<div class="museum_item">
+<div class="collection">
+			<div class="heading hover_block">
+				<span class="name">
+					Все спецпроекты			
+				</span>
+			</div>
+			<div class="body bg_color_f00 gim_online" style="display: none;">
+				<div class="row">
+    
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://rm.shm.ru" class="img" target="_blank" >
+	  <img src="/upload/iblock/657/kr1xjzf5j861vq667uthlmor1jhjg1wd/sokrovishcha_2.jpeg" title="Сокровища полковых музеев" alt="Сокровища полковых музеев"  />
+	  </a>
+	  <a href="https://rm.shm.ru" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Сокровища полковых музеев	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://pobeda.mediashm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/1aa/zaglushki_955_5354.jpg" title="Неизвестный солдат" alt="Неизвестный солдат"  />
+	  </a>
+	  <a href="https://pobeda.mediashm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект. </i> Неизвестный солдат	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/petertf/" class="img" target="_blank" >
+	  <img src="/upload/iblock/6b3/ugs2kpc6t8bw4q2adyasegv2a1p2rtku/Zaglushka_Petr.jpg" title="К 350-летию со дня рождения Петра I" alt="К 350-летию со дня рождения Петра I"  />
+	  </a>
+	  <a href="https://shm.ru/petertf/" class="name" target="_blank" >
+	  <i>Спецпроект. </i> К 350-летию со дня рождения Петра I	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://order.mediashm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/0f0/zaglushki_955_5357.jpg" title="Ордена Российской империи" alt="Ордена Российской империи"  />
+	  </a>
+	  <a href="https://order.mediashm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект. </i> Ордена Российской империи	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://stbasil.shm.ru/20century/" class="img" target="_blank" >
+	  <img src="/upload/iblock/7ae/l4ukzb265twhtiy1aoj6o7t0hvng828a/sobor_2.jpeg" title="Покровский собор: коллизии XX столетия" alt="Покровский собор: коллизии XX столетия"  />
+	  </a>
+	  <a href="https://stbasil.shm.ru/20century/" class="name" target="_blank" >
+	  <i>Спецпроект. </i> Покровский собор: коллизии XX столетия	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/aleksandr/" class="img" target="_blank" >
+	  <img src="/upload/iblock/fb1/zaglushki_955_5353.jpg" title="Александр III Миротворец" alt="Александр III Миротворец"  />
+	  </a>
+	  <a href="https://shm.ru/aleksandr/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Александр III Миротворец	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://dec.shm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/6b7/zhena_dekabrista.jpg" title="Жены декабристов" alt="Жены декабристов"  />
+	  </a>
+	  <a href="https://dec.shm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Жены декабристов	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/monument/" class="img" target="_blank" >
+	  <img src="/upload/iblock/72b/zaglushki_955_5355.jpg" title="Реставрация памятника Минину и Пожарскому" alt="Реставрация памятника Минину и Пожарскому"  />
+	  </a>
+	  <a href="https://shm.ru/monument/" class="name" target="_blank" >
+	  <i>Спецпроект. </i> Реставрация памятника Минину и Пожарскому	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://21.shm.ru/" class="img" target="_blank" >
+	  <img src="/upload/iblock/b15/_.jpg" title="Выбор времени. Новые поступления Исторического музея" alt="Выбор времени. Новые поступления Исторического музея"  />
+	  </a>
+	  <a href="https://21.shm.ru/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Выбор времени. Новые поступления Исторического музея	  </a>
+	  </div>
+     </div>
+   			  
+    <div class="col-md-6">
+	
+      <div class="item hover_block">
+	  <a href="https://shm.ru/civil/" class="img" target="_blank" >
+	  <img src="/upload/iblock/b61/utc8fs0rj68uxiayhbqlpfy11vopbl28/Dorogami_tsivilizatsii_.png" title="Выставка «Россия. Дорогами цивилизаций»" alt="Выставка «Россия. Дорогами цивилизаций»"  />
+	  </a>
+	  <a href="https://shm.ru/civil/" class="name" target="_blank" >
+	  <i>Спецпроект.</i> Выставка «Россия. Дорогами цивилизаций»	  </a>
+	  </div>
+     </div>
+   			 				</div>
+			</div>
+</div>
+</div>
+</div>        </div>
+    </section>
+    <div class="container-xxl">
+        <hr>
+    </div>
+<style type="text/css">
+
+.newFooter__1_form_info{
+}
+.newFooter__1_form_info.alertMes{
+    color: red;
+}
+.newFooter__1_form_info.ok{
+    color: green;
+}
+</style>
+<script>
+    var recaptchaResponse;
+    grecaptcha.ready(function () {
+        grecaptcha.execute('6LdzchwoAAAAAKfVa6L5Sw1h_CYz0iz4k21IpZii', { action: 'submit' }).then(function (token) {
+            recaptchaResponse = token;
+                    });
+    });
+    setInterval(() => grecaptcha.execute('6LdzchwoAAAAAKfVa6L5Sw1h_CYz0iz4k21IpZii', { action: 'submit' }).then(function (token) {
+        recaptchaResponse = token;
+            
+    }), 60000);
+</script>
+<footer>
+    <div class="container container-xxl">
+        <div class="newFooter">
+            <nav class="newFooter__menu">
+                 
+            
+           
+        <a href="https://tickets.shm.ru/?id=1&sid=4" class="">Билеты</a>                    
+            
+           
+        <a href="/shows/" class="">Выставки и события</a>                    
+            
+           
+        <a href="/education/" class="">Образование</a>                    
+            
+           
+        <a href="https://shop.shm.ru/" class="">Интернет-магазин</a>                    
+            
+           
+        <a href="/klub-druzey-istoricheskogo-muzeya/" class="">Клуб друзей</a>                    
+                </nav>
+
+            <div class="newFooter__1">
+
+                <form id="form_subscribe_footer" class="newFooter__1_form" >
+                    
+                    <div class="newFooter__1_form_inner">
+                        <div class="orange">Красная площадь, 1.</div>
+                        <div class="newFooter__1_form_h6 orange">Будьте в центре истории!</div>
+                        <div>Подпишитесь на нашу рассылку</div>
+                    </div>
+                    
+                    
+                    
+                    <div class="newFooter__1_form_inner">
+                        <div class="newFooter__1_form_info" style="display:none;"></div>
+                        <div class="form_inputbtn">
+                            <input type="text" name="EMAIL" class="form_inputbtn_input" placeholder="Введите свой e-mail">
+                            <input type="submit" name="" class="form_inputbtn_submit" value="ПОДПИСАТЬСЯ">   
+                        </div>
+                        <div class="checkbox_fake">
+                            <div class="checkbox_fake_check active"></div>
+                            <div>Выражаю согласие на обработку персональных данных</div>
+                        </div>    
+                    </div>
+                    <script>
+
+                    </script>
+                    <script>
+                        $('.checkbox_fake').click(function() {  
+                            $('.checkbox_fake .checkbox_fake_check').toggleClass("active")
+                        })                        
+                        $(".form_inputbtn_submit").click(function (event) {
+                            event.preventDefault();
+                            console.log("%cclick form", "color: white; background-color: green; padding: 2px;");
+                            $('.newFooter__1_form_info').hide();
+                            $('.newFooter__1_form_info').removeClass('alertMes');
+                            $('.newFooter__1_form_info').removeClass('ok');
+                            $('.newFooter__1_form_info').html('');
+
+                            let isAgree = $('#form_subscribe_footer .checkbox_fake_check').is('.active');
+                            let email = $('#form_subscribe_footer input[name="EMAIL"]').val();
+
+                            if (isAgree && email){
+                                console.log("%ctrue form", "color: white; background-color: green; padding: 2px;");
+                                $("#loader-block").addClass('active');
+                                var param = 'recaptcha_response='+recaptchaResponse+'&email='+email;
+                                $.ajax({
+                                    url:     'https://shm.ru/subscription/subscription.php', // URL отправки запроса
+                                    type:     "POST",
+                                    dataType: 'json',
+                                    data: param,
+                                    success: function(response) { // Если Данные отправлены успешно
+                                        console.log("%ccapcha ok", "color: white; background-color: green; padding: 2px;");
+                                        if (response.message=="Чтобы удостовериться что вы человек, нажмите на кнопку еще раз!") {
+                                            $('.newFooter__1_form_info').addClass('alertMes');
+                                        }else{
+                                           $('.newFooter__1_form_info').addClass('ok'); 
+                                        }
+                                        $('.newFooter__1_form_info').show();
+                                        $('.newFooter__1_form_info').html(response.message);
+                                    },
+                                    error: function(jqXHR, textStatus, errorThrown){ // Ошибка
+                                        console.log("%ccapcha false", "color: white; background-color: red; padding: 2px;");
+                                        console.log(textStatus);
+                                        $("#loader-block").removeClass('active');
+                                    }
+                                });         
+                            }else{
+                                console.log("%cfalse form", "color: white; background-color: red; padding: 2px;");
+                                $('.newFooter__1_form_info').show();
+                                $('.newFooter__1_form_info').addClass('alertMes');
+                                $('.newFooter__1_form_info').html('Заполните все обязательные поля');
+                                $('#form_subscribe_footer input[name="EMAIL"]').addClass('required');
+                            }
+                            grecaptcha.execute('6LdzchwoAAAAAKfVa6L5Sw1h_CYz0iz4k21IpZii', { action: 'submit' }).then(function (token) {
+                                recaptchaResponse = token;
+                                                            });
+                            /*
+                                grecaptcha.execute('6LdzchwoAAAAAKfVa6L5Sw1h_CYz0iz4k21IpZii', { action: 'submit' }).then(function (token) {
+                                    recaptchaResponse = token;
+
+                                });
+                            */
+
+                        });
+
+                        /*
+                        function onSubmitFooter(token) {
+                            let isAgree = $('#form_subscribe_footer .checkbox_fake_check').is('.active');
+                            let email = $('#form_subscribe_footer input[name="EMAIL"]').val();
+                            if (isAgree && email)
+                                document.getElementById("form_subscribe").submit();
+                            else {
+                                if ($('#form_subscribe_footer p.required').length < 1)
+                                    $('#form_subscribe_footer .form_inputbtn').before('<p class="required">Заполните обязательные поля!</p>');
+                                if (!isAgree)
+                                    $('#form_subscribe_footer .input-agree p').addClass('required');
+                                else
+                                    $('#form_subscribe_footer .input-agree p').removeClass('required');
+                                
+                                if (!email)
+                                    $('#form_subscribe_footer input[name="EMAIL"]').addClass('required');
+                                else
+                                    $('#form_subscribe_footer input[name="EMAIL"]').removeClass('required');
+                            }
+                        }*/
+                    </script>
+                    
+                </form>
+
+                <div class="newFooter__1_inner">
+                    <div class="orange">
+                        Следите за историей в реальном времени
+                    </div>
+
+                    <div class="newFooter__1_inner_2">
+
+                        <div class="newFooter__1_museum">
+                            <img src="/upload/img/gim.png">
+                            <div class="newFooter__1_museum_inner">
+                                <div class="newFooter__1_museum_name">Исторический музей</div>
+                                <div class="newFooter__1_museum_sochial">
+                                    <a href="https://vk.com/gim" class="sochial_vk" rel="nofollow" target="_blank"></a>
+                                    <a href="https://ok.ru/gim" class="sochial_ok" rel="nofollow" target="_blank"></a>
+                                    <a href="https://t.me/state_historical_museum" class="sochial_telegram" rel="nofollow" target="_blank"></a>
+                                    <a href="https://www.youtube.com/channel/UCxKXuwuFxXA8ovD_gAE4qFQ" class="sochial_youtube" rel="nofollow" target="_blank"></a>
+                                    <a href="https://rutube.ru/u/StateHistoricalMuseum/" class="sochial_r" rel="nofollow" target="_blank"></a>
+                                    <a href="https://dzen.ru/state_historical_museum" class="sochial_dzen" rel="nofollow" target="_blank"></a>
+                                    <a href="https://ru.pinterest.com/state_historical_museum/" class="sochial_pin" rel="nofollow" target="_blank"></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="newFooter__1_museum">
+                            <img src="/upload/img/pokrovsk.png">
+                            <div class="newFooter__1_museum_inner">
+                                <div class="newFooter__1_museum_name">Покровский собор</div>
+                                <div class="newFooter__1_museum_sochial">
+                                    <a href="https://vk.com/club51240869" class="sochial_vk" rel="nofollow" target="_blank"></a>
+                                    <a href="https://ok.ru/khramvasil" class="sochial_ok" rel="nofollow" target="_blank"></a>
+                                    <a href="https://t.me/StBasilsCathedral" class="sochial_telegram" rel="nofollow" target="_blank"></a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="newFooter__2">
+                <div class="newFooter__2_1">
+                    <a href="https://culture.gov.ru/" class="minkult" rel="nofollow" target="_blank">
+                        <img src="/upload/img/mincult.png">
+                    </a>
+                                    </div>
+                <a href="https://www.psbank.ru/" class="newFooter__2_2" rel="nofollow" target="_blank">
+                    <div>Генеральный партнер:</div>
+                    <img src="/upload/img/PSB.svg">
+                </a> 
+                <div class="newFooter__2_3">
+                    <a href="https://quality.mkrf.ru/mark/?orgid=0373100001502" class="otsenka" rel="nofollow" target="_blank">
+                        <img src="/upload/img/kschestvo.png">
+                    </a>
+                    <a href="https://forms.mkrf.ru/e/2581/YrrHrJbi/?ap_orgcode=118715" class="otsenka" rel="nofollow" target="_blank">
+                        <span style="color: #fff;font-size: 80%;line-height: 1.2;display: block;">Оцените качество предоставляемых услуг</span>
+                    </a>
+                    <a href="/feedback/" class="forma_svazi">
+                        <img src="/upload/img/codicon_feedback.svg"><div>Форма обратной связи</div>
+                    </a>
+                </div>   
+            </div>
+
+            <div class="newFooter__3">
+                <div class="newFooter__3_copy">
+                    <span class="museum_copy">Copyright © 1998–2025 Исторический музей</span>
+                    <span class="f_seo"><a href="https://web-etalon.ru/" target="_blank">Поддержка и продвижение сайта «Веб-Эталон»</a></span>
+                </div>
+                <nav>
+                    <a href="/ispolzovanie-materialov-sayta/">Использование материалов сайта</a>
+                    <a href="/zakaz-izobrazheniy-predmetov-muzeynogo-fonda/">Заказ изображений предметов музейного фонда</a>
+                    <a href="/politika-konfidentsialnosti/">Политика конфиденциальности</a>
+                </nav>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+
+
+<script>
+    var museumCode = {"8":"gim","9":"hvb","10":"mov","11":"pbr"};
+</script>
+<script>
+    $(function () {
+                if (!selectMuseumId) {
+            for (var selectMuseumId in museumCode) {
+                if (!museumCode.hasOwnProperty(selectMuseumId)) continue; //Проверка обязательна, иначе,
+                break;
+            }
+        }
+        changeMuseum(selectMuseumId);
+        $('#logo').trigger('change');     });
+
+    function changeMuseum(id) {
+        var code = museumCode[id];
+        if (code) {
+            $('.museum-page-link').each(function () {
+                $(this).attr('href', $(this).data('original-href') + code + '/');
+            });
+        }
+    }
+</script>
+
+    <div class="popup popup-subscribe" id="popup-subscribe">
+        <span class="close" title="Закрыть"></span>
+        <p class="heading">Подписка на рассылку</p>
+        <form action="#" class="form-required">
+            <input type="hidden" name="type" value="subscr">
+            <p class="input cf">
+                <label for="fs-email" class="label">Ваш е-mail:</label>
+                <input type="text" placeholder="Введите свой e-mail" id="fs-email" class="textInput required required-email" name="sub[email]">
+            </p>
+            <div class="fs-types">
+                <p class="heading3">Получать:</p>
+                                <ul class="cf">
+                                        <li>
+                        <label class="checkbox">
+                            <input type="checkbox" class="required" name="sub[rub][]" checked data-group="fs-types" value="2"><i></i>Наши издания                        </label>
+                    </li>
+                                        <li>
+                        <label class="checkbox">
+                            <input type="checkbox" class="required" name="sub[rub][]" checked data-group="fs-types" value="3"><i></i>Выставки и мероприятия                        </label>
+                    </li>
+                                        <li>
+                        <label class="checkbox">
+                            <input type="checkbox" class="required" name="sub[rub][]" checked data-group="fs-types" value="6"><i></i>Экскурсии, программы и мастер-классы                        </label>
+                    </li>
+                                    </ul>
+                            </div>
+            <p class="submit"><button class="button" type="submit">Подписаться</button></p>
+        </form>
+    </div>
+
+
+
+
+
+    
+        <div class="popup popup-enter" id="popup-enter">
+        <span class="close" title="Закрыть"></span>
+        <p class="heading">Вход</p>
+        <form name="system_auth_form6zOYVN" method="post" target="_top" action="/" class="form-required" id="js-auth-form" >
+                            <input type="hidden" name="backurl" value="/" />
+                                    <input type="hidden" name="AUTH_FORM" value="Y" />
+            <input type="hidden" name="TYPE" value="AUTH" />
+            <p style="color: red;" class="js-error"></p>
+            <p class="input cf">
+                <label for="enter-email" class="label">E-mail:</label>
+                <input type="text" id="enter-email" name="USER_LOGIN" class="textInput required required-email" value="">
+            </p>
+            <p class="input cf">
+                <label for="enter-pass" class="label">Пароль:</label>
+                <input type="password" id="enter-pass" name="USER_PASSWORD" class="textInput required">
+            </p>
+            <p class="submit input cf">
+                <label class="label"></label>
+                <button class="button" type="submit">Войти</button>
+            </p>
+            <div class="bottom">
+                <div class="soc-wrap">
+                    <span>Войти через:</span>
+                    <div class="soc-list">
+                                                            <a href="javascript:void(0)" class="soc-fb" title="Facebook" onclick="BxShowAuthFloat('Facebook', 'form')"></a>
+        <a href="javascript:void(0)" class="soc-vk" title="ВКонтакте" onclick="BxShowAuthFloat('VKontakte', 'form')"></a>
+                                                                                            </div>
+                </div>
+
+                                <div class="clear"></div>
+            </div>
+        </form>
+    </div>
+    <div class="popup popup-reg" id="popup-reg">
+    <span class="close" title="Закрыть"></span>
+    <p class="heading">Регистрация</p>
+    <form method="post" action="?act=register" name="regform" enctype="multipart/form-data" class="form-required" id="js-register-form">
+        <p style="color: red;" class="js-error"></p>
+        <p class="input cf">
+            <label for="reg-email" class="label">E-mail:</label>
+            <input type="text" id="reg-email" name="email" class="textInput required required-email">
+        </p>
+        <p class="input cf">
+            <label for="reg-pass" class="label">Пароль:</label>
+            <input type="password" id="reg-pass" name="pass" class="textInput required">
+        </p>
+        <p class="submit input cf">
+            <label class="label"></label>
+            <button class="button" type="submit">Зарегистрироваться</button>
+        </p>
+    </form>
+</div>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3VH4WZ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!-- Rating@Mail.ru counter -->
+<script>
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "2220182", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script");
+        ts.type = "text/javascript";
+        ts.async = true;
+        ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {
+            var s = d.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(ts, s);
+        };
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "topmailru-code");
+</script>
+<noscript>
+    <div>
+        <img src="//top-fwz1.mail.ru/counter?id=2220182;js=na" style="border:0;position:absolute;left:-9999px;" alt=""/>
+    </div>
+</noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+<!-- Rating Mail.ru counter -->
+<script>
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3150470", type: "pageView", start: (new Date()).getTime(), pid: "USER_ID"});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script");
+        ts.type = "text/javascript";
+        ts.async = true;
+        ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {
+            var s = d.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(ts, s);
+        };
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+            f();
+        }
+    })(document, window, "topmailru-code");
+</script>
+<noscript>
+    <div>
+        <img src="https://top-fwz1.mail.ru/counter?id=3150470;js=na" style="border:0;position:absolute;left:-9999px;"
+             alt="Top.Mail.Ru"/>
+    </div>
+</noscript>
+<!-- //Rating Mail.ru counter -->
+
+
+<!-- <a class="support" href="/donations/" target="_blank">Поддержать музей</a> -->
+
+<div class="window_hid_d_pop_link" id="window_d_pop_link" style="display: none;">
+    <div id="text_d_pop_link"><b>Дорогие друзья!</b><br><br>Для нас очень важна поддержка каждого, ведь именно благодаря
+        вам&nbsp;мы&nbsp;можем реализовывать новые выставочные проекты, образовательные программы, развивать музей,
+        сохранять и&nbsp;пополнять наши&nbsp;коллекции. Сегодня вы&nbsp;можете сказать:<br><br><b><span
+                    class="quot_d_pop_link">“</span>Я внёс&nbsp;свой вклад в&nbsp;сохранение
+            российской&nbsp;культуры<span class="quot_d_pop_link">”</span></b></div>
+    <div class="but_d_pop_link" id="but_yes_d_pop_link" onclick="d_pop_link(true)">Ваша поддержка сейчас</div>
+    <div class="but_d_pop_link" id="but_noo_d_pop_link" onclick="d_pop_link(false)">В другой раз</div>
+</div>
+
+
+<div class="window_hid_d_pop_link window_d_pop_link" id="temp_pop_wrap" style="display: none;">
+
+    <div class="text_d_pop_link">
+        <b>Программа лояльности</b>
+        <br>
+        <br>
+        К&nbsp;150-летию основания Исторического музея мы&nbsp;готовимся запустить программу &laquo;Клуб Друзей
+        Исторического музея&raquo;. Просим вас ответить на&nbsp;несколько вопросов, чтобы сделать нашу программу
+        особенной.
+    </div>
+
+    <div class="but_d_pop_link but_yes_d_pop_link" onclick="temp_pop_f(true)">
+        Пройти опрос
+    </div>
+
+    <div class="but_d_pop_link but_noo_d_pop_link" onclick="temp_pop_f(false)">
+        Спасибо, нет
+    </div>
+
+</div>
+
+
+<script>
+    /*
+        club_of_friends.onclick = function(l){
+            window.location.href = '/klub-druzey-istoricheskogo-muzeya/';
+        }
+
+        if(window.location.href == 'https://shm.ru/klub-druzey-istoricheskogo-muzeya/'){
+            club_of_friends.style.display = 'none';
+            document.getElementById('line_d_pop_link').style.right = '10%';
+            document.getElementById('line_d_pop_link').style.bottom = '10px';
+        }*/
+
+    var window_d_pop_link = document.getElementById('window_d_pop_link');
+    var line_d_pop_link = document.getElementById('line_d_pop_link');
+
+    function d_pop_link(c) {
+        window_d_pop_link.classList.toggle('window_hid_d_pop_link');
+        line_d_pop_link.classList.toggle('window_vis_d_pop_link');
+        if (window_d_pop_link.classList.contains('window_hid_d_pop_link')) {
+            function window_d_pop_link_h() {
+                window_d_pop_link.style.display = 'none';
+                if (c) {
+                    window.location.href = 'https://shm.ru/donations/index.html';
+                }
+            }
+
+            setTimeout(window_d_pop_link_h, 400);
+            line_d_pop_link.style.display = 'block';
+        } else {
+            function line_d_pop_link_h() {
+                line_d_pop_link.style.display = 'none';
+            }
+
+            setTimeout(line_d_pop_link_h, 400);
+            window_d_pop_link.style.display = 'block';
+        }
+        window_d_pop_link.classList.toggle('window_vis_d_pop_link');
+        line_d_pop_link.classList.toggle('window_hid_d_pop_link');
+    }
+
+
+    let temp_pop_wrap = document.getElementById("temp_pop_wrap");
+
+    function getCookie(name) {
+        let matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+        return matches ? decodeURIComponent(matches[1]) : false;
+    }
+
+    function temp_pop_wrap_f() {
+        temp_pop_wrap.style.display = "block";
+        temp_pop_wrap.classList.toggle("window_hid_d_pop_link");
+        temp_pop_wrap.classList.toggle("window_vis_d_pop_link");
+    }
+
+    function temp_pop_h_f() {
+        document.cookie = "loyal=true;path=/";
+        temp_pop_wrap.classList.toggle("window_vis_d_pop_link");
+        temp_pop_wrap.classList.toggle("window_hid_d_pop_link");
+
+        function temp_pop_wrap_h() {
+            temp_pop_wrap.style.display = "none";
+        }
+
+        setTimeout(temp_pop_wrap_h, 400);
+    }
+
+    function temp_pop_f(r) {
+        if (r) {
+            temp_pop_h_f();
+
+            function temp_pop_open_link() {
+                window.open("https://docs.google.com/forms/d/1jUAE42LA0WlVZW7rtHNoOjrLRZkbUS-hIV_ZKcDz2RI/viewform?edit_requested=true", '_blank');
+            }
+
+            setTimeout(temp_pop_open_link, 400);
+        } else {
+            temp_pop_h_f();
+        }
+    }
+
+    window.onload = function () {
+
+        let now = new Date();
+        let till = new Date(2021, 3, 13, 11, 0, 0, 0);
+
+        if (now > till) {
+            return;
+        }
+
+        if (getCookie("loyal") === false) {
+            setTimeout(temp_pop_wrap_f, 10000);
+        }
+    };
+
+</script>
+
+<div id="comp_d950580bc30cc3f82c139f0fbd447958"><div class="subscribe_popap" style="display:none">
+	<div class="subscribe_popap_bg"></div>
+	<div class="w content">
+	
+	
+		<div class="subscribe-edit">
+			<div class="subscribe-message">
+						</div>
+			
+
+<form id="subscript_new" class="b-form-subscribe cf" action="/subscription/" method="post">
+	<input type="hidden" name="sessid" id="sessid" value="00b28d31b74ebd2d806ac3154a30c86d" />	<input type="hidden" name="FORMAT" value="html" />
+	<label class="b-form-subscribe__label" > Подпишитесь на нашу рассылку <span>и первыми узнавайте о событиях в музее</span> </label>
+	
+	
+	<div class="b-form-subscribe__group">
+		<input required="required" placeholder="Введите свой e-mail" type="text" class="textInput" name="EMAIL" value="" size="30" maxlength="255"/>
+		<ul class="hidden">
+					<li><label class="checkbox"><input class="required" data-group="fs-types" type="checkbox" name="RUB_ID[]" value="2" checked="checked" />Наши издания</label></li>
+					<li><label class="checkbox"><input class="required" data-group="fs-types" type="checkbox" name="RUB_ID[]" value="3" checked="checked" />Выставки и мероприятия</label></li>
+					<li><label class="checkbox"><input class="required" data-group="fs-types" type="checkbox" name="RUB_ID[]" value="6" checked="checked" />Экскурсии, программы и мастер-классы</label></li>
+					<li><label class="checkbox"><input class="required" data-group="fs-types" type="checkbox" name="RUB_ID[]" value="28" checked="checked" />Гим-детям</label></li>
+				</ul>
+	
+					<input class="shadow-button trigger-subscribe" type="submit" name="Save" value="Подписаться">
+					
+	</div>
+	
+	<div id="a_sub_stus6" class="subscribe_ststus">
+					<br><p><strong>
+			Ваша подписка не подтверждена. Чтобы подтвердить подписку, пройдите по ссылке из письма</strong></p>
+			</div>
+
+		<input type="hidden" name="PostAction" value="Add"/>
+	<input type="hidden" name="ID" value=""/>
+		</form>
+<script>
+    // Ajax отправка формы
+    $("#subscript_new").submit(function() {
+        $('#a_sub_stus6').html('<br><p>Обработка...</p>');
+        var form = $(this);
+        var button = form.find('button[type=submit]');
+        if (!button.is('.disabled')) {
+            var formData = new FormData(form[0]);
+            form[0].reset();
+            // Отправка данных
+            $.ajax({
+                url: '/subscription/',
+                type: 'post',
+                data: formData,
+                cache: false,
+                contentType: false,
+                processData: false,
+                success: function (json) {
+                   // $('#a_sub_stus').html(json);
+                    var result = $('<div />').append(json).find('.subscribe-edit > p').html();
+                     $('#a_sub_stus6').html('<br><p>' + result + '</p>');
+                    button.removeClass('disabled');
+                }
+            });
+        }
+        button.addClass('disabled');
+        return false;
+    });
+    // Ajax отправка формы
+</script> 
+			<div class="subscribe_popap_close">&times;</div>
+		</div>
+	
+	</div>
+</div></div><script src="/local/templates/shm_bw/js/bvi.min.js"></script>
+<script>
+    new isvek.Bvi({
+        builtElements: true
+    });
+</script>
+<script>
+
+function getCookie(name) {
+  let matches = document.cookie.match(new RegExp(
+    "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+  ));
+  return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+
+var firstPopupCookie = true;
+//document.cookie = `NOTIFICATIONS=;expires=${new Date(0)}`
+
+function popupCookie(){
+    if (firstPopupCookie) {
+        $('.alert-popup-btn').removeAttr("notifications");
+        firstPopupCookie=false;
+        var cookieNotif = getCookie('NOTIFICATIONS');
+        var arrPopups = new Array();
+        if (cookieNotif!=undefined && cookieNotif!=false) {
+            let jsoncookie=JSON.parse(cookieNotif);
+            arrPopups = arrPopups.concat(JSON.parse(cookieNotif));
+        }
+        //console.log("Старая кука: "+cookieNotif);
+
+        $('.alerts-popup__item').each(function(elem) {
+            arrPopups.push($(this).attr('notif_id')); 
+        });
+        var newCookie = JSON.stringify(arrPopups);
+        //console.log("Новая кука: "+newCookie);
+
+        document.cookie = "NOTIFICATIONS="+newCookie+"; path=/; max-age=604800"    
+    }
+
+}
+
+
+
+
+    $('.alert-popup-btn').click(function(){
+        if($(".alerts-popup").hasClass('active')){
+            $('.alerts-popup').removeClass('active');
+            popupCookie();
+        }else{
+            $('.alerts-popup').addClass('active');
+        }
+        
+    })
+    $('.alerts-popup__close').click(function(){
+        $('.alerts-popup').removeClass('active');
+        popupCookie();
+    })
+</script>
+<script>
+
+    $(document).on('click', '.show_more_2', function( event ){
+        event.preventDefault();
+
+        var targetContainer = $('.calendar_event_container'),          //  Контейнер, в котором хранятся элементы
+            url =  $(this).attr('data-href');    //  URL, из которого будем брать элементы
+
+        if (url !== undefined) {
+            $.ajax({
+                type: 'GET',
+                url: url,
+                dataType: 'html',
+                success: function(data){
+
+                    // Удаляем старую навигацию
+                    $('.calendar_event_container').find('.calendar_event_show_more').remove();
+
+                    var elements = $(data).find('.calendar_event_container__item'),  //  Ищем элементы
+                        pagination = $(data).find('.calendar_event_container .calendar_event_show_more');//  Ищем навигацию
+
+                    targetContainer.append(elements);   //  Добавляем посты в конец контейнера
+                    targetContainer.append(pagination); //  добавляем навигацию следом
+
+                }
+            })
+        }
+    });
+    $(document).on('click', '.show_more', function( event ){
+        event.preventDefault();
+        var container = $(this).parent().parent(); //Блок раздела
+        var container_class = container.attr('id');
+        var targetContainer = container.find('.new_excursion'),          //  Контейнер, в котором хранятся элементы
+            url =  $(this).attr('data-href');    //  URL, из которого будем брать элементы
+
+        if (url !== undefined) {
+            $.ajax({
+                type: 'GET',
+                url: url,
+                dataType: 'html',
+                success: function(data){
+
+                    // Удаляем старую навигацию
+                    $(container).find('.calendar_event_show_more').remove();
+
+                    var elements = $(data).find(`#${container_class} .new_excursion .new_excursion__item`),  //  Ищем элементы
+                        pagination = $(data).find(`#${container_class} .calendar_event_show_more`);//  Ищем навигацию
+
+                    targetContainer.append(elements);   //  Добавляем посты в конец контейнера
+                    targetContainer.after(pagination); //  добавляем навигацию следом
+
+                }
+            })
+        }
+    });
+</script>
+</body></html>

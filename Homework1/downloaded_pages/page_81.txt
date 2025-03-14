@@ -1,0 +1,718 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Главная страница</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/amkr_favicon.png" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_7b625334ff82bb70e18915e2921b1920.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_c8bf58742ad9ef01fa28d386a4f382f2.css" />
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/amkr/css/ie.css?w" />
+<![endif]-->
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/amkr/css/ie6.css?w" />
+<![endif]-->
+  <script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?w"></script>
+<script type="text/javascript" src="/misc/drupal.js?w"></script>
+<script type="text/javascript" src="/sites/default/files/languages/ru_0bd359425aae822cf699b014dc230e33.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/base.js?w"></script>
+<script type="text/javascript" src="/sites/all/modules/views/js/ajax_view.js?w"></script>
+<script type="text/javascript" src="/sites/all/themes/amkr/js/menufix.js?w"></script>
+<script type="text/javascript" src="/sites/all/themes/amkr/js/picture_fade.js?w"></script>
+<script type="text/javascript" src="/sites/all/themes/amkr/js/amkr_waves.js?w"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "views": { "ajax_path": [ "/views/ajax", "/views/ajax" ], "ajaxViews": [ { "view_name": "news", "view_display_id": "block_1", "view_args": "", "view_path": "node/9", "view_base_path": "news", "view_dom_id": 2, "pager_element": 1 }, { "view_name": "competitions", "view_display_id": "block_1", "view_args": "", "view_path": "node/9", "view_base_path": "competitions", "view_dom_id": 3, "pager_element": 0 } ] } });
+//--><!]]>
+</script>
+</head>
+<body class="page front not-logged-in node-type-page i18n-ru two-sidebars">
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+
+              <a href="/" title="Главная" rel="home" id="logo"><img src="/sites/default/files/amkr_logo.png" alt="Главная" /></a>
+      
+              <div id="name-and-slogan">
+                        <div id="site-name">
+                <a href="/" title="Главная" rel="home"><span>АССОЦИАЦИЯ МУЗЫКАЛЬНЫХ КОНКУРСОВ РОССИИ</span></a>
+              </div>
+          
+                  </div><!-- /#name-and-slogan -->
+      
+      
+      <div class="region region-header">
+  <div id="block-block-5" class="block block-block first region-odd even region-count-1 count-6">
+  
+  <div class="content">
+    <a href="/node/6">Контакты</a>  </div>
+
+  </div><!-- /.block -->
+<div id="block-block-6" class="block block-block region-even odd region-count-2 count-7">
+  
+  <div class="content">
+    <a id="printicon" href="#" rel="nofollow" onclick="window.print(); return false">Печать</a>  </div>
+
+  </div><!-- /.block -->
+<div id="block-locale-0" class="block block-locale region-odd even region-count-3 count-8">
+<ul><li class="en first"><a href="/en" class="language-link">English</a></li>
+<li class="ru last active"><a href="/" class="language-link active">Русский</a></li>
+</ul></div><!-- /.block -->
+<div id="block-block-4" class="block block-block last region-even odd region-count-4 count-9">
+  
+  <div class="content">
+    <div id="wave_0_0" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_0" /></div><div id="wave_0_1" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_1" /></div><div id="wave_0_2" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_2" /></div><div id="wave_0_3" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_3" /></div><div id="wave_0_4" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_4" /></div><div id="wave_0_5" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_0_5" /></div><div id="wave_1_0" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_0" /></div><div id="wave_1_1" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_1" /></div><div id="wave_1_2" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_2" /></div><div id="wave_1_3" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_3" /></div><div id="wave_1_4" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_4" /></div><div id="wave_1_5" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_1_5" /></div> 
+  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+
+    </div></div><!-- /.section, /#header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+      <div id="content" class="column"><div class="section">
+
+        
+        
+        
+                        
+        <div class="region region-content-top">
+  <div id="block-views-competitions-block_1" class="block block-views first last region-odd odd region-count-1 count-5">
+      <h2 class="title"><a href="/competitions">КОНКУРСЫ</a></h2>
+  
+  <div class="content">
+    <div class="views_view view view-competitions view-id-competitions view-display-id-block_1 view-dom-id-3">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">30 Октября 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">5 Ноября 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=22&amp;tids=All">Екатеринбург</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1564">Десятый Демидовский Международный юношеский конкурс скрипачей  «ДеМЮКС-X»</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1564" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/demuks_1.png" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">8 Июля 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">13 Июля 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=44&amp;tids=All">Санкт-Петербург</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1592">XI Международный конкурс юных вокалистов Елены Образцовой</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1592" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/logo_detskiy_konkurs_chb_1.png" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">19 Июня 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">27 Июня 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=29&amp;tids=All">Москва</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1595">XVI Международный конкурс музыкантов-исполнителей и композиторов «Романтизм: истоки и горизонты» памяти Елены Фабиановны Гнесиной</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1595" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/istoki_0.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">17 Мая 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">19 Мая 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=44&amp;tids=All">Санкт-Петербург</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1593">XIII международный конкурс молодых пианистов-исполнителей и преподавателей фортепиано «Бартоломео Кристофори» </a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1593" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/bartolomeo_logo_1.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">12 Мая 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">14 Мая 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=29&amp;tids=All">Москва</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1599">I Всероссийский конкурс народно-певческого искусства имени Н.К. Мешко</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1599" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/konkurs-im-meshko-logo.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">1 Мая 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">5 Мая 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=44&amp;tids=All">Санкт-Петербург</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1542">VIII Международный  фортепианный конкурс имени Натана Перельмана</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1542" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/tishvvmfjww_0.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">11 Апреля 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">16 Апреля 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=76&amp;tids=All">Ростов-на-Дону</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1591">XXV Международный конкурс молодых исполнителей имени Анатолия Кусякова</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1591" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/logotip_4.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">8 Апреля 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">11 Апреля 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=110&amp;tids=All">Новомосковск</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1557">VI открытый Всероссийский  конкурс скрипачей имени Заслуженного деятеля искусств Российской Федерации  Г. С. Турчаниновой</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1557" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/turchaninova_1.png" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">31 Марта 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">5 Апреля 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=44&amp;tids=All">Санкт-Петербург</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1553">II Международный Фортепианный Конкурс  имени Ирины Семеновны Аврамковой</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1553" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/tt.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-field-competition-date-value">
+                <span class="field-content"><span class="date-display-start">25 Марта 2025</span><span class="date-display-separator"> - </span><span class="date-display-end">26 Марта 2025</span></span>
+  </div>
+  
+  <div class="views-field-tid">
+                <span class="field-content"><a href="/competitions?date%5Bvalue%5D%5Byear%5D=&amp;tidg=172&amp;tids=All">Нижний-Новгород</a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/node/1528">IX открытый Всероссийский конкурс юных пианистов «Посвящение» Эсфирь Липович</a></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1528" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/logotip_konkursa_1_0.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 из 42</li>
+<li class="pager-next last"><a href="/node/9?page=1" class="active">››</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+
+        <div id="content-area">
+          <div id="node-9" class="node node-type-page build-mode-full clearfix">
+  
+  
+  
+  
+  <div class="content">
+    <br />  </div>
+
+  </div><!-- /.node -->
+        </div>
+
+        
+        
+      </div></div><!-- /.section, /#content -->
+
+      
+      <div class="region region-sidebar-first column sidebar"><div class="section">
+  <div id="block-block-3" class="block block-block first region-odd odd region-count-1 count-1">
+      <h2 class="title"><a href="/node/2">АМКР</a></h2>
+  
+  <div class="content">
+    <p><strong>Ассоциация Музыкальных Конкурсов России</strong> была создана в 2000 году по инициативе газеты «Музыкальное обозрение» и при поддержке 12 солидных конкурсов. Сегодня она объединяет абсолютное большинство музыкальных состязаний, существующих в нашей стране: более 100 конкурсов из почти 50 городов России. Главная цель АМКР — структуризация конкурсного &nbsp;пространства, создание единого информационного поля, профессионализация конкурсного дела в России. Настоящий конкурс — это четко срежиссированное действо, вырастающее<br />из множества составляющих. Каждая деталь требует проработки, анализа, профессионального подхода. Это и определяет основные направления деятельности Ассоциации.</p>  </div>
+
+  </div><!-- /.block -->
+<div id="block-views-partners-block_1" class="block block-views last region-even even region-count-2 count-2">
+      <h2 class="title"><a href="/partners">ПАРТНЕРЫ</a></h2>
+  
+  <div class="content">
+    <div class="views_view view view-partners view-id-partners view-display-id-block_1 partners-block view-dom-id-1">
+  
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-1">
+    <thead>
+    <tr>
+              <th class="views-field views-field-field-partner-logo-fid">
+                  </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="https://vk.com/konkurskuznezova" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/19-13.jpg" alt="" title="" width="240" height="164" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="https://competitionhibla.ru/" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/gerzmava_600b.jpg" alt="" title="" width="240" height="160" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="http://tver-philharmonic.ru/konkurs-lemesheva" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/risunok1.jpg" alt="" title="" width="240" height="117" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="https://konkurspetrov.ru/ru" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/1300h1900.jpg" alt="" title="" width="240" height="164" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="https://rachmaninoffcompetition.com/" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/logo.png" alt="" title="" width="240" height="84" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="http://www.muzobozrenie.ru/e-lektronnaya-podpiska" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/mo.jpg" alt="" title="" width="240" height="130" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-field-partner-logo-fid">
+            <a href="http://muzobozrenie.ru/e-lektronnaya-podpiska/" target="_blank"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/partner_logo_big/partner_logo/podpishis.jpg" alt="" title="" width="240" height="140" class="imagecache imagecache-partner_logo_big imagecache-default imagecache-partner_logo_big_default"/></a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  </div><!-- /.block -->
+</div></div><!-- /.section, /.region -->
+
+      <div class="region region-sidebar-second column sidebar"><div class="section">
+  <div id="block-block-1" class="block block-block first region-odd odd region-count-1 count-3">
+  
+  <div class="content">
+    <div id="wave_2_3" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_2_3" /></div><div id="wave_2_4" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_2_4" /></div><div id="wave_2_5" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_2_5" /></div><div id="wave_3_3" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_3_3" /></div><div id="wave_3_4" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_3_4" /></div><div id="wave_3_5" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_3_5" /></div><div id="wave_4_3" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_4_3" /></div><div id="wave_4_4" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_4_4" /></div><div id="wave_4_5" class="square"><img src="/sites/all/themes/amkr/images/emp.png" alt="" title=""  id="picw_4_5" /></div>   </div>
+
+  </div><!-- /.block -->
+<div id="block-views-news-block_1" class="block block-views last region-even even region-count-2 count-4">
+      <h2 class="title"><a href="/news">НОВОСТИ</a></h2>
+  
+  <div class="content">
+    <div class="views_view view view-news view-id-news view-display-id-block_1 view-dom-id-2">
+  
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1601" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/logo_white-01_1.jpg" alt="" title="" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><div><strong>В Санкт-Петербурге прошел VI (XV) Международный конкурс исполнителей на народных инструментах имени А. И. Кузнецова</strong></div><div>&nbsp;</div></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1601">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1600" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/konkurs_rahmaninova_afisha_1.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><div><strong>Продлен срок подачи заявок на II Международный конкурс имени С.В. Рахманинова</strong></div><div>&nbsp;</div></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1600">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1590" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/risunok1_1_0.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Подведены итоги&nbsp;VI Международного детско-юношеского конкурса академического сольного пения имени Галины Алексеевны Писаренко</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1590">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1589" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/zhyuri_konkursa_koncertmeysterov_avtor_foto_aleksandr_shapunov.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Объявлены лауреаты второго международного конкурса вокалистов и концертмейстеров Хиблы Герзмава</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1589">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1588" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/hibla_gerzmava_i_ekaterina_ganelina_otkrytie_konkursa_vokalistov_i_koncertmeysterov_hibly_gerzmava_foto_aleksandr_shapunov.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Состоялось торжественное гала-открытие Международного конкурса вокалистов и концертмейстеров Хиблы Герзмава.&nbsp;</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1588">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1587" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/gala-otkrytie_pervogo_konkursa_hibly_gerzmava_1_avtor_foto_evgeniy_evtyukov.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Открытие&nbsp;Международного конкурса вокалистов и концертмейстеров Хиблы Герзмава</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1587">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1585" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/konkurs_rahmaninova_afisha.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>II Международный конкурс пианистов, композиторов и дирижеров имени С.В. Рахманинова объявляет старт приема заявок</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1585">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1584" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/otkrytie_foto_orkestr_1.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Подведены итоги XI Международного конкурса «Санкт-Петербург в зеркале мировой музыкальной культуры»</strong></p><div>&nbsp;</div></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1584">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1582" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/img-20241022-wa0010_0.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Завершил работу&nbsp;IV Московский открытый конкурс исполнителей на медных духовых инструментах имени Т.А. Докшицера</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1582">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-name">
+                <span class="field-content"></span>
+  </div>
+  
+  <div class="views-field-field-competition-logo-fid">
+          <label class="views-label-field-competition-logo-fid">
+        Logo:
+      </label>
+                <span class="field-content"><a href="/node/1581" class="imagecache imagecache-archive_logo imagecache-linked imagecache-archive_logo_linked"><img src="http://www.music-competitions.ru/sites/default/files/imagecache/archive_logo/kab_20_logo_1_1.jpg" alt="" title="" width="75" height="50" class="imagecache imagecache-archive_logo"/></a></span>
+  </div>
+  
+  <div class="views-field-field-news-short-value">
+                <div class="field-content"><p><strong>Подведены итоги&nbsp;XXIX Международного конкурса молодых музыкантов имени Д.Б. Кабалевского</strong></p></div>
+  </div>
+  
+  <div class="views-field-field-news-text-value">
+                <div class="field-content"><a href="/node/1581">Подробнее...</a></div>
+  </div>
+  
+  <div class="views-field-edit-node">
+                <span class="field-content"></span>
+  </div>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 из 101</li>
+<li class="pager-next last"><a href="/node/9?page=0%2C1" class="active">››</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div><!-- /.view -->
+  </div>
+
+  </div><!-- /.block -->
+</div></div><!-- /.section, /.region -->
+
+    </div></div><!-- /#main, /#main-wrapper -->
+
+          <div id="footer"><div class="section">
+	<div id="footer-title">АССОЦИАЦИЯ МУЗЫКАЛЬНЫХ КОНКУРСОВ РОССИИ</div>
+        
+        
+        <div class="region region-footer">
+  <div id="block-block-2" class="block block-block first last region-odd even region-count-1 count-10">
+  
+  <div class="content">
+    <p>Перепечатка и использование любых материалов, размещенных на сайте, допускается ТОЛЬКО с условием размещения ссылки на <span style="display: none"><![CDATA[<noindex>]]></span><a href="http://www.music-competitions.ru"  title="www.music-competitions.ru" rel="nofollow" >www.music-competitions.ru</a><span style="display: none"><![CDATA[</noindex>]]></span><br /><span class="gromadin">Работа над сайтом — Владимир Громадин</span></p>  </div>
+
+  </div><!-- /.block -->
+</div><!-- /.region -->
+      </div></div><!-- /.section, /#footer -->
+    
+  </div></div><!-- /#page, /#page-wrapper -->
+
+  
+  <script type="text/javascript" src="/sites/all/modules/google_cse/google_cse.js?w"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "ru" } });
+//--><!]]>
+</script>
+
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter13732615 = new Ya.Metrika({id:13732615, enableAll: true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/13732615" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

@@ -1,0 +1,1457 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html class="no-js ie6" lang="ru-RU" xmlns:ng="http://angularjs.org"><![endif]-->
+<!--[if IE 7 ]>
+<html class="no-js ie7" lang="ru-RU" xmlns:ng="http://angularjs.org"><![endif]-->
+<!--[if IE 8 ]>
+<html class="no-js ie8" lang="ru-RU" xmlns:ng="http://angularjs.org"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="ru-RU"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=990">
+            <title>Раритеты - редкие либретто</title>
+        <meta name="description" content="Переводы на русский язык оперных либретто" >
+<meta name="keywords" content="перевод опера либретто русский Хассе Массне Винчи Вагнер Гендель Бах Штраус Масканьи Гайдн Беллини" >
+    
+        <link rel="icon" type="image/x-icon" href="/favicon.ico"/>        
+    
+    <style type="text/css">
+        :root{--fallback-font-header:"";--fallback-font-paragraph:""}
+    </style>
+
+    <link href="//s.siteapi.org/frontend/static/grid_0/css/site-d019903015.css"
+          media="screen"
+          rel="stylesheet"
+          type="text/css"/>
+
+    <link href="//s.siteapi.org/frontend/static/grid_0/css/themes/dark_wood/styles-9197637ec1.css"
+          media="screen"
+          rel="stylesheet"
+          type="text/css"/>
+
+            
+    
+             
+    <link rel="canonical" href="https://jephtha010.nethouse.ru/">
+    
+    <script defer preload type="application/javascript" src="//s2.siteapi.org/block/vendor/a7cc726717f006f0342852d466f335a26992719b/vendor.js"></script><script defer preload type="application/javascript" src="//s2.siteapi.org/block/runtime/a7cc726717f006f0342852d466f335a26992719b/runtime_editor_v1.js"></script>
+        </head>
+<body id="top-body"
+      data-page-type="index"
+      data-html-version="8450396804356098204101"
+      data-ng-controller="BlocksController as blockCtrl"
+      data-ng-init="moduleId = 1"
+      data-lang="ru_RU"
+      data-tld="ru"
+      class=""
+      style="">
+<div id="main-wrapper" style="height: 100%; margin-top: auto; ">
+        
+    <div id="nh-notify-line__unpaid" class="nh-notify-line">
+    <div class="nh-notify-line__top">
+        <div class="nh-notify-line__row nh-notify-line__row_full-large">
+            <div class="nh-notify-line__close" onclick="document.getElementById('nh-notify-line__unpaid').style.display='none'">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 768 768">
+                    <path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path>
+                </svg>
+            </div>
+        </div>
+        <a href="https://nethouse.ru/?p=advert" target="_blank" class="nh-notify-line__link nh-notify-line__link_top">
+            <div class="nh-notify-line__row">
+                <div class="nh-notify-line__column nh-notify-line__one nh-notify-line__column_hide-small">
+                    <div class="nh-notify-line__logo">
+                        <svg height="40" width="148" id="90ccca5a-244b-4cdb-95cb-16e075ca62af" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 45">
+                            <g id="c35c0e2e-a673-45e9-9452-006acc42c14f" data-name="Canvas">
+                                <g id="1b987f5c-5f4e-4105-b397-c0f592d505be" data-name="logo">
+                                    <g id="b900bc3b-e5e1-4790-9326-92a19037f37e" data-name="Vector">
+                                        <path id="611f011e-2904-47f5-aacb-8e993bc45b1e" data-name="path0 fill" d="M5,22.75C6.54,22,8,20.9,9.57,20.14c1.32-.64,1.88-.87,2.6-.76a9.87,9.87,0,0,1,2.09.74c1.5.61,2.61,1.21,4.12,1.93,2.51,1.21,2.86.66,3.78-1s1-2.32-1.42-3.37-4.5-1.87-6.9-2.88a12.3,12.3,0,0,0-1.67-.66c-.59-.12-1,.07-2.2.66-2.07,1.05-5.13,2.67-7,3.7-1.67,1-1.71,1.22-.85,2.82S2.88,23.76,5,22.75Z" style="fill:#fff"/></g><g id="d7ff56b1-bd69-4395-b532-62397243d229" data-name="Vector"><path id="cb23241e-c26a-4733-9345-ac9c7d22782a" data-name="path1 fill" d="M164,35.11c-.11-.09-.46.18-.8.45a17.22,17.22,0,0,1-3.1,2.14,15.66,15.66,0,0,1-2.9,1.13,11.83,11.83,0,0,1-5.88.72,4.26,4.26,0,0,1-1.8-.87c-.08-.06,0-.16.19-.31a17.17,17.17,0,0,1,1.61-.8,8.19,8.19,0,0,0,1.07-.53c2.78-1.71,5.43-3,6.65-6.17a4.16,4.16,0,0,0-.23-3.95c-.82-1.13-2.45-1.85-5.08-1.85a11.12,11.12,0,0,0-2.41.27c-5.44,1.23-9.06,6.45-9.56,10.71a7.8,7.8,0,0,0,.36,3.54,9.58,9.58,0,0,1-3.48,1.56h0a5.28,5.28,0,0,0,.92-2.06,4.58,4.58,0,0,0-.25-2.85c-.94-2.27-4.12-3.19-5.44-4.1-.68-.47-1.29-.76-1.56-1.48-.57-1.48.83-2.48,2.34-2.63a2.79,2.79,0,0,1,2,.58c.44.39.44,1.85-.36,1.7-1-.16-.67,1.44.59,1.67,1.75.31,3.16-.7,3.41-3.25.31-3.43-5.25-5.37-10.13-2.3s-3.68,6.47-2.78,7.89a3.86,3.86,0,0,0,1,.93v0c-1.13,2-4.44,4.07-5.65,3.74-.42-.12-1-.31-.69-1.64.27-1,.69-2.66,1.23-5.16.71-3.21,1.41-5,.36-5.86a5.69,5.69,0,0,0-3-.7c-.74,0-1.43,0-1.82.76a14.93,14.93,0,0,0-.55,2.61c-.56,3.47-.77,5.74-3.53,8.31-1.13,1-2.35,1.66-3.18,1.31-2.14-.86,1.09-9.15.58-11.6-.35-1.78-2.49-1.8-4.39-1.27a13.73,13.73,0,0,0-5.14,2.73c-.84-1.8-2.53-3.29-5.82-3.55a10.81,10.81,0,0,0-2.68.16c-5.48,1.07-9.93,6.5-9.68,11.13a8.31,8.31,0,0,0,.1,1.58c-1,1-2,1.73-2.8,1.4-.63-.25-.75-1-.27-3.77.86-4.91,1.11-7.77-.27-9.25s-5-.7-6.78-.06c-1.44.51-3.43,2.26-4.45,3-.42.29-.63-.25-.49-1C70.25,23.55,76.9,1,73.91.05,72.76-.3,69.73,1.4,68.06,3c-1,.9-1,3.24-1.07,4.48-.15,3.16-1.49,9.77-2.6,15.07a103.93,103.93,0,0,0-2,14v0c-.44.25-.95.58-1.53.89-1.49.8-3.81,1.83-5.59,1.4a4.89,4.89,0,0,1-2.57-1.63c-1.55-1.83-1-6.78.27-13.49h0c3.83,0,6,.09,7.41-.08.88-.1,1.13-.27,1.46-1a10.49,10.49,0,0,0,.84-3.08c0-.74-.71-.58-1.3-.58-1.65,0-4.33.13-7.4.27-.06,0-.13,0-.13,0,1.51-5.61,3.35-10.49,3.73-12.38s-7.83,3.13-8.75,5.33c-.16.37-.48,3.31-1.08,7.13-1.72,0-2.89,0-2.89,0-.54,0-.88-.08-1.15.72a10.43,10.43,0,0,0-.38,3.45c.09.42.27.44.65.48.57,0,1.59,0,3,0-.46,2.63-.9,4.93-1,6.19-.13,1-.3,2.32-.38,3.66a12.17,12.17,0,0,1-5.77,4.68,11.31,11.31,0,0,1-6.28,1,4,4,0,0,1-2.09-1.13,11.44,11.44,0,0,0,2.09-.62,13,13,0,0,0,5.94-4.29c3-4,2.43-8.78-4.26-8.23a10.4,10.4,0,0,0-1.7.27c-5.69,1.38-9.08,7.11-9.22,11.53v.72l0,0a3.81,3.81,0,0,1-3.66,1.26c-.61-.25-.74-1-.28-3.68.84-4.81,1-7.34-.31-8.8s-4.89-.7-6.65-.07a10,10,0,0,0-1.3.66,36.92,36.92,0,0,0-3.72,2.7,4.06,4.06,0,0,1,.13-1,3.05,3.05,0,0,0-2-3.46c-.9-.12-3,1.2-4.48,2.6a13.91,13.91,0,0,0-1.77,1.8c-.28.44-.32.72-.15,1s.94.06,1.74-.33,1.4-.24,1.44.8a21.36,21.36,0,0,1-.5,4.4c-.38,1.71-1.32,4.51.06,6.42s5.23,1.48,5.23,1.48a12.48,12.48,0,0,1,.23-6.93c.9-2.86,2.13-4.65,3.74-5.32a4.27,4.27,0,0,1,1.8-.31c2.78.14-2.17,11,.94,12.27,3.62,1.5,7.36-1.11,9.75-3.55,1,3.2,4,5,8.07,4.38l.86-.15a20.6,20.6,0,0,0,12-6.87c.23,3.33,1.5,6.38,5.62,6.87a11,11,0,0,0,2.56,0,12.34,12.34,0,0,0,8.61-4.46,6.25,6.25,0,0,0,.9,3c1.4,1.93,5.34,1.5,5.34,1.5a12.58,12.58,0,0,1,.23-7C70,32.8,72.09,30.87,74.66,31c2.83.15-2.21,11.21,1,12.53,3.59,1.5,6.9-1,9.32-3.4l0,0c.89,1.91,2.8,3.85,6.9,3.81a12.81,12.81,0,0,0,2-.17,10.91,10.91,0,0,0,8.68-7.69,17.48,17.48,0,0,0,.46-2.49,10.94,10.94,0,0,0-.17-3.62l0-.14c1.44-.58,2.11-.72,2.7-.56s.83,1.12.66,1.75c-.16,1.17-.75,3.25-1,4.44a21.69,21.69,0,0,0-.75,5c0,4,4.77,3.68,7.25,2.76s4.86-5.17,4.54-4.32c-.79,3.25.25,4.77,2.64,4.89a9.37,9.37,0,0,0,1.94-.08c1.74-.25,5.4-1.77,8.29-7.86,1.75,1.12,3.95,2.35,3.55,3.73a2.55,2.55,0,0,1-1.73,1.76,3.08,3.08,0,0,1-1.57,0c-.55-.13-1.28-.52-1.61-.17-.48.52.88,2.33,3.24,2.63a14.94,14.94,0,0,0,4.33-.08,20.72,20.72,0,0,0,7.26-2.84c1.29,2,3.72,3.05,6.84,2.84.58,0,1.17-.1,1.73-.18a20.47,20.47,0,0,0,10.48-4.67,7,7,0,0,0,2.28-3.44v-.14C164,35.23,164,35.15,164,35.11ZM31.05,36.36a7.48,7.48,0,0,1,1.05-4.87,6.67,6.67,0,0,1,1.46-1.55,1.78,1.78,0,0,1,2-.33c1.63,1-.1,3.56-2,5.21A6.42,6.42,0,0,1,31.05,36.36Zm66-.7a7.11,7.11,0,0,1-3,3.64,2.79,2.79,0,0,1-1.52.33c-3-.25-2.18-4.77-1.28-6.73A8.14,8.14,0,0,1,94,29.61a3.5,3.5,0,0,1,2-.59C98.26,29.18,97.8,33.87,97,35.66Zm51.52.88a3.74,3.74,0,0,1-.06-1,8.27,8.27,0,0,1,1.5-4.24A6.45,6.45,0,0,1,151.3,30c.9-.64,1.72-.81,2.32-.37,1.49,1.11-.37,3.29-2.32,4.93A18.23,18.23,0,0,1,148.54,36.54Z" style="fill:#fff"/></g></g></g></svg>
+                    </div>
+                </div><!--
+                --><div class="nh-notify-line__column nh-notify-line__two">
+                    <div class="nh-notify-line__text">
+                        Сайт создан на платформе Nethouse. Хотите такой же?
+                    </div>
+                </div><!--
+                --><div class="nh-notify-line__column nh-notify-line__tree">
+                    <button class="nh-notify-line__button">
+                        Создать сайт
+                        <span class="nh-notify-line__button_hide-text">
+                            бесплатно
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="nh-notify-line__bottom nh-notify-line__bottom_hide-small">
+        <a href="https://nethouse.ru/tarifend?utm_source=nethouse&amp;utm_medium=user_sites&amp;utm_campaign=adv_line&amp;utm_content=instruction" target="_blank" class="nh-notify-line__link" rel="noopener noreferrer">
+            <div class="nh-notify-line__row">
+                <div class="nh-notify-line__column nh-notify-line__autor">
+                    Владельцу сайта
+                    <span class="nh-notify-line__autor-arrow">
+                        <svg id="c6cdd65f-bb44-4075-84e3-135e809b1203" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 10">
+                            <path d="M12.72,4.28,8.6.28A1,1,0,0,0,7.18.3a1,1,0,0,0,0,1.42L9.56,4H1A1,1,0,0,0,1,6H9.56L7.2,8.28A1,1,0,0,0,8.6,9.72l4.12-4a1,1,0,0,0,0-1.44Z"/>
+                        </svg>
+                    </span>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<style>
+    #nh-notify-line__unpaid {
+        font-family: Roboto, Arial, sans-serif;
+        font-weight: 400;
+        z-index: 510;
+    }
+    .nh-notify-line__button {
+        font-family: Roboto, Arial, sans-serif;
+        font-weight: 500;
+    }
+    .nh-notify-line {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        z-index: 11;
+        text-align: center;
+        letter-spacing: 0;
+    }
+    .nh-notify-line__top {
+        background: rgba(2, 80, 139, 0.95);
+    }
+    .nh-notify-line__bottom {
+        background: rgba(5, 142, 217, 1);
+    }
+    .nh-notify-line__bottom_hide-small {
+        display: none;
+    }
+    .nh-notify-line__top,
+    .nh-notify-line__bottom {
+        padding: 0 26px;
+    }
+    .nh-notify-line__link {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        color: #fff;
+        text-decoration: none;
+    }
+    .nh-notify-line__link:hover,
+    .nh-notify-line__link:focus {
+        color: #fff;
+    }
+    .nh-notify-line__row {
+        position: relative;
+        max-width: 1152px;
+        margin: 0 auto;
+    }
+    .nh-notify-line__row:before,
+    .nh-notify-line__row:after {
+        content: "";
+        display: table;
+        box-sizing: border-box;
+    }
+    .nh-notify-line__column {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        padding-left: 16px;
+        padding-right: 16px;
+        box-sizing: border-box;
+    }
+    .nh-notify-line__column_hide-small {
+        display: none;
+    }
+    .nh-notify-line__logo {
+        padding: 9px 0 0;
+    }
+    .nh-notify-line__text {
+        margin: 14px 0 0;
+        font-size: 13px;
+        line-height: 1.385;
+    }
+    .nh-notify-line__button {
+        margin: 8px 0 14px;
+        cursor: pointer;
+        display: inline-block;
+        padding: 13px 37px;
+        background-color: #0CCA4A;
+        border: none;
+        font-size: 12px;
+        line-height: 1.167;
+        text-transform: uppercase;
+        box-sizing: border-box;
+        color: currentColor;
+    }
+    .nh-notify-line__autor {
+        padding: 12px 0;
+        font-size: 12px;
+        line-height: 1.334;
+        color: #F6F6F9;
+    }
+    .nh-notify-line__autor-arrow {
+        padding: 0 0 0 10px;
+    }
+    .nh-notify-line__autor-arrow svg {
+        max-width: 13px;
+        max-height: 10px;
+        fill: currentColor;
+    }
+    .nh-notify-line__close {
+        cursor: pointer;
+        position: absolute;
+        top: 4px;
+        right: -20px;
+        z-index: 12;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .nh-notify-line__close:hover {
+        opacity: 0.7;
+    }
+    .nh-notify-line__close svg {
+        max-width: 24px;
+        max-height: 24px;
+        vertical-align: middle;
+        fill: #058ED9;
+    }
+    @media (min-width: 768px) {
+        .nh-notify-line__top,
+        .nh-notify-line__bottom {
+            padding: 0 24px;
+        }
+        .nh-notify-line__bottom_hide-small {
+            display: block;
+        }
+        .nh-notify-line__column {
+            display: inline-block;
+            vertical-align: middle;
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+        .nh-notify-line__column_hide-small {
+            display: inline-block;
+        }
+        .nh-notify-line__one {
+            width: 20%;
+            vertical-align: top;
+        }
+        .nh-notify-line__two {
+            width: 50%;
+        }
+        .nh-notify-line__tree {
+            display: inline-block;
+            width: 23%;
+            text-align: left;
+        }
+        .nh-notify-line__logo {
+            display: inline-block;
+            padding: 18px 0;
+            text-align: right;
+        }
+        .nh-notify-line__logo svg {
+            max-width: 124px;
+            max-height: 34px;
+            vertical-align: top;
+        }
+        .nh-notify-line__text {
+            margin: 16px 0;
+            font-size: 17px;
+            line-height: 1.412;
+        }
+        .nh-notify-line__button {
+            display: inline-block;
+            margin: 0;
+            padding: 10px 25px;
+            font-size: 10px;
+            line-height: 1.2;
+        }
+        .nh-notify-line__close {
+            cursor: pointer;
+            position: absolute;
+            right: 0;
+            top: 24px;
+            z-index: 12;
+            width: 32px;
+            height: 32px;
+            line-height: 32px;
+            text-align: center;
+        }
+    }
+    @media (min-width: 960px) {
+        .nh-notify-line__row_full-large {
+            max-width: 100%;
+        }
+        .nh-notify-line__top,
+        .nh-notify-line__bottom {
+            padding: 0;
+        }
+        .nh-notify-line__logo {
+            padding: 14px 0 16px;
+            text-align: right;
+        }
+        .nh-notify-line__logo svg {
+            max-width: 128px;
+            max-height: 35px;
+        }
+        .nh-notify-line__autor {
+            padding: 6px 0;
+            font-size: 12px;
+            line-height: 1.334;
+        }
+        .nh-notify-line__button {
+            margin: 20px 0;
+        }
+        .nh-notify-line__close {
+            right: 12px;
+            top: 20px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 1152px) {
+        .nh-notify-line__button_hide-text {
+            display: none;
+        }
+    }
+    @media (min-width: 1152px) {
+        .nh-notify-line__column {
+            vertical-align: top;
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+
+        .nh-notify-line__one {
+            width: 25%;
+        }
+
+        .nh-notify-line__two {
+            width: 41.667%;
+        }
+
+        .nh-notify-line__tree {
+            width: 32.3%;
+            text-align: center;
+        }
+
+        .nh-notify-line__logo {
+            padding: 9px 0 0;
+            text-align: center;
+        }
+
+        .nh-notify-line__logo svg {
+            max-width: 148px;
+            max-height: 40px;
+        }
+
+        .nh-notify-line__text {
+            margin: 24px -16px;
+            font-size: 18px;
+            line-height: 1.334;
+        }
+
+        .nh-notify-line__button {
+            margin: 16px 0;
+            padding: 13px 37px;
+            font-size: 12px;
+            line-height: 1.167;
+        }
+
+        .nh-notify-line__autor {
+            font-size: 14px;
+            line-height: 1.143;
+        }
+
+        .nh-notify-line__close {
+            top: 20px;
+            right: 20px;
+        }
+    }
+
+    .nh-notify-line__button:hover {
+        opacity: 1;
+        background-color: #0DDA50;
+    }
+</style>
+
+
+    <div id="wrapper">
+        <div class="bg">
+            <div class="bg_top"></div>
+            <div class="bg_mid"></div>
+            <div class="bg_bottom"></div>
+        </div>
+
+        <div id="container" class="wrapperBlock">
+            <div id="wrapper-window" style="display:none"></div>
+
+                
+    <div id="sidebar" data-ng-controller="SidebarController">
+        <section id="company-logo">
+            <div id="site-logo">
+        <link rel="image_src" href="//nethouse.ru/static/img/0000/0004/4147/44147732.u226d3k38a.W215.svg" />
+        <a href="https://jephtha010.nethouse.ru/">
+                            <img src="//nethouse.ru/static/img/0000/0004/4147/44147732.u226d3k38a.W215.svg" alt="" style="max-width:215px;"/>
+                    </a>
+    </div>
+</section>
+
+        
+                <div class="cart-is-empty"></div>
+
+        
+<nav id="main-menu" class="">
+<ul>
+	 				                                                                                                                                                
+        
+        <li id="lnk-1" data-sort="0" class="active disable-sort" data-loc=mainpage data-label="Главная"><a href="https://jephtha010.nethouse.ru/"><span class="active-link">Главная</span></a>
+                                                
+                    </li>
+          			                                                                                                    
+        
+        <li id="lnk-2" data-sort="1"   data-label="Новости"><a href="https://jephtha010.nethouse.ru/posts">Новости</a>
+                                                
+                    </li>
+          			                                                                                                    
+        
+        <li id="lnk-3" data-sort="2"   data-label="Список готовых переводов"><a href="https://jephtha010.nethouse.ru/documents">Список готовых переводов</a>
+                                                
+                    </li>
+          			                                                                                                    
+        
+        <li id="lnk-4" data-sort="3"   data-label="Примеры"><a href="https://jephtha010.nethouse.ru/products">Примеры</a>
+                                                
+                    </li>
+          			                                                                                                    
+        
+        <li id="lnk-5" data-sort="4"   data-label="Об авторах"><a href="https://jephtha010.nethouse.ru/photoalbums">Об авторах</a>
+                                                
+                    </li>
+          			                                                                                                    
+        
+        <li id="lnk-6" data-sort="5"   data-label="Контакты"><a href="https://jephtha010.nethouse.ru/contacts">Контакты</a>
+                                                
+                    </li>
+          											</ul>
+
+</nav>
+
+        
+
+                     
+<section id="contactsmain-left"
+         data-block-id="12"
+                  class="block-12 widget-sort widget-left  widget-block ">
+        <header class="infoPlate">
+        <h3><a href="https://jephtha010.nethouse.ru/contacts">Контакты</a></h3>
+    </header>
+        <div id="contactsmain-left-show" class="content-block">
+        							
+		<ul>
+																																		<li><i class="theme-icon email-icon  tooltip" title="E-mail"></i>
+											<a href="mailto:teresh99996@mail.ru">teresh99996@mail.ru</a>
+															</li>
+																		        			                                        		</ul>
+	    </div>
+</section>
+
+                     
+<section id="docs-left"
+         data-block-id="11"
+                      class="block-11 widget-sort widget-left  widget-block block-type addable">
+        <header class="infoPlate">
+        <h3><a href="https://jephtha010.nethouse.ru/documents">Список готовых переводов</a></h3>
+    </header>
+        <div id="docs-left-show" class="content-block">
+                    <ul class="docs-list">
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/928410a4770b857f451ee15cd1b06790cd477147.doc" target="_blank">Бах. Пасхальная оратория</a></div>
+                <p class="infoDigits smallChars document-info"><b>36 кб</b>, 08 сентября в 06:57</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/52d23df8068bbfa7d73df4ecba05db11b1876af9.doc" target="_blank">Бах. Мотеты I - VI</a></div>
+                <p class="infoDigits smallChars document-info"><b>38 кб</b>, 08 сентября в 06:57</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d02989973eb01ddea818cdae94e831b99514c288.doc" target="_blank">Бах. Рождественская оратория</a></div>
+                <p class="infoDigits smallChars document-info"><b>53 кб</b>, 08 сентября в 06:57</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9eb63eb8792fbc3553076e7ece2537edd26ae37f.doc" target="_blank">Бах Иоганн Христиан. Занаида</a></div>
+                <p class="infoDigits smallChars document-info"><b>68.5 кб</b>, 18 марта в 13:39</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/94c35f7b9e36f68f1941382dec1e96ff824ed526.doc" target="_blank">Беллини. Беатриче ди Тенда</a></div>
+                <p class="infoDigits smallChars document-info"><b>56 кб</b>, 08 сентября в 06:55</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/dce53e53b78eeb35d71f8e7bf561c3476a95d62c.doc" target="_blank">Беллини. Капулети и Монтекки</a></div>
+                <p class="infoDigits smallChars document-info"><b>56 кб</b>, 08 сентября в 06:55</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/e9a8aee7c44f44893589ff26342baa9135d64b7b.doc" target="_blank">Беллини. Пират</a></div>
+                <p class="infoDigits smallChars document-info"><b>53 кб</b>, 08 сентября в 06:55</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/dc9cbc01f108b163d172da2b9c6f98424fd5309d.doc" target="_blank">Беллини. Пуритане</a></div>
+                <p class="infoDigits smallChars document-info"><b>56.5 кб</b>, 04 апреля в 14:47</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/c48fa7346bb12ee8a47c64a507cc0d1dd49cf4dc.doc" target="_blank">Бетховен. Христос на Масличной горе</a></div>
+                <p class="infoDigits smallChars document-info"><b>61.5 кб</b>, 08 сентября в 06:54</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ef0a23147b726f1ef575b748d2a57fe11c7cf24b.doc" target="_blank">Бизе. Искатели жемчуга</a></div>
+                <p class="infoDigits smallChars document-info"><b>48.5 кб</b>, 08 сентября в 06:53</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/fa43c822879f5c719b98dca7815b87fe03f73dc0.doc" target="_blank">Бриттен. Рождественские песни</a></div>
+                <p class="infoDigits smallChars document-info"><b>55.5 кб</b>, 22 марта в 10:36</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/3cf826e35a45e3b52bc94047fe988242a75eaac9.doc" target="_blank">Вагнер. Запрет любви</a></div>
+                <p class="infoDigits smallChars document-info"><b>50 кб</b>, 08 сентября в 06:51</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/0dfe1be67f7ab85a53aaddadc0837d81648eabf2.doc" target="_blank">Вагнер. Парсифаль</a></div>
+                <p class="infoDigits smallChars document-info"><b>43 кб</b>, 08 сентября в 06:51</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/138c89c0ba0ea53e3782674c02e088c605784ac7.doc" target="_blank">Вагнер. Феи</a></div>
+                <p class="infoDigits smallChars document-info"><b>67.5 кб</b>, 08 сентября в 06:51</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/c0cb3b997bb1903d4384c1453c966d4bf72f3ded.doc" target="_blank">Вебер. Оберон</a></div>
+                <p class="infoDigits smallChars document-info"><b>59 кб</b>, 07 ноября в 08:36</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/1833255d5fe66b64d0d4ec434071c065d93205a6.doc" target="_blank">Вивальди. Cessate omai cessate</a></div>
+                <p class="infoDigits smallChars document-info"><b>38.5 кб</b>, 16 августа в 19:45</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/36217bd7f4025970b806208b19bad2e02ba651ea.doc" target="_blank">Вивальди. Гризельда</a></div>
+                <p class="infoDigits smallChars document-info"><b>61.5 кб</b>, 08 сентября в 06:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d5d763df9a802ac0d6a961fd6a829c002646173f.doc" target="_blank">Вивальди. Катон в Утике</a></div>
+                <p class="infoDigits smallChars document-info"><b>62 кб</b>, 08 сентября в 06:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b1dbaa157778e699c7c3d5463c53e7684158d9c0.doc" target="_blank">Вивальди. Фарнак</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 08 сентября в 06:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/76b7d9c7951c29e7e989b2d91f2a1963bf1ca775.doc" target="_blank">Винчи. Катон в Утике</a></div>
+                <p class="infoDigits smallChars document-info"><b>54 кб</b>, 08 сентября в 06:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/a7c1033162c7a26952b30166fafe4c692c331f89.doc" target="_blank">Гайдн. Времена года</a></div>
+                <p class="infoDigits smallChars document-info"><b>51.5 кб</b>, 08 сентября в 06:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/t7vrwsl91es4oo0wk4w484800ck8gk" target="_blank">Гайдн. Орфей и Эвридика</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 19 сентября в 14:35</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/106f0a997b96db7508298ee68f62d430870ae18b.doc" target="_blank">Гайдн. Сотворение мира</a></div>
+                <p class="infoDigits smallChars document-info"><b>50.5 кб</b>, 08 сентября в 06:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/fe9ffce54f138d555aad47dbbbcce899d4a96d5e.doc" target="_blank">Гаспарини. Гамлет (Ambleto)</a></div>
+                <p class="infoDigits smallChars document-info"><b>75.5 кб</b>, 08 сентября в 06:47</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/68b75c7006b1090d791926db799b9d8bc439d157.doc" target="_blank">Гендель. Агриппина</a></div>
+                <p class="infoDigits smallChars document-info"><b>61.5 кб</b>, 08 сентября в 20:34</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d9ee5dc39f01a71b41c5afe57d176f27673a003c.doc" target="_blank">Гендель. Адмет</a></div>
+                <p class="infoDigits smallChars document-info"><b>56.5 кб</b>, 08 сентября в 20:33</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b129d6e215e223edba5a563a0033f9cfa946fc31.doc" target="_blank">Гендель. Александр</a></div>
+                <p class="infoDigits smallChars document-info"><b>63 кб</b>, 08 сентября в 20:33</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b25ab15d10e5c5ee345d2dd02011511c42879dd1.doc" target="_blank">Гендель. Александр Балус</a></div>
+                <p class="infoDigits smallChars document-info"><b>58.5 кб</b>, 24 апреля в 16:04</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/751652e7f86c297f7728abf493941ffd4f90b85d.doc" target="_blank">Гендель. Альмира, королева Кастильская</a></div>
+                <p class="infoDigits smallChars document-info"><b>57.5 кб</b>, 08 сентября в 20:32</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/417cb0128fb889094fb08fd60b4d01a8692ec82b.doc" target="_blank">Гендель. Ариадна на Крите</a></div>
+                <p class="infoDigits smallChars document-info"><b>56 кб</b>, 08 сентября в 20:32</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f696485c95d111046534d82ba018aeab91b6d718.doc" target="_blank">Гендель. Амадис</a></div>
+                <p class="infoDigits smallChars document-info"><b>57.5 кб</b>, 03 декабря в 10:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/03173f21e59aa66d3e4533ad3f7ddca96af1a1ed.doc" target="_blank">Гендель. Арминио</a></div>
+                <p class="infoDigits smallChars document-info"><b>59 кб</b>, 17 января в 09:17</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/743fc680ae3a56491e706fe3ddf00f3a777331f1.doc" target="_blank">Гендель. Ариодант</a></div>
+                <p class="infoDigits smallChars document-info"><b>64.5 кб</b>, 08 сентября в 20:31</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9fd29340e3de3828e7139ee9213e1fb0f9c241da.doc" target="_blank">Гендель. Аталия</a></div>
+                <p class="infoDigits smallChars document-info"><b>55.5 кб</b>, 08 сентября в 20:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9f7831cc2cd4be047ddd5dd5357aaca5791a8056.doc" target="_blank">Гендель. Ацис, Галатея и Полифем</a></div>
+                <p class="infoDigits smallChars document-info"><b>62.5 кб</b>, 16 марта в 20:19</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d372b14d5faee082af194966930ccf5aaea0fc0e.doc" target="_blank">Гендель. Ацис и Галатея</a></div>
+                <p class="infoDigits smallChars document-info"><b>56.5 кб</b>, 08 сентября в 20:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f608b888e6aee28ca2fe88e47eb21b6dc76cc51d.doc" target="_blank">Гендель. Аэций (Эцио)</a></div>
+                <p class="infoDigits smallChars document-info"><b>60.5 кб</b>, 02 ноября в 16:25</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d95e2ac81118bafbc9f73d1445ef427e97f53527.doc" target="_blank">Гендель. Береника, царица Египетская</a></div>
+                <p class="infoDigits smallChars document-info"><b>66 кб</b>, 17 июля в 15:18</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8c598e7c9f0f51a9f452c1a64792b66b8519b9df.doc" target="_blank">Гендель. Валтасар</a></div>
+                <p class="infoDigits smallChars document-info"><b>47 кб</b>, 08 сентября в 20:27</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9460b96c20ca5964b8bc9ebea98e9805c79f6132.doc" target="_blank">Гендель. Верный пастух (Терпсихора)</a></div>
+                <p class="infoDigits smallChars document-info"><b>77 кб</b>, 08 сентября в 20:27</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/fd197406b795020bfc19a307d72afdfe06224262.doc" target="_blank">Гендель. Воскресение</a></div>
+                <p class="infoDigits smallChars document-info"><b>70.5 кб</b>, 08 сентября в 20:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/0fe4984ee807c877a76fdbd49a601386b1b30c5e.doc" target="_blank">Гендель. Геркулес</a></div>
+                <p class="infoDigits smallChars document-info"><b>51.5 кб</b>, 08 сентября в 20:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/af84dd03cffbc600d390a07a157e37080a8f0c8b.doc" target="_blank">Гендель. Гименей</a></div>
+                <p class="infoDigits smallChars document-info"><b>56.5 кб</b>, 18 сентября в 18:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b791070e90219b0b6ad02949e96a7262791726f5.doc" target="_blank">Гендель. Дафна</a></div>
+                <p class="infoDigits smallChars document-info"><b>54.5 кб</b>, 08 сентября в 20:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/dcccf15bb0f715ef1212dc380595202077d3f20d.doc" target="_blank">Гендель. Дейдамия</a></div>
+                <p class="infoDigits smallChars document-info"><b>84.5 кб</b>, 08 сентября в 20:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/4da58eaf6123a47b009f74c73c4847758d9befd4.doc" target="_blank">Гендель. Джошуа</a></div>
+                <p class="infoDigits smallChars document-info"><b>57.5 кб</b>, 08 сентября в 20:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/qroypaboc00ww0w4wskg0s444os4o0" target="_blank">Гендель. Джустино</a></div>
+                <p class="infoDigits smallChars document-info"><b>60 кб</b>, 10 августа в 11:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d4174ee2ef88b563c715f1ad044c4ffd7b6a0d6b.doc" target="_blank">Гендель. Иевфай</a></div>
+                <p class="infoDigits smallChars document-info"><b>60 кб</b>, 08 сентября в 20:22</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/e02a13094f7e654b2387cfac4481601cfec5e9d0.doc" target="_blank">Гендель. Израиль в Египте</a></div>
+                <p class="infoDigits smallChars document-info"><b>49 кб</b>, 08 сентября в 20:22</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/af53628b1261a446cb064480392d0680e01699be.doc" target="_blank">Гендель. Иуда Маккавей</a></div>
+                <p class="infoDigits smallChars document-info"><b>46.5 кб</b>, 08 сентября в 20:21</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/4527dc2fd2d5b2000de1adeb13b0475112f7880c.doc" target="_blank">Гендель. Ксеркс</a></div>
+                <p class="infoDigits smallChars document-info"><b>50 кб</b>, 08 сентября в 20:21</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/5ca426657eb2edd748e3d8214ded478df3961437.doc" target="_blank">Гендель. Лотарио</a></div>
+                <p class="infoDigits smallChars document-info"><b>62 кб</b>, 08 сентября в 20:20</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/axxdjva9vy0wg8wwg8gww48swccswo" target="_blank">Гендель. Муцио Сцевола</a></div>
+                <p class="infoDigits smallChars document-info"><b>67.5 кб</b>, 18 марта в 16:00</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/12978a5d4f2a229c9968fa2a19aa9bb53303f26f.doc" target="_blank">Гендель. Нерон</a></div>
+                <p class="infoDigits smallChars document-info"><b>80.5 кб</b>, 08 сентября в 20:20</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2812e797889a6db629a5148660c943627f1d563f.doc" target="_blank">Гендель. Оратория на случай</a></div>
+                <p class="infoDigits smallChars document-info"><b>60.5 кб</b>, 26 сентября в 06:34</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/fupy7plh6jccs0go0cwso0sssw8gso" target="_blank">Гендель. Орест</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 07 июня в 12:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/312a1515d687b1a93465af0e1e6ce2ed474e69f6.doc" target="_blank">Гендель. Орландо</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 08 сентября в 20:19</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b9ab54fa032e84b33894e62fef50822f990d4550.doc" target="_blank">Гендель. Оттон, король Германский</a></div>
+                <p class="infoDigits smallChars document-info"><b>67.5 кб</b>, 08 сентября в 20:18</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/645d57ae8d4d5833d77869c89cc9d07ede2e0d7f.doc" target="_blank">Гендель. Пор, царь Индийский</a></div>
+                <p class="infoDigits smallChars document-info"><b>56 кб</b>, 30 декабря в 09:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/fc1b7338a10cae2ab3eba0eb7383e3354b089fa4.doc" target="_blank">Гендель. Праздник Александра</a></div>
+                <p class="infoDigits smallChars document-info"><b>52 кб</b>, 08 сентября в 20:17</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/486c5fb7db0343036c3447192518748d04c1bb3b.doc" target="_blank">Гендель. Птолемей, царь Египетский</a></div>
+                <p class="infoDigits smallChars document-info"><b>64 кб</b>, 24 июня в 09:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/78e67990fd43805bbb49867f4504cd435812bf52.doc" target="_blank">Гендель. Радамисто. Синопсис</a></div>
+                <p class="infoDigits smallChars document-info"><b>53.5 кб</b>, 19 сентября в 21:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9ef69cf86633a7ce2d1bb176f5e0ef6211d66d47.doc" target="_blank">Гендель. Ринальдо</a></div>
+                <p class="infoDigits smallChars document-info"><b>58.5 кб</b>, 08 сентября в 20:17</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/qwu9b0jtark48gkw00kok800s4kccs" target="_blank">Гендель. Родриго</a></div>
+                <p class="infoDigits smallChars document-info"><b>68 кб</b>, 18 марта в 15:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8c32bb977e3b6369f8b247c2041aa232953f0197.doc" target="_blank">Гендель. Саул</a></div>
+                <p class="infoDigits smallChars document-info"><b>47.5 кб</b>, 08 сентября в 20:09</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2839c3fbf9d227d0b85881ad7492f462163f8da7.doc" target="_blank">Гендель. Самсон</a></div>
+                <p class="infoDigits smallChars document-info"><b>48 кб</b>, 08 сентября в 20:08</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/082770e48c906367a7c368ce8c60177c1d16ea22.doc" target="_blank">Гендель. Семела</a></div>
+                <p class="infoDigits smallChars document-info"><b>50 кб</b>, 08 сентября в 20:08</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/cd0d370fbd3fdcd45b9dc8d2e8c0058bb122e385.doc" target="_blank">Гендель. Сирой, царь Персидский</a></div>
+                <p class="infoDigits smallChars document-info"><b>66.5 кб</b>, 08 сентября в 20:07</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/cdd08242bd035c5115ee83eafe577f5f293a3ca8.doc" target="_blank">Гендель. Созарм, король Мидийский</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 08 сентября в 20:07</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/0c52615fe4cbf2c48be42b40eb6f162ecde20ae0.doc" target="_blank">Гендель. Соломон. Английский текст</a></div>
+                <p class="infoDigits smallChars document-info"><b>72 кб</b>, 23 ноября в 14:02</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/548158ab24f3c03b89cbb48da1c885a3f36c1ad6.doc" target="_blank">Гендель. Соломон. Немецкий текст</a></div>
+                <p class="infoDigits smallChars document-info"><b>72 кб</b>, 23 ноября в 13:59</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d264dd87f551f96db27e5bad06364f0ea6b2f3c7.doc" target="_blank">Гендель. Страсти по Брокесу</a></div>
+                <p class="infoDigits smallChars document-info"><b>66.5 кб</b>, 08 сентября в 20:03</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2d7d2af7a263f71a5e7758edec2f6024737f4ba8.doc" target="_blank">Гендель. Страсти по Евангелию от Иоанна</a></div>
+                <p class="infoDigits smallChars document-info"><b>59 кб</b>, 08 сентября в 20:02</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/818a9e4374ef4819e254161a45b153fc32168c19.doc" target="_blank">Гендель. Сулла</a></div>
+                <p class="infoDigits smallChars document-info"><b>73.5 кб</b>, 22 ноября в 14:36</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/95irrr8q98g0co4c8ss8o88wcc00o8" target="_blank">Гендель. Сусанна</a></div>
+                <p class="infoDigits smallChars document-info"><b>60 кб</b>, 23 января в 19:28</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/27b1bcef6c4d4b642878a219bdc647fea5c8b2af.doc" target="_blank">Гендель. Сципион</a></div>
+                <p class="infoDigits smallChars document-info"><b>63.5 кб</b>, 31 мая в 20:54</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d503ba14e9cbb7e6280fd3c62b8d3f790dca7818.doc" target="_blank">Гендель. Тамерлан</a></div>
+                <p class="infoDigits smallChars document-info"><b>55 кб</b>, 08 сентября в 19:59</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/6cdc3917a00950c838d96ed1db2efcd5167a6435.doc" target="_blank">Гендель. Тезей</a></div>
+                <p class="infoDigits smallChars document-info"><b>67 кб</b>, 17 января в 09:18</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9289dd3aac4fb988e3361fcd7cd68128093ea2b6.doc" target="_blank">Гендель. Теодора</a></div>
+                <p class="infoDigits smallChars document-info"><b>52 кб</b>, 08 сентября в 19:59</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/e2dd59f8af6f9d2de807c0051534138f695c43d2.doc" target="_blank">Гендель. Триумф Времени и Разочарования (1707)</a></div>
+                <p class="infoDigits smallChars document-info"><b>57.5 кб</b>, 08 сентября в 19:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d88b4f8ca14d42ad632cb7ed36163733a12db545.doc" target="_blank">Гендель. Триумф Времени и Правды (1737)</a></div>
+                <p class="infoDigits smallChars document-info"><b>49 кб</b>, 08 сентября в 19:57</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f78b86d2f83a83bb6b441130d19b347eebd2c72d.doc" target="_blank">Гендель. Триумф Времени и Правды (1757)</a></div>
+                <p class="infoDigits smallChars document-info"><b>49.5 кб</b>, 08 сентября в 19:56</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2ea6eb3164b6c1204169dd0705a266797a142538.doc" target="_blank">Гендель. Фарамондо</a></div>
+                <p class="infoDigits smallChars document-info"><b>51.5 кб</b>, 08 сентября в 19:53</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d589e52a800e2f559fcaa71df51e79d412d45a2f.doc" target="_blank">Гендель. Фернандо, король Кастильский</a></div>
+                <p class="infoDigits smallChars document-info"><b>65.5 кб</b>, 08 сентября в 19:52</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2d1b6e18efd7c9e8c57c8a90e9024773029e7e0c.doc" target="_blank">Гендель. Флавий</a></div>
+                <p class="infoDigits smallChars document-info"><b>54.5 кб</b>, 08 сентября в 19:52</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/e76e476c51754afc6fa0bae35618eb4da4cb88ba.doc" target="_blank">Гендель. Флоридант. Синопсис</a></div>
+                <p class="infoDigits smallChars document-info"><b>36.5 кб</b>, 19 сентября в 21:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/3f6a09cbe700a83fa2f28af6ea95f1e3786337a2.doc" target="_blank">Гендель. Флориндо</a></div>
+                <p class="infoDigits smallChars document-info"><b>64 кб</b>, 08 сентября в 19:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ffnz4f7iqjw404o4gwg0swggcwgo8s" target="_blank">Гендель. Эстер (1720)</a></div>
+                <p class="infoDigits smallChars document-info"><b>64 кб</b>, 09 августа в 11:46</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ait307qnug0k8co0o8w4wwwkk4kw0w" target="_blank">Гендель. Эстер (1732)</a></div>
+                <p class="infoDigits smallChars document-info"><b>69.5 кб</b>, 09 августа в 11:46</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/c5ec4b0e4ae2f759e0301a69ad6bf4169e867e98.doc" target="_blank">Глюк. Аэций (Эцио)</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 02 ноября в 16:27</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/jiwuf3ze8bsogccwck0kg08ccsk0ww" target="_blank">Глюк. Ифигения в Авлиде</a></div>
+                <p class="infoDigits smallChars document-info"><b>58.5 кб</b>, 06 октября в 05:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8ddmh4y8b10c48wckg4g00csko4gko" target="_blank">Глюк. Ифигения в Тавриде</a></div>
+                <p class="infoDigits smallChars document-info"><b>52.5 кб</b>, 31 октября в 07:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b25cf758354237581a84b29a8d7a43827448aeb3.doc" target="_blank">Глюк. Милосердие Тита</a></div>
+                <p class="infoDigits smallChars document-info"><b>55.5 кб</b>, 08 сентября в 06:45</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8ad5bcb99eff9874acf068aa1344138b11f7b8c4.doc" target="_blank">Гретри. Ричард Львиное Сердце</a></div>
+                <p class="infoDigits smallChars document-info"><b>44.5 кб</b>, 08 сентября в 06:44</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8323a53e6f4774aa4b962a63d38d9103f136f1b7.doc" target="_blank">Гуно. Царица Савская</a></div>
+                <p class="infoDigits smallChars document-info"><b>66.5 кб</b>, 08 сентября в 06:44</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/c4c2a99ed06a0b1536a1121ed3f31f69dfdb4d97.doc" target="_blank">Кариссими. История Иеффая</a></div>
+                <p class="infoDigits smallChars document-info"><b>44 кб</b>, 08 сентября в 06:44</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/16a8632398a34ebf1d558721a15e2252bc389376.doc" target="_blank">Кшенек. Пять молитв</a></div>
+                <p class="infoDigits smallChars document-info"><b>35.5 кб</b>, 24 июня в 09:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/907c6a624740f83b0fe368660cb67fcba4071c92.doc" target="_blank">Масканьи. Гульельмо Ратклифф</a></div>
+                <p class="infoDigits smallChars document-info"><b>62.5 кб</b>, 07 июля в 18:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d7355c6b215ce0b5cda0e9f4c0ca7294ede06dbd.doc" target="_blank">Масканьи. Изабо</a></div>
+                <p class="infoDigits smallChars document-info"><b>76 кб</b>, 08 сентября в 06:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ced60bf7517409e0ec6c15c3684f4524cb55c232.doc" target="_blank">Масканьи. Лодолетта</a></div>
+                <p class="infoDigits smallChars document-info"><b>57.5 кб</b>, 26 сентября в 06:33</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2d8fb4e2342b78218dce14d0292d352a5bcfc1f1.doc" target="_blank">Масканьи. Маленький Марат</a></div>
+                <p class="infoDigits smallChars document-info"><b>64.5 кб</b>, 08 сентября в 06:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ea0e7fcff487bc6ea38f6b888e6e1490f4018c77.doc" target="_blank">Масканьи. Маски</a></div>
+                <p class="infoDigits smallChars document-info"><b>50.5 кб</b>, 08 сентября в 06:30</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/ac28dd1dcaa4f99a2246f05d9e7c2360d2e3e841.doc" target="_blank">Масканьи. Нерон</a></div>
+                <p class="infoDigits smallChars document-info"><b>68 кб</b>, 08 сентября в 06:29</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/1d1a504c64814bca010d4bf14a627edfb387e0ee.doc" target="_blank">Масканьи. Паризина</a></div>
+                <p class="infoDigits smallChars document-info"><b>72 кб</b>, 08 сентября в 06:29</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/8c1ed7045240f10da7623c3a296b3331eefc3d60.doc" target="_blank">Массне. Амадис</a></div>
+                <p class="infoDigits smallChars document-info"><b>65.5 кб</b>, 08 сентября в 06:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d029f87e924f5acd57aa0d524fb9d57278d9f636.doc" target="_blank">Массне. Ариадна</a></div>
+                <p class="infoDigits smallChars document-info"><b>67 кб</b>, 08 сентября в 06:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/965c53167c7fed2b7d50cff53ea4c9a702724aa1.doc" target="_blank">Массне. Богородица</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 08 сентября в 06:26</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/15e4a518c0e1e84548934f0d496c0efedb732e1c.doc" target="_blank">Массне. Гризельда</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 08 сентября в 06:25</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/6b9e137d0e423d44fdc98326d634f3d244d9aca4.doc" target="_blank">Массне. Ева</a></div>
+                <p class="infoDigits smallChars document-info"><b>67 кб</b>, 05 ноября в 09:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/c3b07ad406508841be635eeea758b966500cf76c.doc" target="_blank">Массне. Жонглер Богоматери</a></div>
+                <p class="infoDigits smallChars document-info"><b>59.5 кб</b>, 08 сентября в 06:25</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/28e15a4d9f2dafa8202bb67ba31164839e5bbdb3.doc" target="_blank">Массне. Золушка</a></div>
+                <p class="infoDigits smallChars document-info"><b>60 кб</b>, 08 сентября в 06:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f6177158b8f57a917e22374cc6340facea4d631d.doc" target="_blank">Массне. Иродиада</a></div>
+                <p class="infoDigits smallChars document-info"><b>54.5 кб</b>, 08 сентября в 06:24</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/242f3acf5b45361e1620007030ce2a32a546886a.doc" target="_blank">Массне. Маг</a></div>
+                <p class="infoDigits smallChars document-info"><b>72.5 кб</b>, 08 сентября в 06:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f303d7dd73ce898b006a4f8c205886a4233ecc6c.doc" target="_blank">Массне. Мария Магдалина</a></div>
+                <p class="infoDigits smallChars document-info"><b>53 кб</b>, 08 сентября в 06:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/24992bb0780e6e88843f8270bb33ed2c7c953509.doc" target="_blank">Массне. Панург</a></div>
+                <p class="infoDigits smallChars document-info"><b>73.5 кб</b>, 18 сентября в 18:25</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/4418b7836f8331e69487813f4ba0c0a61a3002ff.doc" target="_blank">Массне. Портрет Манон</a></div>
+                <p class="infoDigits smallChars document-info"><b>63 кб</b>, 05 ноября в 09:58</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/d7dd82a158c42b03fa256dd4d547e7a979a11213.doc" target="_blank">Массне. Рим</a></div>
+                <p class="infoDigits smallChars document-info"><b>59.5 кб</b>, 08 сентября в 06:23</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/r4mox6op3lwkcgk40040c4488o8g0w" target="_blank">Массне. Тереза</a></div>
+                <p class="infoDigits smallChars document-info"><b>54.5 кб</b>, 17 июня в 10:36</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2302b4d422ea124bae5c3ee0b0ef0364383f88bb.doc" target="_blank">Массне. Эсклармонда</a></div>
+                <p class="infoDigits smallChars document-info"><b>60.5 кб</b>, 08 сентября в 06:22</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/24560a4e7ca10dd12360e4ca3247c987bb3ba02e.doc" target="_blank">Меркаданте. Эмма Антиохийская</a></div>
+                <p class="infoDigits smallChars document-info"><b>54 кб</b>, 24 января в 20:06</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/477d8fe4fb0232b3dd92a1890892d0126f68e40f.doc" target="_blank">Мессиан. Святой Франциск. Синопсис</a></div>
+                <p class="infoDigits smallChars document-info"><b>88.5 кб</b>, 07 сентября в 20:51</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2f2e7848ddea40273857a039959d288ad3449e77.doc" target="_blank">Монтеверди. Коронация Поппеи</a></div>
+                <p class="infoDigits smallChars document-info"><b>58.5 кб</b>, 07 сентября в 20:50</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/dn19e8a1k54w04cscoocowww80ock0" target="_blank">Моцарт. Дон Жуан</a></div>
+                <p class="infoDigits smallChars document-info"><b>60.5 кб</b>, 11 мая в 06:28</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/865747940d4ab98c127a4175b8e645922d406eb1.doc" target="_blank">Моцарт. Луций Сулла</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 16 августа в 19:44</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/61a0a1271cc9ce5e91933e091c7e01bf412b1a9b.doc" target="_blank">Моцарт. Так поступают все</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 04 ноября в 05:25</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/20c040bb91c2a7dd80fa0c4da9c8bbe157bd5e1d.doc" target="_blank">Пуччини. Девушка с Запада</a></div>
+                <p class="infoDigits smallChars document-info"><b>59 кб</b>, 07 сентября в 20:49</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/56b6f83e9eb8e3d03bb04576bf5aa1438a5ee8d8.doc" target="_blank">Россини. Армида</a></div>
+                <p class="infoDigits smallChars document-info"><b>50.5 кб</b>, 07 сентября в 20:49</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/261885f2baa3ceedda7098e981e7d4e885fa7203.doc" target="_blank">Телеман. Терпеливый Сократ</a></div>
+                <p class="infoDigits smallChars document-info"><b>59.5 кб</b>, 06 августа в 16:37</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/836095a10469da28b8b1fe4085c976bb132cda35.doc" target="_blank">Тома. Гамлет</a></div>
+                <p class="infoDigits smallChars document-info"><b>55.5 кб</b>, 07 сентября в 20:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/a72583348398674351076564d54b5f660cd3d72b.doc" target="_blank">Флотов. Алессандро Страделла</a></div>
+                <p class="infoDigits smallChars document-info"><b>59 кб</b>, 07 сентября в 20:48</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/47dbe7e798af70f06da33517f70289a8e6a7030f.doc" target="_blank">Хассе. Марк Антоний и Клеопатра</a></div>
+                <p class="infoDigits smallChars document-info"><b>45.5 кб</b>, 07 сентября в 20:42</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/72c8b99cbdd00cdb76f92e26e3b6077dfe258de0.doc" target="_blank">Хассе. Паломники ко Гробу Господню</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 16 марта в 20:16</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/75fc840638baa7c45ba3494f452c8380e7b85e49.doc" target="_blank">Хассе. Сирой, царь персидский. CD-audio</a></div>
+                <p class="infoDigits smallChars document-info"><b>69.5 кб</b>, 04 октября в 20:39</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/77845a431b3ae7707becbf143b7a3509490be5aa.doc" target="_blank">Хассе. Сирой, царь персидский. Москва 2015 г.</a></div>
+                <p class="infoDigits smallChars document-info"><b>47.5 кб</b>, 04 октября в 20:42</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/0269eca917f7baae976c1886aea51093bb583095.doc" target="_blank">Хиндемит. Святая Сусанна</a></div>
+                <p class="infoDigits smallChars document-info"><b>51.5 кб</b>, 15 января в 15:04</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/09a34fc4190d3493832e1559f904f7534742677b.doc" target="_blank">Шоссон. Король Артур</a></div>
+                <p class="infoDigits smallChars document-info"><b>64.5 кб</b>, 07 сентября в 20:41</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f455f9bc5707227a1b49b058c69c878f208a6f23.doc" target="_blank">Штраус Р. Дафна</a></div>
+                <p class="infoDigits smallChars document-info"><b>50 кб</b>, 12 марта в 13:21</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9c0a6890968793153b405d978752c29eab91f794.doc" target="_blank">Штраус Р. День мира</a></div>
+                <p class="infoDigits smallChars document-info"><b>57 кб</b>, 15 января в 15:06</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/b200546f89fdf128cce009c51137a6e92e406a9a.doc" target="_blank">Штраус Р. Египетская Елена</a></div>
+                <p class="infoDigits smallChars document-info"><b>52.5 кб</b>, 10 декабря в 20:08</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/7eabfba2a61b84e3583a0ba77af0a9a5f953f8f3.doc" target="_blank">Штраус Р. Интермеццо</a></div>
+                <p class="infoDigits smallChars document-info"><b>56 кб</b>, 12 марта в 13:20</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/f3b3e224a2b5f6bda2a85ab63c59861ebb94c766.doc" target="_blank">Штраус Р. Каприччио. Синопсис</a></div>
+                <p class="infoDigits smallChars document-info"><b>47 кб</b>, 07 сентября в 20:40</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/338141097a633e49790abca2fed684d84e17adfb.doc" target="_blank">Штраус Р. Любовь Данаи</a></div>
+                <p class="infoDigits smallChars document-info"><b>60 кб</b>, 10 сентября в 20:47</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/26cec687bd26b93962234cf37711dbb1e73bad00.doc" target="_blank">Штраус Р. Молчаливая женщина</a></div>
+                <p class="infoDigits smallChars document-info"><b>50.5 кб</b>, 07 сентября в 20:39</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/cfe1889a6ca941da1f070eb39e2aab287105f18d.doc" target="_blank">Штраус Р. Потухший огонь</a></div>
+                <p class="infoDigits smallChars document-info"><b>65.5 кб</b>, 06 ноября в 06:08</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9c190ca38f9164d2182fb145e800c5f2268d07f5.doc" target="_blank">Штраус Р. Тень осла</a></div>
+                <p class="infoDigits smallChars document-info"><b>58 кб</b>, 01 сентября в 17:37</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/4a46ffc3e93819f004e72c4c9bb777a05d697f52.doc" target="_blank">Штраус Р. Электра</a></div>
+                <p class="infoDigits smallChars document-info"><b>53 кб</b>, 07 сентября в 20:38</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/2806001d6708ba99a0307dd436553b3f97d37e54.doc" target="_blank">Шуман. Сцены из Фауста Гете</a></div>
+                <p class="infoDigits smallChars document-info"><b>48.5 кб</b>, 17 мая в 13:43</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/hggo11tx2jkg8kcsgo4gkokkgw8040" target="_blank">Шуберт. Фьеррабрас</a></div>
+                <p class="infoDigits smallChars document-info"><b>51 кб</b>, 17 августа в 12:31</p>
+            </li>
+                    <li>
+                <div class="doc-title"><i class="file-icons theme-icon doc-icon"></i><a href="//s.siteapi.org/8ad8bd6f603559c/docs/9gudier58nocokwkk8cosc84cg0kwg" target="_blank">Шуман. Геновева</a></div>
+                <p class="infoDigits smallChars document-info"><b>69 кб</b>, 17 августа в 10:49</p>
+            </li>
+                </ul>
+        </div>
+</section>
+
+                    
+                    
+                    </div>
+    <section data-blocks-list id="content" class="js-blocks-list" data-ng-controller="ContentController">
+        <header class="site-header">
+            <div id="header-wrapper">
+                  
+
+
+<section data-widget-container
+         data-widget-id="3"
+                  data-widget-type="23"
+         data-widget-url=" /widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=23&amp;widget_id=3"
+         id="topcontacts"
+         data-block-id="3"
+         class="  
+onmain  widget
+ on-view widget-block">
+
+                    
+                    <div data-ng-non-bindable class="content-block" id="topcontacts-show">
+            <ul><li class="feedback icon" ><i></i><a href="#feedback" class="blue underline feedback-btn" data-type="0">Напишите нам</a></li></ul>
+    </div>
+                            
+        
+    
+            </section>
+
+                
+<section data-widget-container
+         data-widget-id="2"
+                  data-widget-type="2"
+         data-widget-url=" /widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=2&amp;widget_id=2"
+         id="slogan"
+         data-block-id="2"
+         class=" 
+onmain widget on-view widget-block">
+    <div class="content-block"
+         id="slogan-show">
+                <div class="text_slogan" data-ng-non-bindable><p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-family: times new roman,times; color: #000000; font-size: 40px;"><span style="font-family: times new roman,times; color: #000000;">~</span></span><br /></p>
+<p style="text-align: center;"><span style="font-family: times new roman,times; color: #000000; font-size: 70px;">РАРИТЕТЫ</span></p>
+<p style="text-align: center;"><span style="font-family: times new roman,times; font-size: 40px;">~</span><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><span style="font-family: times new roman,times; color: #000000; font-size: 30px;">Редко переводимые оперы и оратории - полные либретто, синопсисы</span><br /></p></div>
+    </div>
+    </section>
+
+            </div>
+        </header>
+        <div data-sorted-blocks
+             class="js-sorted-blocks blocks-list"
+             data-region="1"
+             data-module="1">
+                                <section  data-widget-promo
+              data-widget-container
+              data-widget-id="5"
+              data-widget-sort="1"
+              data-widget-url="/widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=15&amp;widget_id=5"
+              data-region="1"
+              data-widget-type="15"
+              class="widget-sort widget-block block-5">
+
+                 
+
+<section id="promo"
+         data-widget-content
+         class=" overt bw710 bf_type_0 onmain widget on-view widget-block">
+    <div class="content-block" id="promo-show" style="height: 332px;">
+            <div id="promo-carousel"></div>
+    <script type="text/javascript" class='banner-script'>
+        (function () {
+            if (window.$) {
+                initBanner();
+            } else {
+                document.addEventListener('DOMContentLoaded', function () {
+                    initBanner();
+                });
+            }
+            function initBanner() {
+                window.BannerShow = function () {
+                    window.carousel = $("#promo-carousel").agile_carousel({
+                        carousel_data:[{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4182\/44182486.ndowggkso9.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"},{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4182\/44182517.pvd2hbox52.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"},{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4182\/44182505.mp2n4lzhwb.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"},{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4194\/44194203.rbpzm9ku5p.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"},{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4242\/44242856.11hfjwylqe.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"},{"content":"                \n    <div class=\"slide-inner\" style=\"background:url('\/static\/img\/0000\/0004\/4194\/44194323.f5ypwcaj1h.W710.jpg') no-repeat center center;\">\n            <\/div>\n    \n"}],
+                        carousel_outer_height: 332,
+                        carousel_height: 332,
+                        slide_height: 332,
+                        carousel_outer_width: 710,
+                        slide_width: 710,
+                        transition_type: "fade",
+                        continuous_scrolling: true,
+                                                control_set_1: "numbered_buttons",
+                                                timer: 4000
+                    });
+                };
+                Visitor.preloadBannerImages(["\/static\/img\/0000\/0004\/4182\/44182486.ndowggkso9.W710.jpg","\/static\/img\/0000\/0004\/4182\/44182517.pvd2hbox52.W710.jpg","\/static\/img\/0000\/0004\/4182\/44182505.mp2n4lzhwb.W710.jpg","\/static\/img\/0000\/0004\/4194\/44194203.rbpzm9ku5p.W710.jpg","\/static\/img\/0000\/0004\/4242\/44242856.11hfjwylqe.W710.jpg","\/static\/img\/0000\/0004\/4194\/44194323.f5ypwcaj1h.W710.jpg"]);
+            }
+        }());
+    </script>
+    </div>
+    </section>
+
+
+                    <div data-ng-if="$ctrl.loaded" data-ui-view="promo-view"></div>
+
+                    </section>
+
+                                <section  data-widget-desc
+              data-widget-container
+              data-widget-id="6"
+              data-widget-sort="1"
+              data-widget-url="/widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=3&amp;widget_id=6"
+              data-region="1"
+              data-widget-type="3"
+              class="widget-sort widget-block block-6">
+
+                <section data-widget-content
+     class="onmain widget on-view widget-block -nt-widget">
+    <header class="infoPlate ">
+        <h1>О сайте</h1>
+    </header>
+        <div class="content-block" id="desc-show" data-ng-show="$ctrl.showContent()">
+                    <div class="user-inner">
+                                    <div class="mr-block"><div class="mrb-inline-group_top mrb-row mrb-row-index-0"><div class="mrb-col mrb-col-index-0 mrb-small-18"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p style="text-align: justify;">В разделе "Список готовых переводов" приведены (для ознакомления) первые две страницы текста уже сделанных переводов.</p>
+<p style="text-align: justify;">.</p>
+<p style="text-align: justify;">Для оформления заказа на полный текст перевода следует связаться с нами по электронной почте (<a target="_blank" href="mailto:teresh99996@mail.ru" rel="noopener noreferrer">teresh99996@mail.ru</a>). Заказанные тексты будут высланы на ваш E-mail в течение двух дней после подтверждения оплаты.</p>
+<p style="text-align: justify;">Стоимость одного текста - 112 руб. для России и 3,72 $ для других государств. Деньги могут быть перечислены через систему электронных платежей WebMoney (кошельки R и Z), систему денежных переводов Western Union, услуги переводов "Почты России", пластиковую карту Сбербанка.</p>
+<p style="text-align: justify;">.</p>
+<p style="text-align: justify;">Сейчас на сайте: Рождественская оратория и Мотеты Баха, Иоганн Христиан Бах - Занаида, Беллини - Пират, Пуритане, Капулети и Монтекки, Беатриче ди Тенда, Бетховен - Христос на Масличной горе, Бизе - Искатели жемчуга, Бриттен - Рождественские песни, Вагнер - Запрет любви, Парсифаль, Феи, Вебер - Оберон, Вивальди - Cessate omai cessate, Гризельда, Катон в Утике, Фарнак, Винчи - Катон в Утике, Гайдн - Времена года, Орфей и Эвридика, Сотворение мира, Гаспарини - Гамлет (Ambleto), Глюк - Аэций (Эцио), Ифигения в Авлиде, Ифигения в Тавриде, Милосердие Тита, Гретри - Ричард Львиное Сердце, Гуно - Царица Савская, Кариссими - История Иеффая, Кшенек - Пять молитв, Масканьи - Гульельмо Ратклифф, Изабо, Лодолетта, Маленький Марат, Маски, Нерон, Паризина, Массне - Амадис, Ариадна, Богородица, Гризельда, Ева, Жонглер Богоматери, Золушка, Иродиада, Маг, Мария Магдалина, Панург, Портрет Манон, Рим, Тереза, Эсклармонда, Меркаданте - Эмма Антиохийская, Мессиан - Святой Франциск, Монтеверди - Коронация Поппеи, Моцарт - Дон Жуан, Луций Сулла, Так поступают все, Пуччини - Девушка с Запада, Россини - Армида, Телеман - Терпеливый Сократ, Тома - Гамлет, Фридрих фон Флотов - Алессандро Страделла, Хассе - Марк Антоний и Клеопатра, Паломники ко Гробу Господню, Сирой, царь Персидский, Хиндемит - Святая Сусанна, Шоссон - Король Артур, Рихард Штраус - Дафна, День мира, Египетская Елена, Интермеццо, Каприччио, Любовь Данаи, Молчаливая женщина, Потухший огонь, Тень осла, Электра, Шуберт - Фьеррабрас, Шуман - Геновева, Сцены из Фауста Гете и пр.</p>
+<p style="text-align: justify;">.</p>
+<p style="text-align: justify;">Произведения Георга Фридриха Генделя: Агриппина, Адмет, Александр, Александр Балус, Альмира, королева Кастильская, Амадис, Ариадна на Крите, Ариодант, Арминио, Аталия, Ацис, Галатея и Полифем, Ацис и Галатея, Аэций (Эцио), Береника, царица Египетская, Валтасар, Верный пастух (Терпсихора), Воскресение, Геркулес, Гименей, Дафна, Дейдамия, Джошуа, Джустино, Иевфай, Израиль в Египте, Иуда Маккавей, Ксеркс, Лотарио, Муцио Сцевола, Нерон, Оратория на случай, Орест, Орландо, Оттон, король Германский, Пор, царь Индийский, Праздник Александра, Птолемей, царь Египетский, Ринальдо, Родриго, Саул, Самсон, Семела, Сирой, царь Персидский, Созарм, король Мидийский, Соломон, Страсти по Брокесу, Страсти по Евангелию от Иоанна, Сулла, Сусанна, Сципион, Тамерлан, Тезей, Теодора, Триумф Времени и Разочарования, Триумф Времени и Правды, Фарамондо, Фернандо, король Кастильский, Флавий, Флориндо, Эстер (Эсфирь).<br /></p>
+<p style="text-align: justify;">.</p>
+<p style="text-align: justify;">Особенностью наших переводов является то, что в них одновременно приводится и текст на языке оригинала, и подстрочный перевод на русский язык, что позволяет слушателю следить за ходом исполнения оперы и способствует более глубокому пониманию музыкального материала. Все авторские права на переведенные тексты принадлежат составителям нашего сайта.</p>
+<p style="text-align: justify;">.</p>
+<p style="text-align: justify;">Авторы сайта - Юй Людмила Степановна, Новосибирский музыкальный колледж, преподаватель, и Терешков Игорь Леонидович, г. Новосибирск.</p>
+</div>
+</div></div></div></div>
+                            </div>
+            </div>
+</section>
+
+
+                    <div data-ng-if="$ctrl.loaded" data-ui-view="desc-view"></div>
+
+                    </section>
+
+                                <section  data-widget-posts
+              data-widget-container
+              data-widget-id="7"
+              data-widget-sort="1"
+              data-widget-url="/widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=5&amp;widget_id=7"
+              data-region="1"
+              data-widget-type="5"
+              class="widget-sort widget-block block-7">
+
+                <section id="posts"
+         data-widget-content
+         class="onmain widget on-view widget-block">
+        <header class="infoPlate ">
+        <h3><a href="https://jephtha010.nethouse.ru/posts">Новости</a></h3><span class="items_count">10 из 34</span>        <a id="rss" href="https://jephtha010.nethouse.ru/posts/rss" title="Подписаться на RSS">
+    <span>
+        Подписаться на RSS
+    </span>
+        </a>
+    </header>
+    <div class="content-block" id="posts-show" data-ng-show="$ctrl.showContent()">
+                                 <article>
+           <header>
+              <time datetime="2020-08-17" class="infoPlate infoDigits">
+                17.08.2020
+              </time>
+              <h4>
+                                  new
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Уточнен список готовых переводов</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-10-31" class="infoPlate infoDigits">
+                31.10.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Глюка "Ифигения в Тавриде".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-10-06" class="infoPlate infoDigits">
+                06.10.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Глюка "Ифигения в Авлиде".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-09-19" class="infoPlate infoDigits">
+                19.09.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Гайдна "Орфей и Эвридика".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-08-09" class="infoPlate infoDigits">
+                09.08.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлены опера Генделя "Джустино" и оратория "Эстер" ("Эсфирь").</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-06-17" class="infoPlate infoDigits">
+                17.06.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Массне "Тереза".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-06-07" class="infoPlate infoDigits">
+                07.06.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера (пастиччио) Генделя "Орест".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-05-11" class="infoPlate infoDigits">
+                11.05.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Моцарта "Дон Жуан".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-03-18" class="infoPlate infoDigits">
+                18.03.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлена опера Генделя "Родриго".</p>
+          </div>
+      </article>
+            <article>
+           <header>
+              <time datetime="2018-01-23" class="infoPlate infoDigits">
+                23.01.2018
+              </time>
+              <h4>
+                                  .
+                              </h4>          </header>
+          <div class="user-inner">
+            <p>Добавлены опера "Муцио Сцевола" и оратория "Сусанна" Генделя.</p>
+          </div>
+      </article>
+        
+
+            </div>
+</section>
+
+                    <div data-ng-if="$ctrl.loaded" data-ui-view="posts-view"></div>
+
+                    </section>
+
+                                <section  data-widget-catalog
+              data-widget-container
+              data-widget-id="9"
+              data-widget-sort="1"
+              data-widget-url="/widget?route=mainPage&amp;canSort=1&amp;on_main=1&amp;type=11&amp;widget_id=9"
+              data-region="1"
+              data-widget-type="11"
+              class="widget-sort widget-block block-9">
+
+                 
+
+<section id="products"
+         data-widget-content
+         class="on-plate -preview-size-156
+                  onmain widget on-view widget-block">
+        <header class="infoPlate ">
+        <h3 data-ng-non-bindable><a
+                                href="https://jephtha010.nethouse.ru/products">Примеры</a></h3><span class="items_count">1 из 2</span>    </header>
+    <div class="content-block"
+         data-ng-show="$ctrl.showContent()"
+         id="products-show">
+                    <div data-ng-non-bindable>
+                                            <article class="products-wrap res-wrapper items-wrap">
+        <div class="product-item inline" id="item19921155"><div class="wrapper" style="width:156px"><a href="https://jephtha010.nethouse.ru/products/19921155"><div class="-relative" style="height:120px"><picture><img src="/static/img/0000/0004/4147/44147733.25m1ar7c15.156x120.png"
+         alt="Полное либретто оратории Генделя &amp;quot;Соломон&amp;quot;, перевод на русский язык"
+         class="product-preview-img"
+         title="Полное либретто оратории Генделя &amp;quot;Соломон&amp;quot;, перевод на русский язык"
+                     width="156"
+            height="120"
+                  /></picture></div></a><p class="product-link -table"><span class="-table-cell"><a href="https://jephtha010.nethouse.ru/products/19921155" class="blue">Полное либретто оратории Генделя &quot;Соломон&quot;, перевод на русский язык</a></span><span class="-table-cell"></span></p><p><span class="price"><span class="product-price-data" data-cost="112">
+                            112 ₽                         </span></span></p></div></div>    </article>
+                            </div>
+            </div>
+</section>
+
+    
+
+                    <div data-ng-if="$ctrl.loaded" data-ui-view="catalog-view"></div>
+
+                    </section>
+
+                    </div>
+        <div data-deleted-blocks class="js-deleted-blocks blocks-list">
+                    </div>
+    </section>
+    
+        </div>
+
+        <footer id="footer">
+    <section id="additional-info" class="clearfix">
+        <div id="footer-text" class="footer-color client" style="min-height: 22px;">
+            <span id="footertext1">
+                2015-2025 © Раритеты
+            </span>
+                            <br/><span id="footertext2">Лучшие товары и услуги в Интернете</span>
+                                </div>
+
+        <div id="project-info">
+                        
+<span class="footer-color project-info__link-wrap" style=max-width:170px><a href="https://nethouse.ru/internet-magazin?p=footer"
+                                  target="_blank"
+                                  id="nethouse-caption"
+                                  class="footer-color">Создать интернет-магазин самому</a></span>
+ <a id="nh-logo" class="nh-logo text-center" href="https://nethouse.ru/internet-magazin?p=footer" target="Nethouse.ru" title="Конструктор сайтов">
+    <img alt="Nethouse.ru" src="//s.siteapi.org/frontend/static/grid_0/img/site/footer_logo-32e4dda856.png" id="nethouse_footer_icon">
+</a>            </div>
+
+    </section>
+                </footer>
+
+    </div>
+
+    <div id="for-explain"></div>
+
+    <div id="up-link">
+        <div class="inner-lnk"><a class="blue underline" href="#top-body">Наверх</a><i></i>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_0/js/vendor-54b0e4b0a8.min.js"></script>
+<script src="/js/lang/ru_RU/translate.js?v=8450396804356098204101"></script>
+<script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_0/js/scripts-c9124f56e0.js"></script>
+<div id="vk_api_transport"></div>
+        
+        
+
+
+
+
+
+
+</body>
+</html>
+

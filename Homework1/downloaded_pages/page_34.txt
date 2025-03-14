@@ -1,0 +1,606 @@
+
+<html>
+<head>
+<title>все Музеи России: музеи Москвы и Петербурга, афиша выставок, музеи мира.</title>
+
+<meta name="keywords" content="Музеи России, музеи Петербурга, музеи Москвы, музей, музеи, галерея, выставка, афиша, эрмитаж, кремль, третьяковская, пушкинский, русский, манеж, цдх, востока, дарвиновский, исторический, палетехнический, палеонтологический.">
+<meta name="description" content="Адреса и сайты всех музеев России. Афиша выставок, музеи Москвы, музеи Петербурга и лучшие музеи мира. Картины,пазлы и общение в форумах.">
+<meta name="revisit-after" content="1 days">
+<meta name="ROBOTS" content="ALL">
+
+<LINK REL="stylesheet" TYPE="text/css" HREF="/INC/_global.css">
+<LINK REL="stylesheet" TYPE="text/css" HREF="_local_summer.css">
+</head>
+<BODY BGCOLOR="White" TEXT="Black" LINK="#1E4C6A" VLINK="#1E4C6A" ALINK="Maroon"  leftmargin=0 topmargin=0>
+<div id='all'>
+
+<span class=hide><span class=noprint>
+<script language="JavaScript"><!--
+d=document;a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2"><!--
+s=screen;a+=';s='+s.width+'*'+s.height+';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3"><!--
+js=13//--></script><script language="JavaScript"><!--
+d.write('<img src="http://top.list.ru/counter?id=4640;js='+js+a+';rand='+Math.random()+'">')//--></script><noscript><img src="http://top.list.ru/counter?js=na;id=4640"></noscript>
+<script language="JavaScript"><!--
+document.write('<img src="http://counter.yadro.ru/hit?r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';'+Math.random()+
+'" width=1 height=1>')//--></script>
+
+</span></span>
+
+<style media="screen">.hide{display:none;}</style>
+<style media="print">.noprint{display:none;} #print{display:inline;}</style>
+<div id="mrMenu"><table width="100%" height=25 border=0 cellspacing=0 cellpadding=0 align="center">
+<tr class=tMenuBg>
+	<td background="/img/mCorn_summer.gif"><img src="/img/nbsp.gif" width=25></td>
+	<td NOWRAP width="100%" ALIGN="CENTER" VALIGN="TOP" background="/img/mBg_summer.gif"><div class="vmenu">
+		<noindex><span class=hide id=print>www.Museum.ru : </span></noindex>
+		
+		<A HREF="/" class=tMenu>Музеи России <b>:</b></A>  &nbsp;
+		<A HREF="/News/" onmouseover="ShowMenu (menuNews,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuNews);" class=tMenu>Афиша</A> &nbsp;
+		<A HREF="/Mus/" onmouseover="ShowMenu (menuMus,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuMus);" class=tMenu>Музей</A> &nbsp;
+		<A HREF="/Web/" onmouseover="ShowMenu (menuWeb,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuWeb);" class=tMenu>Сайт</A> &nbsp;
+		<A HREF="/Alb/" onmouseover="ShowMenu (menuAlbum,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuAlbum);" class=tMenu>Альбом</A> &nbsp;
+		
+		<A HREF="/Forum/" onmouseover="ShowMenu (menuForum,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuForum);" class=tMenu>Форум</A> &nbsp;
+		<A HREF="/Prof/" onmouseover="ShowMenu (menuProf,posMenuX(),posMenuY());" onmouseout="HideMenu ('menu'+menuProf);" class=tMenu>Музейщикам</A> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		<noindex>
+		
+		<A href="mailto:news@museum.ru?subject=mail" class=tMenu>E-Mail</A>&nbsp;
+		
+		</noindex>
+		
+	</div></td>
+</tr><tr>
+	<td></td><td>
+		<table width=100% cellspacing=0 style="border:0;filter:shadow(color=888888, Direction=180, Strength=5)"><td style="border-top:#888888 solid 1px;">&nbsp;</td></table>
+	</td>
+</tr></table></div>
+	
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1498325-1";
+urchinTracker();
+</script>
+	
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="/INC/_static.js"></SCRIPT>
+
+<SCRIPT>document.title='Музеи России'; // в Избранное</SCRIPT>
+
+<br>
+
+
+<CENTER>
+<div id='global_top'>&nbsp;</div><div id='main'>
+<TABLE  CELLSPACING=0 CELLPADDING=0 BORDER=0 style="margin-left:0px;">
+<TR>
+	<TD WIDTH=39 NOWRAP><img src="/img/nbsp.gif" width=1 height=1></TD>
+	<TD WIDTH=118 NOWRAP><img src="/img/nbsp.gif" width=1 height=1></TD>
+	<TD WIDTH=350 NOWRAP><img src="/img/nbsp.gif" width=1 height=1></TD>
+	<TD WIDTH=9 NOWRAP><img src="/img/nbsp.gif" width=1 height=1></TD>
+	<TD WIDTH=210 NOWRAP><img src="/img/nbsp.gif" width=1 height=1></TD>
+</TR><TR>
+
+
+	<TD></TD>
+	<TD COLSPAN=5>
+	<div id="top_div"></div>
+		<table width="100%" border=0 cellspacing=0 cellpadding=0 class="tb_top">
+			<tr><td width="80%"><noindex><a href="/AllData/" class=hide title="fake link 4 web-site reapers">Russian Museums</a></noindex></td>
+			<td nowrap>
+				<a href="/" onmouseover="this.href='ht'+'tp://www.RussianMuseums.Info/';" title="Russian museums" class="lMenu">&nbsp; Museums in Russia &nbsp;</a>
+
+			</td></tr>
+		</table>
+	</TD>
+</TR><TR>
+
+
+
+<TD COLSPAN=2 ALIGN="RIGHT" ><img src="img/logoA_summer.gif" width=46 height=105 border=0><img src="img/nbsp.gif" width=1 height=105 border=0><img src="img/logoB_summer.gif" width=85 height=105 border=0></TD>
+	<TD COLSPAN=2 CLASS="Bar">
+		<table border=0 cellspacing=0 cellpadding=0 class="lBar">
+		<tr><td nowrap>
+			<div style="padding:0; margin:0; height:41px; " id='lodotip'><h3><span>Музеи России</span></h3></div>
+		</td></tr>
+		<style>
+			.om { background-color:#e0e0ff; }	.ow { background-color:#e0ffe0; }	.on { background-color:#ffffe0; }
+		</style>
+		
+		<tr style="padding-left:10px"><td NOWRAP>
+		<FORM name="srch" onSubmit="with(srch){u=where.options[where.selectedIndex].value; v=what.value;} if(u==''){ alert('УКАЖИТЕ:\n\tГде искать?'); return false;} if(v.length<3){ alert('УКАЖИТЕ:\n\tЧто искать?\n\t(более 3-х букв)'); return false;} location.href=''+u+'='+v; return false;">
+
+			<SELECT NAME="where">
+				<option value="/mus/name.asp?keywords=1&words" class=om>музей</option>
+				<option value="/mus/location.asp?addres" class=om>музеи города</option>
+				<option value="/news/afisha.asp?where=museum&words" class=on>афишу музея</option>
+				<option value="/news/afisha.asp?where=addres&words" class=on>афишу города</option>
+				<option value="/news/news.asp?where=event&words" class=on>новость</option>
+				<option value="/web/name.asp?words" class=ow>сайт музея</option>
+				<option value="/forum/default.asp?id=F0&search" class=ow>в форумах</option>
+			</SELECT> <b>:</b> <INPUT type="text" NAME="what" SIZE=25 style="width:135px" > <INPUT type="Submit" value="найти">
+		</td></tr>
+		</FORM>
+		<tr style="padding-left:40px"><td valign="bottom" class="vic">
+			<a href="/" onClick="location.href='mus/location.asp?map=ru&region=2';return false;" class=lBar>музеи Москвы</a>, &nbsp;
+			<a href="/" onClick="location.href='mus/location.asp?map=ru&region=3';return false;" class=lBar>музеи Петербурга</a><br>
+		</td></tr>
+		</table>
+	</TD>
+	<TD ALIGN="CENTER" CLASS="Bar1">
+		<noindex>
+			
+		</noindex>
+	</TD>
+</TR>
+</TABLE>
+
+<TABLE  CELLSPACING=0 CELLPADDING=0 BORDER=0 style="margin-left:0px;">
+<TR>
+<TR  height="100%">
+	<TD width=39></TD>
+	<TD COLSPAN=2 VALIGN="TOP"  width=468>
+<br>
+
+
+
+
+<table width=468>
+<tr><td width=234 valign="top">
+<h1 class=header><a href="mus/location.asp?map=ru&region=2" class=header title="Каталог российских музеев">МУЗЕИ</a> <noindex><span title="музеев">[3064]</span></noindex></h1>
+<h2 class=item>
+<a href="/" onClick="location.href='mus/location.asp?map=ru&region=2';return false;" class=itemH><span class=hide>Музеи</span> Москвы</a>,
+<a href="/" onClick="location.href='mus/location.asp?map=ru&region=3';return false;" class=itemH><span class=hide>Музеи Санкт-</span>Петербурга</a>, <a href="/N31980" onMouseOver="href='#topmus';" class=item title="Основные музеи">Известные<img src="/img/arrLoc.gif" width=5 height=6 border=0 hspace=1></a>,<br>
+<a href="mus/collection.asp" class=item>Коллекции и фонды</a>,
+<a href="mus/type.asp?type=1" class=item title="художественные">Музеи искусств</a>,
+<a href="mus/type.asp?type=9" class=item>Исторические музеи</a>, 
+<a href="/science/" class=item>Научные</a>, <a href="/Mus/list.asp" class=item>Список</a>
+...</h2>
+
+
+<h1 class=header><a href="wm/" class=header>МУЗЕИ МИРА</a></h1>
+<h2 class=item>
+<a href="/N32293" onMouseOver="href='wm/#fr';" class=item title="Музеи Франции">Франции</a>,
+<a href="/N32305" onMouseOver="href='wm/#it';" class=item title="Музеи Италии">Италии</a>,
+<a href="/N32150" onMouseOver="href='wm/#uk';" class=item title="Музеи Англии">Англия</a>,
+<a href="/N32167" onMouseOver="href='wm/#es';" class=item title="Музеи Испании">Испании</a>,
+<a href="/N32180" onMouseOver="href='wm/#de';" class=item title="Музеи Германии">Германии</a>,
+<a href="/N32194" onMouseOver="href='wm/#gr';" class=item title="Музеи Греции">Греции</a>,
+<a href="/N32197" onMouseOver="href='wm/#usa';" class=item title="Музеи Америки">США</a>
+<a href="/N32149" onMouseOver="href='wm/#yap';" class=item title="Музеи Японии">Японии</a>,
+...</h2>
+
+<h1 class=header><a href="forum/" class=header>ФОРУМ</a> <noindex><span title="обсуждений">[96399]</span></noindex></h1>
+<h2 class=item>
+<a href="/N31837" onMouseOver="href='#weektheme';" class=itemH>Тема недели<img src="/img/arrLoc.gif" width=5 height=6 border=0 hspace=1></a>,
+<a href="/" onClick="return openChat();" class="item">Чат-беседка</a>,<br>
+<a href="F93" class=item>Доска объявлений</a>, <a href="F94" class=item>Задайте вопрос</a>,<br>
+<a href="F91" class=item>Обсуждения</a>, <a href="forum/main.asp#last" class=item>Последние темы</a>
+...</h2>
+
+
+<h1 class=header ><a href="/help.asp" onClick="return openHelp();" class=header>О портале </a><span>[<a href="/" onClick="return openHelp('MR5');" class=itemH>29 лет</a>]</span></h1> 
+<a href="/N32136" onClick="return openHelp('coopweb');" class=item>Сотрудничество</a>,
+<a href="/N32124" onClick="return openHelp('partners');" class=item>Партнеры</a>,
+<script>document.write('<a href="ma'+'ilto'+':new'+'s@m'+'useum.ru" class=item>Пишите нам</a>');</script>
+<a href="/N32093" onClick="return openHelp('awards');" class=item>Награды</a>,
+<!-- a href="/N32010" onClick="return openHelp('greet');" class=item>Авторы</a -->
+<a href="/N31995" onMouseOver="href='ht'+'tp://srv.museum.ru/default.asp?prg=LINK#link';" class=itemH>Поставьте ссылку</a>
+
+
+</td><td valign="top">
+
+<h1 class=header><a href="news/afisha.asp" class=header>АФИША</a> <noindex><span title="выставок">[74386]</span></noindex></h1>
+<h2 class=item>
+<a href="/afishaMSK" class=itemH>Москвы</a>,
+<a href="/afishaSPB" class=itemH>Петербурга</a>,
+<a href="/N31770" onMouseOver="href='#story';" class=item>Статьи<img src="/img/arrLoc.gif" width=5 height=6 border=0 hspace=1></a>,<br>
+<a href="news/news.asp#rate" class=item>Лучшие выставки</a>,
+<a href="news/subscribe.asp" class=item title="архив и подписка">Журнал</a>
+...</h2>
+
+<h1 class=header><a href="alb/" class=header>АЛЬБОМ</a><noindex> <span title="изображений">[116928]</span></noindex></h1>
+<h2 class=item>
+<a href="alb/?words=картина" class=item>картины</a>,
+<a href="alb/?words=фотография" class=item>фотографии</a>,
+<a href="alb/?words=рисунок" class=item>рисунки</a>,<BR>
+<a href="alb/?words=рисунок" class=item>пейзажи</a>,
+<a href="puzzle.asp" class=itemH>игра - собери пазл</a>
+...</h2>
+
+
+<h1 class=header><a href="web/" class=header>САЙТЫ</a> <span title="сайтов музеев">[1492]</span></h1>
+<h2 class=item><a href="/N31731" onMouseOver="href='#topweb';" class=item title="по голосам посетителей">Лучшие<img src="/img/arrLoc.gif" width=5 height=6 border=0 hspace=1></a>,
+<a href="/N31591" onMouseOver="href='#webday';" class=itemH>Сайт дня<img src="/img/arrLoc.gif" width=5 height=6 border=0 hspace=1></a>,
+<a href="web/top.asp?by=hits" class=item title="по кол-ву посетителей">Популярные</a>,
+<a href="web/name.asp" class=item>Избранные сайты</a>, <a href="web/cat.asp?type=fun" class=item>Забавные</a>,
+<a href="web/cat.asp?type=world" class=item>Зарубежные</a>
+...</h2>
+
+
+
+<h1 class=header><a href="prof/" class=header>Музейщикам</a> <noindex><span title="музейщиков и организаций">[14895]</span></noindex></h1>
+<h2 class=item>
+<a href="prof/news.asp" class=item>Новости</a>,
+<a href="prof/disc.asp" class=item>Объявления</a>,
+<a href="prof/conf.asp" class=item>Конференции</a>,
+<a href="prof/tech.asp" class=item><span class=hide>Музейное </span>Оборудование</a>,
+<a href="prof/web.asp" class=item>Сайты</a>,
+<a href="prof/orgs.asp" class=item>Организации</a>,
+<a href="prof/vis.asp" class=item>Музейщики</a>
+
+...</h2>
+
+</td></tr><!--tr><td colspan=2>
+</td></tr-->
+</table>
+<a name="#"><br></a><table cellspacing=0 cellpadding=0 border=0 width="98%"><tr><td align="right"><font color="#94A2B7">галерея изображений <noindex>: 50 произвольных из 116928</noindex></font></td></tr><tr><td bgcolor="#94A2B7"><img src="/img/nbsp.gif" width=1 height=1 border=0></td></tr></table><br>	<table width="100%">
+	<tr><td>
+		<table width="100%"><tr>
+		<td id="i01" align="center"></td>
+		<td id="i02" align="center"></td>
+		</tr></table>
+	</td></tr><tr><td align="center">
+		<a href="/" onclick="return scrollImage(-1);" class="arr">&laquo;&laquo;&laquo;</a>&nbsp;
+		<span style="border: 1px solid silver;background-color:#EBEBEB; cursor:pointer">
+		<span id="sclbr1" onclick="return scrollImage(parseInt(event.offsetX*cHImg/sclbr1.clientWidth)-cHImg);" onmousemove="sclbr.innerHTML=parseInt(event.offsetX*cHImg/sclbr1.clientWidth)+1; return false;" onmouseout="sclbr.innerHTML=cHImg+1; return false;"></span>
+		<span id="sclbr" style="cursor:default"></span>
+		<span id="sclbr2" onclick="return scrollImage(parseInt(event.offsetX*(49-cHImg)/sclbr2.clientWidth)+1);" onmousemove="sclbr.innerHTML=cHImg+parseInt(event.offsetX*(49-cHImg)/sclbr2.clientWidth)+2; return false;" onmouseout="sclbr.innerHTML=cHImg+1; return false;"></span>
+		</span>&nbsp;
+		<a href="/" onclick="return scrollImage(1);" class="arr">&raquo;&raquo;&raquo;</a>
+	</td></tr>
+	</table>
+<script>
+cHImg=0;
+JHImg=[[108406,123268,19037,67322,4313,125484,144869,135490,117924,10814,69743,131432,98936,30771,91262,66893,33735,101468,114169,58749,43232,97289,111645,142622,59133,97432,36262,78954,129793,37107,90696,12338,6433,136083,51106,128648,75308,125028,21067,72563,140533,98507,93072,119124,118920,21665,126426,103141,104645,60008],['Выставка «Великий князь Александр Николаевич и Павловск»','Экспресс-выставка &quot;Оптический фокус&quot;','С.Ехмениная-Спасская. Гиперборейцы. Танец огня','Шёлковое чудо','Волочаевский мемориальный музей-памятник','Выставка «Реликвии и шедевры ГИМа». Торопчанка','Афиша','Щербатов С.А. Эскиз панно №1 для проекта росписи внутреннего помещения Казанского вокзала 1916-1917 гг. (ГЦТМ им. А.А. Бахрушина)','Выставка &quot;Монголия далёкая - близкая&quot;','Музей сновидений Фрейда','Мальчик с корзиной фруктов. 1593-1594. Караваджо (Микеланджело Меризи да Караваджо). Рим, Галерея Боргезе','Выставка «Школа акварели Сергея Андрияки. Мастер и ученик»','Камин Врубеля','Семинар &quot;Расширение музейной аудитории через новые образовательные программы&quot;','Флоренция. Вид на мосты через реку Арно. Конец XIX века. Фотографы: братья Алинари','Художники ушедшей эпохи','Фрагмент экспозиции','Выставка Риммы Камкиной «Взойду невидимо и сяду между вами»','Боткин М. П. Чудо Святого Марка. (Копия с картины Тинторетто). Холст, масло. © Рыбинский государственный историко-архитектурный и художественный музей-заповедник','Шмакова Шпалера Зачем я шел к тебе Россия','До реставрации','Куклы Матлюбы Яхъяевой','Афиша','«Ночь кино 2024» в Псковском музее','Мастер-классы для юных ростовчан в музее Шолохова','Выставка художника С. Н. Пекарского «Родные просторы»','Ловчая птица в сокольничьей амуниции','Афиша выставки','Рерих. Веления неба. 1915','&quot;Зимних дней очарованье&quot;. Выставка в Национальном музее РТ','Выставка &quot;Черный пес Петербург: образ города в поэзии русского рока&quot;','Щербаков','Самовар восьмигранный литровый омского образца.  XVIII в.','Мифология бытописания и типология образов Татьяны Назаренко','Медаль памятная. 1993 г.','Памятный знак, посвященный героическому подвигу альпинистов - защитников блокадного Ленинграда','Арт-группа &quot;Doping-Pong&quot;. Вкусное мясо','Голконда. Литография с работы 1953 г. 205/300. 2003 г. Франция. Издатель Philippe Moreno','Из истории освещения с древнейшего времени до начала XX столетия','Кретов-Даждь. Иллюстрация к роману Ф.М. Достоевского «Братья Карамазовы»','Мысли Иммануила Канта, выбранные Л. Н. Толстым / перевод с немецкого С. А. Порецкого; II. Избранные мысли Лихтенберга. - Москва: Изд. &quot;Посредника&quot;, 1906.','Карахан Н.Г. Выход на работу. 1934 г. Холст, масло','Выставка &quot;Азбука музея&quot;','Портреты cотрудников Русского музея','Выставка живописи «Магия места: от Хвалынских гор до Лазурного берега»','Титульный лист пьесы &quot;Враг народа&quot; с разрешением цензуры','Экспозиция в Сытном дворе, 1930-е гг.','Выставка «Век Фёдора Хитрука». &quot;Фильм, фильм, фильм&quot; (1968)','Азбука Лунного Света. Выставка Бориса Гребенщикова в Эрарте','Черно-белый телевизор прямого усиления &quot;КВН-49&quot;'],['N70303','N76963','N25240','N49040','M1442','N77926','N86243','N82469','N74819','M2749','N50331','N80631','N65869','N30271','N62055','N48830','M2751','N67170','N73061','N44673','N36465','N65054','N71717','N85431','N44858','N65112','N32623','N71981','N79850','N32998','N61797','N21628','C6910','N82755','C9027','N79360','N53416','N77730','N26149','N51881','N84631','N65645','N62972','N75308','N75229','N26449','N78344','N67942','N68647','C1700']];
+function drawImage(i) {s=JHImg[2][i].substring(0,1); return '<img style="cursor:pointer" id="img'+i+'" src="/img.asp?'+JHImg[0][i]+'" height="150" title="'+JHImg[1][i]+'" onclick="return ShowImg(\'/imgB.asp?'+JHImg[0][i]+'\');"><br><a href="/'+JHImg[2][i]+'">'+((s=='M')?'в музей':((s=='N')?'событие':((s=='C')?'экспонат':JHImg[2][i])))+'</a> | <a href="/" onclick="return openPuzzle (\'/imgB.asp?'+JHImg[0][i]+'\', \''+JHImg[1][i]+'\');">пазл</a>'}
+function scrollImage(i) {
+	cHImg+=i;
+	if (cHImg<0) cHImg=49;
+	if (cHImg>49) cHImg=0;
+	i01.innerHTML=drawImage (cHImg);
+	i02.innerHTML=drawImage ((cHImg==49)?0:cHImg+1);
+	sclbr1.style.width=7*cHImg;
+	sclbr2.style.width=343-7*cHImg;
+	sclbr.innerHTML=cHImg+1;
+	for (i=cHImg; i<cHImg+2; i++)
+	if (verIE>=5.5) with (eval('img'+((i==49)?0:i))) {
+		style.filter='progid:DXImageTransform.Microsoft.Slide(slidestyle=PUSH,Bands=1) progid:DXImageTransform.Microsoft.Shadow(color=#888888,direction=135,strength=5)';
+		filters[0].apply();
+//		filters.revealTrans.transition=Math.round(20*Math.random());
+		filters[0].play()
+	}
+	return false;
+}
+scrollImage(0);
+</script>
+<a name="#weektheme"><br></a><table cellspacing=0 cellpadding=0 border=0 width="98%"><tr><td align="right"><font color="#94A2B7">тема недели</font></td></tr><tr><td bgcolor="#94A2B7"><img src="/img/nbsp.gif" width=1 height=1 border=0></td></tr></table><br>
+
+	<a href="/F92t3823" style="text-decoration: none;">
+		<font class="headblock_weekTheme">Юбилей - беда или праздник?</font><span style="color:gray;"> [9]</span><br>
+		<div class="textblock">Почти каждый год у какого-нибудь музея бывает юбилей. Как Вы относитесь к подобным мероприятиям? Кто-то из посетителей почувствовал праздник в год 200-летия Музеев Кремля? 150-летия Третьяковской галереи?110-летия Музея Москвы? 85-летия Биомузея? 50-летия Музея Пушкина? 100-летия Дарвиновского? Или праздник минует посетителя?</div>
+		<div align="right">Познакомьтесь c мнениями и выскажите свое <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div></a>
+<a name="#"><br></a><table cellspacing=0 cellpadding=0 border=0 width="98%"><tr><td align="right"><font color="#94A2B7">из ленты новостей</font></td></tr><tr><td bgcolor="#94A2B7"><img src="/img/nbsp.gif" width=1 height=1 border=0></td></tr></table><br>
+	<font class="headblock">К 100-летию Картинной галереи ГМИИ им. А.С. Пушкина</font><br>
+	<font color="Maroon">c 11 марта по 27 апреля, город Москва</font><br>
+	<a href="/N86542" style="text-decoration: none;">
+	
+		<img src="/img.asp?145606"  hspace=0 vspace=0 style="margin:10px 8px 2px 0"  align="left" border=0 onClick="return ShowImg('/imgB.asp?145606');" title="Увеличить">
+	
+	<div class="textblock">
+		11 марта ГМИИ им. А.С. Пушкина открывает выставку, посвященную 100-летнему юбилею Картинной галереи, которая сегодня насчитывает свыше трех тысяч произведений от Средних веков до наших дней. Проект расскажет о важном этапе истории ГМИИ им. А.С. Пушкина, когда к египетской коллекции и собранию слепков добавились живописные произведения Рембрандта, Франса Снейдерса, Гверчино, Никола Пуссена и других признанных мастеров. Развернутая на Белом полу небольшая экспозиция, снабженная пояснительным текст ...
+	</div>
+		<div align="right" style="color:#537C99; text-decoration: underline;">далее <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div>
+	</a>
+
+	<BR CLEAR>
+	
+	<font class="headblock">Выставка "Великая страна - великая Победа. 1941-1945" в Центральном выставочном зале "Манеж", С.-Петербург</font><br>
+	<font color="Maroon">c 21 марта по 25 мая, город Санкт-Петербург</font><br>
+	<a href="/N86572" style="text-decoration: none;">
+	
+		<img src="/img.asp?145673"  hspace=0 vspace=0 style="margin:10px 8px 2px 0"  align="left" border=0 onClick="return ShowImg('/imgB.asp?145673');" title="Увеличить">
+	
+	<div class="textblock">
+		Центральный выставочный зал "Манеж" при поддержке Комитета по культуре Санкт-Петербурга представляет историко-документальный проект, приуроченный к 80-летию Победы в Великой Отечественной войне. <br>Выставка "ВЕЛИКАЯ СТРАНА - ВЕЛИКАЯ ПОБЕДА. 1941-1945" посвящена подвигу тыла и расскажет о героическом труде миллионов людей, чьи усилия и жертвы неотделимы от достижений армии. Проект исследует вызовы, которые встали перед Советским Союзом во время войны, повествует о жизни в условиях тягот военного ...
+	</div>
+		<div align="right" style="color:#537C99; text-decoration: underline;">далее <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div>
+	</a>
+
+	<BR CLEAR>
+	
+	<font class="headblock">Две выставки в рамках фестиваля ФотоТОП в Русском музее фотографии</font><br>
+	<font color="Maroon">c 12 по 30 марта, Нижегородская область</font><br>
+	<a href="/N86547" style="text-decoration: none;">
+	
+		<img src="/img.asp?145617"  hspace=0 vspace=0 style="margin:10px 8px 2px 0"  align="left" border=0 onClick="return ShowImg('/imgB.asp?145617');" title="Увеличить">
+	
+	<div class="textblock">
+		Фестиваль современной российской фотографии ФотоТОП <br><b>"ЛЕС и САД".</b> Автор: Олег Арнаутов <br>Открытие - 12 марта в 17.00. Центр культуры "Рекорд" <br><b>"ФотоТОП. Имена" </b> <br>Открытие - 12 марта в 18.00. Творческая встреча с куратором фестиваля Олегом Арнаутовым - 12 марта, 18.45. Русский музей фотографии <br><b>Выставка "ФотоТОП. Имена"</b> открывает широкой публике работы авторов из высшей лиги художественной фотографии в России. <br>Это яркие личности, представители разных поколен ...
+	</div>
+		<div align="right" style="color:#537C99; text-decoration: underline;">далее <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div>
+	</a>
+
+	<BR CLEAR>
+	
+	<font class="headblock">Французская манера. Гравюры и рисунки XV – начала XVII века</font><br>
+	<font color="Maroon">c 19 марта по 13 июля, город Санкт-Петербург</font><br>
+	<a href="/N86574" style="text-decoration: none;">
+	
+		<img src="/img.asp?145680"  hspace=0 vspace=0 style="margin:10px 8px 2px 0"  align="left" border=0 onClick="return ShowImg('/imgB.asp?145680');" title="Увеличить">
+	
+	<div class="textblock">
+		19 марта 2025 года в Главном музейном комплексе Государственного Эрмитажа открывается выставка "Французская манера. Гравюры и рисунки XV – начала XVII века". Выставка познакомит зрителя с наиболее яркими и значимыми произведениями музейного собрания французской графики XV–XVI веков.  <br>В первом разделе будут представлены рисунки из коллекции карандашных портретов в Эрмитаже, являющейся одной из лучших за пределами Франции. Это шедевры таких мастеров как Жан Фуке, Франсуа Клуэ, Пьер Дюмустье Ст ...
+	</div>
+		<div align="right" style="color:#537C99; text-decoration: underline;">далее <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div>
+	</a>
+<a name="#story"><br></a><table cellspacing=0 cellpadding=0 border=0 width="98%"><tr><td align="right"><font color="#94A2B7">заметки</font></td></tr><tr><td bgcolor="#94A2B7"><img src="/img/nbsp.gif" width=1 height=1 border=0></td></tr></table><br>
+	<font class="headblock">Антонио Гауди волшебник из Барселоны (Antoni Gaudi)</font><br>
+	<a href="/N27950" style="text-decoration: none";>
+	
+		<img src="/img.asp?26141" hspace=0 vspace=0 style="margin:10px 8px 8px 0" align="left" border=0>
+	
+	<div class="textblock">
+		Каталония подарила миру многих необычных художников. Достаточно сказать, что именно здесь родились Пабло Пикассо и Сальвадор Дали. Здесь родился и творил Антонио Гауди - один из величайших архитекторов Европы.
+		<div align="right" style="color:#537C99; text-decoration: underline;">далее <img src="/img/arrMore.gif" align="top" width=13 height=15 border=0 alt="далее"></div>
+	</div>
+	</a>
+	<div style="clear:both"></div>
+	<div>
+	также:
+	<style>.cli{background:url("img/dot.gif") 0 center no-repeat; padding: 1px 8px;}</style>
+	<ul style="padding:0; margin:8px 0px; list-style:none">
+		<li class=cli><a href="/N25231">Мрамор и золото Исаакиевского собора</a></li>
+		<li class=cli><a href="/N27023">Аполлон и Лаокоон в цитадели христианства (Музеи Ватикана, Vatican Museums)</a></li>
+		<li class=cli><a href="/N26059">Каменный цветок Петербурга</a></li>
+		<li class=cli><a href="/N28732">Винсент Ван Гог. Золотистое на голубом (Vincent van Gogh)</a></li>
+		<li class=cli><a href="/N30295">По волнам истории русского флота</a></li>
+		<li class=cli><a href="/N27465">Поцелуй Климта (Австрийская галерея. Osterreichische Galerie)</a></li>
+		<li class=cli><a href="/N20393">Святыни Покровского собора</a></li>
+		<li class=cli><a href="/N19983">"Демоны"  Врубеля</a></li>
+		<li class=cli><a href="/N25012">Павел I Екатерине II: история одного памятника</a></li>
+		<li class=cli><a href="/N31444">Природа и человек - единство и борьба (Museum national d'Histoire naturelle)</a></li>
+	</ul>
+	</div>
+
+
+
+
+</TD><TD width=9></TD><TD VALIGN="TOP" class="bgc" width=210>
+
+
+<table width=210 border=0 cellspacing=1 cellpadding=0>
+<tr><td colspan=2 height=3 class="hdrl" ></td></tr>
+<tr>
+	<td width=175 align=center nowrap class=hdr>важные события</td>
+	<td nowrap>
+	<script>Column=0</script><a href="/" onClick="if(c256.style.display==''){this.innerHTML='&nbsp;&raquo;&nbsp;'; c256.style.display='none'; Column|=256; document.cookie='Column='+Column+'; path=/';} else {this.innerHTML='&nbsp;x&nbsp;'; c256.style.display=''; Column&=-257; document.cookie='Column='+Column+'; path=/';} return false;" class="hdrQ">&nbsp;x&nbsp;</a>
+	<a href="/" onClick="openHelp('hotnews'); return false;" class="hdrQ">&nbsp; ? &nbsp;</a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan=2>
+		<div id="c256">
+			<div align="left" id="dID" style=""><br>
+
+			</div>
+		</div>
+	</td>
+</tr>
+
+</table>
+
+<table width=210 border=0 cellspacing=1 cellpadding=0>
+<tr><td colspan=2 height=3 class="hdrl"></td></tr>
+<tr>
+	<td width=175 align=center nowrap class=hdr><a href="/news/" class=hdr>новости</a> от <i>12.03.2025</i></td>
+	<td nowrap>
+	<script>Column=0</script><a href=/ onClick="if(c1.style.display==''){this.innerHTML='&nbsp;&raquo;&nbsp;'; c1.style.display='none'; Column|=1; document.cookie='Column='+Column+'; path=/';} else {this.innerHTML='&nbsp;x&nbsp;'; c1.style.display=''; Column&=-2; document.cookie='Column='+Column+'; path=/';} return false;" class="hdrQ">&nbsp;x&nbsp;</a>
+	<a href="/" onClick="openHelp('hotnews'); return false;" class="hdrQ">&nbsp; ? &nbsp;</a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan=2>
+		<div id="c1">
+			<div align="left" id="dID" style="height:250px;overflow:scroll;overflow-X:hidden;"
+				onmouseenter="sStep=Step;Step=0;this.style.height='280px';self.event.cancelBubble=true;"
+				onmouseleave="Step=sStep;this.style.height='150px';self.event.cancelBubble=true;"><br>
+				<Script language="JavaScript">
+				<!--//
+					Step=0;
+					setTimeout("Step=1;with(dID)MaxScroll=scrollHeight-style.height.substring(0,style.height.indexOf('p'));setInterval('with (dID){if(scrollTop>=MaxScroll){scrollTop=MaxScroll; Step=-Step;}else if(scrollTop<1){scrollTop=0;Step=-Step;}scrollTop+=Step;}',50);",5000);
+				//-->
+				</Script>
+<a href="/N86572" class=lst>Выставка "Великая страна - великая Победа. 1941-1945" в Центральном выставочном зале "Манеж", С.-Петербург </a><br><br>
+<a href="/N86554" class=lst>Концерт «К 110-летию со дня рождения Святослава Рихтера и 103-летию со дня рождения Ирины Антоновой»</a><br><br>
+<a href="/N86558" class=lst>Выставка «Вооружайтесь, благородные мужи!» в Бородинской панораме</a><br><br>
+<a href="/N86542" class=lst>К 100-летию Картинной галереи ГМИИ им. А.С. Пушкина</a><br><br>
+<a href="/N86534" class=lst>Сокровищница графики. Гравюрный кабинет в первой четверти XX века</a><br><br>
+<a href="/N86570" class=lst>Концерт-посвящение "Модест Мусоргский. Песни и романсы". Ко дню рождения композитора </a><br><br>
+<a href="/N86574" class=lst>Французская манера. Гравюры и рисунки XV – начала XVII века</a><br><br>
+<a href="/N86536" class=lst>Выставка "ОбъективНО о музыке"</a><br><br>
+<a href="/N86564" class=lst>Олег Иващенко. В пути</a><br><br>
+<a href="/N86557" class=lst>Конференция АДИТ-2025: Красноярск - Енисейск</a><br><br>
+<a href="/N86568" class=lst>Выставка произведений Михаила Полетаева в Российской академии художеств</a><br><br>
+<a href="/N86566" class=lst>Чёрный континент, или путешествие по разноцветной Африке</a><br><br>
+<a href="/N86571" class=lst>Выставка женского портрета «Зеркало любви» в Томском художественном музее</a><br><br>
+<a href="/N86569" class=lst>Молодые художники создадут в Царском Селе «Crypto / Ферму»</a><br><br>
+<a href="/N86560" class=lst>Выставка «Башкортостан-Волгоград. Победа в единстве духа»</a><br><br>
+<a href="/N86559" class=lst>«Через эмоции» - юбилейная выставка Ларисы Распоповой</a><br><br>
+<a href="/N86561" class=lst>Выставка «Провинциальные истории» Юрия Абисалова в Российской академии художеств</a><br><br>
+<a href="/N86565" class=lst>Катерина Смирнова и Станислав Данилин. Связь</a><br><br>
+<a href="/N86573" class=lst>Выставка «Кровью сердца» в «Шолохов-Центре»</a><br><br>
+<a href="/N86562" class=lst>Открытие обновленной экспозиции «Советская военная медицина 1930-х – 1940 гг.»</a><br><br>
+<a href="/N86540" class=lst>Владимир Башлыков. Молчанием обернется слово</a><br><br>
+<a href="/N86538" class=lst>Выставка «Иконопись Ростова. Памятники XIII–XVI веков из музейных и частных собраний»</a><br><br>
+<a href="/N86555" class=lst>Федот Сычков. К 155-летию</a><br><br>
+<a href="/N86521" class=lst>Выставка «1775 год. Триумф Екатерины. Публичное и личное» в Музее архитектуры</a><br><br>
+<a href="/N86549" class=lst>LU. Фигура умолчания</a><br><br>
+<a href="/N86547" class=lst>Две выставки в рамках фестиваля ФотоТОП в Русском музее фотографии</a><br><br>
+<a href="/N86528" class=lst>"Диджитал ТЕСТО" - персональная выставка Максима Свищева в Суздале</a><br><br>
+<a href="/N86553" class=lst>Николай Большаков: Любовь моя – Россия</a><br><br>
+<a href="/N86545" class=lst>Выставка Екатерины Витвиновой «Там почтовые ящики полные…»</a><br><br>
+<a href="/N86518" class=lst>Другая почва, или как тульские оружейники строили завод и выращивали яблоки</a><br><br>
+<a href="/N86531" class=lst>Выставка «Крылатый гений Октябрьской революции» в Музее-мастерской С.Т. Конёнкова (Москва)</a><br><br>
+<a href="/N86432" class=lst>Выставка Анатолия Белкина "Буквальные связи" в Центре современного искусства AZ/ART</a><br><br>
+
+			<br>
+			</div>
+			<div align="right"><a href="/News/" class="lnk">все<img src="/img/arrMore.gif" border=0 align="middle"></a></div>
+			<div align="center"><a href="/News/add.asp" class="lnk">добавьте сообщение</a><br><a href="/" class="lnk">музеи москвы</a></div>
+		</div>
+	</td>
+</tr>
+
+</table>
+<table width=210 border=0 cellspacing=1 cellpadding=0>
+<tr><td colspan=2 height=3 class="hdrl"></td></tr>
+<tr>
+	<td width=175 align="center" nowrap><div class="hdr">событие</div></td>
+	<td nowrap>
+	<script>Column=0</script><a href=/ onClick="if(c2.style.display==''){this.innerHTML='&nbsp;&raquo;&nbsp;'; c2.style.display='none'; Column|=2; document.cookie='Column='+Column+'; path=/';} else {this.innerHTML='&nbsp;x&nbsp;'; c2.style.display=''; Column&=-3; document.cookie='Column='+Column+'; path=/';} return false;" class="hdrQ">&nbsp;x&nbsp;</a>
+	<a href="/" onClick="openHelp('hotnews'); return false;" class="hdrQ">&nbsp; ? &nbsp;</a>
+	</td>
+</tr>
+
+<script>function chWidth (t) {if (t.width>200) t.width=200; return false;}</script>
+<tr>
+	<td colspan="2" align="center" valign="top">
+	<div id="c2">
+
+			<a href="/N86571"><img name="NewsImg" style="margin:5px 0; border:1px solid #f1c025;" src="/img.asp?145672" hspace=0  title="Выставка женского портрета «Зеркало любви» в Томском художественном музее" onload="return chWidth (event.srcElement);"><br clear="all">
+			открыть</a>	| <a href="/" onClick="return openIMG('/imgB.asp?145672')">увеличить</a> | <a href="/" onclick="return openPuzzle ('/imgB.asp?145672');">пазл</a>
+
+	</div>
+	</td>
+</tr>
+
+</table>
+<a name="topweb"></a>
+
+<table width=210 border=0 cellspacing=1 cellpadding=0>
+<tr><td colspan=2 height=3 class="hdrl"></td></tr>
+<tr>
+	<td width=175 align="center" nowrap><div class="hdr">лучшие сайты: top20</div></td>
+	<td nowrap>
+	<script>Column=0</script><a href=/ onClick="if(c4.style.display==''){this.innerHTML='&nbsp;&raquo;&nbsp;'; c4.style.display='none'; Column|=4; document.cookie='Column='+Column+'; path=/';} else {this.innerHTML='&nbsp;x&nbsp;'; c4.style.display=''; Column&=-5; document.cookie='Column='+Column+'; path=/';} return false;" class="hdrQ">&nbsp;x&nbsp;</a>
+	<a href="/" onClick="openHelp('topweb'); return false;" class="hdrQ">&nbsp; ? &nbsp;</a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan=2>
+		<div id="c4">
+<a href="/" class="lst" onClick="location.href='ht'+'tp://hermitagemuseum.org/';return false;openVote('W134');">Эрмитаж</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://pushkinmuseum.art/';return false;openVote('W370');">Пушкинский музей изобр. искусств</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://www.kreml.ru';return false;openVote('W112');">Музеи Московского Кремля</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://peterhofmuseum.ru';return false;openVote('W1449');">Петергоф</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://www.rusmuseum.ru';return false;openVote('W255');">Русский музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://tretyakovgallery.ru/';return false;openVote('W367');">Третьяковская галерея</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://pavlovskmuseum.ru/';return false;openVote('W564');">Павловск</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://kunstkamera.ru/';return false;openVote('W231');">Кунсткамера</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://shm.ru';return false;openVote('W469');">Государственный исторический музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://darwinmuseum.ru/';return false;openVote('W111');">Дарвиновский музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://mgomz.ru';return false;openVote('W146');">Коломенское</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://31md.ru/';return false;openVote('W546');">Музей-диорама "Курская битва. Белгородское направление"</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://museum-tula.ru/';return false;openVote('W431');">Объединение "Историко-краеведческий и художественный музей"</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://felicina.ru/';return false;openVote('W205');">Краснодарский государственный историко-археологический музей-заповедник имени Е.Д. Фелицына</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://ленино-снегиревский-музей.рф/';return false;openVote('W1665');">Ленино-Снегиревский военно-исторический музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://uole-museum.ru';return false;openVote('W1290');">Свердловский областной краеведческий музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://hortus.msu.ru/';return false;openVote('W1420');">Ботанический сад МГУ имени М.В. Ломоносова  "Аптекарский огород"</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://музей-кильмезь.рф';return false;openVote('W1427');">Кильмезский районный краеведческий музей</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://lomakovka.ru';return false;openVote('W179');">Музей автомотостарины в Москве</a><br>
+<a href="/" class="lst" onClick="location.href='ht'+'tp://museum-arms.ru/';return false;openVote('W526');">Тульский государственный музей оружия</a><br>
+			<div align="right"><a href="/web/top.asp?by=votes" class="lnk">далее<img src="/img/arrMore.gif" border=0 align="middle"></a></DIV>
+			<div align="center"><a href="/web/partner.asp" class="lnk">участвуйте</a></DIV>
+		</div>
+	</td>
+</tr>
+
+</table>
+
+<a name="topmus"></a>
+
+<table width=210 border=0 cellspacing=1 cellpadding=0>
+<tr><td colspan=2 height=3 class="hdrl"></td></tr>
+<tr>
+	<td width=175 align="center" nowrap><div class="hdr">известные музеи: top20</div></td>
+	<td nowrap>
+	<script>Column=0</script><a href=/ onClick="if(c8.style.display==''){this.innerHTML='&nbsp;&raquo;&nbsp;'; c8.style.display='none'; Column|=8; document.cookie='Column='+Column+'; path=/';} else {this.innerHTML='&nbsp;x&nbsp;'; c8.style.display=''; Column&=-9; document.cookie='Column='+Column+'; path=/';} return false;" class="hdrQ">&nbsp;x&nbsp;</a>
+	<a href="/" onClick="openHelp('topmus'); return false;" class="hdrQ">&nbsp; ? &nbsp;</a>
+	</td>
+</tr>
+
+<tr>
+	<td colspan=2>
+		<div id="c8">
+			<div align="right"><a href="/Mus/top.asp?by=famous" class="lnk">далее<img src="/img/arrMore.gif" border=0 align="middle"></a></div>
+		</div>
+	</td>
+</tr>
+
+</table>	
+<!-- table width="100%" border=0 cellspacing=1 cellpadding=0 class="bgc_L">
+<tr><td width="100%" height=3 class="hdrl"></td></tr>
+<tr>
+	<td-->
+<script language="javascript">
+<!--//
+	MainLinks();
+// -->
+</script>
+<BR>
+<p align=center> <a href="https://curandero.ru/" target="_blank">Рапэ купить</a> в Москве в интернет-магазине  -  Доверьте бухучет профессионалам. <a href="https://ac-g.ru/" target="_blank">Бухгалтерские услуги</a> в СПб.  -  <a href="https://prokarniz.ru/elektricheskie-shtory/" target="_blank">электрические шторы</a>  -  <a href="https://bollywoodclub.ru/" target="_blank">болливуд казино</a>  -  <a href="https://neonwin-gamer.kz/ru" target="_blank">Neon Win казино</a>  -  <a href="https://calipsohotel.ru/games" target="_blank">игровые автоматы</a> </p>
+
+
+
+<!-- /td>
+</tr>
+</table -->
+
+
+	</TD>
+</TR>
+</TABLE>
+
+<TABLE width=500>
+
+
+<TR><TD COLSPAN=5><img src="img/nbsp.gif" width=1 height=8 border=0></TD>
+</TR><TR>
+	<TD COLSPAN=5 ALIGN="CENTER">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-364392-1";
+urchinTracker();
+</script>
+
+<noindex><style>.icn{width:88px;height:31px;filter:gray;border:0px;}</style><a href="http://top.mail.ru/jump?from=4640"><img src="http://top.list.ru/counter?id=4640;t=49;l=1" class=icn></a> <a href="http://www.liveinternet.ru/stat/museum.ru/"><img src="http://counter.yadro.ru/logo?14.6" class=icn></a> <a href="http://www.yandex.ru/cy?id=15&host=www.museum.ru"><img src="http://www.yandex.ru/cycounter?www.museum.ru" class=icn></a>
+</noindex>
+<br><br>
+<div class="cprt">
+	при полном или частичном использовании материалов <a href="/" onClick="location.href='ht'+'tp://srv.museum.ru/default.asp?prg=LINK#link';return false;">активная ссылка</a> на "<a href="http://www.museum.ru/">Музеи России</a>" обязательна<br><br>
+	<a href="/" onClick="return openHelp('copyright');" class=cprt>Copyright (c) 1996-2025 Museum.ru</a><br>
+	
+</div><br>
+
+	</TD>
+</TR>
+</TABLE>
+
+</div>
+<div id='global_bottom'>&nbsp;</div>
+</CENTER>
+</div>
+</body>
+</html>

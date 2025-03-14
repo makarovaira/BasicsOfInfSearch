@@ -1,0 +1,572 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+        <META NAME="description"
+          CONTENT="">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link href="https://gitaristu.ru/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <script src="https://gitaristu.ru/js/bootstrap/bootstrap.bundle.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://gitaristu.ru/css/style-r.css?v=2024041803">
+    <!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>-->
+
+    <script type="text/javascript" src="https://gitaristu.ru/js/jquery.js"></script>
+    <script type="text/javascript" src="https://gitaristu.ru/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <link rel="stylesheet" href="https://gitaristu.ru/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css"
+          media="screen"/>
+
+    <script type="text/javascript" src="https://userapi.com/js/api/openapi.js?49"></script>
+
+    <script type="text/javascript">
+        VK.init({apiId: 2868724, onlyWidgets: true});
+    </script>
+
+    <script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+	<script>
+	const dcJs = document.createElement('script'); 
+	dcJs.src = "https://ads.digitalcaramel.com/js/gitaristu.ru.js?ts="+new Date().getTime();
+	dcJs.async = true;
+	document.head.appendChild(dcJs);
+	</script>
+	<script>window.yaContextCb = window.yaContextCb || [] </script> 
+	<script async src="https://yandex.ru/ads/system/context.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-3 text-center">
+            <a href="/"><img src="https://gitaristu.ru/img/logo.png" width="" height="" alt="Gitaristu.ru"
+                             border="0"></a>
+        </div>
+        <div class="d-block d-md-none text-center">
+            <input type="checkbox" role="button" aria-label="Display the menu" class="menu">
+        </div>
+        <script>
+            jQuery('.menu').on('click', function (e) {
+                jQuery('.topmenu').toggleClass('d-none');
+            });
+        </script>
+        <div class="col-12 col-md-9 topmenu d-none d-md-block">
+            <div id="topmenu1" class="d-md-flex justify-content-between mt-3 text-center">
+                <div>
+                    <a href="/accords">Аккорды</a>
+                </div>
+                <div>
+                    <a href="/tabs">Табулатура</a>
+                </div>
+                <div>
+                    <a href="/beginners">Начинающим</a>
+                </div>
+                <div>
+                    <a href="/master">Мастер-класс</a>
+                </div>
+                <div>
+                    <a href="/soft">Софт</a>
+                </div>
+                <div>
+                    <a href="/video">Видео</a>
+                </div>
+            </div>
+            <div id="topmenu2" class="d-md-flex justify-content-between mt-3 text-center">
+                <div>
+                    <a href="/news">Новости</a>
+                </div>
+                <div>
+                    <a href="/anons">Анонсы</a>
+                </div>
+                <div>
+                    <a href="/guitars">Гитары</a>
+                </div>
+                <div>
+                    <a href="/guitarists">Гитаристы</a>
+                </div>
+
+                <div>
+                    <a href="/articles">Статьи</a>
+                </div>
+                <div>
+                    <a href="/avatars">Аватарки</a>
+                </div>
+                <div>
+                    <a href="/minusovki">Минусовки</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-9 offset-md-3">
+            <div class="searchbar mt-3">
+
+                <!-- Search form -->
+
+                <div class="ya-site-form ya-site-form_inited_no"
+                     data-bem="{&quot;action&quot;:&quot;http://www.gitaristu.ru/search&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:16,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Yandex Site Search #1890188&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:false,&quot;searchid&quot;:1890188,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;Поиск аккордов&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#7f9db9&quot;}">
+                    <form action="https://yandex.ru/search/site/" method="get" target="_self"
+                          accept-charset="utf-8">
+                        <input type="hidden" name="searchid" value="1890188"/><input type="hidden" name="l10n"
+                                                                                     value="ru"/><input
+                            type="hidden"
+                            name="reqenc"
+                            value=""/><input
+                            type="search" name="text" value=""/><input type="submit" value="Найти"/></form>
+                </div>
+                <style type="text/css">.ya-page_js_yes .ya-site-form_inited_no {
+                    display: none;
+                }</style>
+                <script type="text/javascript">(function (w, d, c) {
+                    var s = d.createElement('script'), h = d.getElementsByTagName('script')[0],
+                        e = d.documentElement;
+                    if ((' ' + e.className + ' ').indexOf(' ya-page_js_yes ') === -1) {
+                        e.className += ' ya-page_js_yes';
+                    }
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.charset = 'utf-8';
+                    s.src = (d.location.protocol === 'https:' ? 'https:' : 'http:') + '//site.yandex.net/v2.0/js/all.js';
+                    h.parentNode.insertBefore(s, h);
+                    (w[c] || (w[c] = [])).push(function () {
+                        Ya.Site.Form.init()
+                    })
+                })(window, document, 'yandex_site_callbacks');</script>
+                <!-- // Search form -->
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-3 col-12 sidebar order-2 order-md-1">
+            <div class="link_block">
+                <a href="https://www.gitaristu.ru/beginners/art/accords/">Таблицы основных акордов</a>
+            </div>
+            <div class="link_block">
+                <a href="https://www.gitaristu.ru/beginners/art/nastrojka-gitary-gitarnyj-tjuner-online">Онлайн тюнер
+                    для настройки гитары</a>
+            </div>
+            <div class="popular mt-3">
+                <div class="h4 text-center">Популярные подборы</div>
+                <ul class="popular text-start">
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_n/nikolmzskii_konstantin">Константин
+                        Никольский</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_n/nikolmzskii_konstantin/moi_drug_hudozhnik_i_poet">Мой
+                        друг художник и поэт</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_a/ariya">Ария</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_a/ariya/poteryannyi_rai">Потерянный
+                        рай</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_m/melmznica">Мельница</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_m/melmznica/dorogi">Дороги</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_l/lyumen">Люмен</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_l/lyumen/sid_i_nensi">Сид и Ненси</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/k/kino">Кино</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/k/kino/gruppa_krovi">Группа крови</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_p/pesni_u_kostra">Песни у костра</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_p/pesni_u_kostra/celuite,_baby,_relmzsy_(1)">Целуйте,
+                        бабы, рельсы</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_n/nautilus_pompilius">Наутилус
+                        помпилиус</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_n/nautilus_pompilius/progulki_po_vode">Прогулки
+                        по воде</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_zh/zhuki">Жуки</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_zh/zhuki/batareika">Батарейка</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_s/sinyaya_ptica">Синяя птица</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_s/sinyaya_ptica/klen">Клён</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_b/bravo">Браво</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_b/bravo/etot_gorod">Этот город</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_r/raznoe">Разное</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_r/raznoe/titanik">Титаник</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_s/sektor_gaza">Сектор газа</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_s/sektor_gaza/demobilizaciya">Демобилизация</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_l/lyube">Любэ</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_l/lyube/konmz">Конь</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_k/korolmz_i_shut">Король и шут</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_k/korolmz_i_shut/lesnik">Лесник</a><br>
+                    <li><a href="https://www.gitaristu.ru/accords/letter/rus_m/mashina_vremeni">Машина времени</a> - <a
+                            href="https://www.gitaristu.ru/accords/letter/rus_m/mashina_vremeni/koster">Костёр</a><br>
+                </ul>
+            </div>
+			
+			<div class="text-center mt-3">
+
+<div class="banner_dc">
+                    <div class="button_dc">X</div>
+                    <div id="banner">
+                        <div id="adfox_171394370668961701"></div>
+                        <script>
+                            window.yaContextCb.push(() => {
+                                Ya.adfoxCode.createAdaptive({
+                                    ownerId: 332443,
+                                    containerId: 'adfox_171394370668961701',
+                                    params: {
+                                        p1: 'dcacx',
+                                        p2: 'hlua'
+                                    }
+                                }, ['desktop'], {
+                                    tabletWidth: 830,
+                                    phoneWidth: 480,
+                                    isAutoReloads: false
+                                })
+                            })
+                        </script>
+<script>
+setInterval(function(){            
+window.Ya.adfoxCode.reload('adfox_171394370668961701', {onlyIfWasVisible: true})
+}, 30000);
+</script>
+                    </div>
+                </div>
+</div>			
+            <div class="tuner mt-3 text-center">
+                <a href="https://www.gitaristu.ru/beginners/art/tune"><img src="https://gitaristu.ru/img/tuneguitar.png"
+                                                                           alt="Настройка гитары"></a>
+            </div>
+
+            <div class="mt-3 vk text-center">
+                <script type="text/javascript" src="https://userapi.com/js/api/openapi.js?26"></script>
+
+                <!-- VK Widget -->
+                <div id="vk_groups"></div>
+                <script type="text/javascript">
+                    VK.Widgets.Group("vk_groups", {mode: 0, width: "240", height: "290"}, 305591);
+                </script>
+                <script type="text/javascript">
+                    <!--
+                    var _acic = {dataProvider: 10};
+                    (function () {
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "https://www.acint.net/aci.js";
+                        var t = document.getElementsByTagName("script")[0];
+                        t.parentNode.insertBefore(e, t)
+                    })()
+                    //-->
+                </script>
+
+            </div>
+			<div class="text-center mt-3">
+						<script type="text/javascript">
+<!--
+var _acic={dataProvider:10};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://www.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><style type='text/css'> .block_links * { background:transparent none repeat scroll 0 0 !important; border:medium none !important; clear:none !important; clip:rect(auto, auto, auto, auto) !important; font-size:100% !important; font-style:normal !important; font-variant:normal !important; font-weight:normal !important; height:auto !important; letter-spacing:normal !important; line-height:normal !important; margin:0 !important; overflow:visible !important; padding:0 !important; position:static !important; text-align:left !important; text-decoration:none !important; text-indent:0 !important; text-transform:none !important; vertical-align:baseline !important; visibility:visible !important; white-space:normal !important; width:auto; word-spacing:normal !important; z-index:auto !important; cursor: pointer!important; word-wrap: break-word!important; } .block_links li { display:list-item !important; list-style-image:none !important; list-style-position:outside !important; list-style-type:none !important; display: inline; } .block_links li DIV { padding:0.5em !important; } .block_links DIV, .block_links TABLE { padding: 5px !important; } .block_links { width: auto!important; font-family: Verdana!important; font-size: 11px!important; border: 0px solid #FFFFFF!important; background-color: #FFFFFF!important; padding:5px!important; position: relative!important; display:block!important; } .block_links_icnt, .block_links_icnt * { text-align: left!important; } .block_links_text, .block_links_text A, .block_links_text A:hover { color: #000000!important; font-size: 11px!important; text-decoration: none!important; } .block_links_url { color: #000066!important; font-size: 11px!important; text-decoration: none!important; } .block_links_header, .block_links_header A { color: #656565!important; font-size: 13px!important; font-weight: bold!important; text-decoration: underline!important; } .block_links_sign { color: #999999!important; font-size: 10px!important; text-align: left!important; text-decoration: none!important; } .block_links_clear { clear:both!important; } .block_links TABLE { width: 100%!important; border: 0px!important; } </style><div class='block_links'  > <table> <tr> <td class='block_links_icnt' style='width:50%'> <span onclick='window.open(&#39;https://mertech.ru/printery-etiketok/&#39;, &#39;_blank&#39;); return false;'><p class='block_links_header'> Https://mertech.ru/printery-etiketok/ </p> <p class='block_links_text'> Нужен принтер этикеток? На сайте MERTECH <a href="https://mertech.ru/printery-etiketok/" target="_blank">https://mertech.ru/printery-etiketok/</a> покупайте. </p><p class='block_links_url'> mertech.ru </p></span> </td><td class='block_links_icnt' style='width:50%'> <span onclick='window.open(&#39;https://eco-bur.ru/&#39;, &#39;_blank&#39;); return false;'><p class='block_links_header'> Бурение скважин на воду </p> <p class='block_links_text'> Хотите заказать <a href="https://eco-bur.ru/" target="_blank">бурение скважин на воду</a>? Узнайте стоимость на сайте eco-bur.ru, есть акции! </p><p class='block_links_url'> eco-bur.ru </p></span> </td> </tr> </table></div> 
+			</div>
+        </div>
+        <div class="col-12 col-md-9 order-1 order-md-2">
+            <div class="content mt-2 p-3">
+                                                <h1></h1>
+				
+				<div class="" id="mtl" style="border:0px #ff8080 solid; border-radius:5px; background-color:#ccffcc; padding:20px; margin-top:20px;">
+                    Не нашли аккорды к песне? Посмотрите на <a href="https://mytabs.ru">Mytabs.ru</a>
+                </div>
+				
+				                <br>
+				
+                <!-- Yandex.RTB R-A-87235-2 -->
+<div id="yandex_rtb_R-A-87235-2"></div>
+<script>window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+        renderTo: 'yandex_rtb_R-A-87235-2',
+        blockId: 'R-A-87235-2'
+    })
+})</script>
+                <br>
+                                
+<div>
+<h1>Всё для гитаристов</h1>
+
+					<p>В разделе Гитаристы собрана информация о лучших гитаристах мира - их биографии, этапы творческого пути, статьи в различных изданиях, интервью и многое другое...
+
+В разделе Мастер-класс представлены уроки игры на гитаре от знаменитых гитаристов.
+
+В разделе Гитары представлена информация об огромном количестве гитар - Fender, Gibson, Ibanez... Информация постоянно обновляется и пополняется.
+
+В разделе Аккорды собрано более <b>90000</b> аккордов и текстов песен российских и зарубежных исполнителей. База постоянно пополняется. Вы также можете поучаствовать в наполнении базы аккордов. Присылайте свои варианты подборов аккордов на <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="79181d141017391e100d180b100a0d0c570b0c">[email&#160;protected]</a> и вскоре они появятся на сайте.
+
+Самый большой архив <a href="https://mytabs.ru">аккордов</a> песен.
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+			<a class="header" href="/accords/">Новые аккорды</a>
+					<p>
+					<a href="/accords/letter/s/St_Vincent">St Vincent</a> - <a href="/accords/letter/s/St_Vincent/Every_Tear_Disappears">Every Tear Disappears</a><br><a href="/accords/letter/s/Sigma">Sigma</a> - <a href="/accords/letter/s/Sigma/Nobody_To_Love">Nobody To Love</a><br><a href="/accords/letter/e/Elvis_Presley">Elvis Presley</a> - <a href="/accords/letter/e/Elvis_Presley/Wild_In_The_Country">Wild In The Country</a><br><a href="/accords/letter/a/Alan_Jackson">Alan Jackson</a> - <a href="/accords/letter/a/Alan_Jackson/Ladder_To_Heaven">Ladder To Heaven</a><br><a href="/accords/letter/c/Coldplay">Coldplay</a> - <a href="/accords/letter/c/Coldplay/Oceans">Oceans</a><br><a href="/accords/letter/f/Francesca_Battistelli">Francesca Battistelli</a> - <a href="/accords/letter/f/Francesca_Battistelli/Hands_Of_God">Hands Of God</a><br><a href="/accords/letter/rus_p/Petlyura">Петлюра</a> - <a href="/accords/letter/rus_p/Petlyura/Estmz_Krasivaya_Odna_Devushka_na_zemle">Есть Красивая Одна Девушка на земле</a><br><a href="/accords/letter/rus_e/Epidemiya">Эпидемия</a> - <a href="/accords/letter/rus_e/Epidemiya/Smerti_net">Смерти нет</a><br><a href="/accords/letter/rus_r/Rozenbaum_Aleksandr">Розенбаум Александр</a> - <a href="/accords/letter/rus_r/Rozenbaum_Aleksandr/Sud_nad_gitaroi">Суд над гитарой</a><br><a href="/accords/letter/rus_s/Sestry_Tolmachevy">Сёстры Толмачёвы</a> - <a href="/accords/letter/rus_s/Sestry_Tolmachevy/Shine">Shine</a><br>
+
+					</p>
+		</div>
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+					<a class="header" href="/tabs/">Новые табулатуры</a>
+					<p>
+					<a href="/tabs/letter/rus_z/Zolotoe_Kolmzco">Золотое Кольцо</a> - <a href="/tabs/letter/rus_z/Zolotoe_Kolmzco/,,Vo_sadu_li,V_ogorode,,">,,Во саду ли,В огороде,,</a><br><a href="/tabs/letter/rus_v/Viktor_Coi">Виктор Цой</a> - <a href="/tabs/letter/rus_v/Viktor_Coi/Svechi_yarko_goryat">Свечи ярко горят</a><br><a href="/tabs/letter/k/Kicking_Harold">Kicking Harold</a> - <a href="/tabs/letter/k/Kicking_Harold/Gasoline">Gasoline</a><br><a href="/tabs/letter/rus_s/Svaty">Сваты</a> - <a href="/tabs/letter/rus_s/Svaty/Instrumentalmznaya">Инструментальная</a><br><a href="/tabs/letter/s/Shoko_Nakagawa">Shoko Nakagawa</a> - <a href="/tabs/letter/s/Shoko_Nakagawa/Sorairo_Days">Sorairo Days</a><br><a href="/tabs/letter/r/Rainbow">Rainbow</a> - <a href="/tabs/letter/r/Rainbow/Weiss_Heim">Weiss Heim</a><br><a href="/tabs/letter/s/Sungha_Jung">Sungha Jung</a> - <a href="/tabs/letter/s/Sungha_Jung/With_Or_Without_You_(Acoustic)">With Or Without You (Acoustic)</a><br><a href="/tabs/letter/rus_p/Piraty_Karibskogo_Morya">Пираты Карибского Моря</a> - <a href="/tabs/letter/rus_p/Piraty_Karibskogo_Morya/Hes_a_Pirate">He's a Pirate</a><br><a href="/tabs/letter/b/Blue_October">Blue October</a> - <a href="/tabs/letter/b/Blue_October/Say_It">Say It</a><br><a href="/tabs/letter/z/Zakk_Wylde">Zakk Wylde</a> - <a href="/tabs/letter/z/Zakk_Wylde/Farewell_Ballad">Farewell Ballad</a><br>
+					</p>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+							<a class="header" href="/news/">Новости</a>
+							
+							<div class="d-flex align-items-start">
+									<div class="newsdate">12.08.2015</div>
+								<div class="ms-2">
+								<a href="/news/view/454">Гарик Сукачев решил создать новый проект</a>
+								</div>
+							</div><div class="d-flex align-items-start">
+									<div class="newsdate">12.08.2015</div>
+								<div class="ms-2">
+								<a href="/news/view/457">Бас-гитариста Slipknot увезли на скорой с концерта</a>
+								</div>
+							</div><div class="d-flex align-items-start">
+									<div class="newsdate">12.08.2015</div>
+								<div class="ms-2">
+								<a href="/news/view/455">Дэвид Гилмор раскрыл секрет «Rattle That Lock»</a>
+								</div>
+							</div><div class="d-flex align-items-start">
+									<div class="newsdate">12.08.2015</div>
+								<div class="ms-2">
+								<a href="/news/view/456">Korn готовит новый альбом</a>
+								</div>
+							</div><div class="d-flex align-items-start">
+									<div class="newsdate">30.07.2015</div>
+								<div class="ms-2">
+								<a href="/news/view/451">«Пикник» выпустит «Большую Игру» на виниле</a>
+								</div>
+							</div>
+							
+		</div>
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+							<a class="header" href="/video/cat/3">Видео уроки</a>
+
+<div class="videoWrapper"><iframe width="320" height="192" src="https://www.youtube.com/embed/CDcpSZ6G1TA" frameborder="0" allowfullscreen></iframe></div>
+<br>
+<a href="https://www.gitaristu.ru/video/cat/8/">Другие видео от M.O.N.I.C.A.</a><br><br><div class="videoWrapper"><iframe width="320" height="192" src="https://www.youtube.com/embed/-RFo4VWEqVk" frameborder="0" allowfullscreen></iframe></div>
+<br>
+<a href="https://www.gitaristu.ru/video/cat/9/">Другие видео уроки от You Play Guitar Easily</a><br><br>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			<div id="recentblog">
+		                	<a class="header" href="/blog/">Блог</a>
+		                	<a href="/blog/art/fingerstajl-kaver-na-fade-to-black-metalliki" class="blogh">Фингерстайл кавер на Fade To Black Металлики</a> <span class="blogdate">04.07.2014</span>
+		                	<p><p>Кавер на Fade To Black</p></p><a href="/blog/art/akusticheskij-kombik-marshall-as50d" class="blogh">Акустический комбик Marshall AS50D</a> <span class="blogdate">13.05.2014</span>
+		                	<p><p>Демо видео нового комбика от Marshall</p></p>							
+		                	</div>
+		</div>
+	</div>
+</div>
+
+<div class="container mt-3">
+	<div class="row">
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+							<a class="header" href="/beginners/">Начинающим</a>
+							<table id="newstable" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="45">
+									<div class="newsdate">19.06.2012</div>
+								</td>
+								<td>
+								<a href="/beginners/art/sposoby-igry-na-gitare">Способы игры на гитаре</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">20.04.2012</div>
+								</td>
+								<td>
+								<a href="/beginners/art/nastrojka-gitary-gitarnyj-tjuner-online">Настройка гитары - гитарный тюнер online</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">24.03.2012</div>
+								</td>
+								<td>
+								<a href="/beginners/art/kak-s-legkostju-osvoit-bazovye-gitarnye-akkordy">Как с легкостью освоить базовые гитарные аккорды</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">06.11.2011</div>
+								</td>
+								<td>
+								<a href="/beginners/art/200803073">Правила расположения пальцев при игре на гитаре.</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">06.11.2011</div>
+								</td>
+								<td>
+								<a href="/beginners/art/200803074">Каждый день - Новый шаг!</a>
+								</td>
+							</tr>
+							</table>
+		</div>
+		<div class="col-12 col-lg-6">
+			<hr class="hrstyled">
+							<a class="header" href="/articles/">Новые статьи</a>
+							<table id="newstable" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="45">
+									<div class="newsdate">17.10.2013</div>
+								</td>
+								<td>
+								<a href="/articles/art/gitarnye-komplekty-arija">Гитарные комплекты участников легендарной рок-группы «Ария»</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">23.09.2013</div>
+								</td>
+								<td>
+								<a href="/articles/art/vybiraem-muzykalnyj-instrument">Выбираем музыкальный инструмент</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">14.03.2013</div>
+								</td>
+								<td>
+								<a href="/articles/art/uhod-za-akusticheskoj-gitaroj">Уход за акустической гитарой</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">13.03.2013</div>
+								</td>
+								<td>
+								<a href="/articles/art/uluchshite-vashu-tehniku-ispolnenija-benda">Улучшите вашу технику исполнения бенда с помощью простого упражнения</a>
+								</td>
+							</tr><tr>
+								<td width="45">
+									<div class="newsdate">28.02.2013</div>
+								</td>
+								<td>
+								<a href="/articles/art/flazholety">Флажолеты</a>
+								</td>
+							</tr>
+							</table>
+		</div>
+	</div>
+</div><!-- Bottom-->
+                <br>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <div class="copyleft">
+                Gitaristu.ru 2006-2014<br>
+                <div style="font-size:1.2em;"><a href="/cdn-cgi/l/email-protection#a9c8cdc4c0c7e9cec0ddc8dbc0dadddc87dbdc"><span class="__cf_email__" data-cfemail="c9a8ada4a0a789aea0bda8bba0babdbce7bbbc">[email&#160;protected]</span></a></div>
+                Тексты всех песен принадлежат их правообладателям<br>
+                Все тексты песен представлены исключительно в образовательных <br>целях, для обучения игре на гитаре<br>
+                Все аккорды и тексты песен взяты из открытых источников<br>
+
+                <a href="/feedback">Контакты</a><br/>
+                <a href="/gb">Гостевая</a><br/>
+				<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
+target="_blank"><img id="licnt2059" width="31" height="31" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(d,s){d.getElementById("licnt2059").src=
+"https://counter.yadro.ru/hit?t41.3;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+/*
+    $(document).ready(function () {
+
+        
+
+        $("a#single_image").fancybox();
+
+       
+
+        $("a#inline").fancybox({
+            'hideOnContentClick': false
+        });
+
+        
+
+        $("a.fancybox").fancybox({
+            'transitionIn': 'elastic',
+            'transitionOut': 'elastic',
+            'speedIn': 600,
+            'speedOut': 200,
+            'overlayShow': false
+        });
+
+    });
+	*/
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(13231819, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/13231819" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+<div id="adfox_171394370976251701"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 332443,
+            containerId: 'adfox_171394370976251701',
+                type: 'floorAd',
+            params: {
+                p1: 'dcacs',
+                p2: 'iqvj'
+            }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 1280,
+            phoneWidth: 768,
+            isAutoReloads: false
+        })
+    })
+</script>
+<script>
+setInterval(function(){            
+window.Ya.adfoxCode.reload('adfox_171394370976251701', {onlyIfWasVisible: true})
+}, 30000);
+</script>
+</body>
+</html>

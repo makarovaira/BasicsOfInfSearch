@@ -1,0 +1,707 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+	<meta name='yandex-verification' content='6adb39613286f4be' />
+	<title>Галерея современного искусства СОВА-АРТ || Главная</title>
+	<meta http-equiv="Description" content="">
+	<meta http-equiv="Keywords" content="">
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+	<link rel="stylesheet" type="text/css" href="/site_FILES/style.css">
+	<link rel="stylesheet" type="text/css" href="/site_FILES/lightbox.css" media="screen">
+	<link rel="icon" type="image/gif" href="/site_FILES/favicon.gif">
+	<script type="text/javascript" src="/site_FILES/scripts/prototype.js"></script>
+	<script type="text/javascript" src="/site_FILES/scripts/scriptaculous.js?load=effects,builder"></script>
+	<script type="text/javascript" src="/site_FILES/scripts/lightbox.js"></script>
+</head>
+
+<body>
+
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tr id="top">
+	<td>&nbsp;</td>
+	<td><div><a href=""><img src="/site_FILES/images/french.gif" width="108" height="20" alt="" border="0"></a><a href=""><img src="/site_FILES/images/english.gif" width="101" height="20" alt="" border="0"></a></div></td>
+</tr>
+<tr>
+	<td colspan="2" align="center" valign="top">
+	
+<table width="980" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td id="logo">&nbsp;</td>
+	<td rowspan="2" id="vertical-sp"><img src="/site_FILES/images/brown-bg.gif" alt=""></td>
+	<td id="name">&nbsp;</td>
+</tr>
+<tr>
+	<td align="center" valign="top" style="padding: 20px;">
+<!-- Left Navigation -->
+		<div id="navigation" align="right">
+<p><a href="/main/" class="nav" id="active">Главная</a>
+</a></p>
+
+
+<p><a href="/artists/" class="nav" >Художники</a>
+</a></p>
+
+
+<p><a href="/photographs/" class="nav" >Фотографы</a>
+</a></p>
+
+
+<p><a href="/exibitions/" class="nav" >Выставки СОВА-АРТ</a>
+</a></p>
+
+
+
+
+<p><a href="/contacts/" class="nav" >Контакты</a>
+</a></p>
+
+
+
+
+		</div>
+<!-- Left Navigation End -->
+
+<!-- Banners -->
+<p>&nbsp;</p>
+<div class="left_banner_act" onClick="window.location='http://sova-art.com/exibitions/current_exibitions/Egorovsky_exibit/'" >
+<img src="/exCMS_DATA/item_012/image_0002967.jpg" width="190" height="268" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Выставка 33 фотоснимка Вадима Егоровского</h3>Совместный проект галереи Сова-Арт и галереи Art of Foto</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='http://sova-art.com/exibitions/current_exibitions/2894/'" >
+<img src="/exCMS_DATA/item_012/image_0002895.jpg" width="190" height="305" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Фотовыставка СНЯТЬ НАПРЯЖЕНИЕ</h3>Галерея Сова-Арт приветствует Вас!<br />
+Фотовыставка СНЯТЬ НАПРЯЖЕНИЕ открыта!<br />
+<br />
+ПРИГЛАШАЕМ</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/Smelov_exibit/'" >
+<img src="/exCMS_DATA/item_012/image_0002909.jpg" width="190" height="190" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Борис Смелов. Фотограф, влюблённый в Петербург.</h3>К 70-летию фотохудожника.<br />
+<br />
+Выставка из частных собраний.<br />
+22 октября&nbsp;&#150; 20 ноября<br />
+<br />
+Кураторы проекта:<br />
+Елена Ватрушина<br />
+Сергей Ватрушин<br />
+<br />
+Совместный проект галереи Сова-Арт и ZERNO PHOTOGALLERY</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/Skvortsov_exibit/'" >
+<img src="/exCMS_DATA/item_012/image_0002911.jpg" width="190" height="221" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>СЕРГЕЙ СКВОРЦОВ. СВЕТОГРАФИЯ БАРОККО</h3>Совместный проект галереи Сова-Арт и арт-пространства ДК Громов.<br />
+<br />
+14 октября&nbsp;&#150; 30 ноября 2021 г.<br />
+<br />
+КУРАТОРЫ ПРОЕКТА:<br />
+Елена Ватрушина, Сергей Ватрушин, Сергей Ландо</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/rave_party/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002886.jpg" width="190" height="247" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Выставка Рэйв пати &#146;90</h3>На выставке Рэйв-пати ‘90 зритель может вкусить энергетический коктейль от молодых талантливых художников 90-х годов ХХ-го века.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/odalisque_exibition/'" >
+<img src="/exCMS_DATA/item_012/image_0002816.jpg" width="190" height="278" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Одалиски. Трагифарс. Выставка Ивана Совлачкова</h3>Совместный проект галереи &laquo;Сова-Арт&raquo; и арт-пространства &laquo;ДК Громов&raquo;<br />
+<br />
+В основе проекта &laquo;Одалиски. Трагифарс&raquo; петербургского художника Ивана Совлачкова лежит приглашение к диалогу со зрителем, построенному в форме игры&nbsp;&#150; эпатажной, шутливой, абсурдистской.<br />
+<br />
+Кураторы проекта  Сергей Ватрушин,  Елена Ватрушина<br />
+<br />
+Выставка проходит со 2 марта по 20 апреля 2018 г. по адресу: ул.Громова, д.4<br />
+тел. для справок +7 (921) 967&#150;17&#150;77</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/Gousterina_exhibition/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002730.jpg" width="190" height="190" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text">Галерея современного искусства &laquo;Сова-Арт&raquo; совместно с Галереей &laquo;Петербург&raquo; представляют выставку живописи и графики Ларисы Густериной. Для оформления экспозиционного пространства использованы объекты скульптора Антонины Фатхуллиной.<br />
+<br />
+<br />
+<br />
+Выстака проходит с 25 апреля по 30 июня 2017 г. в Галерее искусств &laquo;Петербург&raquo; по адресу: СПб, Невский пр., 54<br />
+<br />
+Вход свободный.<br />
+<br />
+11:00&nbsp;&#150; 21:00, без выходных</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/Penushkin_exhibition/'" >
+<img src="/exCMS_DATA/item_012/image_0002796.jpg" width="190" height="160" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Русская сказка Юрия Пенушкина</h3>Совместный проект антикварной галереи &laquo;Петербург&raquo;, галереи современного искусства &laquo;Сова-Арт&raquo; и галереи &laquo;Ленинград Центра&raquo;<br />
+<br />
+В &laquo;Ленинград-центре&raquo; открылась выставка картин художника Юрия Пенушкина. 40 полотен, на которых так точно передан весь колорит и быт русской жизни: баня у реки, застолье или натюрморт со свёклой&hellip;<br />
+<br />
+Выстака проходит с 19 января по 9 мая 2017 г. в &laquo;Ленинград Центре&raquo; по адресу: СПб, Потёмкинская ул., д.4<br />
+<br />
+Вход свободный.<br />
+<br />
+12:00&nbsp;&#150; 20:00, без выходных</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/Kovalev_exibit/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002696.jpg" width="190" height="144" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>&laquo;Ленинград&nbsp;&#150; Комарово&raquo;. Выставка акварелей Николая Ковалёва.</h3>Галерея современного искусства &laquo;Сова-Арт&raquo; совместно с галереей искусств &laquo;Петербург&raquo; представляют выставку работ засл.худ. РФ Николая Ковалёва &laquo;Ленинград&nbsp;&#150; Комарово&raquo;. На выставке экспонируются 47 работ мастера 1950&#150;60-х гг. В рамках открытия выставки состоялась презентация нового альбома художника &laquo;Те самые десятилетия. Графика&raquo;<br />
+<br />
+Выстака проходит с 12 мая по 20 июня 2016 г. в Галерее искусств &laquo;Петербург&raquo; по адресу: СПб, Невский пр., 54<br />
+Вход свободный.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/'" >
+<img src="/exCMS_DATA/item_012/image_0002649.jpg" width="190" height="246" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><h3>Георгий (Гага) Ковенчук. Выставка в Русском музее.</h3>.<br />
+В Государственном Русском музее с 17 сентября по 12 октября проходит выставка знаменитого петербургского художника Гаги Ковенчука (1933&#150;2015).<br />
+<br />
+На выставке в Мраморном дворце Русского музея представлено около 100 работ художника&nbsp;&#150; живопись, графика, скульптура и плакат из собрания семьи художника, собрания Русского музея и частных коллекций. <br />
+<br />
+Из коллекции галереи &laquo;Сова-Арт&raquo; предоставлены для экспозиции три живописные и пять графических работ художника.</div></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/ended_exibitions/'" >
+<img src="/exCMS_DATA/item_012/image_0001498.jpg" width="190" height="44" border="0"></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/current_exibitions/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002557.jpg" width="190" height="135" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Выставка &laquo;Ленинградский андеграунд&raquo;</h3>С 4 февраля по 12 апреля 2015 года в &laquo;Новом музее&raquo; по адресу г. Санкт-Петербург, 6-я Линия Васильевского острова, д.29 проходит выставка &laquo;Ленинградский андеграунд&raquo;, приуроченная к 40-летию первых выставок неофициального искусства в ДК Газа (1974) и ДК Невский (1975). Выставка организована совместно Новым музеем и куратором проекта &laquo;Авангард на Неве&raquo; Исааком Кушниром. На ней представлены работы, созданные в 1970-е годы яркими представителями ленинградского андеграунда и участниками легендарных выставок в ДК Газа и ДК &laquo;Невский&raquo;. Зрители увидят 200 работ 97 художников из 50-ти музейных и частных коллекций. <br />
+<br />
+Галерея &laquo;Сова-Арт&raquo; из своей коллекции предоставила для экспозиции семь работ знаковых персонажей ленинградского неофициального искусства Игоря Иванова, Евгения Горюнова и Олега Григорьева, Одна из этих работ (Олег Григорьев &laquo;Мятые мусорные бачки&raquo; 1974 г.) экспонировалась на легендарной выставке неофициального искусства в ДК Газа (1974).</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/ended_exibitions/Gennady_Ustyugov/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002511.jpg" width="190" height="127" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>&laquo;Я&nbsp;&#150; СТРАННИК ОДИНОКИЙ&hellip;&raquo; Геннадий    Устюгов&nbsp;&#150;   Живопись, графика, поэзия. 12 мая&nbsp;&#150; 29 июня 2014 г.</h3>Персональной выставкой работ знаменитого художника и поэта Геннадия Устюгова галерея &laquo;Сова-Aрт&raquo; открывает ряд мероприятий, посвящённых 40-летию легендарной выставки неофициального искусства в ДК Газа (1974 г.)</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/ended_exibitions/Elena_Figurina/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002512.jpg" width="190" height="150" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Елена Фигурина. Живопись, скульптура. 12 мая&nbsp;&#150; 29 июня 2014 г.</h3>Галерея &laquo;Сова-Арт&raquo; представляет персональную выставку живописи и скульптуры одной из важнейших представительниц ленинградского андеграунда Елены Фигуриной (1955 г.р.), которая, безусловно,&nbsp;&#150; один из петербургских &laquo;бессмертных&raquo; художников, чьи работы во всем мире являются визитной карточкой современного российского искусства.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/exibitions/ended_exibitions/Spiritual_Aggravation/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002473.jpg" width="190" height="194" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>&laquo;Душевное обострение&raquo;. Проект для параллельной программы Европейской Биеннале современного искусства Manifesta 10.</h3>Галерея &laquo;Сова-Арт&raquo; представляет проект &laquo;Душевное обострение&raquo;, планируемый в рамках параллельной программы Европейской Биеннале современного искусства Manifesta 10, которая пройдёт в г.Санкт-Петербурге с 28 июня по 31 октября 2014 г. Будут показаны работы ленинградских художников-нонконформистов 50-х&nbsp;&#150; начала 90-х гг. Реконструкция квартирного формата выставки, типичного для 50&#150;90-х гг., призвана воссоздать ушедшую атмосферу.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/artists/Baturin_Alexander/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002183.jpg" width="190" height="249" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>ВЫСТАВКА АЛЕКСАНДРА БАТУРИНА</h3>В нашей галерее завершилась выставка живописи и пастелей знаменитого художника Александра Борисовича Батурина (1914&#150;2003гг.), прекрасного, строгого и тонкого мастера, носителя идей классического русского авангарда. На выставке также были представлены работы Владимира Стерлигова и Татьяны Глебовой.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='http://sova-art.com/exibitions/ended_exibitions/Nikolay_Kovalyov_Exhibit_2241/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0002277.jpg" width="190" height="241" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Комаровская легенда</h3>Галерея &laquo;Сова-Арт&raquo; совместно с Музеем-усадьбой И.Е. Репина &laquo;Пенаты&raquo; представляет выставку работ 1950&#150;60х годов заслуженного художника РФ Николая Ковалёва. Выставка продлится с 30 ноября 2013 г. по 15 января 2014 г. в залах музея И.Е. Репина &laquo;Пенаты&raquo; по адресу СПб, пос.Репино, Приморское шоссе, дом 411</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/FIAC_2011'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0001672.jpg" width="190" height="246" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Ярмарка современного искусства FIAC 2011 в Париже</h3>В Париже в Гран-Пале с 20 по 23 октября прошла ежегодная выставка-продажа FIAC 2011. Галерея &laquo;Сова-Арт&raquo; лично ознакомилась с экспозицией и с последними мировыми тенденциями. А специально для тех, кто очень хотел присутствовать на этом значимом событии в мире искусства, но, к сожалению, не смог, мы подготовили развёрнутый репортаж с отличным фотоматериалом. Так что переживать не стоит! С нами вы сможете совершить экскурсию по лучшим стендам яркого осеннего арт-мероприятия и стать очевидцами неоспоримого успеха FIAC’ a 2011.</div></span></div>
+<p>&nbsp;</p><div class="left_banner_act" onClick="window.location='/artists/Igor_Ivanov/1248/'" id="orange_border">
+<img src="/exCMS_DATA/item_012/image_0001261.jpg" width="190" height="218" border="0"><p><img src="/site_FILES/images/transpixel.gif" width="1" height="10" alt=""></p><div><span class="orange_text"><h3>Образы живописи Игоря Иванова в балетной постановке &laquo;Паруса&raquo;</h3>В рамках III Всероссийского конкурса &laquo;Альтернатива&raquo; состоялась премьера хореографического спектакля &laquo;Паруса&raquo; театра танца &laquo;Интеллбалет&raquo; по мотивам живописи Игоря Иванова. На этом конкурсе спектакль &laquo;Паруса&raquo; стал лауреатом в номинации &laquo;Хореографическое искусство&raquo;. Светоносная энергия парусов отражается в солнце как в зеркале. Спектакль поставлен хореографом Ларисой Ивановой на музыку композиторов П. Булеза и Я. Ксенакиса. Костюмы и декорации созданы по эскизам Игоря Иванова. Солисты&nbsp;&#150; Майя Попова (лауреат в номинации &laquo;Искусство танца&raquo;) и Владислав Макаров.</div></span></div>
+<!-- Banners End -->
+	</td>
+	<td id="mainfield">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td valign="top">
+	
+<table bgcolor="#ffffff" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tr>
+	<td valign="top" colspan="3">
+	<p>&nbsp;</p>	<div class="mainbanner"><a href="/artists/"><img src="/exCMS_DATA/item_001/image_0000002.jpg" width="643" height="448" border="0"></a></div>
+	</td>
+</tr>
+
+<!-- Section Text -->
+<tr>
+	<td valign="top" colspan="3" width="649" class="sectiontext"><p>&nbsp;</p><div><div style="text-align: justify;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<span style="font-weight: bold;">Дорогие любители искусства, коллекционеры, художники, искусствоведы, галеристы! Приветствуем вас на сайте www.sova-art.com&nbsp;&#150; виртуальной площадке частной галереи-клуба &laquo;Сова-Арт&raquo;</span><br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Нам приятно, что вы заглянули к нам в гости. Наш сайт позволяет максимально удобно и логично получить доступ к большому, постоянно пополняемому объёму информации по современному искусству Санкт-Петербурга (и не только) и связанными с этой темой событиями, хотя, естественно, максимальное внимание уделяется деятельности галереи &laquo;Сова-Арт&raquo; и её основателей&nbsp;&#150; коллекционеров современного искусства Сергея и Елены Ватрушиных.<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Будем также очень рады, если вы посетите нашу галерею-клуб &laquo;Сова-Арт&raquo; на 3-ей Линии Васильевского острова города Санкт-Петербурга, 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<span style="font-weight: bold;">предварительно позвонив по телефону <a href="tel:+7 (812) 967&#150;3452">+7 (812) 967&#150;3452</a>.</span> Здесь возможно поговорить об искусстве, посмотреть предметы живописи, графики, скульптуры. Отдельная ниша&nbsp;&#150; интереснейшая коллекция фотографии.</div>
+
+
+
+<div style="text-align: justify;">.<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Коллекция нашей галереи включает в себя живопись и графику  с 50-х годов ХХ столетия до наших дней. Особое внимание уделяется значительным персонажам ленинградского неофициального искусства (Рихард Васми, Анатолий Басин, Владлен Гаврильчик, Игорь Иванов, Ия Кириллова, Геннадий Устюгов и др.), ярким талантам эпохи перемен 80-х&nbsp;&#150; 90-х (Тимур Новиков, Иван Сотников, Елена Фигурина, Владимир Яшке), большим именам вне времени и течений (Минас Аветисян, Владимир Стерлигов, Татьяна Глебова, Александр Батурин, ГАВ Траугот, Георгий Ковенчук, Николай Ковалёв, Андрей Ларионов, Юрий Пенушкин, Ярослав Крестовский, Виталий Тюленев и др.). <br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	Мы также активно работаем с современными талантливыми художниками.<br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div>
+
+
+
+<div style="text-align: justify;"><br />
+	
+	
+	
+	</div>
+
+
+
+<div style="text-align: justify;">Последние годы особый интерес сосредоточился на формировании коллекции фотографии, что представляется очень актуальным. В существующей коллекции&nbsp;&#150; признанные мастера фотоискусства&nbsp;&#150; Евгений Халдей, Борис Смелов, Вадим Егоровский, Сергей Свешников, Леонид Богданов, Сергей Скворцов, Валентин Тиль Мария Самарин, Николай Матрёнин, Михаил Шемякин, Борис Кудряков, Мария Снигиревская, Пётр Лебедев, Алексей Зеленский, Дмитрий Провоторов. Галерея сотрудничает с молодыми авторами&nbsp;&#150; Иван Турухано и др. </div>
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align: justify;"><br />
+	
+	
+	
+	
+	
+	
+	
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align: justify;"><br />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+<div style="text-align: justify;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<span style="color: rgb(255, 0, 0);">
+		
+		
+		
+		
+		
+		
+		
+		
+		<span style="color: rgb(255, 0, 0);">
+			
+			
+			
+			
+			
+			
+			
+			
+			<span style="font-size: 18pt; color: rgb(255, 0, 0);">
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+		
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+			
+					
+							
+							
+							
+							
+							
+							
+							
+							
+							<span style="color: rgb(255, 0, 0); font-size: 18pt;">Посещение по предварительной договорённости. </span></span></span></span></span></span></span></div>
+
+
+
+
+
+
+
+
+
+<div style="text-align: justify;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<span style="color: rgb(255, 0, 0);">
+		
+		
+		
+		
+		
+		
+		
+		
+		<span style="color: rgb(255, 0, 0);">
+			
+			
+			
+			
+			
+			
+			
+			
+			<span style="font-size: 18pt; color: rgb(255, 0, 0);">
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+					
+							
+							
+							
+							
+							
+							
+							
+							
+							<span style="color: rgb(255, 0, 0); font-size: 18pt;"><br style="font-size: 8pt; font-weight: normal; font-style: normal; text-decoration: none; letter-spacing: 0px;" />
+								
+								
+								
+								
+								
+								
+								
+								
+								
+						</span></span></span></span></span></span></span></div>
+
+
+
+
+
+
+
+
+
+<div style="text-align: justify;">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<span style="color: rgb(255, 0, 0);">
+		
+		
+		
+		
+		
+		
+		
+		
+		<span style="color: rgb(255, 0, 0);">
+			
+			
+			
+			
+			
+			
+			
+			
+			<span style="font-size: 18pt; color: rgb(255, 0, 0);">
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+				
+						
+						
+						
+						
+						
+						
+						
+						
+						<span style="color: rgb(255, 0, 0); font-size: 18pt;">
+					
+							
+							
+							
+							
+							
+							
+							
+							
+							<span style="color: rgb(255, 0, 0); font-size: 18pt;">Пожалуйста, звоните <a href="tel:+7 (921) 967&#150;34&#150;52">+7 (921) 967&#150;34&#150;52</a></span></span></span></span></span></span></span></div></div><p>&nbsp;</p></td>
+</tr>
+<!-- Section Text End -->
+
+
+
+
+
+
+
+</table>
+
+	</td>
+</tr>
+<tr>
+	<td><img src="/site_FILES/images/transpixel.gif" width="1" height="20" alt=""></td>
+</tr>
+</table>
+
+	</td>
+</tr>
+</table>
+
+	</td>
+</tr>
+<tr id="bottom">
+	<td align="right" class="address">Санкт-Петербург<br />
+3-я Линия В.О., д.14<br />
++7 (812) 967&#150;34&#150;52<br></td>
+	<td><div><img src="/site_FILES/images/name-footer.gif" width="168" height="70" alt=""></div></td>
+</tr>
+</table>
+
+<!-- Yandex.Metrika -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<div style="display:none;"><script type="text/javascript">
+try { var yaCounter1752421 = new Ya.Metrika(1752421);
+yaCounter1752421.clickmap();
+yaCounter1752421.trackLinks({external: true});
+} catch(e){}
+</script></div>
+<noscript><div style="position:absolute"><img src="//mc.yandex.ru/watch/1752421" alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+
+</body>
+</html>	
+

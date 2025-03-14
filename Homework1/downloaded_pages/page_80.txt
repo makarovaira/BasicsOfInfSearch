@@ -1,0 +1,3790 @@
+<div class="redirect js-redirect-popup" style="width: calc(1020px - 28px);margin: 0 auto;background-color: #EAEAEF;border-radius: 8px;position: fixed;top: 80%;left: 50%;transform: translateX(-50%);z-index: 100;">
+  <div class="redirect__wrapper" style="padding: 20px 25px 20px;justify-content: space-between;align-items: center;">
+    <div class="redirect__text" style="text-align:center;font-size: 17px;">
+      <b>Дорогие слушатели! <br></b>
+      Доступна новая версия сайта Московской филармонии.<br>  В ближайшие месяцы вы сможете пользоваться любой из версий, в этом году мы полностью перейдем на новый дизайн.
+
+    </div>
+    <div class="redirect__buttons" style="text-align:center; margin-top: 10px">
+      <button class="redirect__button js-redirect-btn" style="background: linear-gradient(180deg, light-gray 100%), #9D1626;padding: 5px 16px;color: #8b0000;font-family: 'MyriadItalic';font-weight: 600;font-size: 18px;line-height: 22px;">Перейти на новый сайт</button>
+      <button class="close__button js-redirect-btn2" style="background: #8b0000; padding: 5px 16px;color: #fff;font-family: 'MyriadItalic';font-weight: 600;font-size: 18px;line-height: 22px;">Остаться на текущем сайте</button>
+    </div>
+  </div>
+</div><!--[if lte IE 8]><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><![endif]-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru-ru" xml:lang="ru-ru" >
+
+<meta property="og:title" content="Московская государственная академическая филармония">
+<meta property="og:site_name" content="Московская филармония">
+<meta property="og:url" content="https://meloman.ru/">
+<meta property="og:description" content="Московская государственная академическая филармония">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://meloman.ru/static/img/logo.png">
+<head>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(48126251, "init", {
+id:48126251,
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48126251" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- GoogleAnalytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41518951-1', 'meloman.ru');
+  ga('send', 'pageview');
+
+</script>
+<!-- /GoogleAnalytics -->
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '963197877910111');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=963197877910111&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+<!-- VK Code -->
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?160",t.onload=function(){VK.Retargeting.Init("VK-RTRG-345408-8vP8u"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-345408-8vP8u" style="position:fixed; left:-999px;" alt=""/></noscript>
+<!-- End VK Code -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TMG7S2Z');</script>
+<!-- End Google Tag Manager -->
+<!-- Kultura RF-->
+<script src="https://culturaltracking.ru/static/js/spxl.js?pixelId=4849" data-pixel-id="4849"></script>
+<!-- END Kultura RF-->
+    <title> : Московская государственная академическая филармония</title>
+    <meta name="facebook-domain-verification" content="2he81vwqsljos3tpfk14d8qrjfb1nh" />
+    <meta name="yandex-verification" content="7ec7a331c04f0dc9" />
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="apple-itunes-app" content="app-id=1248692437">
+    <meta name="google-play-app" content="app-id=com.phimobile">
+    <meta name="description" content="Московская государственная академическая филармония"/>
+    
+    <meta property="og:description" content="Московская государственная академическая филармония"/>
+    <meta property="og:image" content="http://meloman.ru/static/img/logo.png"/>
+    
+
+    <meta name="keywords" content=""/>
+    <link rel="icon" type="image/ico" href="/static/img/favicon.ico" />
+
+    <meta name="proculture-verification" content="6429dcf9275c4e1eb384c53d886f33ea" />
+
+    <link href="/static/stylesheets/external.2b05a8d4e3d2.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    <link href="/static/stylesheets/all.2898e575df4e.css" rel="stylesheet" type="text/css" media="screen,projection" />
+
+    <script src="/static/javascript/lib/jquery.js" type="text/javascript"></script>
+    <script src="/static/javascript/lib/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="/static/javascript/lib/jquery.ui.datepicker-ru.min.js" type="text/javascript"></script>
+    <script src="/static/javascript/lib/jquery.infinitescroll.js" type="text/javascript"></script>
+    <script src="//yandex.st/share/share.js" type="text/javascript" charset="utf-8"></script>
+    <![if !IE]>
+           <script src="/static/javascript/lib/jquery.pjax.js" type="text/javascript"></script>
+    <![endif]>
+
+    <script type="text/javascript" src="/static/javascript/all.e33c5e2aa9b6.js" charset="utf-8"></script>
+
+
+    <!--[if lte IE 9]>
+        <link href="/static/stylesheets/ie.98181ec743d0.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    <![endif]-->
+
+    <!--[if lte IE 8]>
+        <link href="/static/stylesheets/ie8.0f95ae274039.css" rel="stylesheet" type="text/css" media="screen,projection" />
+    <![endif]-->
+
+
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script type="lib" src="/static/javascript/lib/nwmatcher-1.2.5.js"></script>
+      <script type="text/javascript" src="/static/javascript/lib/selectivizr-min.js"></script>
+      <script type="text/javascript" src="/static/javascript/lib/jquery.mousewheel.min.js"></script>
+    <![endif]-->
+
+    <link href="/static/stylesheets/print.7838dc6ee6fc.css" rel="stylesheet" type="text/css" media="print" />
+    
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMG7S2Z"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+
+    
+
+    <div class="container" id="all-page-content">
+      
+<div class="confirmbeta" data-banner-id="3c73d60a4b5045729df8d69e70dd9c8a04d7b8ba">
+    <span data-role="confirmbeta-close"><a>Закрыть</a></span>
+    <div class="text bold normal">
+      <p><b><a href="https://meloman.ru/subscription/?genre=5">Детские абонементы</a> сезона 2025-2026 в продаже<br>Абонементы <a href="https://meloman.ru/subscription/?hall=kamernyj-zal-filarmonii">Камерного зала</a> сезона 2025-2026 в продаже</b></p>
+    </div>
+</div>
+
+      <div id="header" style="position: relative;">
+    <div class="top-wrap">
+
+        <div class="span12 left-bottom-right-border clearfix" style="padding-top:5px;padding-bottom:5px;">
+
+            <a class="clearfix inline-element v_middle" href="/subscription/"><div class="button bordeaux left left-margin-reduced">
+                <span>Абонементы</span>
+            </div></a>
+
+            <!-- <a class="clearfix inline-element v_middle" href="/tickets/"><div class="button light-gray left">
+                <span>Билеты</span>
+            </div></a> -->
+
+            <a class="clearfix inline-element v_middle" href="/contacts/"><div class="button light-gray left">
+                <span>Контакты</span>
+            </div></a>
+
+            <form class="clearfix inline-element v_middle ml-60" action="/search/" id="globalsearch">
+                <button type="submit" class="button light-gray-field right-margin-reduced right">
+                    Поиск
+                </button>
+                <div class="search-bar right">
+                    <input type="text" value="" name="q" class="query" id="main-search-input"/>
+                </div>
+            </form>
+
+                      
+
+            <!-- <a class="clearfix inline-element v_middle right" href="/contacts/"><div class="button light-gray right">
+                <span>Войти</span>
+            </div></a> -->
+            
+              <a id="js-header-login-button" class="clearfix inline-element v_middle right" href="/account/login/">
+                <div class="button light-gray right">
+                  <span>Войти</span>
+                </div>
+              </a>
+            
+
+
+            <div class="lang-switch-wrap right clearfix">
+              <div class="globe-icon">
+                <span class="icon-ico_globe"></span>
+              </div>
+              <form class="clearfix inline-element v_middle" id="langform" action="" method="post">
+                <input name="csrfmiddlewaretoken" type="hidden" value="xn4pCFzAGvuiBTd7SRwzUTN6Oxnx9sLyeqCOuPrnsFHQAsSmALbFhUpZ0g6VGUFP" />
+                <input name="next" type="hidden" value="/" />
+                <input id="id_language" name="language" type="hidden" />
+                <input id="lang_code" type="hidden" value="ru" />
+                <input id="season_code" type="hidden" value="" />
+                <div class="lang-switch left clearfix">
+                  <span id="ru_lang" class="selector-text active left" data-lang="ru" >Рус</span>
+                  <div class="selector-switch left"><div class="selector-handle"></div></div>
+                  <span id="en_lang" class="selector-text left" data-lang="en" >Eng</span>
+                </div>
+              </form>
+              <div class="disabled-icon">
+                <a href="/dostupnaya_sreda"><img src="/static/img/special-icon.svg" width="20" height="20"></a>
+              </div>
+              <div class="special-icon">
+                <span class="icon-ico_eye"></span>
+              </div>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="middle-wrap">
+        <div class="logo">
+          
+            <a href="/" ><img src="/static/img/logo.png" width="140" height="110"></a>
+          
+        </div>
+        <div class="shadow-canceler"></div>
+    </div>
+    <div class="bottom-wrap span11 pre1">
+      <ul class="header-nav" id="header-nav">
+  <style>
+      #header .bottom-wrap .header-nav li.menu-topic {
+          margin-left:22px;
+          position: relative;
+      }
+      #header .bottom-wrap .header-nav li.menu-topic.lang-code-en {
+          margin-left:36px;
+          position: relative;
+      }
+  </style>
+
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="#"><span>АФИША И БИЛЕТЫ</span></a>
+        <ul class="expasha">
+          
+            
+              <li class="menu-item"><a href="/calendar/">Календарь концертов</a></li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li class="menu-item"><a href="/changes/">Изменения в афише</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/subscription/">Абонементы</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/composer/">Композиторы</a></li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li class="menu-item"><a href="/ticket-rules/">Правила покупки билетов</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/pravila-posesheniya-filarmonii/">Правила посещения концертов</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="https://meloman.ru/dostupnaya_sreda/">Доступная среда</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="https://meloman.ru/karta-postoyannogo-slushatelya/">Бонусная программа</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="https://meloman.ru/akciya-teatralno-koncertnaya-nedelya/">Участникам СВО</a></li>
+            
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="/kids/concerts/"><span>ДЕТЯМ</span></a>
+        <ul class="expasha">
+          
+            
+              <li class="menu-item"><a href="/kids">Филармония – детям</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/kids/subscriptions/">Детские абонементы</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/kids/concerts/">Музыка и театр</a></li>
+            
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="#"><span>ИСПОЛНИТЕЛИ</span></a>
+        <ul class="expasha">
+          
+            
+              <li class="menu-item"><a href="/performers/?type=28">Артисты</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/performers/?type=27">Дирижёры</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/performers/?type=16">Оркестры</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/performers/?type=17">Хоры</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/performers/?type=18">Ансамбли</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/performers/?type=37">Художественные коллективы</a></li>
+            
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="#"><span>ЗАЛЫ</span></a>
+        <ul class="expasha">
+          
+            
+              <li class="menu-item"><a href="/hall/koncertnyj-zal-chajkovskogo/">Концертный зал имени П. И. Чайковского</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/hall/kamernyj-zal-filarmonii/">Камерный зал Филармонии</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/hall/filarmoniya-2-koncertnyj-zal-imeni-svrahmaninova/">«Филармония-2». Концертный зал имени С. В. Рахманинова</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/hall/filarmoniya-2-malyj-zal">«Филармония-2». Малый зал</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="https://meloman.ru/hall/filarmoniya-2-igrovoj-zal-podushki/">«Филармония-2». Игровой зал</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/hall/kinozal/">«Филармония-2». Виртуальный зал</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/hall/bolshoj-zal-konservatorii/">Большой зал Консерватории</a></li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="#"><span>О ФИЛАРМОНИИ</span></a>
+        <ul class="expasha">
+          
+            
+              <li class="menu-item"><a href="/about/">О Московской филармонии</a></li>
+            
+          
+            
+              <li class="menu-item"><a href="/press/">Пресс-центр</a></li>
+            
+          
+            
+          
+            
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+      <li class="menu-topic">
+    
+
+
+          
+
+
+
+
+          
+
+
+
+
+
+        
+        
+        
+        
+
+
+
+
+
+          
+
+
+
+          
+
+
+
+
+
+
+
+        
+
+        <a href="/videos/"><span>ФИЛАРМОНИЯ LIVE</span></a>
+        <ul class="expasha">
+          
+        </ul>
+      </li>
+    
+  
+    
+  
+  <script>
+      $('.superscript-image-link').on('click', function (e) {
+          e.stopPropagation();
+          var href = $(this).attr('href');
+          window.location.href = href;
+      });
+  </script>
+</ul>
+    </div>
+</div>
+      <div id="replaceable-content">
+        
+          <div class="start-wrapper">
+    <div class="slider-wrapper">
+        <div class="promo-lines">
+            
+                <div class="info-line">
+                    <p class="text sans italic normal"></p>
+                </div>
+            
+        </div>
+        <div class="slider js-start-page-carousel slide" style="margin-bottom:15px;">
+            <div class="carousel-inner" id="slides">
+                
+                    <div class="item active">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-12-1/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=120325kzch">
+                        
+                        
+                            <img src="/media/upload/news/12.03.2025_%D0%9A%D0%A5%D0%A7_%D0%93%D0%90%D0%9A%D0%9E%D0%A0_%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%86%D0%BD%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-13/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=130325kzch">
+                        
+                        
+                            <img src="/media/upload/news/13.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%BE%D1%81%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-13/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=130325f2">
+                        
+                        
+                            <img src="/media/upload/news/13.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%A5%D0%B0%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-14-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=140325kzch">
+                        
+                        
+                            <img src="/media/upload/news/14.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%90%D0%A1%D0%9E_%D0%9A%D0%BD%D1%8F%D0%B7%D0%B5%D0%B2.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-14/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=140325kzf">
+                        
+                        
+                            <img src="/media/upload/news/14.03.2025_%D0%9A%D0%97%D0%A4_%D0%9A%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D0%BA%D0%BE.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-15/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=150325f2">
+                        
+                        
+                            <img src="/media/upload/news/15.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A0%D1%83%D0%B1%D0%B8%D0%BD_%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D1%87%D0%B5%D0%BD%D0%BA%D0%BE.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-22/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325kzch">
+                        
+                        
+                            <img src="/media/upload/news/meloman_2025_22.035.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-22/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325kzch">
+                        
+                        
+                            <img src="/media/upload/news/meloman_2025_22.0353.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-22/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325kzch">
+                        
+                        
+                            <img src="/media/upload/news/meloman_2025_22.0352.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/v-obyatyah-muzyki-alizbar-and-annsannat30-let-tvorchestva/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_co">
+                        
+                        
+                            <img src="/media/upload/news/16.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92_%D0%BE%D0%B1%D1%8A%D1%8F%D1%82%D1%8C%D1%8F%D1%85_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B81.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/mzf2-2025-03-16/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=160325mzf2">
+                        
+                        
+                            <img src="/media/upload/news/16.03.2025_%D0%9C%D0%97_%D0%A42_%D0%93%D0%90%D0%9A%D0%9E%D0%A0_%D0%91%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE2.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-17/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=170325kzf">
+                        
+                        
+                            <img src="/media/upload/news/17.03.2025_%D0%9A%D0%97%D0%A4_CEAM_Home_space.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-18/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=180325kzf">
+                        
+                        
+                            <img src="/media/upload/news/18.03.2025_%D0%9A%D0%97%D0%A4_%D0%A1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_Musica_Viva.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=190325kzch">
+                        
+                        
+                            <img src="/media/upload/news/19.03.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B5%D1%89%D1%8C_%D0%B2_%D1%81%D0%B5%D0%B1%D0%B5_20%D1%87.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=190325kzch">
+                        
+                        
+                            <img src="/media/upload/news/19.03.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B5%D1%89%D1%8C_%D0%B2_%D1%81%D0%B5%D0%B1%D0%B5_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2_20%D1%87.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-20/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=200325f2">
+                        
+                        
+                            <img src="/media/upload/news/20.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A0%D0%9D%D0%9C%D0%A1%D0%9E_%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-21/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=210325kzch">
+                        
+                        
+                            <img src="/media/upload/news/21.03.2025_%D0%9A%D0%97%D0%A7_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%9A%D0%B8%D0%BC_%D0%9A%D0%B5_%D0%A5%D0%B8_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-22/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325kzch">
+                        
+                        
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A7_%D0%9F%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-22-18/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325f218h">
+                        
+                        
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92%D0%B0%D1%80%D0%B3%D0%B0%D1%84%D1%82%D0%B8%D0%BA_18%D1%87.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-22/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=220325kzf">
+                        
+                        
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A4_%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%D0%B0_%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-23/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=230325f2">
+                        
+                        
+                            <img src="/media/upload/news/23.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A3%D1%82%D0%BA%D0%B8%D0%BD_%D0%93%D0%90%D0%9A%D0%9E%D0%A0.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-23-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=230325kzf">
+                        
+                        
+                            <img src="/media/upload/news/23.03.2025_%D0%9A%D0%97%D0%A4_%D0%9C%D1%83%D0%B7.%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%B0_Musica_Sacra_Nova.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-24/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=240325kzch">
+                        
+                        
+                            <img src="/media/upload/news/24.03.2025_%D0%9A%D0%97%D0%A7_%D0%9B%D0%B0%D0%B4%D1%8E%D0%BA_%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/festivals/virtuozy-gitary-2025/">
+                        
+                        
+                            <img src="/media/upload/news/2025.03.25-26-28_kzch_guitar_red_old-b.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2024-10-09/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=october24&amp;utm_content=270325kzch">
+                        
+                        
+                            <img src="/media/upload/news/27.03.2025_%D0%9A%D0%97%D0%A7_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%92%D0%BE%D0%BD%D0%B3.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-05-20/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=270325kzf">
+                        
+                        
+                            <img src="/media/upload/news/27.03.2025_%D0%9A%D0%97%D0%A4_Open_sound_orchestra.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-28/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=280325f2">
+                        
+                        
+                            <img src="/media/upload/news/28.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%B4%D0%B6%D0%B0%D0%B7%D0%B5._%D0%9A%D1%80%D0%B0%D0%BC%D0%B5%D1%80.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-01-24/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=280325kzf">
+                        
+                        
+                            <img src="/media/upload/news/28.03.2025_%D0%9A%D0%97%D0%A4_%D0%90.%D0%9F%D0%B0%D1%80%D0%B8%D0%BD.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-29/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=290325kzch">
+                        
+                        
+                            <img src="/media/upload/news/29.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C._%D0%A1%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-03-29-1/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=290325kzf">
+                        
+                        
+                            <img src="/media/upload/news/29.03.2025_%D0%9A%D0%97%D0%A4_%D0%A1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%93%D0%90%D0%9A%D0%9E%D0%A0.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-03-30/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=300325kzch">
+                        
+                        
+                            <img src="/media/upload/news/30.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%90%D0%A1%D0%9E%D0%A0%D0%A2_%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D1%83%D0%BA.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/bzk-2025-03-30/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=300325bzk">
+                        
+                        
+                            <img src="/media/upload/news/30.03.2025_%D0%91%D0%97%D0%9A_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/f2-2025-03-31/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=march25&amp;utm_content=310325f2">
+                        
+                        
+                            <img src="/media/upload/news/31.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-04-02-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=april25&amp;utm_content=020425kzch">
+                        
+                        
+                            <img src="/media/upload/news/02.04.2025_%D0%9A%D0%97%D0%A7_Musica_sacra_nova.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/r2-2025-04-08/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=april25&amp;utm_content=080425f2">
+                        
+                        
+                            <img src="/media/upload/news/08.04.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzf-2025-04-12/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=april25&amp;utm_content=120425kzf">
+                        
+                        
+                            <img src="/media/upload/news/12.04.2025_%D0%9A%D0%97%D0%A4_%D0%97%D0%B2%D1%83%D0%BA_%D1%87%D0%B8%D1%81%D0%BB%D0%BE_%D0%BE%D0%B1%D1%80%D1%8F%D0%B4._Musica_Sacra_Nova.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-04-13-2/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=april25&amp;utm_content=130425kzch">
+                        
+                        
+                            <img src="/media/upload/news/13.04.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2025-05-21-19/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=may25&amp;utm_content=210525kzch">
+                        
+                        
+                            <img src="/media/upload/news/21.05.2025_%D0%9A%D0%97%D0%A7_Musica_sacra_nova.jpg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+                    <div class="item ">
+                        
+
+                        
+                        <a href="https://meloman.ru/concert/kzch-2024-12-01/?utm_source=meloman&amp;utm_medium=banner&amp;utm_campaign=december24&amp;utm_content=011224kzch">
+                        
+                        
+                            <img src="/media/upload/news/IMG_0136.jpeg" width="1020" height="480"/>
+                        
+                        
+                        </a>
+                        
+                        
+                    </div>
+                
+            </div>
+        </div>
+        <div class="slider-thumb-wrapper clearfix" style="">
+            <div class="previous span1" style="">
+                <div class="ico_previous slidesjs-previous-page"></div>
+            </div>
+            <div class="span10 thumbs-list-container">
+                <ul class="thumbs-list js-thumb-carousel">
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/12.03.2025_%D0%9A%D0%A5%D0%A7_%D0%93%D0%90%D0%9A%D0%9E%D0%A0_%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D1%86%D0%BD%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/13.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%BE%D1%81%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/13.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%A5%D0%B0%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/14.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%90%D0%A1%D0%9E_%D0%9A%D0%BD%D1%8F%D0%B7%D0%B5%D0%B2.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/14.03.2025_%D0%9A%D0%97%D0%A4_%D0%9A%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D0%BA%D0%BE.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/15.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A0%D1%83%D0%B1%D0%B8%D0%BD_%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D1%87%D0%B5%D0%BD%D0%BA%D0%BE.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/meloman_2025_22.035.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/meloman_2025_22.0353.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/meloman_2025_22.0352.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/16.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92_%D0%BE%D0%B1%D1%8A%D1%8F%D1%82%D1%8C%D1%8F%D1%85_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B81.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/16.03.2025_%D0%9C%D0%97_%D0%A42_%D0%93%D0%90%D0%9A%D0%9E%D0%A0_%D0%91%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE2.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/17.03.2025_%D0%9A%D0%97%D0%A4_CEAM_Home_space.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/18.03.2025_%D0%9A%D0%97%D0%A4_%D0%A1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_Musica_Viva.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/19.03.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B5%D1%89%D1%8C_%D0%B2_%D1%81%D0%B5%D0%B1%D0%B5_20%D1%87.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/19.03.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B5%D1%89%D1%8C_%D0%B2_%D1%81%D0%B5%D0%B1%D0%B5_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2_20%D1%87.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/20.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A0%D0%9D%D0%9C%D0%A1%D0%9E_%D0%A7%D0%B8%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A8%D0%B8%D1%88%D0%BA%D0%B8%D0%BD.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/21.03.2025_%D0%9A%D0%97%D0%A7_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%9A%D0%B8%D0%BC_%D0%9A%D0%B5_%D0%A5%D0%B8_%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A7_%D0%9F%D1%80%D0%B8%D1%82%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92%D0%B0%D1%80%D0%B3%D0%B0%D1%84%D1%82%D0%B8%D0%BA_18%D1%87.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/22.03.2025_%D0%9A%D0%97%D0%A4_%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%D0%B0_%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/23.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%A3%D1%82%D0%BA%D0%B8%D0%BD_%D0%93%D0%90%D0%9A%D0%9E%D0%A0.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/23.03.2025_%D0%9A%D0%97%D0%A4_%D0%9C%D1%83%D0%B7.%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%B0_Musica_Sacra_Nova.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/24.03.2025_%D0%9A%D0%97%D0%A7_%D0%9B%D0%B0%D0%B4%D1%8E%D0%BA_%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/2025.03.25-26-28_kzch_guitar_red_old-b.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/27.03.2025_%D0%9A%D0%97%D0%A7_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%92%D0%BE%D0%BD%D0%B3.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/27.03.2025_%D0%9A%D0%97%D0%A4_Open_sound_orchestra.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/28.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%B4%D0%B6%D0%B0%D0%B7%D0%B5._%D0%9A%D1%80%D0%B0%D0%BC%D0%B5%D1%80.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/28.03.2025_%D0%9A%D0%97%D0%A4_%D0%90.%D0%9F%D0%B0%D1%80%D0%B8%D0%BD.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/29.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C._%D0%A1%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/29.03.2025_%D0%9A%D0%97%D0%A4_%D0%A1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%93%D0%90%D0%9A%D0%9E%D0%A0.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/30.03.2025_%D0%9A%D0%97%D0%A7_%D0%93%D0%90%D0%A1%D0%9E%D0%A0%D0%A2_%D0%A1%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D1%87%D1%83%D0%BA.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/30.03.2025_%D0%91%D0%97%D0%9A_%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/31.03.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%91%D0%B0%D1%88%D0%BC%D0%B5%D1%82_%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/02.04.2025_%D0%9A%D0%97%D0%A7_Musica_sacra_nova.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/08.04.2025_%D0%9A%D0%97%D0%A0_%D0%A42_%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/12.04.2025_%D0%9A%D0%97%D0%A4_%D0%97%D0%B2%D1%83%D0%BA_%D1%87%D0%B8%D1%81%D0%BB%D0%BE_%D0%BE%D0%B1%D1%80%D1%8F%D0%B4._Musica_Sacra_Nova.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/13.04.2025_%D0%9A%D0%97%D0%A7_%D0%92%D0%B8%D1%80%D1%81%D0%B0%D0%BB%D0%B0%D0%B4%D0%B7%D0%B5.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/21.05.2025_%D0%9A%D0%97%D0%A7_Musica_sacra_nova.256x140.jpg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            
+                            <img src="/media/upload/news/IMG_0136.256x140.jpeg" width="153" height="70"/>
+                            
+                            
+                            
+                        </li>
+                    
+                </ul>
+            </div>
+            <div class="next span1" style="margin-right:0">
+                <div class="ico_next slidesjs-next-page"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="gold-delimiter" style="margin-top:-20px;"></div>
+    <div class="livebar">
+    
+        <h2 class="pre1 header" style="background:#fff;margin-bottom:20px;">
+           
+             Концертный комплекс «Филармония-2»
+           
+        </h2>
+    
+        <div class="item pre1 span3" data-media-id="1347">
+            
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/c5/25/c525744c6c72202259cc64a73bb41d93.jpg"/>
+                </div>
+                
+
+                
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        13 марта,  19:00
+                    </div>
+                    
+
+                    
+                        
+                        <a href="/concert/f2-2025-03-13/">Юрий Башмет, <br>Константин Хабенский <br>«Калигула». Спектакль-концерт</a>
+                        
+                    
+
+                </div>
+            
+        </div>
+    
+        <div class="item span3" data-media-id="1021">
+            
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/8c/3e/8c3e695fab5180e851bf5a7724deb9fb.jpg"/>
+                </div>
+                
+
+                
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        20 марта,  19:00
+                    </div>
+                    
+
+                    
+                        
+                        <a href="/concert/f2-2025-03-20/">К 110-летию Святослава Рихтера <br> Филипп Чижевский, Дмитрий Шишкин, РНМСО</a>
+                        
+                    
+
+                </div>
+            
+        </div>
+    
+        <div class="item span3" data-media-id="1613">
+            
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/bc/88/bc88c781b71c5b430ceb878125c3c67b.jpg"/>
+                </div>
+                
+
+                
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        23 марта,  14:00
+                    </div>
+                    
+
+                    
+                        
+                            <div><a href="/concert/f2-2025-03-23-1/">Партитуры для чтеца с оркестром.<br>Антуан де Сент-Экзюпери. «Маленький принц».<br>Читает Юрий Стоянов</a></div>
+                        
+                    
+
+                </div>
+            
+        </div>
+    
+
+    <div class="clearfix"></div>
+    
+</div>
+
+    <div class="gold-delimiter"></div>
+
+    
+<div class="announces">
+    
+    <div class="span5 pre1 changes">
+        
+        
+        <h6>Изменения в афише</h6>
+        
+        
+        <div class="content">
+            <p>Концерт солистов OpensoundOrchestra, запланированный на <b>27 марта 2025</b> года в Камерном зале Филармонии (абонемент № 134), перенесён на <b>20 мая 2025</b> года.</p>
+        </div>
+        
+    </div>
+    <div class="span5 clear-right-margin news">
+        
+        
+        <h6>Новости</h6>
+        
+        
+        <div class="title">
+            <h6>Серия концертов памяти Святослава Рихтера</h6>
+        </div>
+        <div class="content">
+            <div class="preview">
+            <p>20 марта 2025 года исполняется 110 лет со дня рождения Святослава Рихтера – одного из величайших пианистов ХХ века, в 1945–1997 годах – солиста Московской филармонии.&nbsp;За 55 лет жизни на сцене музыкант дал свыше трех с половиной тысяч концертов более чем в 35 странах мира; в&nbsp;одной лишь Москве, в том числе на филармонической сцене, прошли 850 его выступлений.&nbsp;В течение трех мартовских недель Московская филармония на трех площадках проведет серию концертов, посвященных Святославу Рихтеру (<b>Зал Чайковского – <a href="https://meloman.ru/concert/kzch-2025-03-091/">9</a>, <a href="https://meloman.ru/concert/kzch-2025-03-15/">15</a>, <a href="https://meloman.ru/concert/kzch-2025-03-16/">16</a>, <a href="https://meloman.ru/concert/kzch-2025-03-20/">20</a>&nbsp;</b>и<b>&nbsp;<a href="https://meloman.ru/concert/kzch-2024-10-09/">27 марта</a></b>,&nbsp;<b>Зал Рахманинова</b>&nbsp;в Филармонии-2 –&nbsp;<b><a href="https://meloman.ru/concert/f2-2025-03-15/">15</a>, <a href="https://meloman.ru/concert/kzch-2025-03-20/">20 марта</a></b>,&nbsp;<b>Большой зал консерватории</b>&nbsp;–&nbsp;<b><a href="https://meloman.ru/concert/bzk-2025-03-30/">30 марта</a></b>).<br></p>
+            </div>
+            <div class="link">
+                <a href="/news/series-of-concerts-in-memory-of-svyatoslav-richter/">- Читать далее -</a>
+            </div>
+        </div>
+        
+    </div>
+    <div class="clearfix"></div>
+    
+    <div class="more pre1 span5">
+        <a href="/changes/">Еще изменения &gt;</a>
+    </div>
+    <div class="more span5 clear-right-margin">
+        <a href="/news/">Еще Новости &gt;</a>
+    </div>
+    <div class="clearfix"></div>
+    
+    
+</div>
+
+
+    <div class="gold-delimiter"></div>
+
+    <div class="basic-content clearfix">
+
+        
+
+<div class="clearfix coming_days">
+
+  
+    
+    
+    
+      <div class="pre1 span10 js-coming-days-block tomorrow-block">
+  
+  <h2 class="header" style="background:#fff;">
+    Сегодня
+  </h2>
+  <!-- First Concert -->
+  
+    
+
+<div class="concert-item first">
+  <div class="span3">
+    
+    
+      <img src="/media/cache/7b/ce/7bcebd2a493a5d505d7d671e91f026b7.jpg" />
+    
+  </div>
+  <div class="span7 clear-right-margin">
+    
+
+<div class="content row clearfix">
+    <div class="where" style="float: none;">
+        <span>
+            
+                Концертный зал имени П.&nbsp;И.&nbsp;Чайковского,
+            
+
+            19:00
+        </span>
+    </div>
+    <div class="whatandwho pseudo-link" data-link="/concert/kzch-2025-03-12-1/">
+        <div class="what">
+            
+            
+        </div>
+        <div class="who">
+            
+    
+        
+            
+                
+                <div>Государственный академический   камерный оркестр&nbsp;России</div>
+                
+            
+        
+    
+        
+            
+                
+                <div>
+                    Филипп&nbsp;Чижевский, <span> дирижёр </span>
+                    
+                </div>
+                
+            
+        
+    
+        
+            <p>
+            
+                Яков&nbsp;Кацнельсон&nbsp;(хаммерклавир)
+            
+            </p>
+        
+    
+        </div>
+    </div>
+</div>
+    <div class="tickets" style="margin-top: 15px;">
+        <!-- is_in_online:True; tss_id:298A395357F9F5D0E060265499BC669D; -->
+    <!-- clickable: True -->
+    
+        
+
+        <div class="left">
+        <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=298A395357F9F5D0E060265499BC669D&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+            <span class="button with-icon clearfix  "
+                    >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        </div>
+    
+    
+    <div class="amount">
+        
+        
+        
+        
+        
+        
+    </div>
+    
+    <div class="clearfix"></div>
+
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+  
+  <!-- First Concert End -->
+  
+  <div class="js-coming-days-hidden" style="display: none;">
+    
+      
+
+<div class="concert-item ">
+  <div class="span3">
+    
+    
+      <img src="/media/cache/97/96/97965f0f8b427441f42558d91eeb4ac2.jpg" />
+    
+  </div>
+  <div class="span7 clear-right-margin">
+    
+
+<div class="content row clearfix">
+    <div class="where" style="float: none;">
+        <span>
+            
+                Камерный зал Филармонии,
+            
+
+            19:00
+        </span>
+    </div>
+    <div class="whatandwho pseudo-link" data-link="/concert/kzf-2025-03-12/">
+        <div class="what">
+            
+            
+        </div>
+        <div class="who">
+            
+    
+        
+            
+                
+                <div>Международный благотворительный фонд Владимира&nbsp;Спивакова</div>
+                
+            
+        
+    
+        
+            <p>
+            
+                Анна&nbsp;Батова&nbsp;(балалайка), 
+            
+                Елисей&nbsp;Иващиненко&nbsp;(баян), 
+            
+                Юрий&nbsp;Кузьминов&nbsp;(баян), 
+            
+                Пётр&nbsp;Милованов&nbsp;(аккордеон), 
+            
+                Арина&nbsp;Новикова&nbsp;(домра), 
+            
+                Елизавета&nbsp;Ракушина&nbsp;(гитара, домра), 
+            
+                Алиса&nbsp;Савина
+            
+            </p>
+        
+    
+        
+            
+                
+                <div>Ансамбль баянистов Московского губернского колледжа искусств под руководством Максима&nbsp;Федорова</div>
+                
+            
+        
+    
+        </div>
+    </div>
+</div>
+    <div class="tickets" style="margin-top: 15px;">
+        <!-- is_in_online:True; tss_id:1364084EF9A99236E060265499BC17E4; -->
+    <!-- clickable: True -->
+    
+        
+
+        <div class="left">
+        <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=1364084EF9A99236E060265499BC17E4&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+            <span class="button with-icon clearfix  "
+                    >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        </div>
+    
+    
+    <div class="amount">
+        
+        
+        
+        
+        
+        
+    </div>
+    
+    <div class="clearfix"></div>
+
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+    
+  </div>
+  <div class="js-coming-days-toggle-all show-hide-day"><a>Показать все концерты в этот день &gt;</a></div>
+  
+</div>
+<div class="gold-delimiter"></div>
+    
+  
+
+  
+    
+    
+    
+      <div class="pre1 span10 js-coming-days-block tomorrow-block">
+  
+  <h2 class="header" style="background:#fff;">
+    Завтра
+  </h2>
+  <!-- First Concert -->
+  
+    
+
+<div class="concert-item first">
+  <div class="span3">
+    
+    
+      <img src="/media/cache/6a/f7/6af7b351a9d4edc7c7fc042449a5f157.jpg" />
+    
+  </div>
+  <div class="span7 clear-right-margin">
+    
+
+<div class="content row clearfix">
+    <div class="where" style="float: none;">
+        <span>
+            
+                Концертный зал имени П.&nbsp;И.&nbsp;Чайковского,
+            
+
+            19:00
+        </span>
+    </div>
+    <div class="whatandwho pseudo-link" data-link="/concert/kzch-2025-03-13/">
+        <div class="what">
+            
+            
+        </div>
+        <div class="who">
+            
+    
+        
+            
+                
+                <div>Государственная академическая симфоническая капелла&nbsp;России</div>
+                
+            
+        
+    
+        
+            
+                
+                <div>
+                    Валерий&nbsp;Полянский, <span> дирижёр </span>
+                    
+                </div>
+                
+            
+        
+    
+        </div>
+    </div>
+</div>
+    <div class="tickets" style="margin-top: 15px;">
+        <!-- is_in_online:True; tss_id:13B16F39E1515FC4E060265499BC3714; -->
+    <!-- clickable: True -->
+    
+        
+
+        <div class="left">
+        <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=13B16F39E1515FC4E060265499BC3714&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+            <span class="button with-icon clearfix  "
+                    >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        </div>
+    
+    
+    <div class="amount">
+        
+        
+        
+        
+        
+        
+    </div>
+    
+    <div class="clearfix"></div>
+
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+  
+  <!-- First Concert End -->
+  
+  <div class="js-coming-days-hidden" style="display: none;">
+    
+      
+
+<div class="concert-item ">
+  <div class="span3">
+    
+    
+      <img src="/media/cache/94/97/9497acaae8daf1ce5770e537abaec368.jpg" />
+    
+  </div>
+  <div class="span7 clear-right-margin">
+    
+
+<div class="content row clearfix">
+    <div class="where" style="float: none;">
+        <span>
+            
+                «Филармония-2». Концертный&nbsp;зал&nbsp;имени С.&nbsp;В.&nbsp;Рахманинова,
+            
+
+            19:00
+        </span>
+    </div>
+    <div class="whatandwho pseudo-link" data-link="/concert/f2-2025-03-13/">
+        <div class="what">
+            <em><a href="/concert/f2-2025-03-13/">«Калигула». Спектакль-концерт</a></em>
+            
+        </div>
+        <div class="who">
+            
+    
+        
+            
+                
+                <div>Камерный ансамбль «Солисты&nbsp;Москвы»</div>
+                
+            
+        
+    
+        
+            
+                
+                <div>
+                    Юрий&nbsp;Башмет, <span> дирижёр </span>
+                    
+                </div>
+                
+            
+        
+    
+        
+            <p>
+            
+                Константин&nbsp;Хабенский&nbsp;(художественное слово), 
+            
+                Ксения&nbsp;Башмет&nbsp;(фортепиано), 
+            
+                Арина&nbsp;Кривенко&nbsp;(фортепиано)
+            
+            </p>
+        
+    
+        </div>
+    </div>
+</div>
+    <div class="tickets" style="margin-top: 15px;">
+        <!-- is_in_online:True; tss_id:2C5C410847F3EBDCE060265499BC34F0; -->
+    <!-- clickable: True -->
+    
+        
+
+        <div class="left">
+        <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=2C5C410847F3EBDCE060265499BC34F0&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+            <span class="button with-icon clearfix  "
+                    >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        </div>
+    
+    
+    <div class="amount">
+        
+        
+        
+        
+        
+        
+    </div>
+    
+    <div class="clearfix"></div>
+
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+    
+      
+
+<div class="concert-item ">
+  <div class="span3">
+    
+    
+      <img src="/media/cache/03/9d/039d9856ba0409c87baaf7843df58b58.jpg" />
+    
+  </div>
+  <div class="span7 clear-right-margin">
+    
+
+<div class="content row clearfix">
+    <div class="where" style="float: none;">
+        <span>
+            
+                Камерный зал Филармонии,
+            
+
+            19:00
+        </span>
+    </div>
+    <div class="whatandwho pseudo-link" data-link="/concert/kzf-2025-03-13/">
+        <div class="what">
+            <em><a href="/concert/kzf-2025-03-13/">Альфред Шнитке. «Лабиринты»</a></em>
+            
+        </div>
+        <div class="who">
+            
+    
+        
+            <p>
+            
+                Андрей&nbsp;Устинов&nbsp;(автор цикла, ведущий), 
+            
+                Павел&nbsp;Домбровский&nbsp;(фортепиано), 
+            
+                Алиса&nbsp;Гицба&nbsp;(сопрано), 
+            
+                Леонид&nbsp;Железный&nbsp;(скрипка), 
+            
+                Сергей&nbsp;Полтавский&nbsp;(альт), 
+            
+                Мария&nbsp;Зайцева&nbsp;(виолончель), 
+            
+                Григорий&nbsp;Кротенко&nbsp;(контрабас), 
+            
+                Никита&nbsp;Агафонов&nbsp;(кларнет), 
+            
+                Владимир&nbsp;Терехов&nbsp;(ударные)
+            
+            </p>
+        
+    
+        </div>
+    </div>
+</div>
+    <div class="tickets" style="margin-top: 15px;">
+        <!-- is_in_online:False; tss_id:12DB89E703E42DC0E060265499BC55F0; -->
+    <!-- clickable: True -->
+    
+        <span class="button with-icon clearfix disabled" >
+            <span class="icon ico_ticket"></span>
+            <span class="button-text">Билеты проданы</span>
+        </span>
+    
+    
+    <div class="clearfix"></div>
+
+    </div>
+  </div>
+  <div class="clearfix"></div>
+</div>
+    
+  </div>
+  <div class="js-coming-days-toggle-all show-hide-day"><a>Показать все концерты в этот день &gt;</a></div>
+  
+</div>
+<div class="gold-delimiter"></div>
+    
+  
+
+</div>
+
+        <script>
+            $('.carousel-splash').live('click', function () {
+                var imageId = $(this).data('imageId');
+                var embed = carousel_image_videos[imageId];
+
+                var innerWidth = 600;
+                var innerHeight = 450;
+
+                if (embed.indexOf('iframe') !== -1) {
+                    var media_iframe = $($.trim(embed));
+                    innerWidth = media_iframe.attr('width')
+                    innerHeight = media_iframe.attr('height')
+                }
+
+                $.colorbox({
+                    href: embed,
+                    inline: true,
+                    scrolling: false,
+                    innerWidth: innerWidth,
+                    innerHeight: innerHeight,
+                });
+            });
+
+            $('.splash').live('click', function() {
+
+                //is_video_available = $(this).find('~ div .splash-video').length > 0;
+                media_id = $(this).closest('.item').data('media-id');
+                is_video_available = media_stuff_videos.hasOwnProperty(media_id);
+                //alert(media_id + is_video_available);
+                if (!is_video_available) {
+                    return;
+                }
+
+                //spos = $(document).scrollTop();
+                var embed = media_stuff_videos[media_id]
+
+                var innerWidth = 600;
+                var innerHeight = 450;
+
+                if(embed.indexOf('iframe') !== -1){
+                    var media_iframe = $($.trim(embed));
+                    innerWidth = media_iframe.attr('width')
+                    innerHeight = media_iframe.attr('height')
+                }
+
+                $.colorbox({
+                    //href: $(this).find('~ div .splash-video'),
+                    href: embed,
+                    inline: true,
+                    scrolling: false,
+                    innerWidth: innerWidth,
+                    innerHeight: innerHeight,
+                    onOpen: function () {
+                        return;
+                        //$(document.body).css('overflow', 'hidden');
+                        $(document.body).css({
+                            position: 'fixed',
+                            'overflow-y': 'scroll'});
+                    },
+                    onClosed: function () {
+                        return;
+                        //$(document.body).css('overflow', '');
+                        $(document.body).removeAttr('style');
+                        $(document).scrollTop(spos);
+                    }
+                });
+            });
+        </script>
+
+        
+
+        <div class="upcoming_concerts">
+            <h2 class="pre1 header" style="background:#fff;margin-bottom:0px;">Ближайшие концерты</h2>
+            <div>
+            
+            <div class="owl-prev previous span1" style="padding-top: 96px;">
+                <!-- div class="ico_previous slidesjs-previous slidesjs-navigation"></div -->
+                <div class="ico_previous"></div>
+            </div>
+            <div class="span10 owl-carousel owl-theme" style="margin-right: 0px;">
+            <div class="mf-slider">
+            
+            <div class="item" data-media-id="1355">
+                
+                
+                <div class="title">
+                    <div class="content">
+                    Концертный зал имени&nbsp;П.&nbsp;И.&nbsp;Чайковского
+                    </div>
+                </div>
+                
+                <!-- 1355 -->
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/54/a4/54a4e737e1241a1fce984c07832b134f.jpg"/>
+                </div>
+                
+
+                <!-- video_embed_code -->
+                <!--
+                    
+                -->
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        16 марта,  19:00
+                    </div>
+                    
+                    
+                        
+                            <div><a href="/concert/kzch-2025-03-16/">К 110-летию Святослава Рихтера</a></div>
+                        
+                    
+                </div>
+
+                <div style="margin-top: 30px;">
+                        
+    
+    <!-- this one is for test -->
+    <div class="bt-container">
+    
+        <style>
+            .buy-tickets-online-with-announce,
+            .buy-tickets-online-with-qr-announce,
+            .buy-tickets-online-with-parter-announce,
+            .buy-tickets-online-with-announce * {
+                outline: none;
+            }
+        </style>
+
+        
+
+        
+          <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=139A8A918801F4A4E060265499BC78C1&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+        
+            <span class="button with-icon clearfix  " >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        <script>
+            $(".buy-tickets-online-with-announce").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement was clicked ...');
+
+                    var html=[
+                        '<div class="mfp-close"></div>' +
+                        '<div style="padding:10px;background:whitesmoke;width:600px;height:450px;margin:0 auto;position:relative;">',
+                        '  <div>',
+                        '    <img style="height:330px;display:block;margin:auto;" src="/static/winter/ezhik_announce.jpg"/>',
+                        '  </div>',
+                        '  <div style="font-family:MyriadRegular;font-size:14px;line-height:18px;color:black;margin-top:10px;text-align:justify;">',
+                        '    Уважаемые слушатели! Закрыв это окно, вы перейдете на страницу выбора мест и сможете оформить покупку билетов на «Новогоднюю сказку для ежика с оркестром». Обращаем ваше внимание, что действие спектакля происходит в партере. Зрительские места начинаются с 1 ряда 1 амфитеатра.',
+                        '  </div>',
+                        '</div>'
+                    ].join('\n');
+
+                    //html = '<div>Hello popup!</div>';
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ezhik_announce.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                        /*
+                        items: {
+                            src: html,
+                            type: 'inline',
+                            fixedContentPos: 'auto',
+                            fixedBgPos: 'auto',
+                            overflowY: 'auto',
+                            closeBtnInside: false,
+                            preloader: false,
+                            midClick: true,
+                            removalDelay: 300,
+                        }
+                        */
+                        /*
+                        callbacks: {
+                            close: function() {
+                                console.log('popup was closed ...');
+                            }
+                        }
+                        */
+                    });
+                    /*
+                    $.colorbox({
+                        //href: $(this).find('~ div .splash-video'),
+                        //href: media_stuff_videos[media_id],
+                        href: html,
+                        inline: true,
+                        scrolling: false,
+                        innerWidth: 600,
+                        innerHeight: 450,
+                        onOpen: function () {
+                            return;
+                            //$(document.body).css('overflow', 'hidden');
+                            $(document.body).css({
+                                position: 'fixed',
+                                'overflow-y': 'scroll'});
+                        },
+                        onClosed: function () {
+                            document.location.href=$(item).attr('href');
+                            return;
+                            //$(document.body).css('overflow', '');
+                            $(document.body).removeAttr('style');
+                            $(document).scrollTop(spos);
+                        }
+                    });
+                    */
+                });
+            });
+
+             $(".buy-tickets-online-with-announce-and-timer").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement and timer was clicked ...');
+
+                    setTimeout(function() {
+                        document.location.href=$(item).attr('href');
+                    }, 7000)
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ded-moroz-guests.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                    });
+                });
+            });
+
+            
+        </script>
+    
+    
+    </div>
+
+                </div>
+                
+                <!--div style="background-color:darkred;color:#f5f5f5;font-family:MyriadBold;padding-left:5px;">Лауреаты XV Международного конкурса Чайковского</div-->
+            </div>
+            
+            <div class="item" data-media-id="1317">
+                
+                
+                <div class="title">
+                    <div class="content">
+                    Концертный зал имени&nbsp;П.&nbsp;И.&nbsp;Чайковского
+                    </div>
+                </div>
+                
+                <!-- 1317 -->
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/0e/0c/0e0c27c902c2fb27f110c3f048370a51.jpg"/>
+                </div>
+                
+
+                <!-- video_embed_code -->
+                <!--
+                    
+                -->
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        19 марта,  20:00
+                    </div>
+                    
+                    
+                        
+                            <div><a href="/concert/kzch-2025-03-19/">Вещь в себе. <br>Прокофьев. Симфония № 7</a></div>
+                        
+                    
+                </div>
+
+                <div style="margin-top: 30px;">
+                        
+    
+    <!-- this one is for test -->
+    <div class="bt-container">
+    
+        <style>
+            .buy-tickets-online-with-announce,
+            .buy-tickets-online-with-qr-announce,
+            .buy-tickets-online-with-parter-announce,
+            .buy-tickets-online-with-announce * {
+                outline: none;
+            }
+        </style>
+
+        
+
+        
+          <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=13B4765D828B91D3E060265499BC56A8&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+        
+            <span class="button with-icon clearfix  non-std-time-event-button" >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        <script>
+            $(".buy-tickets-online-with-announce").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement was clicked ...');
+
+                    var html=[
+                        '<div class="mfp-close"></div>' +
+                        '<div style="padding:10px;background:whitesmoke;width:600px;height:450px;margin:0 auto;position:relative;">',
+                        '  <div>',
+                        '    <img style="height:330px;display:block;margin:auto;" src="/static/winter/ezhik_announce.jpg"/>',
+                        '  </div>',
+                        '  <div style="font-family:MyriadRegular;font-size:14px;line-height:18px;color:black;margin-top:10px;text-align:justify;">',
+                        '    Уважаемые слушатели! Закрыв это окно, вы перейдете на страницу выбора мест и сможете оформить покупку билетов на «Новогоднюю сказку для ежика с оркестром». Обращаем ваше внимание, что действие спектакля происходит в партере. Зрительские места начинаются с 1 ряда 1 амфитеатра.',
+                        '  </div>',
+                        '</div>'
+                    ].join('\n');
+
+                    //html = '<div>Hello popup!</div>';
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ezhik_announce.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                        /*
+                        items: {
+                            src: html,
+                            type: 'inline',
+                            fixedContentPos: 'auto',
+                            fixedBgPos: 'auto',
+                            overflowY: 'auto',
+                            closeBtnInside: false,
+                            preloader: false,
+                            midClick: true,
+                            removalDelay: 300,
+                        }
+                        */
+                        /*
+                        callbacks: {
+                            close: function() {
+                                console.log('popup was closed ...');
+                            }
+                        }
+                        */
+                    });
+                    /*
+                    $.colorbox({
+                        //href: $(this).find('~ div .splash-video'),
+                        //href: media_stuff_videos[media_id],
+                        href: html,
+                        inline: true,
+                        scrolling: false,
+                        innerWidth: 600,
+                        innerHeight: 450,
+                        onOpen: function () {
+                            return;
+                            //$(document.body).css('overflow', 'hidden');
+                            $(document.body).css({
+                                position: 'fixed',
+                                'overflow-y': 'scroll'});
+                        },
+                        onClosed: function () {
+                            document.location.href=$(item).attr('href');
+                            return;
+                            //$(document.body).css('overflow', '');
+                            $(document.body).removeAttr('style');
+                            $(document).scrollTop(spos);
+                        }
+                    });
+                    */
+                });
+            });
+
+             $(".buy-tickets-online-with-announce-and-timer").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement and timer was clicked ...');
+
+                    setTimeout(function() {
+                        document.location.href=$(item).attr('href');
+                    }, 7000)
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ded-moroz-guests.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                    });
+                });
+            });
+
+            
+        </script>
+    
+    
+    </div>
+
+                </div>
+                
+                <!--div style="background-color:darkred;color:#f5f5f5;font-family:MyriadBold;padding-left:5px;">Лауреаты XV Международного конкурса Чайковского</div-->
+            </div>
+            
+            <div class="item" data-media-id="1627">
+                
+                
+                <div class="title">
+                    <div class="content">
+                    Концертный зал имени&nbsp;П.&nbsp;И.&nbsp;Чайковского
+                    </div>
+                </div>
+                
+                <!-- 1627 -->
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/1c/c9/1cc9f6d8c64de682a657915597f87575.jpg"/>
+                </div>
+                
+
+                <!-- video_embed_code -->
+                <!--
+                    
+                -->
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        22 марта,  20:00
+                    </div>
+                    
+                    
+                        
+                            <div><a href="/concert/kzch-2025-03-22/">Творческое объединение «Притяжение». Пьета</a></div>
+                        
+                    
+                </div>
+
+                <div style="margin-top: 30px;">
+                        
+    
+    <!-- this one is for test -->
+    <div class="bt-container">
+    
+        <style>
+            .buy-tickets-online-with-announce,
+            .buy-tickets-online-with-qr-announce,
+            .buy-tickets-online-with-parter-announce,
+            .buy-tickets-online-with-announce * {
+                outline: none;
+            }
+        </style>
+
+        
+
+        
+          <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=2DE9CFB7E7FD9A01E060265499BC5DAB&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+        
+            <span class="button with-icon clearfix  non-std-time-event-button" >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        <script>
+            $(".buy-tickets-online-with-announce").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement was clicked ...');
+
+                    var html=[
+                        '<div class="mfp-close"></div>' +
+                        '<div style="padding:10px;background:whitesmoke;width:600px;height:450px;margin:0 auto;position:relative;">',
+                        '  <div>',
+                        '    <img style="height:330px;display:block;margin:auto;" src="/static/winter/ezhik_announce.jpg"/>',
+                        '  </div>',
+                        '  <div style="font-family:MyriadRegular;font-size:14px;line-height:18px;color:black;margin-top:10px;text-align:justify;">',
+                        '    Уважаемые слушатели! Закрыв это окно, вы перейдете на страницу выбора мест и сможете оформить покупку билетов на «Новогоднюю сказку для ежика с оркестром». Обращаем ваше внимание, что действие спектакля происходит в партере. Зрительские места начинаются с 1 ряда 1 амфитеатра.',
+                        '  </div>',
+                        '</div>'
+                    ].join('\n');
+
+                    //html = '<div>Hello popup!</div>';
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ezhik_announce.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                        /*
+                        items: {
+                            src: html,
+                            type: 'inline',
+                            fixedContentPos: 'auto',
+                            fixedBgPos: 'auto',
+                            overflowY: 'auto',
+                            closeBtnInside: false,
+                            preloader: false,
+                            midClick: true,
+                            removalDelay: 300,
+                        }
+                        */
+                        /*
+                        callbacks: {
+                            close: function() {
+                                console.log('popup was closed ...');
+                            }
+                        }
+                        */
+                    });
+                    /*
+                    $.colorbox({
+                        //href: $(this).find('~ div .splash-video'),
+                        //href: media_stuff_videos[media_id],
+                        href: html,
+                        inline: true,
+                        scrolling: false,
+                        innerWidth: 600,
+                        innerHeight: 450,
+                        onOpen: function () {
+                            return;
+                            //$(document.body).css('overflow', 'hidden');
+                            $(document.body).css({
+                                position: 'fixed',
+                                'overflow-y': 'scroll'});
+                        },
+                        onClosed: function () {
+                            document.location.href=$(item).attr('href');
+                            return;
+                            //$(document.body).css('overflow', '');
+                            $(document.body).removeAttr('style');
+                            $(document).scrollTop(spos);
+                        }
+                    });
+                    */
+                });
+            });
+
+             $(".buy-tickets-online-with-announce-and-timer").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement and timer was clicked ...');
+
+                    setTimeout(function() {
+                        document.location.href=$(item).attr('href');
+                    }, 7000)
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ded-moroz-guests.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                    });
+                });
+            });
+
+            
+        </script>
+    
+    
+    </div>
+
+                </div>
+                
+                <!--div style="background-color:darkred;color:#f5f5f5;font-family:MyriadBold;padding-left:5px;">Лауреаты XV Международного конкурса Чайковского</div-->
+            </div>
+            
+            <div class="item" data-media-id="1321">
+                
+                
+                <div class="title">
+                    <div class="content">
+                    Концертный зал имени&nbsp;П.&nbsp;И.&nbsp;Чайковского
+                    </div>
+                </div>
+                
+                <!-- 1321 -->
+                
+                
+                <div class="splash">
+                    <img style="width: 100%; height: 126px;" src="/media/cache/10/ef/10ef684926bedfd80404fd3edf7b9ca9.jpg"/>
+                </div>
+                
+
+                <!-- video_embed_code -->
+                <!--
+                    
+                -->
+
+                
+
+                <div class="caption">
+                    
+                    <div class="date">
+                        24 марта,  19:00
+                    </div>
+                    
+                    
+                        
+                            <div><a href="/concert/kzch-2025-03-24/">Борис Березовский, Василий Ладюк</a></div>
+                        
+                    
+                </div>
+
+                <div style="margin-top: 30px;">
+                        
+    
+    <!-- this one is for test -->
+    <div class="bt-container">
+    
+        <style>
+            .buy-tickets-online-with-announce,
+            .buy-tickets-online-with-qr-announce,
+            .buy-tickets-online-with-parter-announce,
+            .buy-tickets-online-with-announce * {
+                outline: none;
+            }
+        </style>
+
+        
+
+        
+          <a class="buy-tickets-online" href="https://bigbilet.ru/ticket-sale/ticket/?owner=BF1EE8A0D65E9803E040115529B054C7&id_service=2A8AB3DB3C4B35BDE060265499BC5096&id_agent=BF1EE8A0D65E9803E040115529B054C7&locale=ru">
+        
+            <span class="button with-icon clearfix  " >
+                <span class="icon ico_ticket"></span>
+                <span class="button-text">Купить билеты</span>
+            </span>
+        </a>
+        <script>
+            $(".buy-tickets-online-with-announce").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement was clicked ...');
+
+                    var html=[
+                        '<div class="mfp-close"></div>' +
+                        '<div style="padding:10px;background:whitesmoke;width:600px;height:450px;margin:0 auto;position:relative;">',
+                        '  <div>',
+                        '    <img style="height:330px;display:block;margin:auto;" src="/static/winter/ezhik_announce.jpg"/>',
+                        '  </div>',
+                        '  <div style="font-family:MyriadRegular;font-size:14px;line-height:18px;color:black;margin-top:10px;text-align:justify;">',
+                        '    Уважаемые слушатели! Закрыв это окно, вы перейдете на страницу выбора мест и сможете оформить покупку билетов на «Новогоднюю сказку для ежика с оркестром». Обращаем ваше внимание, что действие спектакля происходит в партере. Зрительские места начинаются с 1 ряда 1 амфитеатра.',
+                        '  </div>',
+                        '</div>'
+                    ].join('\n');
+
+                    //html = '<div>Hello popup!</div>';
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ezhik_announce.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                        /*
+                        items: {
+                            src: html,
+                            type: 'inline',
+                            fixedContentPos: 'auto',
+                            fixedBgPos: 'auto',
+                            overflowY: 'auto',
+                            closeBtnInside: false,
+                            preloader: false,
+                            midClick: true,
+                            removalDelay: 300,
+                        }
+                        */
+                        /*
+                        callbacks: {
+                            close: function() {
+                                console.log('popup was closed ...');
+                            }
+                        }
+                        */
+                    });
+                    /*
+                    $.colorbox({
+                        //href: $(this).find('~ div .splash-video'),
+                        //href: media_stuff_videos[media_id],
+                        href: html,
+                        inline: true,
+                        scrolling: false,
+                        innerWidth: 600,
+                        innerHeight: 450,
+                        onOpen: function () {
+                            return;
+                            //$(document.body).css('overflow', 'hidden');
+                            $(document.body).css({
+                                position: 'fixed',
+                                'overflow-y': 'scroll'});
+                        },
+                        onClosed: function () {
+                            document.location.href=$(item).attr('href');
+                            return;
+                            //$(document.body).css('overflow', '');
+                            $(document.body).removeAttr('style');
+                            $(document).scrollTop(spos);
+                        }
+                    });
+                    */
+                });
+            });
+
+             $(".buy-tickets-online-with-announce-and-timer").each(function(index, item) {
+                if ($(item).attr('data-announce-attached')) {
+                    return;
+                }
+                $(item).attr('data-announce-attached', 'true');
+                $(item).on('click', function(event) {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    console.log('button with announcement and timer was clicked ...');
+
+                    setTimeout(function() {
+                        document.location.href=$(item).attr('href');
+                    }, 7000)
+
+                    $.magnificPopup.open({
+                        items: {
+                          src: '/static/winter/ded-moroz-guests.jpg',
+                        },
+                        type: 'image',
+                        closeOnContentClick: true,
+                        image: {
+                            cursor: 'mfp-auto-cur',
+                        },
+                        callbacks: {
+                            close: function() {
+                                document.location.href=$(item).attr('href');
+                            }
+                        }
+                    });
+                });
+            });
+
+            
+        </script>
+    
+    
+    </div>
+
+                </div>
+                
+                <!--div style="background-color:darkred;color:#f5f5f5;font-family:MyriadBold;padding-left:5px;">Лауреаты XV Международного конкурса Чайковского</div-->
+            </div>
+            
+            </div> <!-- end of mf-slider -->
+
+            </div>
+
+            <div class="owl-next next span1" style="margin-right:0; padding-top:96px;">
+                <!-- div class="ico_next slidesjs-next slidesjs-navigation"></div -->
+                <div class="ico_next"></div>
+            </div>
+            
+            </div> <!-- upcoming concerts block content -->
+            <div class="clearfix"></div>
+        </div>
+
+        <script>
+            $(document).ready(function() {
+            //$(window).load(function() {
+
+                    media_stuff_videos = {};
+                    carousel_image_videos = {};
+
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    media_stuff_videos[1617] = '\u003Ciframe src\u003D\u0022//player.meloman.facecast.net/25\u002D02\u002D20\u002D05\u002D00\u002DEXT/\u0022 width\u003D\u0022720\u0022 height\u003D\u0022467\u0022 marginheight\u003D\u00220\u0022 frameborder\u003D\u00220\u0022 marginwidth\u003D\u00220\u0022 scrolling\u003D\u0022no\u0022 allowfullscreen\u003E\u003C/iframe\u003E';
+                        
+                    
+                        
+                    media_stuff_videos[1611] = '\u003Ciframe src\u003D\u0022//player.meloman.facecast.net/25\u002D02\u002D10\u002D05\u002D00\u002DEXT/\u0022 width\u003D\u0022720\u0022 height\u003D\u0022467\u0022 marginheight\u003D\u00220\u0022 frameborder\u003D\u00220\u0022 marginwidth\u003D\u00220\u0022 scrolling\u003D\u0022no\u0022 allowfullscreen\u003E\u003C/iframe\u003E';
+                        
+                    
+
+                    
+                        carousel_image_videos[2877] = '';
+                    
+                        carousel_image_videos[2883] = '';
+                    
+                        carousel_image_videos[2857] = '';
+                    
+                        carousel_image_videos[2882] = '';
+                    
+                        carousel_image_videos[2899] = '';
+                    
+                        carousel_image_videos[2905] = '';
+                    
+                        carousel_image_videos[2915] = '';
+                    
+                        carousel_image_videos[2916] = '';
+                    
+                        carousel_image_videos[2917] = '';
+                    
+                        carousel_image_videos[2914] = '';
+                    
+                        carousel_image_videos[2891] = '';
+                    
+                        carousel_image_videos[2911] = '';
+                    
+                        carousel_image_videos[2900] = '';
+                    
+                        carousel_image_videos[2912] = '';
+                    
+                        carousel_image_videos[2913] = '';
+                    
+                        carousel_image_videos[2892] = '';
+                    
+                        carousel_image_videos[2908] = '';
+                    
+                        carousel_image_videos[2895] = '';
+                    
+                        carousel_image_videos[2894] = '';
+                    
+                        carousel_image_videos[2901] = '';
+                    
+                        carousel_image_videos[2906] = '';
+                    
+                        carousel_image_videos[2880] = '';
+                    
+                        carousel_image_videos[2904] = '';
+                    
+                        carousel_image_videos[2849] = '';
+                    
+                        carousel_image_videos[2689] = '';
+                    
+                        carousel_image_videos[2918] = '';
+                    
+                        carousel_image_videos[2909] = '';
+                    
+                        carousel_image_videos[2888] = '';
+                    
+                        carousel_image_videos[2903] = '';
+                    
+                        carousel_image_videos[2902] = '';
+                    
+                        carousel_image_videos[2910] = '';
+                    
+                        carousel_image_videos[2907] = '';
+                    
+                        carousel_image_videos[2858] = '';
+                    
+                        carousel_image_videos[2870] = '';
+                    
+                        carousel_image_videos[2919] = '';
+                    
+                        carousel_image_videos[2881] = '';
+                    
+                        carousel_image_videos[2920] = '';
+                    
+                        carousel_image_videos[2871] = '';
+                    
+                        carousel_image_videos[2747] = '';
+                    
+
+
+
+                    total = $(".owl-carousel .item").length;
+                    tail  = total % 3;
+
+                    for (i = tail; i % 3 > 0; ++i) {
+                        $(".owl-carousel").append('<div class="item"></div>')
+                    }
+
+                    carousel = $(".mf-slider").bxSlider({
+                        minSlides: 3,
+                        maxSlides: 3,
+                        slideWidth: 265,
+                        slideMargin: 26,
+                        controls: false,
+                        pager: false,
+                        moveSlides: 3,
+                        infiniteLoop: false,
+                        touchEnabled: false
+                    });
+
+                    carousel.data('total',  $('.owl-carousel .item').length);
+                    carousel.data('active', 1);
+
+                    $(".owl-next").click(function(){
+                        carousel.goToNextSlide();
+                        return;
+                    });
+
+                    $(".owl-prev").click(function(){
+                        carousel.goToPrevSlide();
+                        return;
+                    });
+
+                    var adjust_height = function(selector) {
+                        var maxheight = 0;
+
+                        $(selector).each(function(){
+                            if ($(this).height() > maxheight) { maxheight = $(this).height(); }
+                            return true;
+                        });
+
+                        $(selector).height(maxheight);
+                    }
+
+                    adjust_height(".upcoming_concerts .item .title");
+                    adjust_height(".upcoming_concerts .item .caption");
+                    adjust_height(".media_bar .item .caption");
+                    return true;
+                });
+        </script>
+        <div class="gold-delimiter"></div>
+            <div class="media_bar" style="clear:both;">
+        <h2 class="pre1 header" style="background:#fff;margin-bottom:20px;">Меломанам</h2>
+        
+        <div class="item pre1 span5" data-media-id="1617">
+            
+
+                
+                <div class="splash video">
+                    <img style="width: 100%; height: 280px;" src="/media/cache/e3/a0/e3a09182329e4e3514d55687709ba93a.jpg"/>
+                </div>
+                
+
+                
+
+                <div class="caption">
+                    
+                    Премьера Скрипичного концерта Владимира Горлинского в Зале Чайковского
+                    
+                </div>
+
+            
+
+        </div>
+        
+        <div class="item span5" data-media-id="1611">
+            
+
+                
+                <div class="splash video">
+                    <img style="width: 100%; height: 280px;" src="/media/cache/33/d6/33d6dd10dc8dbbf30a3a3d4d2e0c7aa2.jpg"/>
+                </div>
+                
+
+                
+
+                <div class="caption">
+                    
+                    Интервью Татьяны Гринденко Ярославу Тимофееву
+                    
+                </div>
+
+            
+
+        </div>
+        
+    </div>
+        <div class="horizontal-banner-list">
+
+    <div class="horizontal-banner" data-iframe-code="&lt;iframe src=&#34;//v.calameo.com/?bkcode=0057434330e4758dc0c16&amp;mode=mini&amp;clickto=view&amp;clicktarget=_blank&#34; width=&#34;550&#34; height=&#34;393&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency allowfullscreen style=&#34;margin:0 auto;&#34;&gt;&lt;/iframe&gt;">
+        «Меломан». Альманах Московской филармонии. Выпуск № 6
+    </div>
+
+    <div class="horizontal-banner" data-iframe-code="&lt;iframe src=&#34;//v.calameo.com/?bkcode=0057434338c316c786b28&amp;mode=mini&amp;clickto=view&amp;clicktarget=_blank&#34; width=&#34;550&#34; height=&#34;393&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency allowfullscreen style=&#34;margin:0 auto;&#34;&gt;&lt;/iframe&gt;">
+        «Меломан». Альманах Московской филармонии. Выпуск № 4
+    </div>
+
+    <div class="horizontal-banner" data-iframe-code="&lt;iframe src=&#34;//v.calameo.com/?bkcode=005743433a3c3441c0b81&amp;mode=mini&amp;view=book&amp;showsharemenu=false&amp;clickto=view&amp;clicktarget=_self&#34; width=&#34;550&#34; height=&#34;393&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency allowfullscreen style=&#34;margin:0 auto;&#34;&gt;&lt;/iframe&gt;">
+        «Меломан». Альманах Московской филармонии. Выпуск № 3
+    </div>
+
+    <div class="horizontal-banner" data-iframe-code="&lt;p&gt;&lt;a href=&#34;https://www.calameo.com/read/005743433ce4c3ef32179&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://www.calameo.com/read/005743433ce4c3ef32179&#34; target=&#34;_blank&#34;&gt;Открыть электронную версию&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width:550px; height:393px;&#34; src=&#34;https://www.calameo.com/read/005743433ce4c3ef32179&#34; target=&#34;_blank&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;">
+        «Меломан». Альманах Московской филармонии. Выпуск № 2
+    </div>
+
+</div>
+
+        <!-- <div class="gold-delimiter"></div>
+        <div style="clear:both;">
+            <img href="http://russianseasons.org/" src="/static/img/russian_seasons_logo.jpg" style="display:block; width:400px; height: 104px; margin-left:auto; margin-right:auto;" />
+        </div> -->
+
+      </div>
+
+      <div id="prefooter" class="prefooter clearfix">
+  <div class="gold-delimiter"></div>
+  <div class="clearfix">
+    <div class="left-block" >
+      <div class="block-wrapper quad clearfix">
+        <div class="what prefooter-buttons">
+          <div class="subscribe test">
+          <div class="text sans tiny bordeaux-text">Рассылка:</div>
+<div class="subscribe-field left">
+  <input type="text" placeholder="Email" name="subscribe-email" style="width:180px;" id="js-subscription-input">
+</div>
+<div id="js-subscription-button" class="button light-gray-field right-margin-reduced left subscribe-submit">
+  <span>Подписаться</span>
+</div>
+<script>
+
+  // $(function() {
+  //   var $subscribeBtn = $('#js-subscription-button');
+  //   var $terms = $('.js-terms');
+
+  //   $subscribeBtn.prop('disabled', true);
+  //   $subscribeBtn.addClass('disable');
+  //   $terms.hide();
+
+  //   $('#js-subscription-input').on('input', function(e) {
+  //     $subscribeBtn.prop('disabled', false);
+  //     $subscribeBtn.removeClass('disable');
+
+
+  //     $terms.show();
+  //   })
+  // })
+
+  
+
+
+  $('#js-subscription-button').click(function() {
+    var data = $('#js-subscription-input').val()
+    ga('send', {
+      'hitType': 'event',
+      'eventCategory': 'Accounts',
+      'eventAction': 'Mailing list subscription',
+      'eventLabel': data,
+      'eventValue': 1000
+    });
+  })
+</script>
+          </div>
+          <div class="row clearfix" style="margin-bottom: 18px;">
+            <div class="block-wrapper clear clearfix">
+              <div class="what pre2" style="margin-left:0px;margin-top: 1px;">
+                <a href="/calendar/" title="Календарь">
+                    <div class="button with-icon left clearfix" style="margin-left:10px;">
+                      <div class="icon ico_calendar"></div>
+                      <span class="button-text">Календарь</span>
+                    </div>
+                </a>
+                <div id="feedback" style="display:none;">
+                 <form action="#" id="feedback_form" method="GET">
+  <table cellpadding="0">
+
+
+    <tr>
+      <td class="label text sans bold">
+        Имя:
+      </td>
+      <td>
+      <input type="text" name="name" class="noico" maxlength="150" required id="id_name">
+      </td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td class="error-message"></td>
+    </tr>
+
+    <tr>
+      <td class="label text sans bold">
+        Email:
+      </td>
+      <td>
+      <input type="text" name="email" class="noico" required id="id_email">
+      </td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td class="error-message"></td>
+    </tr>
+
+    <tr>
+      <td class="label text sans bold">
+        Тип обращения:
+      </td>
+      <td>
+      <select name="feedback_type" style="visibility:visible; position:static;" class="custom-dropdown" tabindex="0" id="id_feedback_type">
+  <option value="1">Вопрос</option>
+
+  <option value="2">Проблема</option>
+
+  <option value="3">Предложение</option>
+
+  <option value="4" selected>Благодарность</option>
+
+  <option value="5">Билеты</option>
+
+</select>
+      </td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td class="error-message"></td>
+    </tr>
+
+    <tr>
+      <td class="label text sans bold">
+        Текст сообщения:
+      </td>
+      <td>
+      <textarea name="text" cols="40" rows="10" required id="id_text">
+</textarea>
+      <div class="terms-wrap">
+        <input class="policy_checkbox__input" id="policy-checked" name="policy-checked" type="checkbox" required>
+         <p class="text sans italic tiny tight gray">
+          
+          Я даю свое согласие на обработку моих персональных данных<br/> в соответствии с Федеральным законом<br/> от 27 июля 2006 г. №152-ФЗ "О персональных данных", <br/><a href="https://meloman.ru/media/upload/files/2022.09.01/doc00065920220826095901.pdf">Политикой в отношении обработки персональных данных</a> и <br/><a href="https://meloman.ru/privacy-policy/">Политикой конфиденциальности.</a>
+          
+         </p>
+      </div>
+      </td>
+    </tr>
+
+    <tr>
+      <td></td>
+      <td class="error-message"></td>
+    </tr>
+
+
+  </table>
+</form>
+                </div>
+                <a href="#" title="Обратная связь" id="feedback_link">
+                    <div class="button with-icon left clearfix">
+                      <div class="icon ico_feedback"></div>
+                      <span class="button-text">Обратная связь</span>
+                    </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="terms-wrap js-terms">
+            <p class="text sans italic tiny tight gray">
+                <input class="terms-wrap__input" id="terms-wrap__input__policy-checked" name="terms-wrap__input__policy-checked" type="checkbox" required>
+            
+            Я даю свое согласие на обработку моих персональных данных<br/> в соответствии с Федеральным законом<br/> от 27 июля 2006 г. №152-ФЗ "О персональных данных", <br/><a href="https://meloman.ru/media/upload/files/2022.09.01/doc00065920220826095901.pdf">Политикой в отношении обработки персональных данных</a> и <br/><a href="https://meloman.ru/privacy-policy/">Политикой конфиденциальности.</a>
+            
+            </p>
+        </div>
+      </div>
+    </div>
+    <div class="right-block">
+      <div class="social-icons clearfix">
+        <a href="https://vk.com/mosfilarmonia" target="_blank"><div class="ico_social vkontakte left"></div></a>
+        <a href="https://ok.ru/mosfilarmonia" target="_blank"><div class="ico_social ok left"></div></a>
+        <a href="https://youtube.com/mosfilarmonia" target="_blank"><div class="ico_social youtube left"></div></a>
+    </div>
+    </div>
+  </div>
+  <!--<div class="gold-delimiter no-top-margin"></div>-->
+  <!--<div class="app-links">
+    
+      <a href="https://itunes.apple.com/ru/app/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-%D1%84%D0%B8%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/id1248692437?mt=8" style="display:inline-block;overflow:hidden;background:url(//tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ru-ru?size=250x83&releaseDate=1497571200) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+      <a href='https://play.google.com/store/apps/details?id=com.phimobile&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' style="display:inline-block;overflow:hidden;background:url(//play.google.com/intl/en_us/badges/images/generic/ru_badge_web_generic.png) no-repeat;width:156px;height:40px;background-size:cover;background-position: center;"></a>
+    
+  </div>-->
+</div>
+
+</div>
+        
+      </div>
+      <div id="footer" class="row" style="padding: 40px 0;">
+  <div class="clearfix">
+    
+    <div class="span2 
+                        
+                          pre2
+                        
+                      ">
+      <h6 class="sans bold">КОНЦЕРТЫ</h6>
+      <br/>
+      <ul class="unstyled">
+	
+    
+        <li><a href="/calendar/">Календарь</a></li>
+    
+	
+    
+        <li><a href="/subscription/">Абонементы</a></li>
+    
+	
+    
+        <li><a href="/changes/">Изменения в афише</a></li>
+    
+	
+    
+        <li><a href="/composer/">Композиторы</a></li>
+    
+	
+    
+        <li><a href="/concerts/">Поиск концертов</a></li>
+    
+	
+      </ul>
+    </div>
+    
+    <div class="span2 ">
+      <h6 class="sans bold">БИЛЕТЫ</h6>
+      <br/>
+      <ul class="unstyled">
+	
+    
+        <li><a href="http://meloman.ru/pokupka-biletov-onlajn/?">Покупка онлайн</a></li>
+    
+	
+    
+        <li><a href="http://meloman.ru/contacts/">Покупка в кассах</a></li>
+    
+	
+    
+        <li><a href="/ticket-rules/">Правила покупки билетов</a></li>
+    
+	
+    
+        <li><a href="/pravila-posesheniya-filarmonii/">Правила посещения филармонии</a></li>
+    
+	
+    
+        <li><a href="https://meloman.ru/dostupnaya_sreda/">Доступная среда</a></li>
+    
+	
+      </ul>
+    </div>
+    
+    <div class="span2 ">
+      <h6 class="sans bold">О ФИЛАРМОНИИ</h6>
+      <br/>
+      <ul class="unstyled">
+	
+    
+        <li><a href="/about/">О Московской филармонии</a></li>
+    
+	
+    
+        <li><a href="/performers/">Исполнители</a></li>
+    
+	
+    
+        <li><a href="/news/">Новости</a></li>
+    
+	
+    
+        <li><a href="/press/">Пресс-центр</a></li>
+    
+	
+    
+        <li><a href="/about/#tabs-6">Партнеры</a></li>
+    
+	
+    
+        <li><a href="/oficialnye-svedeniya/?">Официальные сведения</a></li>
+    
+	
+    
+        <li><a href="/nezavisimaya-ocenka-kachestva/">Независимая оценка качества</a></li>
+    
+	
+    
+        <li><a href="/protivodejstvie-korrupcii/">Противодействие коррупции</a></li>
+    
+	
+    
+        <li><a href="https://forms.mkrf.ru/e/2581/YrrHrJbi/?ap_orgcode=064430">Пройти опрос Министерства культуры Российской Федерации об уровне удовлетворенности работой Московской филармонии</a></li>
+    
+	
+      </ul>
+    </div>
+    
+    <div class="span2 
+                        clear-right-margin
+                      ">
+      <h6 class="sans bold">СВЯЗАТЬСЯ</h6>
+      <br/>
+      <ul class="unstyled">
+	
+    
+        <li><a href="/contacts/">Контакты</a></li>
+    
+	
+    
+        <li><a href="http://vk.com/mosfilarmonia">ВКонтакте</a></li>
+    
+	
+    
+        <li><a href="https://www.youtube.com/mosfilarmonia">YouTube</a></li>
+    
+	
+    
+        <li><a href="https://ok.ru/mosfilarmonia">Одноклассники</a></li>
+    
+	
+    
+        <li><a href="https://t.me/mosfilarmonia">Telegram</a></li>
+    
+	
+      </ul>
+    </div>
+    
+  </div>
+
+  <div id="contacts">
+      <style>
+          .contacts-entry {
+              font-family:MyriadRegular;font-size:12px;margin-top:10px;line-height:14px;
+          }
+          .contacts-entry.last {
+              margin-bottom: 40px;
+          }
+      </style>
+      <div class="gold-delimiter"></div>
+      
+      <div class="clearfix">
+          <div class="span8 pre1">
+              <h6 class="sans bold">КАССЫ</h6>
+              <div class="span4">
+                  <div class="contacts-entry">
+                    <div>Концертный зал имени П. И. Чайковского</div>
+                    <div>Триумфальная площадь, 4</div>
+                    <div>с 9:00 до 22:00</div>
+                  </div>
+                  <div class="contacts-entry last">
+                    <div>Концертный комплекс «Филармония-2»</div>
+                    <div>Мичуринский просп., Олимпийская деревня, 1</div>
+                    <div>с 9:00 до 22:00</div>
+                  </div>
+              </div>
+              <div class="span4 clear-right-margin">
+                  <div class="contacts-entry">
+                    <!--div>Большой зал Консерватории</div>
+                    <div>ул. Большая Никитская, 13</div>
+                    <div>с 12:00 до 20:00</div-->
+                  </div>
+                  <div class="contacts-entry last">
+                    <!--div>Концертный зал "Оркестрион"</div>
+                    <div>ул. Гарибальди, 19</div>
+                    <div>с 12:00 до 20:00</div-->
+                  </div>
+              </div>
+          </div>
+          <div class="span2 clear-right-margin">
+              <h6 class="sans bold">ЗАКАЗ БИЛЕТОВ</h6>
+              <div class="contacts-entry">
+              <div>+7 (495) 232 53 53</div>
+              </div>
+              <div class="contacts-entry last">
+              <div class="sans bold"><h6><a href="/tickets">БИЛЕТЫ ОНЛАЙН</a></h6></div>
+              </div>
+          </div>
+      </div>
+      
+  </div>
+
+  <!--<div style="margin-left:80px; margin-top:20px; width:234px; text-align:center; font-size:smaller;">
+      <div>
+        <a target="_blank" href="http://www.uniteller.ru"><img src="/static/img/Uniteller_Visa_MasterCard_234x45.png" alt="Uniteller" /></a>
+      </div>
+      <div style="margin-top:-15px;">
+        <a target="_blank" href="http://www.uniteller.ru"><span>Интернет-эквайринг Uniteller</span></a>
+      </div>
+  </div>-->
+
+  <div>
+      <!--<div style="margin-left:430px; margin-top:-60px"> -->
+      <div style="margin-top:20px; width:234px; text-align:center; font-size:smaller;">
+        <img src="/static/img/pushkin_card.png" alt="Pushkin Card" width="65" height="62"/>
+      </div>
+  </div>
+
+  <div style="float: right;">
+      <div style="font-size:smaller;margin-right:85px;">
+        <a target="_blank" href="/sitemap/"><span>Карта сайта</span></a>
+      </div>
+  </div>
+</div>
+
+<!-- Carrot quest BEGIN -->
+<script type="text/javascript">
+!function(){function t(t,e){return function(){window.carrotquestasync.push(t,arguments)}}if("undefined"==typeof carrotquest){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.carrotquest.app/api.min.js",document.getElementsByTagName("head")[0].appendChild(e),window.carrotquest={},window.carrotquestasync=[],carrotquest.settings={};for(var n=["connect","track","identify","auth","onReady","addCallback","removeCallback","trackMessageInteraction"],a=0;a<n.length;a++)carrotquest[n[a]]=t(n[a])}}(),carrotquest.connect("57994-3e6de2c0a0f614bd3cd5f22f98");
+</script>
+<!-- Carrot quest END -->
+      <div class="cookie js-cookie-popup">
+  <div class="cookie__wrapper">
+    <div class="cookie__text">
+      Мы используем cookie-файлы. <br>
+      Оставаясь на сайте, вы соглашаетесь с <a class="cookie__link" target="_blank" href="https://meloman.ru/privacy-policy/">политикой конфиденциальности</a>
+    </div>
+    <button class="cookie__button js-cookie-btn">Хорошо</button>
+  </div>
+</div>
+      <div class="back-to-top" title="Back to top">
+          <div class="back-to-top__icon"></div>
+      </div>
+    </div>
+
+  
+</body>
+</html>

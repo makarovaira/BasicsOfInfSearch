@@ -1,0 +1,650 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META HTTP-EQUIV="EXPIRES" CONTENT="Wed, 12 Mar 2025 22:46:00 +0300">
+<META NAME="RESOURCE-TYPE" CONTENT="DOCUMENT">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+<META NAME="AUTHOR" CONTENT="Музей портрета «Национальная портретная галерея». Museum portrait "National Portrait Gallery" ">
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) by Музей портрета «Национальная портретная галерея». Museum portrait "National Portrait Gallery" ">
+<META NAME="KEYWORDS" CONTENT="биография,заказ портрета, портрет, портреты, живопись, картины, рисунки, фотопортрет, портрет по фото, женщины, портрет путина, заказ портретов, портрет на заказ, купить портрет, Александр Осипов, Осипов Александр, Путин, Коллекция Музея, отографии людей, репродукции картин, репродукции, фотостудии Москвы, фотостудия, фотосалоны,  психологический портрет, политический портрет, портрет личности, фото портреты, скачать портреты, исторический портрет, психологический портрет личности, портрет века, фотографии портрет, портреты Пушкина, современный портрет, портреты людей, портреты художников, портрет Петра, портрет Сталина, портрет Александра, русские портреты, скульптурный портрет, портрет руководителя, портрет Николая, женские портреты, портрет потребителя, портреты писателей, социально психологический портрет, портреты живопись, картины портреты, портрет Екатерины, римский портрет, русский портрет, портрет гоголя, портрет лидера, портреты великих, описания портретов, картины, пейзажи, натюрморты, искусство , заказ, картинная галерея, русские художники, изобразительное искусство, живопись, графика, рисунки, пейзажи, акварели, роспись стен,коллекция картин художников, художник роспись стен, флорентийская мозаика, колье из камней, требуется роспись стен">
+<META NAME="DESCRIPTION" CONTENT="Музей портрета
+«Национальная портретная галерея» - беспрецедентная в истории музейного дела и уникальная по содержанию коллекция ИСТОРИЧЕСКИХ ПОРТРЕТОВ! 
+Цель собрания – сохранить историческую память о выдающихся людях, чьими именами написаны страницы российской истории, осознать исторический контекст их существования, попытаться понять мотивы их деяний. 
+Портретные образы творцов российской истории и культуры, их легендарные судьбы и великие биографии представлены в коллекции Музея в самых разнообразных формах и жанрах, что позволяет максимально объемно увидеть личность и осознать её место в историческом пространстве. Музейный фонд формируется по классическому принципу иконографии и представляет собой базу данных. Коллекция «Национальной портретной галереи» - это собрание произведений живописи и графики, скульптуры, документальных фильмов и кино-иследований, редких фотографий, кинохроники, интересных интервью и многое другое…
+
+Музей портрета «Россия — Взгляд из третьего тысячелетия». Художественно-исторический проект "История России в лицах".  С уважением, Александр Осипов и Ирина Махнева!">
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="2 DAYS">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<title>Музей портрета «Национальная портретная галерея». Museum portrait "National Portrait Gallery"  – Добро пожаловать в музей портрета «Национальная портретная галерея»!</title>
+<LINK REL="shortcut icon" HREF="favicon.ico" TYPE="image/x-icon">
+<LINK REL="alternate" TYPE="application/rss+xml" title="RSS" HREF="backend.php">
+<!-- Новый стиль запуска Flash -->
+<script type="text/javascript" src="swfobject.js"></script>
+<script language="javascript"> AC_FL_RunContent = 0; </script>
+<script language="javascript"> DetectFlashVer = 0; </script>
+<script src="AC_RunActiveContent.js" language="javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+var requiredMajorVersion = 9;
+var requiredMinorVersion = 0;
+var requiredRevision = 45;
+// -->
+
+</script>
+
+<!-- Всплывающие окна рисунков -->
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+<link rel="stylesheet" href="js/lightbox.css" type="text/css" media="screen" />
+
+
+<!-- Смена рисунков при активации ссылок -->
+<script language="JavaScript">
+<!--
+function changeImages() {
+	if (document.images) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+		}
+	}
+}
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+// -->
+</script>
+<LINK REL="stylesheet" HREF="/themes/creative/style/style.css" TYPE="text/css">
+
+
+
+</head>
+
+<body leftmargin='0' topmargin='0' rightmargin='0' bottommargin='0' marginwidth='0' marginheight='0'>
+
+<table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td valign=top><P align=center><IMG border=0 src="http://portret.ru/i//zastavki/-1330-2.jpg"></P>
+<TABLE class=line cellSpacing=2 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/index.php">Главная<BR>страница</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=37" target=_blank>Коллекция<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=4">История<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=ProjectAuthors">Авторы<BR>проекта</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=GalleryPaintersMuseum">Художники<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=News&amp;file=topics&amp;topic=14">Новые<BR>поступления</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=Friends">Партнеры<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=5">Помощь<BR>Музею</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="http://portret.ru/modules.php?name=paket">Контакты<BR>НПГ</A></TD></TR></TBODY></TABLE></td></tr></table>
+
+<table width='100%' border='0' cellspacing='7' cellpadding='0'><tr><td><table cellspacing='2' cellpadding='0' width='100%' border='0'><tr>
+
+<td valign='top'><center><a href='http://translate.google.com/translate?u=http%3A%2F%2Fwww.portret.ru%2F&langpair=ru%7Cen&hl=ru'><img src='themes/creative/images/english.gif' border=0 alt='English' title='English'></a></center>
+
+
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Translate</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'>
+
+<table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td valign=top align=center>
+<a class=menutitle href='http://translate.google.com/translate?u=http%3A%2F%2Fwww.portret.ru%2F&hl=en&langpair=auto|en' title='Translate the page into English'>ENGLISH</a> </td></tr><tr><td valign=top align=center>
+<a class=menutitle href='http://translate.google.com/translate?u=http%3A%2F%2Fwww.portret.ru%2F&hl=fr&langpair=auto|fr' title='Traduire en fran&ccedil;ais'>FRENCH</a> </td></tr><tr><td valign=top align=center>
+<a class=menutitle href='http://translate.google.com/translate?u=http%3A%2F%2Fwww.portret.ru%2F&hl=de&langpair=auto|de' title='Die Seite auf den Deutschen zu &uuml;bersetzen'>DEUTSCH</a> 
+</td></tr></table>
+
+</td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Коллекция Музея</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><P>
+<H5 align=center><A href="http://portret.ru/modules.php?name=GalleryMuseum&do=showgall&gid=1"></A></H5>
+<H5 align=center><A href="http://portret.ru/modules.php?name=GalleryMuseum&do=showgall&gid=1"><IMG border=0 src="http://portret.ru/i//zastavki/karta.jpg"></A></H5></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Культура:</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><DIV align=center>&nbsp;</DIV>
+<DIV align=center><!--noindex--><A href="https://culture.gov.ru/press/news/ministerstvo-kultury-rf-poruchilo-istoricheskomu-muzeyu-vystupit-koordinatorom-p20171006164916/?sphrase_id=299221" target=_blank><!--/noindex--><IMG border=0 src="http://portret.ru/i//zastavki/Mikul_t.jpg"></A></DIV>
+<DIV align=center>&nbsp;</DIV>
+<DIV align=center><!--noindex--><A href="http://www.museum.ru/W1682certif" target=_blank><!--/noindex--><IMG border=0 src="http://portret.ru/i//zastavki/sert.jpg"></A></DIV></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle><a href="index.php">Главная</a></div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><P><A href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=37" target=_blank><STRONG>Коллекция Музея</STRONG></A></P>
+<P><A href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=27&amp;cid="><STRONG>Концепция</STRONG></A></P>
+<P><A href="http://portret.ru/modules.php?name=ProjectAuthors"><STRONG>Основатели Музея</STRONG></A></P>
+<P><A href="http://portret.ru/modules.php?name=Content" target=_blank><STRONG>Публикации</STRONG></A><STRONG> </STRONG></P>
+<P><A href="http://portret.ru/modules.php?name=Creators" target=_blank><STRONG>Создатели</STRONG></A><STRONG> </STRONG></P>
+<P><A href="http://portret.ru/modules.php?name=PhotoGallery&amp;do=showgall&amp;gid=1#galltop" ?><STRONG>Фотогалерея </STRONG></A></P>
+<P><A href="http://portret.ru/modules.php?name=PhotoGallery&amp;do=showgall&amp;gid=2#galltop"><STRONG>Фото с выставки</STRONG></A><STRONG> </STRONG></P>
+<P><A href="http://portret.ru/modules.php?name=Video&amp;do=showgall&amp;gid=1#galltop" target=_blank><STRONG>Видеогалерея </STRONG></A></P>
+<P><A href="http://portret.ru/modules.php?name=paket" target=_blank><STRONG>Контакты</STRONG></A><STRONG> </STRONG></P>
+<P><A href="http://portret.ru/modules.php?name=rupages&amp;pa=showpage&amp;pid=2" target=_blank><STRONG>Схема проезда</STRONG></A></P>
+</td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Ваше отношение к необходимости создания в России портретной галереи?</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><form action='modules.php?name=Surveys' method='post'><input type='hidden' name='op' value='vote'><input type='hidden' name='pollID' value='2'><table border='0' width='100%'><tr><td valign='top'><input type='radio' name='voteID' value='1'></td><td width='100%'><font class='boxcontent'>Великое государство обязано иметь супер-современную Национальную портретную галерею в МОСКВЕ.</font></td></tr>
+<tr><td valign='top'><input type='radio' name='voteID' value='2'></td><td width='100%'><font class='boxcontent'>Мне достаточно виртуального музея портрета.</font></td></tr>
+<tr><td valign='top'><input type='radio' name='voteID' value='3'></td><td width='100%'><font class='boxcontent'>Я с удовольствием схожу посмотреть на портреты современников, написанные интересными художниками.</font></td></tr>
+<tr><td valign='top'><input type='radio' name='voteID' value='4'></td><td width='100%'><font class='boxcontent'>Можно жить и без галереи портретов.</font></td></tr>
+<tr><td valign='top'><input type='radio' name='voteID' value='5'></td><td width='100%'><font class='boxcontent'>Затрудняюсь ответить в силу компетенции.</font></td></tr>
+</table><br><center><font class='content'><input type='submit' value='Ваш голос' class='sl'></font><br>
+<br><font class='content'><a href='modules.php?name=Surveys&op=results&pollID=2'><b>Результаты</b></a><br>
+Голосов <b>1493</b><br>
+<a href='modules.php?name=Surveys'><b>Все опросы</b></a>
+
+</font></center></form>
+
+</td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Вход</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><font class=topaddress>&nbsp;Здравствуйте, Гость!</font><hr size="0" style="border: thin dotted Gray;"><center>Автор [<a href="editor.php">Вход</a>]</center><hr size="0" style="border: thin dotted Gray;"><center>Пользователь:</center><form action="modules.php?name=Users" method="post" style="margin:5 0 0 5"><table cellpadding=0><tr><td><font class="boxcontent">Логин</td><td><input type="text" name="username" size="10" maxlength="25"></td></tr><tr><td><font class="boxcontent">Пароль</td><td><input type="password" name="user_password" size="10" maxlength="20"></td></tr><tr><td valign="middle"><input type="hidden" name="op" value="login"><input type="hidden" name="redirect" value="">
+<input type="hidden" name="mode" value="">
+<input type="hidden" name="f" value="">
+<input type="hidden" name="t" value=""><font class="boxcontent">Нажмите</td><td><font class="boxcontent"><input type="submit" value="Войти"></td></tr></table></form><font class="boxcontent"><a href="modules.php?name=Users&op=new_user"><center>Зарегистрироваться вы можете здесь</center></a></font></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+
+</td>
+
+<td width='3'><img width='3' height='1' src='images/pix.gif' alt=''></td><td width='100%' valign='top'><table width='100%' cellpadding='0' cellspacing='2' border='0' bgcolor='#d6d6df'><tr valign='top'><td width='100%' valign='top' bgcolor='snow'>
+<table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>Вас приветствует Музей портрета "Национальная портретная галерея"! Портрет. Биография.</b></font></center><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td>
+<font class=tiny>26.02.2006</font></td></tr><tr><td valign=bottom height=18 style='border-bottom: 2px solid ;'><a href='modules.php?name=News&amp;file=article&amp;sid=13' style='text-decoration:none'><font class=storytitle><P align=center>   Уважаемые посетители сайта portret.ru. Portrait. Портрет! Портреты картины... </P></font></a></td></tr><tr><td valign=bottom bgcolor=''><table border=0 align=right width='1%'><tr><td></td><td><nobr><font class=topaddress> <a href='modules.php?name=News&file=topics&topic=12' class=topaddress>Приветствие</a> </font></nobr></td></tr></table><P align=center>
+<TABLE style="BORDER-TOP: #000000 0px; BORDER-RIGHT: #000000 0px; BORDER-BOTTOM: #000000 0px; BORDER-LEFT: #000000 0px" cellSpacing=0 cellPadding=0 align=center bgColor=#ffffff>
+<TBODY>
+<TR>
+<TD>
+<TABLE style="BORDER-TOP: #000000 0px; BORDER-RIGHT: #000000 0px; BORDER-BOTTOM: #000000 0px; BORDER-LEFT: #000000 0px" cellSpacing=0 cellPadding=0 width="100%" bgColor=#ffffff metrikaId_0.40750999717284897="53">
+<TBODY metrikaId_0.40750999717284897="54">
+<TR metrikaId_0.40750999717284897="55">
+<TD metrikaId_0.40750999717284897="86">
+<P></P><FONT color=#ffffff metrikaId_0.40750999717284897="87"><FONT color=#2f4f4f metrikaId_0.40750999717284897="88"><STRONG metrikaId_0.40750999717284897="89">
+<P class=main metrikaId_0.40750999717284897="90">Музей портрета «Национальная портретная галерея»&nbsp;это портретно-биографическая летопись России!</P>
+<P class=main metrikaId_0.40750999717284897="91"></STRONG></FONT></FONT>&nbsp;</P>
+<P class=main align=justify metrikaId_0.40750999717284897="144"><STRONG>Цель собрания</STRONG> – сохранить историческую память о&nbsp;людях, чьими именами написаны страницы российской истории.</P>
+<P class=main align=justify metrikaId_0.40750999717284897="143"><STRONG>Задача</STRONG> -&nbsp;осознать исторический контекст их существования, попытаться понять мотивы их деяний. </P>
+<P class=main align=justify metrikaId_0.40750999717284897="142">&nbsp;</P>
+<P class=main align=justify metrikaId_0.40750999717284897="140"><STRONG metrikaId_0.40750999717284897="141">"НАРОДНАЯ ЛЕНТА ПАМЯТИ"</STRONG> - книга судеб это особый раздел Национальной Портретной Галереи.</P>
+<P class=main align=justify>
+<P class=main align=justify><FONT color=#663333></FONT></P>
+<P class=main align=justify></P>
+<P></P>
+<P class=main align=justify metrikaId_0.40750999717284897="139">Музейный фонд формируется по классическому принципу иконографии. </P>
+<P class=main align=justify metrikaId_0.40750999717284897="138">Надеемся в Вашем лице обрести искренних друзей Музея, коллег, соратников и помощников для которых как изучение, так и формирование Музейной коллекции - близкое сердцу дело!</P>
+<P style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 118px; PADDING-RIGHT: 0px" align=center>Культурно-просветительское Некоммерческое Партнерство "НПГ" . Портрет. The national portrait gallery! Портреты.</P>
+<DIV align=left><FONT color=#9999cc>&nbsp;<A href="http://portret.ru/modules.php?name=rupages&pa=showpage&pid=28&cid=" target=_blank><FONT color=#0066cc>Copyright © Музей портрета КП НП "НПГ" . Museum portrait "National Portrait Gallery".</FONT></A></FONT></DIV>
+<DIV align=left><FONT color=#9999cc>&nbsp;Все права защищены.</FONT><FONT color=#ffffff><U>&nbsp;«Национальная портретная галерея»</U></FONT></DIV></TD>
+<TD metrikaId_0.40750999717284897="56">
+<P align=center metrikaId_0.40750999717284897="136"><A href="https://yandex.ru/video/preview/?text=%D0%92%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%81%D1%8C%20%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F&path=wizard&parent-reqid=1625057223888371-10924067577006945088-balancer-knoss-search-yp-vla-6-BAL-4657&wiz_type=vital&filmId=2845065256052402780" target=_blank><IMG border=0 src="http://portret.ru/i//zastavki/a-1.jpg"></A></P>
+<P align=center metrikaId_0.40750999717284897="136"><FONT color=#0066cc><A href="https://yandex.ru/video/preview/?text=%D0%92%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC%20%D0%BC%D1%83%D0%B7%D0%B5%D0%B5%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%B0%D1%81%D1%8C%20%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F&path=wizard&parent-reqid=1625057223888371-10924067577006945088-balancer-knoss-search-yp-vla-6-BAL-4657&wiz_type=vital&filmId=2845065256052402780" target=_blank>В Историческом музее открылась Национальная портретная галер</A></FONT></P></TD></TR></TBODY></TABLE>&nbsp;</TD>
+<TD>&nbsp;</TD></TR></TBODY></TABLE></P></td></tr><tr><td><table border='0' width='100%'><tr><td><nobr><font class='more'>  <a href='modules.php?name=News&amp;file=article&amp;sid=13'> <b>подробнее...</b></a> </td><td width='100%' align='center'></td><td width='1%'><nobr></td></tr></table></td></tr></table><br></td></tr></table></td></tr></table></td></tr></table><table border=0><tr><td></td>
+<td width=100></td>
+<td></td>
+</tr></table>
+<br>
+<table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>Каталог монет Царской России в портретах...</font></td></tr><tr><td valign=bottom bgcolor='snow'><P><SPAN style="FONT-SIZE: 12pt">Монеты с портретами правителей</SPAN></P><SPAN style="FONT-SIZE: 12pt"></SPAN>
+<P><BR>В разных странах традиционно любили помещать на монеты профили выдающихся личностей, в особенности правителей. Так было и у нас, причём как в Царский, так и в Советский период. Монеты с изображением лидера всегда особенно ценились и отличались качеством изготовления. По ним можно судить о той эпохе.</P>
+<P><BR><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 11pt">Где найти сейчас</SPAN></SPAN></P>
+<P><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 11pt"></SPAN></SPAN>Увлекательно, что такие монеты можно приобрести и сейчас. <A href="https://filtorg.ru/monety/tsarskaya-rossiya/" target=_blank>Каталог монет Царской России</A> содержит широкий список исторических номиналов, и они доступны каждому. Наиболее ценные, редкие и дорогостоящие дензнаки изготовлены из драгоценных материалов, и являются настоящей редкостью.<BR>Рассмотрим списком наиболее знаковые из таких монет.</P>
+<P><BR><SPAN style="FONT-SIZE: 11pt">Монеты Царского периода</SPAN></P>
+<P><BR>●&nbsp;7 рублей 50 копеек 1897-го года. Эта золотая монета относится к классическим. На ней изображён известный профиль последнего царя Николая 2. Уже тогда, в начале его правления, он стал официальным. На обратной стороне представлен герб Российской Империи, вполне похожий на современный. А её необычный номинал связан с денежной реформой С.Ю.Витте и желанием привести монеты разных металлов и бумажные деньги к единой стоимости</P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/1.jpg" align=middle></P>
+<P><BR>●&nbsp;1 рубль 1913-го года «300 лет Дому Романовых». Особенностью монеты является совместное изображение тогдашнего Николая 2 и первого царя из династии - Михаила Фёдоровича в шапке Мономаха. Монета изготовлена из серебра и на обратной стороне представлен герб страны </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/2.jpg" align=middle></P>
+<P><BR>●&nbsp;1 рубль 1841-го года «Свадебный». Монета называется так потому что была выпущена к бракосочетанию наследника престола Александра Николаевича (будущего Александра 2) и Марии Александровны. Она повторяет аналогичные медали выпущенные по этому поводу, и отличается высоким качеством чеканки. На аверсе представлены профили молодожёнов с их именами, а на обратной стороне - тонкие изображения влюблённых ангелов. Есть варианты из золота и серебра, к тому же доступны более поздние перечеканки </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/3.jpg" align=middle></P>
+<P><BR>●&nbsp;10 рублей 1786-го года СПБ. Эта старинная монета выпущена при Екатерине 2 и содержит её профиль. Она отчеканена в золотой век империи и сама изготовлена из червлёного золота. На обратной стороне представлены стилизованные изображения гербов монархии, в форме креста. </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/4.jpg" align=middle></P>
+<P><BR>●&nbsp;2 рубля 1718-го года. Ещё одна старинная монета, настоящий раритет. Она изготовлена из золота при Петре 1, и как бы открывает эпоху современной чеканки в России. На аверсе изображён профиль Царя, а на реверсе - апостол Андрей Первозванный на косом кресте, ставший одним из символов России в ту эпоху </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/5.jpg" align=middle></P>
+<P><BR>●&nbsp;1,5 рубля 10 злотых 1836-го года «Семейный». Эта монета выпущена для царской Польши и посвящена семье Николая 1. На аверсе представлен профиль монарха, а на обратной стороне - его дети по кругу, и супруга в центре. Интересно, что несмотря на своё название по номиналу, монета изготовлена из серебра </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/6.jpg" align=middle></P>
+<P><BR><SPAN style="FONT-SIZE: 11pt">Монеты Советского периода</SPAN></P>
+<P><SPAN style="FONT-SIZE: 11pt"></SPAN><BR>Следующие монеты выпущены в советский период, и также отличаются большой оригинальностью:<BR>●&nbsp;1 рубль 1977-го года «60 лет Советской власти 1917-1977». Самый поздний вариант из всех, на ней представлен бюст вождя и основные достижения советской науки. На обратной стороне - герб страны. Монета отличается высокой гладкостью и блеском серебра, высокой точностью чеканки, а также крупным размером, куда умещается много деталей и свободного пространства </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/7.jpg" align=middle></P>
+<P><BR>●&nbsp;50 копеек 1967-го года «50 лет Советской власти». Несмотря на небольшой номинал, эта памятная монета посвящена юбилейной годовщине Октябрьской революции. На аверсе Ленин стоит высоко подняв руку, и надпись СССР. А с обратной стороны - герб страны, и номинал монеты. </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/8.jpg" align=middle></P>
+<P><BR>●&nbsp;1 рубль 1970-го года «100 лет со дня рождения Ленина 1870-1970». На аверсе представлен профиль вождя крупным планом с юбилейными датами. А на реверсе - герб Союза в торжественном оформление с крупными буквами </P>
+<P align=center><IMG border=0 src="http://portret.ru/i//1-News/9.jpg" align=middle></P>
+<P><BR>Все монеты отражают качество чеканки в свою эпоху, ведь они относятся к эксклюзивным сериям, и делались по высшим стандартам. Отсюда и хорошая их сохранность до наших дней. </P>
+<P>&nbsp;</P><br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 16.11.2023 (Прочтено: 9)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=167'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=167'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>ФОНД ИМЕНИ СВЯТОГО БЛАГОВЕРНОГО ВЕЛИКОГО КНЯЗЯ АЛЕКСАНДРА НЕВСКОГО</font></td></tr><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=162" title="ФОНД ИМЕНИ СВЯТОГО БЛАГОВЕРНОГО ВЕЛИКОГО КНЯЗЯ АЛЕКСАНДРА НЕВСКОГО (Невский 1!!!)"><img src="media.php?name=News&MediaOp=show&idMediaAss=s162&MediaName=Nevskii-1___-.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" height='200' align='left' title="ФОНД ИМЕНИ СВЯТОГО БЛАГОВЕРНОГО ВЕЛИКОГО КНЯЗЯ АЛЕКСАНДРА НЕВСКОГО (Невский 1!!!)" alt="Невский 1!!!"></a><P>
+<H1 class="mb-3 organization-name" style="BOX-SIZING: border-box; FONT-FAMILY: defaultfont, -apple-system, BlinkMacSystemFont, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 700; COLOR: rgb(17,17,17); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN-TOP: 0px; LETTER-SPACING: normal; LINE-HEIGHT: 1.2; MARGIN-RIGHT: 0px; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 11pt"><SPAN style="FONT-SIZE: 10pt">ФОНД СОДЕЙСТВИЯ СОХРАНЕНИЮ ИСТОРИЧЕСКОГО И КУЛЬТУРНОГО НАСЛЕДИЯ ИМЕНИ СВЯТОГО БЛАГОВЕРНОГО ВЕЛИКОГО КНЯЗЯ АЛЕКСАНДРА НЕВСКОГО!</SPAN></SPAN></SPAN></SPAN><SPAN style="FONT-SIZE: 13pt"><FONT color=#000000 size=3 face=Calibri></H1>
+<H1 class="mb-3 organization-name" style="BOX-SIZING: border-box; FONT-FAMILY: defaultfont, -apple-system, BlinkMacSystemFont, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 700; COLOR: rgb(17,17,17); FONT-STYLE: normal; MARGIN-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN-TOP: 0px; LETTER-SPACING: normal; LINE-HEIGHT: 1.2; MARGIN-RIGHT: 0px; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">
+<P class=main>Александр Невский Князь Новгородский, князь Тверской, великий князь Владимирский с 1252 г. – святой заступник Руси. Александр Ярославич Невский - Князь Новгородский, великий князь Киевский, великий князь Владимирский, полководец, святой Русской православной церкви. Является покровителем вооруженных сил России! В проекте «Имя России» Он стал главным символом России.</P>
+<P class=main>В&nbsp;феврале&nbsp;2022 года&nbsp;был создан&nbsp;Фонд им. Св. Александра Невского &nbsp;при поддержке всемирно известных общественных деятелей, политиков, бизнесменов, представителей спорта, науки, культуры. Основатель и президент фонда — Денис Владимирович Девяткин. </P>
+<P class=main>В июле 2022 года у фонда&nbsp;появился свой визуальный&nbsp;символ - "ЗОЛОТОЙ"&nbsp;портрет Александра Невского написанный&nbsp; заместителем Председателя Попечительского Совета фонда Александра Невского, Президентом НП "Национальная портретная галерея"&nbsp; Александром Ивановичем Осиповым.</P>
+<P class=main>Впереди большая и сложная работа в&nbsp;благотворительных и миротворческих проектах, а так же культурных делах которые будут проходить под покровительством -<FONT size=3></P>
+<P class=main>СВЯТОГО БЛАГОВЕРНОГО ВЕЛИКОГО КНЯЗЯ АЛЕКСАНДРА НЕВСКОГО!</P>
+<P class=main></FONT></FONT><BR>&nbsp;</P></H1></SPAN><br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 26.07.2022 (Прочтено: 952)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=162'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=162'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=162'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>«ЗОЛОТЫЕ СТРАНИЦЫ ИСТОРИИ ОТЕЧЕСТВА» - это больше чем собрание портретов и биографий!</font></td></tr><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=161" title="«ЗОЛОТЫЕ СТРАНИЦЫ ИСТОРИИ ОТЕЧЕСТВА» - это больше чем собрание портретов и биографий!"><img src="media.php?name=News&MediaOp=show&idMediaAss=s161&MediaName=2020-11-08_15-55-54.png&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="«ЗОЛОТЫЕ СТРАНИЦЫ ИСТОРИИ ОТЕЧЕСТВА» - это больше чем собрание портретов и биографий!" alt=""></a><P><FONT style="BACKGROUND-COLOR: #f9ffff" color=#546a67 face="Times New Roman">
+<P class=main align=center><STRONG>Уникальный проект "Злотые страницы Истории!"</STRONG></P>
+<P class=main align=center></FONT><STRONG><SPAN class=extended-text__short></SPAN></STRONG><SPAN class=extended-text__short>&nbsp;</P><SPAN style="FONT-SIZE: 14pt; LINE-HEIGHT: 115%; mso-bidi-font-size: 11.0pt"><FONT color=#000000><FONT face=Calibri>
+<P class=main><STRONG>21 век</STRONG> и развитие современных технологий - диктуют новые подходы к визуальному ряду и формированию художественных символов. Поиск новых изобразительных средств в иллюстрации портретно-биографического образа, дал эффективный старт в развитии проекту– «Золотые страницы истории Отечества».<BR>Проект был&nbsp;поддержан на уровне руководства РФ.</P>
+<P class=main>&nbsp;</P>
+<P class=main>Золото — символ бессмертия, достоинства, величия, благородства и чистоты…</P></FONT></FONT></SPAN></SPAN><br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 30.06.2021 (Прочтено: 1211)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=161'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=161'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=161'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>100 ЛЕТ СВР!</font></td></tr><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=160" title="100 ЛЕТ СВР!"><img src="media.php?name=News&MediaOp=show&idMediaAss=s160&MediaName=4185_o.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="100 ЛЕТ СВР!" alt=""></a>100 ЛЕТ! 20 декабря 1920 года...
+День создания советской внешней разведки. В этот день Ф.Э.Дзержинский подписал приказ № 169 об образовании Иностранного отдела ВЧК, в котором, в частности, говорилось:
+Иностранного отдела ВЧК, в котором, в частности, говорилось:
+1.    Иностранный отдел Особого отдела ВЧК расформировать и организовать Иностранный отдел ВЧК.
+2.    Всех сотрудников, инвентарь и дела Иностранного ОО ВЧК передать в распоряжение вновь организуемого Иностранного отдела ВЧК.
+3.    Иностранный отдел ВЧК подчинить Начальнику Особотдела тов.Менжинскому.
+4.    Врид.Начальником Иностранного отдела ВЧК назначается тов.Давыдов, которому в недельный срок представить на утверждение Президиума ВЧК штаты Иностранного отдела.
+5.    С опубликованием настоящего приказа все сношения с заграницей, Наркомвнешторгом, Центроэваком и Бюро Коминтерна всем отделам ВЧК производить только через Иностранный отдел.
+Правопреемницей Иностранного отдела ВЧК в наши дни является Служба внешней разведки Российской Федерации.
+<br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 20.12.2020 (Прочтено: 1415)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=160'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=160'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=160'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=159" title=""><img src="media.php?name=News&MediaOp=show&idMediaAss=s159&MediaName=1.png&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="" alt=""></a>Музейные коллекции пополняются! В Москве произошло важное событие. Министр обороны Сергей Шойгу принял от директора Службы внешней разведки Сергея Нарышкина настенную карту Юго-Восточной Азии принадлежавшую легендарному разведчику, и портрет Рихарда Зорге, выполненный в технике обработки полиграфического золота. «Карта и портрет Рихарда Зорге займут достойное место среди других экспонатов музея Главного управления Генерального штаба», – подчеркнул Сергей Шойгу. Торжественная церемония прошла в Национальном центре управления обороной Российской Федерации.
+<br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 28.11.2019 (Прочтено: 1730)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=159'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=159'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=159'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>Память поколений в достойных руках!</font></td></tr><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=158" title="Память поколений в достойных руках!"><img src="media.php?name=News&MediaOp=show&idMediaAss=s158&MediaName=1514365611_0_0_4118_2740_1440x900_80_0_1_3f8f.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="Память поколений в достойных руках!" alt=""></a><SPAN style='FONT-SIZE: 12pt; FONT-FAMILY: "Arial","sans-serif"; LINE-HEIGHT: 115%; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: RU'><FONT color=#000000><SPAN style="mso-spacerun: yes">
+<P class=main>Герой России, легендарный разведчик Алексей Ботян - настоящий свидетель века. Сто два года жизни. Есть, о чем вспомнить, есть, что рассказать.</P>
+<P class=main>Нашему другу, замечательному скульптору Алексею Дмитриевичу ЧЕБАНЕНКО выпала честь запечатлеть близкие сердцу каждого патриота Отечества черты Уникального разведчика!</P>
+<P class=main>Одной из самых известных в биографии Алексея Ботяна стала операция по освобождению польского Кракова зимой 1945 года. Разведчикам удалось обнаружить и 18 января 1945 года уничтожить в Ягелонском замке (Новы-Сонч, Краковское воеводство) склад взрывчатки, предназначенной для минирования культурных памятников Кракова, Рожновской плотины и мостов через реку Дунаец. Эта история легла в основу знаменитого военного романа Юлиана Семенова «Майор Вихрь» и одноименного фильма. Алексей стал прототипом главного героя. В жизни все было, как в кино, только со счастливым финалом. За сохранение Кракова Алексей Николаевич дважды представлялся к званию Героя Советского Союза, однако оба раза получал орден Красного Знамени. Из–за военных проволочек свою Золотую Звезду Героя офицер получил лишь в 2007 году.</P>
+<P class=main>В разведке Алексей Ботян остался и после войны, не одну жизнь проживая под чужими именами и под прикрытием разных легенд.</P>
+<P class=main>Справка:</P>
+<P class=main>Скульптор Алексей Дмитриевич ЧЕБАНЕНКО - родился в 1982 году в Москве. С 1993 г. по 2000 г. обучался в Московском академическом художественном лицее Российской академии художеств имени Н.В. Томского, которую окончил с золотой медалью Академии художеств. В 2012 году окончил Московский государственный художественный институт имени В.И. Сурикова (мастерская М.В. Переяславца).</P>
+<P class=main>Лауреат Первой премии в конкурсе ФСБ России за лучшие произведения литературы и искусства о деятельности органов федеральной службы безопасности. 2018 года, соавтор «Монумента погибшим экипажам дальней авиации ФСБ» в а/п «Шереметьево», памятника «Защитникам рубежей Отечества» в г. Рыльске, серии бюстов выдающихся сотрудников отечественных органов безопасности, г. Москва.</P>
+<P class=main>Лауреат всероссийского открытого творческого конкурса на лучшее архитектурно-скульптурное решение проекта памятника Г.П. Вишневской в г. Москве...</P></SPAN></FONT></SPAN><br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 22.08.2019 (Прочтено: 1835)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=158'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=158'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=158'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style='border-bottom: 2px solid #e5e5ef;'><font class=storytitle>НП "Национальная портретная галерея" передала в дар Бурятии портреты композиторов</font></td></tr><tr><td valign=bottom bgcolor='snow'><a href="modules.php?name=News&file=article&sid=157" title="НП "Национальная портретная галерея" передала в дар Бурятии портреты композиторов"><img src="media.php?name=News&MediaOp=show&idMediaAss=s157&MediaName=20181208_170751___.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="НП "Национальная портретная галерея" передала в дар Бурятии портреты композиторов" alt=""></a><P>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>8 декабря 2018г. 9466d33aeb9c8311</SPAN></SPAN></DIV>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;В Зеркальном зале Москонцерта прошла торжественная церемония передачи портретов бурятских композиторов от НП «Национальная портретная галерея» России в дар республики. </SPAN></SPAN></DIV>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;Пресс-служба министерства культуры Бурятии рассказали, что портреты замечательных бурятских композиторов были созданы в 1980-е годы художником Ларисой Викторовной Федотьевой (1935 г.р.). Художник создала графическую серию портретов Дандара Аюшеева, Гавриила Дадуева, Бау Ямпилова, Сергея Манжигеева, Гур-Дармы Дашипылова, Анатолия Андреева, Базыра Цырендашиева и Виктора Усовича… </SPAN></SPAN></DIV>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;В церемонии передачи портретов принял участие один из тех композиторов, с которых около 40 лет назад писала свои картины Лариса Федотьева. Это композитор Виктор Усович. Также на церемонии присутствовали Баир Дондоков, Вадим Юшин, народная артистка России Дарима Линховоин, заслуженный артист России Владимир Албатаев, Чингис и Елена Аюшеевы, Ольга Жигмитова, Елена Борохитова, Бадма-Ханда Аюшеева и Татьяна Штырева.</SPAN></SPAN></DIV>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;Президент НП «Национальная портретная галерея» Александр Осипов отметил, что уникальность события заключается в том, что музей портрета накапливает фонды, а не раздаёт их. Но тут особый случай, в котором торжествует историческая справедливость. </SPAN></SPAN></DIV>
+<DIV class=_1aa6><SPAN class=_5yl5><SPAN>&nbsp;&nbsp;&nbsp;&nbsp;Оригиналы картин будут переданы в Национальный музей Бурятия, а их копии вручат родным композиторов в 2019 году.</SPAN></SPAN></DIV><br></td></tr><tr><td style='border-bottom: 2px solid #e5e5ef;'>
+<font class=tiny> 10.12.2018 (Прочтено: 2209)</font><tr><td><table border='0' width='100%' cellspacing=0 cellpadding=0><tr><td style='white-space: nowrap;'><nobr>  <a class='more' href='modules.php?name=News&file=article&sid=157'> <b>подробнее...</b></a> </td><td align=right style='white-space: nowrap;'> <a href='modules.php?name=News&file=print&sid=157'><img src='images/print.gif' border='0' alt='Напечатать статью' title='Напечатать статью' ></a>
+ <a href='modules.php?name=News&file=friend&op=FriendSend&sid=157'><img src='images/email.gif' border='0' alt='Отправить статью' title='Отправить статью' ></a>
+</td></tr></table></td></tr></td></tr></table><br>
+<br>
+
+<center><font class='tnl'>Страница 1 из 15 страниц.</font><br><br style='line-height: 3px;'><form method='POST' action='modules.php?name=News'><input type='submit' name='p' value=' Все новости ' class='sl'></form><br style='line-height: 3px;'>
+</center>
+
+<table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>Вас присветствует НПГ:</b></font></center><br><P>
+<H5 align=center><A href="http://portret.ru/modules.php?name=GalleryMuseum&amp;do=showgall&amp;gid=1"></A></H5>
+<H5 align=center><A href="http://portret.ru/modules.php?name=GalleryMuseum&amp;do=showgall&amp;gid=1"><IMG border=0 src="http://portret.ru/i//zastavki/karta.jpg"></A></H5>
+<P align=center><STRONG><SPAN class=extended-text__short>Куратор проекта «Золотые страницы истории России» Александр Осипов,</SPAN></STRONG></P><SPAN class=extended-text__short></SPAN></td></tr></table></td></tr></table></td></tr></table><table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>Творческая мастерская "Национальной портретной галереи"</b></font></center><br><table border='0' cellpadding='0' cellspacing='2' width='100%'>
+<tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td>
+<font class=tiny>25.11.2023</font></td></tr><tr><td valign=bottom bgcolor=''><table border=0 align=right width='1%'><tr><td></td><td><nobr><font class=topaddress> <a href='modules.php?name=News&file=topics&topic=7' class=topaddress>В портретном цехе</a> </font></nobr></td></tr></table><P>
+<DIV class=article__header style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial"><SPAN style="FONT-SIZE: 14pt"><STRONG>О создании Национальной портретной галереи России</STRONG></SPAN></DIV><SPAN style="FONT-SIZE: 14pt"><STRONG></STRONG></SPAN>
+<DIV class=article__header style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial"><BR>Опубликовать в социальных сетях:</DIV>
+<DIV class=article__header style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">&nbsp;<A href="https://culture.gov.ru/documents/o-sozdanii-natsionalnoy-portretnoy-galerei-rossii-14/">https://culture.gov.ru/documents/o-sozdanii-natsionalnoy-portretnoy-galerei-rossii-14/</A></DIV>
+<DIV class=article__header style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial"><BR>РЕШЕНИЕ КОЛЛЕГИИ 28 ОКТЯБРЯ 2011№ 14</DIV>
+<DIV class=article__header style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">ПОДПИСАН: ПРЕДСЕДАТЕЛЬ КОЛЛЕГИИ, МИНИСТР КУЛЬТУРЫ РОССИЙСКОЙ ФЕДЕРАЦИИ А.А.АВДЕЕВ</DIV>
+<H1 class=article__title style="FONT-SIZE: 36px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 500; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 12px; PADDING-LEFT: 0px; MARGIN: 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; LINE-HEIGHT: 40px; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-stretch: 110%">Национальная портретная галерея начнется с выставки-презентации</H1>
+<DIV class=article__announce style="FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; MARGIN: 24px 0px 0px; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">
+<DIV class=media style="POSITION: relative; DISPLAY: block; MAX-HEIGHT: 1000000px" data-media-tipe="s640x363">
+<DIV class=media__size style="POSITION: relative; MARGIN: 0px; MAX-HEIGHT: 1000000px">
+<DIV class=photoview__open style="CURSOR: zoom-in; MAX-HEIGHT: 1000000px" data-photoview-shareid="" data-photoview-sharelink="https://ria.ru/20120220/570617176.html?share-img=456533964" data-photoview-image-id="456533964" data-photoview-src="https://cdnn21.img.ria.ru/images/45653/40/456534044_0:0:0:0_1440x900_80_1_1_ea56c418f41cc5401768874212fe91f3.jpg.webp?source-sid=rian_photo" data-photoview-group="570617176"><A style="CURSOR: pointer; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(123,123,123); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: block; LETTER-SPACING: normal; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); MARGIN-RIGHT: 10px; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px" href="https://ria.ru/20120220/">17:46 20.02.2012</A><NOINDEX style="MAX-HEIGHT: 1000000px"></NOINDEX></DIV></DIV>
+<DIV class=media__after style="PADDING-BOTTOM: 0px; PADDING-TOP: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px">
+<DIV class="media__copyright " style="OVERFLOW: hidden; FONT-WEIGHT: 400; COLOR: rgb(123,123,123); TEXT-ALIGN: left; PADDING-TOP: 5px; DISPLAY: flex; LINE-HEIGHT: 1.1; MAX-HEIGHT: 1000000px; flex-wrap: wrap; -webkit-box-pack: start; justify-content: flex-start" data-nosnippet="true">
+<DIV class="media__copyright-item m-copyright" style="FONT-SIZE: 12px; VERTICAL-ALIGN: top; POSITION: relative; PADDING-LEFT: 0px; MARGIN-LEFT: 0px; DISPLAY: inline-block; LINE-HEIGHT: 15px; MAX-HEIGHT: 1000000px; MARGIN-RIGHT: 9px" data-gtm-vis-has-fired10468637_142="1" data-gtm-vis-total-visible-time10468637_142="100" data-gtm-vis-first-on-screen10468637_142="2214" data-gtm-vis-recent-on-screen10468637_142="2214">© РИА Новости / Андрей Стенин</DIV></DIV></DIV></DIV></DIV>
+<DIV class=article__aggr style="OVERFLOW: hidden; FONT-SIZE: 16px; FONT-FAMILY: RobotoFlex, Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: rgb(0,0,0) 1px solid; POSITION: relative; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 8px; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN-TOP: 24px; DISPLAY: block; LETTER-SPACING: normal; PADDING-RIGHT: 0px; MAX-HEIGHT: 1000000px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial" data-nosnippet="true" data-visiblepush="yes">
+<P class=content>Национальная портретная галерея, с инициативой создания которой в 2010 году выступил премьер-министр РФ Владимир Путин, начнется с выставки и мультимедийного портала, рассказал на пресс-конференции в РИА Новости Алексей Левыкин, директор Государственного исторического музея, в филиале которого - здании бывшей Гордумы - должна была расположиться галерея.</P>
+<P class=content><BR>МОСКВА, 20 фев - РИА Новости. Национальная портретная галерея, с инициативой создания которой в 2010 году выступил премьер-министр РФ Владимир Путин, начнется с выставки и мультимедийного портала, рассказал на пресс-конференции в РИА Новости Алексей Левыкин, директор Государственного исторического музея, в филиале которого - здании бывшей Гордумы - должна была расположиться галерея.</P>
+<P class=content>"Первый этап ее создания - выставка-презентация "Национальная портретная галерея". В прошлом году состоялась коллегия Минкультуры, на которой обсуждался вопрос создания галереи. Были определены три основных музея-держателя русского национального портрета - Исторический музей, Третьяковская галерея и Русский музей. Экспозиция создается на основе их собраний", - сказал Левыкин.</P>
+<P class=content>Также он отметил, что вопрос создания Национальной портретной галереи связан с некоторыми трудностями.</P>
+<P class=content>"Вопрос о создании галереи очень сложный. Как к нему подойти, не разрушив те исторические собрания, которые в наших музеях укомплектовывались на протяжении даже не десятилетий, а веков? Поэтому сначала откроется выставка-презентация, за которой последует создание мультимедийного портала и широкое обсуждение проекта", - отметил директор ГИМа.</P>
+<P class=content><BR>&nbsp;</P></DIV></td></tr><tr><td><table border='0' width='100%'><tr><td><nobr><font class='more'>  <a href='modules.php?name=News&amp;file=article&amp;sid=168'> <b>подробнее...</b></a> </td><td width='100%' align='center'></td><td width='1%'><nobr></td></tr></table></td></tr></table><br></td>
+<td>&nbsp;</td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table><table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>О коллекции Музея</b></font></center><br><table border='0' cellpadding='0' cellspacing='2' width='100%'>
+<tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td>
+<font class=tiny>29.08.2006</font></td></tr><tr><td valign=bottom height=18 style='border-bottom: 2px solid ;'><a href='modules.php?name=News&amp;file=article&amp;sid=14' style='text-decoration:none'><font class=storytitle>Вас приветствуют авторы проекта Александр Осипов и Ирина Махнёва!!!</font></a></td></tr><tr><td valign=bottom bgcolor=''><table border=0 align=right width='1%'><tr><td></td><td><nobr><font class=topaddress> <a href='modules.php?name=News&file=topics&topic=11' class=topaddress>О коллекции Музея</a> </font></nobr></td></tr></table><a href="modules.php?name=News&file=article&sid=14" title="Вас приветствуют авторы проекта Александр Осипов и Ирина Махнёва!!!"><img src="media.php?name=News&MediaOp=show&idMediaAss=s14&MediaName=05061_.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="Вас приветствуют авторы проекта Александр Осипов и Ирина Махнёва!!!" alt=""></a><P>Ответ на&nbsp; - "вечный вопрос".<BR>В Древнем Египте - с самых истоков, существовала практика : рядом с мумией усопшего правителя ставили его портретное или скульптурное изображение. Собственно, если внимательно посмотрите на саркофаги мумий - обязательно разглядите там портрет. Особое внимание уделялось сходству портрета с оригиналом. Не буду вдаваться в подробности и "мистические" технологии, но эта практика сильно повлияла на социально-политическую устойчивость Египта, как государства : за ТЫСЯЧИ лет существования этой цивилизации даже покрой одежды , не говоря уже о социально-политическом устройстве, особо не изменился :). Не вдаваясь в подробности, опять же, замечу, что сходные практики применялась в древнем и средневековом Китае - с аналогичными результатами :).<BR>Бегушев С.А.<BR></P>
+<P align=center>
+<OBJECT width=425 height=344><PARAM NAME="movie" VALUE="http://www.youtube.com/v/rly72JbLkXw&amp;hl=ru&amp;fs=1"><PARAM NAME="allowFullScreen" VALUE="true"><PARAM NAME="allowscriptaccess" VALUE="always">
+<embed src="http://www.youtube.com/v/rly72JbLkXw&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></OBJECT></P><FONT color=#000000 size=3 face=Calibri>
+<P class=main>Нельзя научиться любить живых, </P>
+<P class=main>если не умеешь хранить память о мертвых. </P>
+<P class=main>Маршал Советского Союза </P>
+<P class=main>К.К. Рокоссовский </P></FONT>
+<P align=center>&nbsp;</P></td></tr><tr><td><table border='0' width='100%'><tr><td><nobr><font class='more'>  <a href='modules.php?name=News&amp;file=article&amp;sid=14'> <b>подробнее...</b></a> </td><td width='100%' align='center'></td><td width='1%'><nobr></td></tr></table></td></tr></table><br></td>
+<td>&nbsp;</td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table><table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>Портрет</b></font></center><br><table border='0' cellpadding='0' cellspacing='2' width='100%'>
+<tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td>
+<font class=tiny>04.09.2006</font></td></tr><tr><td valign=bottom height=18 style='border-bottom: 2px solid ;'><a href='modules.php?name=News&amp;file=article&amp;sid=46' style='text-decoration:none'><font class=storytitle>06.06.06 10:01 Во Франции обнаружен самый древний в истории портрет - ему 27 тыс. лет</font></a></td></tr><tr><td valign=bottom bgcolor=''><table border=0 align=right width='1%'><tr><td></td><td><nobr><font class=topaddress> <a href='modules.php?name=News&file=topics&topic=10' class=topaddress>Художник месяца</a> </font></nobr></td></tr></table><a href="modules.php?name=News&file=article&sid=46" title="06.06.06 10:01 Во Франции обнаружен самый древний в истории портрет - ему 27 тыс. лет"><img src="media.php?name=News&MediaOp=show&idMediaAss=s46&MediaName=b_2532.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="06.06.06 10:01 Во Франции обнаружен самый древний в истории портрет - ему 27 тыс. лет" alt=""></a><p>В пещере на западе Франции обнаружено самое древнее из всех известных изображение человеческого лица. Портрет, написанный 27 тыс. лет назад, обнаружил спелеолог-любитель Жерар Журди в пещере Вильоннер рядом с городом Ангулем. </p><p>Изображение сделано мелом - неизвестный художник использовал...</p></td></tr><tr><td><table border='0' width='100%'><tr><td><nobr><font class='more'>  <a href='modules.php?name=News&amp;file=article&amp;sid=46'> <b>подробнее...</b></a> </td><td width='100%' align='center'></td><td width='1%'><nobr></td></tr></table></td></tr></table><br></td>
+<td>&nbsp;</td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table><table width='100%' cellspacing='0' cellpadding='7' border='0'><tr><td style='border: 1px solid #dbdbe5;' bgcolor='#e5e5ef'><table width='100%' cellspacing='5' cellpadding='0' border='0'><tr><td bgcolor='snow'><table width='100%' cellspacing='3' cellpadding='0' border='0'><tr><td><center><font class='option'><b>Персона дня</b></font></center><br><table border='0' cellpadding='0' cellspacing='2' width='100%'>
+<tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style="border-bottom: 2px solid ;"><a href='modules.php?name=Artist&amp;file=article&amp;sid=86' style='text-decoration:none'><font class=storytitle>Художник Обамы сядет за граффити</font></a></td></tr><tr><td valign=bottom bgcolor=""><a href="modules.php?name=News&file=article&sid=86" title="Художник Обамы сядет за граффити"><img src="media.php?name=News&MediaOp=show&idMediaAss=s86&MediaName=20090208161740.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="Художник Обамы сядет за граффити" alt=""></a><DIV class=tn-title>Художник Обамы сядет за граффити</DIV>
+<DIV class=art-text-subtitle>Автора самого известного портрета президента обвиняют в вандализме</DIV>
+<DIV class=preamble>В Бостоне арестован автор одного из самых известных портретов нового президента США Барака Обамы Шепард Фэйри. Его обвиняют в вандализме: он рисовал граффити на улицах города. Художник прославился после появления картины под названием «Обама - надежда». Это большой портрет Обамы, выполненный в трех цветах - в красном, синем и белом. Изображение быстро стало популярным во время предвыборной кампании Обамы, появилось на плакатах, футболках, значках и даже было выставлено в Национальной портретной галерее Вашингтона.</DIV>
+<P></td></tr><tr><td style="border-bottom: 2px solid ;">
+<font class=tiny> 09.02.2009</font><tr><td><table border="0" width="100%"><tr><td><nobr><font class="more"> <a href='modules.php?name=Artist&amp;file=article&amp;sid=86'><b>подробнее...</b></a>&nbsp;&nbsp; </td><td width="100%" align="center"></td><td width="1%"><nobr></td></tr></table></td></tr></td></tr></table><br></td>
+<td>&nbsp;</td></tr><tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style="border-bottom: 2px solid ;"><a href='modules.php?name=Artist&amp;file=article&amp;sid=84' style='text-decoration:none'><font class=storytitle>У Никаса Сафронова украли портрет Путина</font></a></td></tr><tr><td valign=bottom bgcolor=""><a href="modules.php?name=News&file=article&sid=84" title="У Никаса Сафронова украли портрет Путина"><img src="media.php?name=News&MediaOp=show&idMediaAss=s84&MediaName=2005-39-142-01.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="У Никаса Сафронова украли портрет Путина" alt=""></a><P>
+<P class=main><STRONG>У Никаса Сафронова украли портрет Путина</STRONG></P>
+<P class=main>«Пираты» наносили высокопоставленное лицо кисти художника на футболки. Каждая маечка с лозунгом «Все путем!» шла по пять долларов за штуку </P>
+<P class=main>Анна СЕЛИВАНОВА — 20.08. </P>
+<P class=main>Иногда художники спускаются с небес, бывает, что и на Арбат. Не так давно Никас Сафронов прогуливался по этой улице. Его внимание привлекла не живопись, а упругая женская грудь - место святое для любого художника. На пышных формах девушки неожиданно кокетливо изгибалось лицо Владимира Путина. А в двух шагах ...</P></td></tr><tr><td style="border-bottom: 2px solid ;">
+<font class=tiny> 16.01.2009</font><tr><td><table border="0" width="100%"><tr><td><nobr><font class="more"> <a href='modules.php?name=Artist&amp;file=article&amp;sid=84'><b>подробнее...</b></a>&nbsp;&nbsp; </td><td width="100%" align="center"></td><td width="1%"><nobr></td></tr></table></td></tr></td></tr></table><br></td>
+<td>&nbsp;</td></tr><tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style="border-bottom: 2px solid ;"><a href='modules.php?name=Artist&amp;file=article&amp;sid=76' style='text-decoration:none'><font class=storytitle>Из музея «Штази» в Берлине украден портрет Ленина</font></a></td></tr><tr><td valign=bottom bgcolor=""><a href="modules.php?name=News&file=article&sid=76" title="Из музея «Штази» в Берлине украден портрет Ленина"><img src="media.php?name=News&MediaOp=show&idMediaAss=s76&MediaName=lenin.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" height='200' align='left' title="Из музея «Штази» в Берлине украден портрет Ленина" alt=""></a><H1>Из музея «Штази» в Берлине украден портрет Ленина </H1>
+<DIV style="DISPLAY: none; MARGIN: -20px 0px 21px">&nbsp;</DIV>В субботу, 3 мая, из музея «Штази», расположенного в бывшей штаб-квартире спецслужбы ГДР в Берлине, были похищены памятная хоккейная клюшка из СССР и портрет Ленина. <BR><BR>Как сообщает «Lenta.ru», украдены и некоторые другие экспонаты. <BR><BR>Как передает «Газета.ru» со ссылкой на «Associated Press», взлом обнаружил работник музея в субботу. Полиция предполагает, что кража была совершена поздно вечером в пятницу или рано утром в субботу. <BR><BR>Как сообщает РБК, пропажа экспонатов была обнаружена накануне, перед открытием музея. По сообщению полиции, грабители проникли в музей через окно и обошли несколько комнат, успев побывать в кабинете последнего министра госбезопасности ГДР Эриха Мильке. </td></tr><tr><td style="border-bottom: 2px solid ;">
+<font class=tiny> 05.05.2008</font><tr><td><table border="0" width="100%"><tr><td><nobr><font class="more"> <a href='modules.php?name=Artist&amp;file=article&amp;sid=76'><b>подробнее...</b></a>&nbsp;&nbsp; </td><td width="100%" align="center"></td><td width="1%"><nobr></td></tr></table></td></tr></td></tr></table><br></td>
+<td>&nbsp;</td></tr><tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style="border-bottom: 2px solid ;"><a href='modules.php?name=Artist&amp;file=article&amp;sid=68' style='text-decoration:none'><font class=storytitle>Портрет - это какой-то элемент проявления государственности, так же, как и флаг, герб.</font></a></td></tr><tr><td valign=bottom bgcolor=""><a href="modules.php?name=News&file=article&sid=68" title="Портрет - это какой-то элемент проявления государственности, так же, как и флаг, герб."><img src="media.php?name=News&MediaOp=show&idMediaAss=s68&MediaName=Putin__.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" height='200' align='left' title="Портрет - это какой-то элемент проявления государственности, так же, как и флаг, герб." alt=""></a>"Я не вижу ничего зазорного в том, что государственные чиновники имели в своих кабинетах портрет своего руководителя. Не вижу в этом никакого чинопочитания, ни пресмыкания. Это какой-то элемент проявления государственности, так же, как и флаг, герб", - сказал В.Путин, отвечая на вопросы журналистов в четверг в Москве. 14 февраля 2008 года 
+</td></tr><tr><td style="border-bottom: 2px solid ;">
+<font class=tiny> 16.02.2008</font><tr><td><table border="0" width="100%"><tr><td><nobr><font class="more"> <a href='modules.php?name=Artist&amp;file=article&amp;sid=68'><b>подробнее...</b></a>&nbsp;&nbsp; </td><td width="100%" align="center"></td><td width="1%"><nobr></td></tr></table></td></tr></td></tr></table><br></td>
+<td>&nbsp;</td></tr><tr><td valign='top' width='100%'><table width=100% cellspacing=0 cellpadding=5 border=0><tr><td valign=bottom height=18 style="border-bottom: 2px solid ;"><a href='modules.php?name=Artist&amp;file=article&amp;sid=56' style='text-decoration:none'><font class=storytitle>Из музея изъят портрет голого Джорджа Буша</font></a></td></tr><tr><td valign=bottom bgcolor=""><a href="modules.php?name=News&file=article&sid=56" title="Из музея изъят портрет голого Джорджа Буша"><img src="media.php?name=News&MediaOp=show&idMediaAss=s56&MediaName=_40159346_bush_pa.jpg&MediaNum=01&ImgWs=200&ImgHs=200" border="0" hspace="5" vspace="0" width='200' align='left' title="Из музея изъят портрет голого Джорджа Буша" alt=""></a><P>Анекдот: 
+<P>Если портрет на стене вам подмигнул -<BR>конец&nbsp;рабочего дня&nbsp;близок. <B style="FONT-SIZE: 0px; COLOR: rgb(255,255,255)">malina-mix.com</B><BR>Если он подмигнул вам дважды, то<BR>неизвестно, чей конец ближе: рабочего дня или ваш. 
+<P>&nbsp; 
+<P>Из музея изъят портрет голого Джорджа Буша<BR><BR>Музей говорит, что это зрелище - не совсем то, чего ожидали от художника <BR>Рисованный портрет обнаженного президента США изъят из вашингтонского музея. <BR>На работе Кейти Дидриксен под названием "Человек удовольствия король Георг (Джордж)" Джордж Буш-младший представал лежащим в постели в чем мать родила в тот момент, когда к нему приходит человек в костюме, напоминающий вице-президента Дика Чейни. <BR><BR>Рисунок вдохновлен "Олимпией" Эдуарда Мане, выставленной в одном из парижских музеев. "Человек удовольствия"...</P></td></tr><tr><td style="border-bottom: 2px solid ;">
+<font class=tiny> 24.03.2007</font><tr><td><table border="0" width="100%"><tr><td><nobr><font class="more"> <a href='modules.php?name=Artist&amp;file=article&amp;sid=56'><b>подробнее...</b></a>&nbsp;&nbsp; </td><td width="100%" align="center"></td><td width="1%"><nobr></td></tr></table></td></tr></td></tr></table><br></td>
+<td>&nbsp;</td></tr></table>
+</td></tr></table></td></tr></table></td></tr></table></td></tr></table>
+</td><td width='3'><img width='3' height='1' src='images/pix.gif' alt=''></td>
+
+<td valign='top'>
+
+
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Музей портрета:</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><table border=0 width=100% style='border-top:4px solid #E8E1E7;'><tr><td align=center><a href='modules.php?name=GalleryMuseum&do=showpic&pid=233'><img src='i/GalleryMuseum/coeval/thumb/Lermontov_M_Yu.jpg' border='0' width='165' height='220' alt='Лермонтов М Ю' title='Лермонтов М Ю'></a></td></tr><tr><td align=center>Лермонтов М Ю</td></tr><tr height=14><td></td></tr><tr><td align=center><a href='modules.php?name=GalleryMuseum&do=showpic&pid=234'><img src='i/GalleryMuseum/coeval/thumb/Dostoevskii_F.jpg' border='0' width='165' height='220' alt='Достоевский Ф' title='Достоевский Ф'></a></td></tr><tr><td align=center>Достоевский Ф</td></tr><tr height=14><td></td></tr></table></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>Конкурс Высоцкого</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><table border=0 width=100% style='border-top:4px solid #E8E1E7;'><tr><td align=center><a href='modules.php?name=KonkursVisockogo&do=showpic&pid=23'><img src='i/KonkursVisockogo/Konkurs/thumb/vusotsky_jpg.jpg' border='0' width='176' height='132' alt='Зима Сергей' title='Владимир Высоцкий
+60 х 80 см 
+пластификация   '></a></td></tr><tr><td align=center>Зима Сергей</td></tr><tr height=14><td></td></tr><tr><td align=center><a href='modules.php?name=KonkursVisockogo&do=showpic&pid=22'><img src='i/KonkursVisockogo/Konkurs/thumb/653162820_n.jpg' border='0' width='176' height='134' alt='Числов Александр Викторович' title='образ Владимира Семёновича Высоцкого'></a></td></tr><tr><td align=center>Числов Александр Викторович</td></tr><tr height=14><td></td></tr></table></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+<div align='center'><table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_01.gif' width='40' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_02.gif' width='119' height='16' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_03.gif' width='41' height='16' alt=''></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'>&nbsp;</td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><div align='center' class=boxtitle>АРТРЕЕСТР</div></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_04.gif' valign='top' width='7'></td>
+<td background='themes/creative/images/tab1_05.gif' valign='top' width='186'><img border='0' src='themes/creative/images/tab1_05.gif' width='1' height='7' alt=''></td>
+<td background='themes/creative/images/tab1_06.gif' valign='top' width='7'></td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td background='themes/creative/images/tab1_07.gif' valign='top' width='12'>&nbsp;</td>
+<td background='themes/creative/images/tab1_08.gif' valign='top' width='174'><P align=center><STRONG><FONT color=#2f4f4f><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black"><FONT color=#330000 size=2><SPAN style="FONT-SIZE: 12pt"><SPAN style="COLOR: red"><FONT size=3 face="Times New Roman"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><SPAN style="COLOR: red"><FONT size=3 face="Times New Roman"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; LETTER-SPACING: 0.25pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU; mso-ansi-language: RU; mso-bidi-language: AR-SA"><FONT color=#990000><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: 'Calibri','sans-serif'; LINE-HEIGHT: 115%; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-ansi-language: RU; mso-bidi-language: AR-SA; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi"><FONT color=#000000><SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black"><FONT color=#330000 size=2><SPAN style="FONT-SIZE: 12pt"><STRONG><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><STRONG>Единый&nbsp;реестр</STRONG></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></STRONG></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></P>
+<P align=center target="_blank"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black"><FONT color=#330000 size=2><SPAN style="FONT-SIZE: 12pt"><SPAN style="COLOR: red"><FONT size=3 face="Times New Roman"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><SPAN style="COLOR: red"><FONT size=3 face="Times New Roman"><SPAN style="FONT-FAMILY: 'Arial','sans-serif'"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; LETTER-SPACING: 0.25pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU; mso-ansi-language: RU; mso-bidi-language: AR-SA"><FONT color=#990000><SPAN style="FONT-SIZE: 11pt; FONT-FAMILY: 'Calibri','sans-serif'; LINE-HEIGHT: 115%; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US; mso-ansi-language: RU; mso-bidi-language: AR-SA; mso-bidi-font-family: 'Times New Roman'; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi"><FONT color=#000000><SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black"><FONT color=#330000 size=2><SPAN style="FONT-SIZE: 12pt"><STRONG><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: RU"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 15pt"><FONT color=#cc0033 face="Arial, Helvetica, sans-serif"><SPAN style="FONT-SIZE: 16pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><SPAN style="FONT-SIZE: 11pt"><FONT color=#990000><FONT color=#660000><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 12pt"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: 'Arial','sans-serif'; COLOR: #cc0000"><SPAN style="FONT-SIZE: 14pt"><SPAN style="FONT-SIZE: 13pt"><A href="http://artreestr.ru/modules.php?name=MemberPictures" target=_blank><IMG style="HEIGHT: 87px; WIDTH: 143px" border=0 src="http://artreestr.ru/i//zastavki/Tropina_logotip-A.gif" width=217 height=163></A></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></STRONG></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></FONT></STRONG></P>
+<P align=center><STRONG>Реестр авторов</STRONG></P>
+<P align=center><STRONG>&nbsp;и </STRONG><STRONG>произведений</STRONG></P></td>
+<td background='themes/creative/images/tab1_09.gif' valign='top' width='14'>&nbsp;</td>
+</tr></table>
+<table width='200' border='0' cellpadding='0' cellspacing='0'>
+<tr>
+<td><img border='0' src='themes/creative/images/tab1_10.gif' width='40' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_11.gif' width='119' height='25' alt=''></td>
+<td><img border='0' src='themes/creative/images/tab1_12.gif' width='41' height='25' alt=''></td>
+</tr></table></div><br style='line-height:3px;'>
+
+</td>
+
+</tr></table>
+</td></tr></table><table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td valign='top'><table width='100%' border='0' cellpadding='0' cellspacing='0'><tr><td valign='top'><P>
+<TABLE class=line border=0 cellSpacing=2 cellPadding=0 width="100%">
+<TBODY>
+<TR>
+<TD class=st_t width="11%" align=center><A class=menuitem href="index.php">Главная<BR>страница</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=GalleryMuseum&amp;do=list&amp;orderby=&amp;p=1" target=_blank>Коллекция<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=rupages&amp;pa=showpage&amp;pid=4">История<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=ProjectAuthors">Авторы<BR>проекта</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=GalleryPaintersMuseum">Художники<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=News&amp;file=topics&amp;topic=14">Новые<BR>поступления</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=Guardians">Попечители<BR>Музея</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=rupages&amp;pa=showpage&amp;pid=5">Помощь<BR>Музею</A></TD>
+<TD class=st_t width="11%" align=center><A class=menuitem href="modules.php?name=rupages&amp;pa=showpage&amp;pid=7">Услуги<BR>НПГ</A></TD></TR></TBODY></TABLE></P>
+<CENTER><SPAN class=footmsg></SPAN>&nbsp;</CENTER></td></tr></table></td></tr></table><table width='100%' border='0' cellspacing='0' cellpadding='0'><tr><td align='center'><table border=0 cellspacing=0 cellpadding=0 width="100%"><tr><td align="center"><font class="footmsg"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t14.12;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet-->
+<noindex>
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=708620&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/708620/3_0_DBDBDBFF_BBBBBBFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter708620 = new Ya.Metrika({id:708620,
+          webvisor:true,
+          clickmap:true,
+          trackLinks:true,
+          accurateTrackBounce:true});
+} catch(e) { }
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/708620" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</font></td></tr></table>
+</td></tr></table>
+</body></html>

@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="https://s3.wi-fi.ru/mtt/configs/sites/karaoke.js" async nocache></script>
+    <script>
+        window.onload = function() {window.JVC.processAdConfig()};
+        window.onunload = function() {window.JVC.destroy()}
+    </script>
+
+    <!-- Агент 824 -->
+    <title>Петь караоке песни с баллами онлайн бесплатно – karaoke.ru</title>
+    <meta name="google-site-verification" content="k2VaoU9cnJJSrbQAm8Zvvv5YFXveKWLbdsknm7d-CYs" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta property="og:title" content="Петь караоке песни с баллами онлайн бесплатно – karaoke.ru" />
+    <meta property="og:description" content="Сайт karaoke.ru представляет вашему вниманию бесплатные караоке песни онлайн. Во время исполнения вы будете получать баллы и оценку вашего пения." />
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Сайт karaoke.ru представляет вашему вниманию бесплатные караоке песни онлайн. Во время исполнения вы будете получать баллы и оценку вашего пения.">
+    <meta name="keywords" content="караоке, караоке онлайн, караоке пати, караоке онлайн с баллами, караоке онлайн современные песни, караоке по русски, караоке онлайн петь с баллами, петь караоке, караоке с баллами, петь караоке онлайн бесплатно, караоке песни, караоке онлайн бесплатно, караоке петь онлайн, караоке онлайн петь бесплатно с баллами, караоке детские песни, петь караоке с баллами, видео караоке, детские караоке, караоке петь бесплатно, караоке онлайн бесплатно с баллами, караоке бесплатно, музыка караоке, петь песни караоке, караоке современных песен, караоке минус, сайт караоке, караоке русские песни, караоке 2015, петь песни караоке онлайн, песни караоке онлайн">
+    <link rel="canonical" href="https://www.karaoke.ru/" />
+
+    <link rel="apple-touch-icon" href="https://static-cdn.karaoke.ru/karaoke-site/img/apple-icons/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://static-cdn.karaoke.ru/karaoke-site/img/apple-icons/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://static-cdn.karaoke.ru/karaoke-site/img/apple-icons/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://static-cdn.karaoke.ru/karaoke-site/img/apple-icons/touch-icon-ipad-retina.png">
+
+    <link href="https://static-cdn.karaoke.ru/karaoke-site/compiled/main.546.css" rel="stylesheet"/>
+
+
+    <link rel="shortcut icon" href="https://static-cdn.karaoke.ru/karaoke-site/img/favicons/favicon2.ico" />
+
+    <style type="text/css">
+        .mt-banner-fullscreen {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: 100%; }
+        .mt-banner-fullscreen__button {
+            display: inline-block;
+            text-decoration: none;
+            padding: 15px;
+            background-size: 50%;
+            right: 0;
+            position: absolute;
+            z-index: 2;
+            background-position: center;
+            transform: scale(2);}
+        .mt-banner-fullscreen__button-close {
+            font-size: 12px;
+            color: #000;
+            border-radius: 2px;
+            background: 50% 50% no-repeat #fbb040;
+            background-size: contain;
+            border: 3px solid #fbb040;
+            padding: 10px;
+            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI1MTJweCIgaGVpZ2h0PSI1MTJweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNzQuOTY2LDQzNy4wMTNjLTk5Ljk3LTk5Ljk3LTk5Ljk3LTI2Mi4wNjYsMC0zNjIuMDM3YzEwMC4wMDItOTkuOTcsMjYyLjA2Ny05OS45NywzNjIuMDY4LDBjOTkuOTcsOTkuOTcxLDk5Ljk3LDI2Mi4wNjcsMCwzNjIuMDM3QzMzNy4wMzMsNTM2Ljk5OCwxNzQuOTY4LDUzNi45OTgsNzQuOTY2LDQzNy4wMTN6IE0zOTEuNzgzLDEyMC4yMjdjLTc1LjAwMS03NC45ODUtMTk2LjU2NS03NC45ODUtMjcxLjUzNSwwYy03NS4wMDEsNzQuOTg1LTc1LjAwMSwxOTYuNTUsMCwyNzEuNTM1Yzc0Ljk3LDc0Ljk4NiwxOTYuNTM0LDc0Ljk4NiwyNzEuNTM1LDBDNDY2Ljc1NCwzMTYuNzc2LDQ2Ni43NTQsMTk1LjIxMiwzOTEuNzgzLDEyMC4yMjd6IE0xODguMTI0LDM2OS4xMzdsLTQ1LjI1MS00NS4yNjZsNjcuODc2LTY3Ljg3N2wtNjcuODc2LTY3Ljg3Nmw0NS4yNTEtNDUuMjY3TDI1NiwyMTAuNzQzbDY3Ljg3Ny02Ny44OTJsNDUuMjUsNDUuMjY3bC02Ny44NzYsNjcuODc2bDY3Ljg3Niw2Ny44NzdsLTQ1LjI1LDQ1LjI2NkwyNTYsMzAxLjI0NUwxODguMTI0LDM2OS4xMzd6Ii8+PC9zdmc+); }
+        .mt-banner-fullscreen__container {
+            height: 100%;
+            width: 100%;
+            background-color: black; }
+        .mt-banner-fullscreen__container > * {
+            box-sizing: border-box; }
+        .mt-banner-fullscreen__container-html5 {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            border: none;
+            outline: none; }
+        .mt-banner-fullscreen__container-image {
+            width: 100%;
+            height: 100%;
+            padding: 50px 5% 5%; }
+        .mt-banner-fullscreen__container-image * {
+            -webkit-tap-highlight-color: transparent; }
+        .mt-banner-fullscreen__container-centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(2); }
+        .mt-banner-fullscreen__image {
+            height: 100%;
+            width: 100%;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: none; }
+        @media (orientation: landscape) {
+            .mt-banner-fullscreen__image-landscape {
+                display: block; } }
+        @media (orientation: portrait) {
+            .mt-banner-fullscreen__image-portrait {
+                display: block; } }
+
+        .BannerFullscreenRunnableExample {
+            width: 320px;
+            height: 460px; }
+
+        .mt-banner-leads {
+            width: 100%;
+            height: 100%;
+            min-width: 320px;
+            min-height: 480px;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box; }
+
+        .mt-banner-leads__center {
+            position: relative;
+            width: 320px;
+            height: 100%;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column; }
+
+        .mt-banner-leads__center_header {
+            justify-content: flex-end; }
+
+        .mt-banner-leads__center_footer {
+            align-items: center;
+            padding-top: 18px; }
+
+        .mt-banner-leads__header {
+            display: flex;
+            align-items: flex-end;
+            flex-grow: 0.23; }
+
+        .mt-banner-leads__header-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            height: 44px; }
+
+        .mt-banner-leads__header-wrap {
+            position: relative;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: center;
+            margin-bottom: 9px; }
+
+        .mt-banner-leads__header-close {
+            position: absolute;
+            right: 14px;
+            top: -20px;
+            width: 11px;
+            height: 11px; }
+
+        .mt-banner-leads__header-close svg {
+            fill: #fff; }
+
+        .mt-banner-leads__header-logo {
+            width: 130px;
+            height: 32px;
+            flex-shrink: 0;
+            background-size: cover;
+            background-position: center; }
+
+        .mt-banner-leads__header-text {
+            width: 138px;
+            flex-wrap: wrap;
+            white-space: normal;
+            font-size: 12px;
+            font-weight: 100;
+            line-height: 16px;
+            color: #fff; }
+
+        .mt-banner-leads__body {
+            position: relative;
+            overflow: hidden;
+            flex-grow: 0.77;
+            background-position: center;
+            background-size: cover; }
+
+        .mt-banner-leads__body-big-text {
+            margin: 40px 20px 0;
+            font-size: 24px;
+            line-height: 26px;
+            color: #fff; }
+
+        .mt-banner-leads__footer {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 116px;
+            background: rgba(0, 0, 0, 0.8);
+            transition: 0.3s height; }
+
+        .mt-banner-leads__footer_full {
+            height: 100%; }
+
+        .mt-banner-leads__footer_hide {
+            height: 0%; }
+
+        .mt-banner-leads__footer-close {
+            position: absolute;
+            right: 14px;
+            top: 10px;
+            width: 11px;
+            height: 11px; }
+
+        .mt-banner-leads__footer-close svg {
+            fill: #fff; }
+
+        .mt-banner-leads__button {
+            width: 256px;
+            height: 32px;
+            padding: 0;
+            font-size: 14px;
+            text-align: center;
+            line-height: 31px;
+            border-radius: 38px;
+            background-color: #fff;
+            border: none;
+            outline: none; }
+
+        .mt-banner-leads__button_send {
+            margin-top: auto;
+            margin-bottom: 66px; }
+
+        .mt-banner-leads__form {
+            flex-grow: 1;
+            width: 256px;
+            display: flex;
+            flex-direction: column;
+            color: #fff; }
+
+        .mt-banner-leads__form-header {
+            flex-grow: 0;
+            font-size: 12px;
+            font-weight: 400;
+            line-height: 1.4; }
+
+        .mt-banner-leads__form-error {
+            margin-top: 7px;
+            font-size: 11px;
+            color: #d54949; }
+
+        .mt-banner-leads__form-phone-icon {
+            position: absolute;
+            top: 14px;
+            left: 10px; }
+
+        .mt-banner-leads__form-field {
+            position: relative;
+            margin-top: 12px; }
+
+        .mt-banner-leads__form-field input {
+            width: 216px;
+            height: 44px;
+            border: none;
+            outline: none;
+            padding: 0 10px 0 30px; }
+
+        .mt-banner-leads__form-field input:invalid {
+            outline: 2px solid #d54949; }
+
+        #fullscreenBanner{
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 2147483647;
+        }
+
+        @media screen and (max-width: 359px) {
+            .yandex-adaptive
+            { width:320px; height:500px; }
+        }
+
+        @media screen and (max-width: 374px) {
+            .yandex-adaptive
+            { width:360px; height:530px; }
+        }
+
+        @media screen and (max-width: 409px) {
+            .yandex-adaptive
+            { width:375px; height:550px; }
+        }
+
+        @media screen and (max-width: 430px) {
+            .yandex-adaptive
+            { width:410px; height:600px; }
+        }
+
+        @media screen and (max-width: 600px) {
+            .yandex-adaptive
+            { width:430px; height:600px; }
+        }
+    </style>
+</head>
+
+<body class="pg-default">
+
+
+
+    <script type="text/javascript" async src="https://relap.io/v7/relap.js" data-relap-token="4ZnhdvJ2YjjFvcbD"></script>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WZKCH3" height="0"
+         width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WZKCH3');
+    </script>
+    <!-- End Google Tag Manager -->
+    <script crossorigin src="https://static-cdn.karaoke.ru/karaoke-site/compiled/logger.546.js"></script>
+    <script>
+        window.API = {"endpoints":{"request":"https:\/\/api.karaoke.ru","video":"https:\/\/video.karaoke.ru","special_offer_save":"https:\/\/www.karaoke.ru\/specialoffer\/save\/","license":"https:\/\/www.karaoke.ru\/license\/","premium_endpoint":"https:\/\/premium.karaoke.ru\/endpoint.json?source=site","premium_payment":"https:\/\/premium.karaoke.ru\/#!\/payment","premium":"https:\/\/premium.karaoke.ru"},"addInfo":{"android":{"interstitial":{"link":"https:\/\/play.google.com\/store\/apps\/details?id=ru.karaoke.app&referrer=utm_source%3Dkaraoke_site_mobile%26utm_medium%3Dinterstitial","metrika":"app_android"}},"ios":{"interstitial":{"link":"https:\/\/itunes.apple.com\/app\/apple-store\/id1165843504?pt=118124790&ct=karaoke_site_mobile&mt=8","metrika":"app_ios"}},"firstimpression":{"websiteId":5894}},"params":{"ads":{"gpmg":{"enabled":true,"blocks":{"header":[{"ownerId":220463,"containerId":"MF_Karaoke_D_970x250_Top","params":{"p1":"byctn","p2":"fqhi"},"devices":{"types":["desktop","tablet"],"params":{"tabletWidth":830,"phoneWidth":640,"isAutoReloads":false}}},{"ownerId":220463,"containerId":"MF_Karaoke_M_Top","params":{"p1":"byctk","p2":"fqhj"},"devices":{"types":["phone"],"params":{"tabletWidth":830,"phoneWidth":640,"isAutoReloads":false}}}],"footer":[{"ownerId":220463,"containerId":"MF_Karaoke_D_970x250_Bottom","params":{"p1":"byctq","p2":"fqhi"},"devices":{"types":["desktop","tablet"],"params":{"tabletWidth":830,"phoneWidth":640,"isAutoReloads":false}}},{"ownerId":220463,"containerId":"MF_Karaoke_M_Bottom","params":{"p1":"cwlrj","p2":"cwlrj"},"devices":{"types":["phone"],"params":{"tabletWidth":830,"phoneWidth":640,"isAutoReloads":false}}}],"right":[{"ownerId":220463,"containerId":"MF_Karaoke_D_300x600","params":{"p1":"byctp","p2":"fqhh"}}]}},"ya_rtb":{"enabled":false,"blocks":{"header":[{"blockId":"R-A-244873-2"}],"footer":[{"blockId":"R-A-244873-3"}],"right":[{"blockId":"R-A-244873-5"},{"blockId":"R-A-244873-6"}]}}},"player":{"minus":true,"tone":0,"maxTone":5,"minTone":-5,"freeSongsADay":5,"freeSeconds":45,"slideshowDelay":12}}};
+        window.ENVIRONMENT = 'PRODUCTION';
+        window.auth_hash = '';
+        window.user = {"user":{"role":"guest","room":{"tariff":[]}}};
+    </script>
+    <script crossorigin>
+        window.errorLoggerMain = new window.ErrorLogger({
+            project:    'site',
+            timeout:    100,
+            url:        API.endpoints.request + '/api/_call',
+            maxStack:   20,
+            debug:      window.ENVIROMENT === 'DEVELOPMENT' || window.location.search.indexOf('debug') !== -1,
+            globalErrors: true
+        });
+    </script>
+<!--/noindex-->
+<div id="fullscreenBanner"></div>
+<div class="contentWrapper ">
+    <div id="MF_Karaoke_D_970x250_Top" class="topBanner js-topBanner"></div>
+    <div id="MF_Karaoke_M_Top" class="topBannerMobile"></div>
+    <div class="header-wrapper js-headerWrapper">
+        <div class="header">
+            <div class="left-menu left-column text-right">
+                    <h3 class="logoHeader">
+                        <a class="logoMenu link" href="/">
+                            karaoke.ru - петь караоке песни с баллами онлайн бесплатно
+                        </a>
+                    </h3>
+                <div class="menu-links">
+                    <span class="access-menu-container">
+                        <a href="https://premium.karaoke.ru" class="special-offer">Party</a>
+                    </span>
+                    <span class="catalog-menu-container">
+                        <a href="/artists/" class="catalog">Каталог</a>
+                    </span>
+                    <span class="full-link-menu js-access">
+                        Полный доступ
+                    </span>
+                    <span class="search-menu-container">
+                        <a href="/catalog/search/page/" class="search">Поиск</a>
+                    </span>
+                     <a class="search-640"  href="/catalog/search/page/"></a>
+                </div>
+                <div class="menu-640"></div>
+            </div>
+            <div class="right-menu right-column">
+                <span class="premiumLogin js-login">Вход</span>
+
+            </div>
+        </div>
+    </div>
+    <div class="page">
+        <!-- MOBILE AUTH POPUP -->
+        <div class='popupMenu js-popupMenu'>
+            <div class='menu-640-list profile-popup js-mobile-auth-container'>
+                <ul class="js-mobile-menu-main-block new-popup-menu-list hidden">
+                    <li class="new-popup-menu-list--item link search-input-form-block">
+                        <input
+                                data-base-url="https://www.karaoke.ru/catalog/search/page/"
+                                data-min-length="2"
+                                class='search-input menu-640-search js-search-query'
+                                type='text'
+                                placeholder='Введите песню или имя исполнителя' />
+                        <span class="search-input-before-icon js-search-button"></span>
+                    </li>
+
+                    <li class="new-popup-menu-list--item">
+                        <a class="link js-access">
+                            Полный доступ
+                        </a>
+                    </li>
+
+
+                    <li class="new-popup-menu-list--item">
+                        <a href="/artists/">
+                            Каталог
+                        </a>
+                    </li>
+
+
+                    <li class="new-popup-menu-list--item"><a class="link js-go-login">Вход</a></li>
+                </ul>
+                <!-- TODO::dron Исправить на данные, приходящие с сервера -->
+
+                <!-- Блок авторизации-->
+                <ul class="login-block-nav hidden js-mobile-menu-login-block">
+                    <li class="login-block-nav--input-block">
+                        <input type="email" placeholder='ВВЕДИТЕ ВАШ E-MAIL'
+                               class="login-block-nav--input js-email-input js-field-email js-field-credentials"></li>
+                    <!-- Если введены ошибочные данные то добавляем класс .login-block-nav--input-error -->
+                    <li class="login-block-nav--input-block">
+                        <input type="password" placeholder='ВВЕДИТЕ ПАРОЛЬ'
+                               class="login-block-nav--input js-password-input js-field-password js-field-credentials"></li>
+                    <!-- Если введены ошибочные данные то добавляем класс ..login-block-nav--input-error -->
+                    <li class="login-block-nav-btn">
+                        <div class="nav-block-btn btn-block js-do-login-button">ВОЙТИ</div>
+                    </li>
+
+                    <p class="js-error-text hidden"></p>
+                    <div class="login-block-nav--all-link clearfix">
+                        <a class="login-block-nav--link js-go-register">
+                            Зарегистрироваться
+                        </a>
+                        <a class="login-block-nav--link js-go-restore">
+                            Забыли пароль?
+                        </a>
+                    </div>
+                    <div class="close-window-nav js-mobile-back"></div>
+                </ul>
+                <!-- End. Блок авторизации-->
+
+                <!-- Блок регистрации-->
+                <ul class="registration-block-nav js-mobile-menu-register-block hidden">
+                    <li class="registration-block-nav--input-block">
+                        <input type="email" placeholder='ВВЕДИТЕ ВАШ E-MAIL'
+                               class="registration-block-nav--input js-email-input js-field-email js-field-credentials"></li>
+                    <li class="registration-block-nav--input-block">
+                        <input type="password" placeholder='ВВЕДИТЕ ПАРОЛЬ'
+                               class="registration-block-nav--input js-password-input js-field-password js-field-credentials"></li>
+                    <li class="login-block-nav-btn">
+                        <div class="nav-block-btn btn-block js-do-register-button">
+                            ЗАРЕГИСТРИРОВАТЬСЯ
+                        </div>
+                    </li>
+                    <p class="js-error-text hidden"></p>
+                    <div class="registration-block-nav--all-link clearfix">
+                        <a class="registration-block-nav--link js-go-login">Войти</a>
+                        <a href="/license/" class="registration-block-nav--link">
+                            Пользовательское соглашение
+                        </a>
+                    </div>
+                    <div class="close-window-nav js-mobile-back"></div>
+                </ul>
+                <!-- End. Блок регистрации-->
+
+                <!-- Блок смены пароля-->
+                <ul class="change-password-block-nav hidden js-mobile-menu-change-password-block">
+                    <li class="change-password-block-nav--input-block">
+                        <input type="password" placeholder='СТАРЫЙ ПАРОЛЬ'
+                               class="change-password-block-nav--input js-change-pass-old-pass js-field-oldPassword">
+                    </li>
+                    <li class="change-password-block-nav--input-block">
+                        <input type="password" placeholder='НОВЫЙ ПАРОЛЬ'
+                               class="change-password-block-nav--input js-change-pass-new-pass js-field-newPassword js-field-credentials js-field-password">
+                    </li>
+                    <li class="change-password-block-nav-btn">
+                        <div class="nav-block-btn btn-block js-do-change-password">ИЗМЕНИТЬ ПАРОЛЬ</div>
+                    </li>
+                    <p class="js-error-text hidden"></p>
+
+                    <div class="close-window-nav js-mobile-back"></div>
+                </ul>
+                <!-- End. Блок смены пароля-->
+
+                <!-- Блок восстановления пароля-->
+                <ul class="forgot-pass-block-nav js-mobile-menu-restore-pass-block hidden">
+                    <li class="forgot-pass-block-nav--text">
+                        <p>Введите свой e-mail и мы вышлем вам<br>ссылку для восстановления пароля</p>
+                    </li>
+                    <li class="forgot-pass-block-nav--input-block">
+                        <input type="email" placeholder='ВВЕДИТЕ ВАШ E-MAIL'
+                               class="forgot-pass-block-nav--input js-email-input js-field-email"></li>
+                    <li class="forgot-pass-block-nav-btn">
+                        <div class="nav-block-btn btn-block js-do-restore">
+                            ОТПРАВИТЬ
+                        </div>
+                    </li>
+                    <p class="js-error-text hidden"></p>
+                    <div class="close-window-nav js-mobile-back"></div>
+                </ul>
+                <!-- End. Блок восстановления пароля-->
+
+                <!-- Блок установки пароля-->
+                <ul class="forgot-pass-block-nav js-mobile-menu-set-pass-block hidden">
+                    <li class="forgot-pass-block-nav--text">
+                        <p>Введите новый пароль</p>
+                    </li>
+                    <li class="forgot-pass-block-nav--input-block ">
+                        <input type="password" placeholder='ВВЕДИТЕ НОВЫЙ ПАРОЛЬ'
+                               class="forgot-pass-block-nav--input js-password-input js-field-password"></li>
+                    <li class="forgot-pass-block-nav-btn">
+                        <div class="nav-block-btn btn-block js-do-set">СОХРАНИТЬ</div>
+                    </li>
+                    <p class="js-error-text hidden"></p>
+                </ul>
+                <!-- End. Блок установки пароля-->
+
+            </div>
+
+            <!-- Блок футтер в навигации-->
+            <div class="social-network-and-in-account">
+                <!-- Блок авторизированного пользователя-->
+                <!-- End. Блок авторизированного пользователя-->
+                <!-- Блок с соц.сетями-->
+                <div class="social-network hidden js-mobile-menu-social-block">
+                    <ul class="social-network-list clearfix">
+                        <li class="social-network-list-elements">
+                            <a class="js-authorize-vk" data-url-key="oauth_authorize_vk">
+                                <i class="icon-vk"></i>
+                            </a>
+                        </li>
+                        <li class="social-network-list-elements">
+                            <a class="js-authorize-fb" data-url-key="oauth_authorize_fb">
+                                <i class="icon-fb"></i>
+                            </a>
+                        </li>
+                        <li class="social-network-list-elements">
+                            <a class="js-authorize-ok" data-url-key="oauth_authorize_ok">
+                                <i class="icon-ok"></i>
+                            </a>
+                        </li>
+                        <li class="social-network-list-elements">
+                            <a class="js-authorize-mail" data-url-key="oauth_authorize_my">
+                                <i class="icon-mail"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- End. Блок с соц.сетями-->
+            </div>
+            <!-- End. Блок футтер в навигации-->
+        </div>
+        <!-- /MOBILE AUTH POPUP -->
+
+
+        <div class="popup-wrapper popupCatalog js-popupWrapper">
+            <div class="popup">
+                <div class="popupContent"></div>
+                <div class="popupBottom">
+                    <div class="twoColumns">
+                        <div>
+                            <a href="/artists/" class="icon allArtists link" data-need-hide-popup="">
+                                <span class="allArtistsIcon"></span>
+                                Все исполнители
+                            </a>
+                        </div>
+                        <div>
+                            <a href="/catalog/genres/" class="icon allPlaylists link" data-need-hide-popup="">
+                                <span class="allPlaylistsIcon"></span>
+                                Все плейлисты
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content" id="content">
+
+            <div class="left-column" id="leftColumn">
+                <div class="page-block">
+    <div class="page-block__glass">
+
+        <h4 class="container-new-index__h4-heading container-new-index__h4-heading--purple">
+            Новинки за неделю
+            <a href="/catalog/songs_by_genre/novoe/" class="link container-new-index__h4-heading-link">
+                все новинки
+            </a>
+        </h4>
+        <div class="index-thumbnail">
+            <a href="/artists/dabro/song/na-chasakh-nol-nol/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/41/4c/2.28370.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/dabro/song/na-chasakh-nol-nol/" class="link index-thumbnail__link--artist-name">Dabro</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/dabro/song/na-chasakh-nol-nol/" class="link index-thumbnail__link--track">На часах ноль-ноль</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/myqeed/song/eto-ne-ya/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/5a/15/1.48244.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/myqeed/song/eto-ne-ya/" class="link index-thumbnail__link--artist-name">Myqeed</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/myqeed/song/eto-ne-ya/" class="link index-thumbnail__link--track">Это не я</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/rauffaik/song/esli-tebe-budet-grustno/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/e7/0c/1.47043.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/rauffaik/song/esli-tebe-budet-grustno/" class="link index-thumbnail__link--artist-name">Rauf & Faik</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/rauffaik/song/esli-tebe-budet-grustno/" class="link index-thumbnail__link--track">Если тебе будет грустно</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/chris-yank/song/potanczuj-so-mnoj/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/7a/28/2.49241.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/chris-yank/song/potanczuj-so-mnoj/" class="link index-thumbnail__link--artist-name">Chris Yank</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/chris-yank/song/potanczuj-so-mnoj/" class="link index-thumbnail__link--track">Потанцуй со мной</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/andro/song/zari/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/b8/1f/1.49442.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/andro/song/zari/" class="link index-thumbnail__link--artist-name">Andro</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/andro/song/zari/" class="link index-thumbnail__link--track">Зари</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/klava-koka/song/nokaut/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/0d/6e/2.24695.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/klava-koka/song/nokaut/" class="link index-thumbnail__link--artist-name">Клава Кока</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/klava-koka/song/nokaut/" class="link index-thumbnail__link--track">Нокаут</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/goryachij-shokolad/song/beregi/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/74/a1/1.16951.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/goryachij-shokolad/song/beregi/" class="link index-thumbnail__link--artist-name">Горячий шоколад</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/goryachij-shokolad/song/beregi/" class="link index-thumbnail__link--track">Береги</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/anet-saj/song/peredruzhba/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/06/0c/2.42891.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/anet-saj/song/peredruzhba/" class="link index-thumbnail__link--artist-name">Анет Сай</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/anet-saj/song/peredruzhba/" class="link index-thumbnail__link--track">Передружба</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/dmitrienko-vanya/song/otkrytka/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/d7/de/2.44135.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/dmitrienko-vanya/song/otkrytka/" class="link index-thumbnail__link--artist-name">Дмитриенко Ваня</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/dmitrienko-vanya/song/otkrytka/" class="link index-thumbnail__link--track">Открытка</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/egor-ship/song/glaza-fonari/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/b2/0e/2.43994.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/egor-ship/song/glaza-fonari/" class="link index-thumbnail__link--artist-name">Егор Шип</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/egor-ship/song/glaza-fonari/" class="link index-thumbnail__link--track">Глаза фонари</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/marvin-misha/song/devochka-ne-bojsya/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/3e/0c/1.24692.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/marvin-misha/song/devochka-ne-bojsya/" class="link index-thumbnail__link--artist-name">Марвин Миша</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/marvin-misha/song/devochka-ne-bojsya/" class="link index-thumbnail__link--track">Девочка, не бойся</a>
+            </p>
+        </div>
+        <div class="index-thumbnail">
+            <a href="/artists/564567/song/vechnyi-ray/" class="link index-thumbnail__image-block">
+                <img src="https://static-cdn.karaoke.ru/content/author/86/7d/1.18322.resize170x170.jpg" class="img-responsive index-thumbnail__image">
+            </a>
+            <h5 class="index-thumbnail__heading index-thumbnail__heading--artist-name">
+                <a href="/artists/564567/song/vechnyi-ray/" class="link index-thumbnail__link--artist-name">Лавика</a>
+            </h5>
+            <p class="index-thumbnail__text index-thumbnail__text--track">
+                <a href="/artists/564567/song/vechnyi-ray/" class="link index-thumbnail__link--track">Вечный рай</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div id="MF_Karaoke_D_970x250_Bottom" class="page-block page-block--adv"></div>
+<div class="page-block">
+    <div class="page-block__glass">
+        <h4 class="container-new-index__h4-heading container-new-index__h4-heading--green">
+            Популярные плейлисты
+            <a href="/catalog/genres/" class="link container-new-index__h4-heading-link">
+                все плейлисты
+            </a>
+        </h4>
+        <div class="index-playlists__elements-wrapper js-nice-scroll--index-playlists">
+            <a href="/catalog/songs_by_genre/novoe/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/999/77.collection999.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Новое</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/songs-of-love/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/14/1.collection14.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Песни о любви</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/klassika-karaoke/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/21/1.collection21.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Классика Караоке</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/11/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/2/1.collection2.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Детские песни</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/goryachaya-20ka/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/22/1.collection22.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Горячая 20-ка</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/happy-birthday/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/24/1.collection24.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Happy Birthday</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/61/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/7/1.collection7.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Советская эстрада</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/31/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/1/1.collection1.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Русский Поп</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/41/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/3/1.collection3.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Русский Рок</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/71/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/4/1.collection4.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Барды и шансон</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/151/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/5/1.collection5.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Hip-Hop & R'N'B</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/21/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/8/1.collection8.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Песни из кино</di>
+                </div>
+            </a>
+            <a href="/catalog/songs_by_genre/13806060/" class="link playlist-thumbnail">
+                <img src="https://static-cdn.karaoke.ru/content/collection/6/1.collection6.resize170x170.jpg" class="img-responsive playlist-thumbnail__image">
+                <div class="playlist-thumbnail__description">
+                    <di class="playlist-thumbnail__description-text">Народные песни</di>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="page-block">
+    <div class="page-block__glass">
+        <h4 class="container-new-index__h4-heading container-new-index__h4-heading--purple">
+            Исполнители для пения караоке
+        </h4>
+        <div class="js-alphabet-wrapper new-index-alphabet--active-ru">
+            <div class="new-index-en-alphabet">
+                <a href="https://www.karaoke.ru/artists/alphabet/en/1/" class="link new-index-en-alphabet--element">A</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/2/" class="link new-index-en-alphabet--element">B</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/3/" class="link new-index-en-alphabet--element">C</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/4/" class="link new-index-en-alphabet--element">D</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/5/" class="link new-index-en-alphabet--element">E</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/6/" class="link new-index-en-alphabet--element">F</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/7/" class="link new-index-en-alphabet--element">G</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/8/" class="link new-index-en-alphabet--element">H</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/9/" class="link new-index-en-alphabet--element">I</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/10/" class="link new-index-en-alphabet--element">J</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/11/" class="link new-index-en-alphabet--element">K</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/12/" class="link new-index-en-alphabet--element">L</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/13/" class="link new-index-en-alphabet--element">M</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/14/" class="link new-index-en-alphabet--element">N</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/15/" class="link new-index-en-alphabet--element">O</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/16/" class="link new-index-en-alphabet--element">P</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/17/" class="link new-index-en-alphabet--element">Q</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/18/" class="link new-index-en-alphabet--element">R</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/19/" class="link new-index-en-alphabet--element">S</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/20/" class="link new-index-en-alphabet--element">T</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/21/" class="link new-index-en-alphabet--element">U</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/22/" class="link new-index-en-alphabet--element">V</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/23/" class="link new-index-en-alphabet--element">W</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/25/" class="link new-index-en-alphabet--element">Y</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/26/" class="link new-index-en-alphabet--element">Z</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/en/0/" class="link new-index-en-alphabet--element">0..9</a>
+            </div>
+            <div class="new-index-ru-alphabet">
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/1/" class="link new-index-ru-alphabet--element">А</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/2/" class="link new-index-ru-alphabet--element">Б</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/3/" class="link new-index-ru-alphabet--element">В</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/4/" class="link new-index-ru-alphabet--element">Г</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/5/" class="link new-index-ru-alphabet--element">Д</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/6/" class="link new-index-ru-alphabet--element">Е</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/8/" class="link new-index-ru-alphabet--element">Ж</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/9/" class="link new-index-ru-alphabet--element">З</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/10/" class="link new-index-ru-alphabet--element">И</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/12/" class="link new-index-ru-alphabet--element">К</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/13/" class="link new-index-ru-alphabet--element">Л</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/14/" class="link new-index-ru-alphabet--element">М</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/15/" class="link new-index-ru-alphabet--element">Н</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/16/" class="link new-index-ru-alphabet--element">О</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/17/" class="link new-index-ru-alphabet--element">П</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/18/" class="link new-index-ru-alphabet--element">Р</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/19/" class="link new-index-ru-alphabet--element">С</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/20/" class="link new-index-ru-alphabet--element">Т</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/21/" class="link new-index-ru-alphabet--element">У</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/22/" class="link new-index-ru-alphabet--element">Ф</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/23/" class="link new-index-ru-alphabet--element">Х</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/24/" class="link new-index-ru-alphabet--element">Ц</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/25/" class="link new-index-ru-alphabet--element">Ч</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/26/" class="link new-index-ru-alphabet--element">Ш</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/27/" class="link new-index-ru-alphabet--element">Щ</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/31/" class="link new-index-ru-alphabet--element">Э</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/32/" class="link new-index-ru-alphabet--element">Ю</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/33/" class="link new-index-ru-alphabet--element">Я</a>
+                <a href="https://www.karaoke.ru/artists/alphabet/ru/0/" class="link new-index-ru-alphabet--element">0..9</a>
+            </div>
+
+            <div class="new-index-alphabet-block-element">
+                <a href="#" data-lang="en"
+                   class="new-index-alphabet-block-element--item  new-index-alphabet-block-element--item-active ">en</a>
+                <a href="#" data-lang="ru"
+                   class="new-index-alphabet-block-element--item ">ру</a>
+            </div>
+        </div>
+        <div class="row-new-for-list-artists-singing">
+            <div class="col-new-without-indent">
+                <a href="/artists/elvira-t/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/22/53/1.18470.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Elvira T</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        17</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/natan/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/3f/c1/1.21558.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Natan</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        48</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/amiramov-efrem/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/a7/45/1.9075.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Амирамов Ефрем</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        19</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/burmistrova-tatyana/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/4c/8c/1.24326.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Бурмистрова Татьяна</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        38</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/volk/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/b9/74/1.10332.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Волк</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        20</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/detskiy-hor-velikan/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/01/99/1.16715.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Детский хор "Великан"</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        11</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/kazahskaja-narodnaja/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/35/d8/1.7269.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Казахская народная</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        19</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/kanada-semen/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/a3/68/2.1604.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Канада Семен</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        42</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/krid-egor/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/08/c0/1.21343.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Крид Егор</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        39</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/kuchin-ivan/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/58/ae/1.561.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Кучин Иван</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        31</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/malezhik-vjacheslav/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/08/c5/1.597.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Малежик Вячеслав</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        19</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/mafik/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/31/9e/1.14336.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Мафик</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        28</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/petljura/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/b5/cf/1.20145.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Петлюра</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        23</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/rozenbaum-alexandr/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/0f/cb/1.531.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Розенбаум Александр</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        140</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/ruslanova-lidija/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/a7/33/1.623.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Русланова Лидия</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        21</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/slot/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/8d/56/1.16168.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        СЛОТ</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        51</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/tretyakov-viktor/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/cb/d7/1.14364.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Третьяков Виктор</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        51</p>
+                </a>
+            </div>
+            <div class="col-new-without-indent">
+                <a href="/artists/kharlamova-nina/" class="link artists-for-singing-thumbnail">
+                        <span class="artists-for-singing-thumbnail__image-block">
+                            <img src="https://static-cdn.karaoke.ru/content/author/a6/a8/1.24323.resize100x100.jpg" class="img-responsive artists-for-singing-thumbnail__image">
+                        </span>
+                    <h5 class="artists-for-singing-thumbnail__heading artists-for-singing-thumbnail__heading--artist-name">
+                        Харламова Нина</h5>
+                    <p class="artists-for-singing-thumbnail__text artists-for-singing-thumbnail__number">
+                        37</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="right-column" id="rightColumn">
+
+                <noindex>
+                    <table class="right-banner-block">
+                        <tr>
+                            <td class="right-banner">
+                                <!--AdFox START-->
+                                <div id="MF_Karaoke_D_300x600"></div>
+                                <div id="MF_Karaoke_D_300x600_2"></div>
+                                <script>
+                                    window.JVC.processAdConfig();
+                                </script>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <div class="sidebar-social">
+                                <div class="footer-social">
+    <div class="footer-social_title">Будьте с&nbsp;нами</div>
+    <div class="footer-social_list">
+        <a href="https://vk.com/karaokeru_official" target="_blank" title="Karaoke.ru во Vkontakte" class="shareIconBig vkBig"></a>
+        <a href="https://www.facebook.com/pages/Karaokeru/148868441844405" target="_blank" title="Karaoke.ru на FaceBook" class="shareIconBig facebookBig"></a>
+        <a href="http://ok.ru/newkaraoke" target="_blank" title="Karaoke.ru в Одноклассниках" class="shareIconBig odnoklasnikiBig"></a>
+        <a href="https://telegram.me/FAQ_karaoke" target="_blank" title="Karaoke.ru в Телеграме" class="shareIconBig telegramBig"></a>
+    </div>
+</div>
+
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </noindex>
+            </div>
+        </div>
+    </div>
+    <div class="footer-new-wrapper">
+    <div id="MF_Karaoke_M_Bottom"></div>
+    <div class="main-page-blocks-wrapper container-new-index footer-new">
+        <div class="footer-new--4-col">
+            <ul class="list-unstyled">
+                <h4>KARAOKE.RU</h4>
+                <li><a href="/about/">О проекте</a></li>
+                
+                <li><a href="https://live.karaoke.ru">Live</a></li>
+                <li><a href="https://premium.karaoke.ru">Party</a></li>
+                <li><a href="/MKA2016/" class="link">Karaoke Awards 2016</a></li>
+            </ul>
+        </div>
+        <div class="footer-new--4-col">
+            <ul class="list-unstyled">
+                <h4>СОТРУДНИЧЕСТВО</h4>
+                <li><a href="/holders/">Правообладателям</a></li>
+                <li><a href="/adv/">Рекламодателям</a></li>
+                <li><a href="/partners/">B2B клиентам</a></li>
+            </ul>
+        </div>
+        <div class="footer-new--4-col">
+            <ul class="list-unstyled">
+                <h4>СЕРВИС</h4>
+                <li><a href="/license/">Пользовательское <br />соглашение</a></li>
+                <li><a href="/policy/">Политика работы с персональными данными</a></li>
+                <li><a href="/payments/">Как оплатить</a></li>
+            </ul>
+        </div>
+        <div class="footer-new--4-col">
+            <div class="footer-new--karaoke-logo">
+                
+                
+            </div>
+            <div class="footer-new--copyright-block">
+                <p class="footer-new--copyright-date">
+                    © 1998 – 2023.
+                    <a href="http://www.karaoke.ru/" title="Петь песни караоке с баллами онлайн бесплатно">
+                        Karaoke.ru
+                    </a>
+                </p>
+                <p class="footer-new--cdcom-info-block">“Singberry”, LLC.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-wrapper">
+    <div id="MF_Karaoke_D_970x250_Bottom" class="bottom-banner js-banner-container-footer"></div>
+    <div class="footer centring">
+        <div class="left-menu left-column">
+                <div class="footer-links__block">
+                    <h4>KARAOKE.RU</h4>
+                    <div class="footer-links">
+                        <a href="/about/" class="link">О проекте</a>
+                        
+                        <a href="https://premium.karaoke.ru">Party</a>
+                        <a href="/MKA2016/" class="link">Karaoke Awards 2016</a>
+                    </div>
+                </div>
+                <div class="footer-links__block">
+                    <h4>СОТРУДНИЧЕСТВО</h4>
+                    <div class="footer-links">
+                        <a href="/holders/" class="link">Правообладателям</a>
+                        <a href="/adv/" class="link">Рекламодателям</a>
+                        <a href="/partners/" class="link">B2B клиентам</a>
+                    </div>
+                </div>
+                <div class="footer-links__block">
+                    <h4>СЕРВИС</h4>
+                    <div class="footer-links">
+                        <a href="/license/" class="link">Пользовательское <br />соглашение</a>
+                        <a href="/policy/" class="link">Политика работы с персональными данными</a>
+                        <a href="/payments/" class="link">Как оплатить</a>
+                    </div>
+                </div>
+        </div>
+        <div class="right-menu right-column">
+            <div>
+                <h4 class="footerLogo">KARAOKE.RU</h4>
+                <span>
+                    © 1998 – 2023. &nbsp;
+                    <a href="http://www.karaoke.ru/" title="Петь песни караоке с баллами онлайн бесплатно">
+                        Karaoke.ru
+                    </a>
+                    <br/> “Singberry”, LLC.
+                </span>
+            </div>
+            <div>
+                <div class="footer-social">
+    <div class="footer-social_title">Будьте с&nbsp;нами</div>
+    <div class="footer-social_list">
+        <a href="https://vk.com/karaokeru_official" target="_blank" title="Karaoke.ru во Vkontakte" class="shareIconBig vkBig"></a>
+        <a href="https://www.facebook.com/pages/Karaokeru/148868441844405" target="_blank" title="Karaoke.ru на FaceBook" class="shareIconBig facebookBig"></a>
+        <a href="http://ok.ru/newkaraoke" target="_blank" title="Karaoke.ru в Одноклассниках" class="shareIconBig odnoklasnikiBig"></a>
+        <a href="https://telegram.me/FAQ_karaoke" target="_blank" title="Karaoke.ru в Телеграме" class="shareIconBig telegramBig"></a>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script crossorigin type="text/javascript" src="https://static-cdn.karaoke.ru/karaoke-site/compiled/main.546.js"></script>
+<!--/noindex-->
+
+
+    <div class="js-popupRegion"></div>
+    <div class="js-feedbackRegion"></div>
+    <div class="popupEasyPayment hidden js-popupEasyPayment">
+        <div class="popupEasyPayment-content js-popupEasyPaymentContent">
+            <div class="popupEasyPayment-close js-popup__cancel"></div>
+            <div class="js-easyPaymentRegion popupEasyPayment-container"></div>
+        </div>
+    </div>
+    <div class="js-popupSteppedPayment"></div>
+
+</div>
+
+
+
+<div class="popupMobile">
+    <div class="popupMobile-content">
+        <div class="popupMobile-close js-popup__cancel"></div>
+        <div class="popupMobile-logo-wrapper">
+            <img src="https://static-cdn.karaoke.ru/karaoke-site/img/popup/hand-phone.svg" alt="Приложение">
+        </div>
+        <div class="popupMobile-description">
+            <div class="popupMobile-description-title">
+                Скачайте приложение сейчас<br> и получите 7 дней пения бесплатно
+            </div>
+            <div class="popupMobile-description-info">
+                Полный доступ к исполнению песен. <br>
+                Без рекламы. Более 20 000 караоке-песен
+                у вас в руках.
+            </div>
+        </div>
+        <a class="popupMobile-btn-submit js-popup__submit">Скачать</a>
+        <div class="popupMobile-subsribe-info">
+            Первые 7 дней <br> бесплатно
+        </div>
+    </div>
+</div>
+
+<div class="popupMobileAction">
+    <div class="popupMobileAction-content">
+        <div class="popupMobileAction-banner-wrapper">
+            <div class="popupMobileAction-banner">
+                <img src="https://static-cdn.karaoke.ru/karaoke-site/img/popup/action_doremi.jpg" alt="DoReMi" class="popupMobileAction-image">
+                <div class="popupMobileAction-close js-popup__close"></div>
+                <a href="https://play.google.com/store/apps/details?id=com.rcsing.ru" class="popupMobileAction-action js-popup__action"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var popupCatalog = {"content":"\u003Cdiv class=\u0022twoColumns\u0022\u003E\n    \u003Cdiv class=\u0022columnArtists\u0022\u003E\n        \u003Cdiv class=\u0022columnTitle icon\u0022\u003E\u0418\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u0438\u003C\/div\u003E\n        \u003Cdiv class=\u0022columnTitleAddon\u0022\u003E\u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435\u003C\/div\u003E\n\n        \u003Cdiv class=\u0022list\u0022\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/zhuki\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0416\u0443\u043a\u0438\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/dabro\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003EDabro\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/allegrova-irina\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0410\u043b\u043b\u0435\u0433\u0440\u043e\u0432\u0430 \u0418\u0440\u0438\u043d\u0430\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/fristajl\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0424\u0440\u0438\u0441\u0442\u0430\u0439\u043b\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/rauffaik\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003ERauf \u0026 Faik\u003C\/a\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n    \u003Cdiv class=\u0022columnPlaylists\u0022\u003E\n        \u003Cdiv class=\u0022columnTitle icon\u0022\u003E\u041f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u044b\u003C\/div\u003E\n        \u003Cdiv class=\u0022columnTitleAddon\u0022\u003E\u0441\u0430\u043c\u044b\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435\u003C\/div\u003E\n\n        \u003Cdiv class=\u0022list\u0022\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/songs_by_genre\/31\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041f\u043e\u043f\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/songs_by_genre\/klassika-karaoke\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u041a\u043b\u0430\u0441\u0441\u0438\u043a\u0430 \u041a\u0430\u0440\u0430\u043e\u043a\u0435\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/songs_by_genre\/61\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u044d\u0441\u0442\u0440\u0430\u0434\u0430\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/songs_by_genre\/zastolnie-pesni\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u0417\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u044b\u0435 \u043f\u0435\u0441\u043d\u0438\u003C\/a\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/songs_by_genre\/promo-tricolor\/\u0022 class=\u0022link\u0022 data-need-hide-popup\u003E\u041f\u043e\u0439 \u0441\u0435\u0439\u0447\u0430\u0441!\u003C\/a\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E\n"},
+        popupSearch  = {"content":"\u003Cdiv class=\u0022popup-wrapper popupSearch js-popupWrapper\u0022\u003E\n    \u003Cdiv class=\u0022popup\u0022\u003E\n        \u003Cdiv class=\u0022searchValue\u0022\u003E\n            \u003Cinput\n                    type=\u0022text\u0022\n                    class=\u0022search-field\u0022\n                    data-url=\u0022https:\/\/www.karaoke.ru\/search\/live\/popup\/\u0022\n                    data-base-url=\u0022https:\/\/www.karaoke.ru\/catalog\/search\/page\/\u0022\n                    data-min-length=\u00222\u0022\n                    data-container=\u0022search-popup-result\u0022\n                    data-spinner-position=\u0022fixed\u0022\n                    autofocus\n                    \/\u003E\n            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/catalog\/search\/page\/\u0022 class=\u0022searchButton link loupe\u0022\u003E\n                \u003Cspan class=\u0022shape-searchButton\u0022\u003E\u003C\/span\u003E\n            \u003C\/a\u003E\n        \u003C\/div\u003E\n        \u003Cdiv class=\u0022search-popup-result\u0022\u003E\n            \u003Cdiv class=\u0022popupContent\u0022\u003E\n                \u003Cdiv class=\u0022result-empty\u0022\u003E\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0435 \u0437\u0430\u043f\u0440\u043e\u0441\u044b:\u003C\/div\u003E\n\n                \u003Cdiv class=\u0022resultArtists\u0022\u003E\n\n                    \u003Cdiv class=\u0022twoColumns\u0022\u003E\n                        \u003Cdiv class=\u0022list\u0022\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/zhuki\/\u0022 class=\u0022link\u0022\u003E\u0416\u0443\u043a\u0438\u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/dabro\/\u0022 class=\u0022link\u0022\u003EDabro\u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/allegrova-irina\/\u0022 class=\u0022link\u0022\u003E\u0410\u043b\u043b\u0435\u0433\u0440\u043e\u0432\u0430 \u0418\u0440\u0438\u043d\u0430\u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/fristajl\/\u0022 class=\u0022link\u0022\u003E\u0424\u0440\u0438\u0441\u0442\u0430\u0439\u043b\u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/rauffaik\/\u0022 class=\u0022link\u0022\u003ERauf \u0026 Faik\u003C\/a\u003E\n                        \u003C\/div\u003E\n                        \u003Cdiv class=\u0022list\u0022\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/zhuki\/song\/batarejka\/\u0022 class=\u0022link\u0022\u003E\u0411\u0430\u0442\u0430\u0440\u0435\u0439\u043a\u0430\n                                (\u0416\u0443\u043a\u0438)\n                            \u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/dabro\/song\/na-chasakh-nol-nol\/\u0022 class=\u0022link\u0022\u003E\u041d\u0430 \u0447\u0430\u0441\u0430\u0445 \u043d\u043e\u043b\u044c-\u043d\u043e\u043b\u044c\n                                (Dabro)\n                            \u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/allegrova-irina\/song\/mladshij-lejtenant\/\u0022 class=\u0022link\u0022\u003E\u041c\u043b\u0430\u0434\u0448\u0438\u0439 \u043b\u0435\u0439\u0442\u0435\u043d\u0430\u043d\u0442\n                                (\u0410\u043b\u043b\u0435\u0433\u0440\u043e\u0432\u0430 \u0418\u0440\u0438\u043d\u0430)\n                            \u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/dabro\/song\/yunost\/\u0022 class=\u0022link\u0022\u003E\u042e\u043d\u043e\u0441\u0442\u044c\n                                (Dabro)\n                            \u003C\/a\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/artists\/multfilm-veselaja-karusel\/song\/dva-veselykh-gusya\/\u0022 class=\u0022link\u0022\u003E\u0414\u0432\u0430 \u0432\u0435\u0441\u0435\u043b\u044b\u0445 \u0433\u0443\u0441\u044f\n                                (\u0418\u0437 \u043c\/\u0444 \u0022\u0412\u0435\u0441\u0435\u043b\u0430\u044f \u043a\u0430\u0440\u0443\u0441\u0435\u043b\u044c\u0022)\n                            \u003C\/a\u003E\n                        \u003C\/div\u003E\n                    \u003C\/div\u003E\n                \u003C\/div\u003E\n            \u003C\/div\u003E\n            \u003Cdiv class=\u0022popupBottom\u0022\u003E\n                \u003Cdiv class=\u0022left-column\u0022\u003E\n                    \u003Cdiv class=\u0022toRight twoColumns\u0022\u003E\n                        \u003Cdiv class=\u0022all-result\u0022\u003E\n                        \u003C\/div\u003E\n                        \u003Cdiv\u003E\n                            \u003Ca href=\u0022https:\/\/www.karaoke.ru\/mne-povezet\/\u0022 class=\u0022icon getLucky link\u0022\u003E\n                                \u003Cspan class=\u0022shape-getLucky\u0022\u003E\u003C\/span\u003E\n                                \u041c\u043d\u0435 \u043f\u043e\u0432\u0435\u0437\u0435\u0442\n                            \u003C\/a\u003E\n                        \u003C\/div\u003E\n                    \u003C\/div\u003E\n                \u003C\/div\u003E\n                \u003Cdiv class=\u0022right-column\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E\n"},
+        popupProfile = {"content":"\u003Cdiv class=\u0022popup-wrapper popupProfile profile-wrapper js-popupWrapper\u0022\u003E\n    \u003Cdiv class=\u0022popup profile-popup\u0022\u003E\n\n        \u003Cdiv class=\u0022profile-actions\u0022\u003E\n            \u003Cdiv class=\u0022js-logout profile-action\u0022\u003E\n                \u0412\u044b\u0445\u043e\u0434\n            \u003C\/div\u003E\n        \u003C\/div\u003E\n    \u003C\/div\u003E\n\u003C\/div\u003E"},
+        brandingClasses = '';
+</script>
+
+<!--/noindex-->
+</body>
+
+</html>

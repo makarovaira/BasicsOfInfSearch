@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title itemprop="name">ÐÑÐºÑÑÑÐ¸Ðµ ÐÑÐµÐ¼Ð»Ñ - Ð²Ð¸ÑÑÑÐ°Ð»ÑÐ½ÑÐ¹ ÑÑÑ Ð¿Ð¾ ÑÐµÐ·Ð¸Ð´ÐµÐ½ÑÐ¸Ð¸ ÐÑÐµÐ·Ð¸Ð´ÐµÐ½ÑÐ° Ð Ð¾ÑÑÐ¸Ð¸</title>
+            <meta name="description" content="">
+            <meta name="keywords" content="">
+            <meta itemprop="inLanguage" content="ru">
+            <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=0.7,user-scalable=0,ya-title=#061a44">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="format-detection" content="telephone=yes"> 
+            <meta name="apple-mobile-web-app-status-bar-style" content="default"> 
+            <link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32"> 
+            <link rel="icon" type="image/png" href="/img/favicon-96x96.png" sizes="96x96">
+            <link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <!-- <meta name="msapplication-TileColor" content="#061a44"> -->
+            <meta name="msapplication-TileImage" content="/static/mstile-144x144.png">
+            <!-- <meta name="theme-color" content="#061a44"> -->
+            <meta name="msapplication-TileColor" content="#091a42">
+            <meta name="theme-color" content="#091A42"/>
+
+            <meta property="og:site_name" content="ÐÑÐµÐ·Ð¸Ð´ÐµÐ½Ñ Ð Ð¾ÑÑÐ¸Ð¸">
+        <script src="/pano/lib/krpano.js"></script>
+    </head>
+    <body>
+        <noscript>
+            <p>ÐÐ»Ñ ÑÐ°Ð±Ð¾ÑÑ Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Ð²ÐºÐ»ÑÑÐ¸ÑÐµ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶ÐºÑ JavaScript Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð¸ÑÐµ ÑÑÑÐ°Ð½Ð¸ÑÑ.</p>
+        </noscript>
+        <div id="app"></div>
+    <script type="text/javascript" src="/app.js?85294744ad08ee1a2ca2"></script></body>
+</html>

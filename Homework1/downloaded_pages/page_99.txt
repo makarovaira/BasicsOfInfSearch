@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html class="" lang="ru">
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.beethoven.ru/sites/default/files/momstory_favicon_0.jpg" type="image/jpeg" />
+  <meta charset="utf-8">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport" content="width=device-width">
+  <meta property="og:image" content="http://beethoven.ru/sites/default/files/Beethoven.jpg" />
+  <title>Бетховен</title>
+  <style type="text/css" media="all">
+@import url("https://www.beethoven.ru/modules/system/system.messages.css?s23mun");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.beethoven.ru/sites/all/modules/footnotes/footnotes.css?s23mun");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/bootstrap.min.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/style.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/stuck.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/touchTouch.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/ihover.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/beethoven.css?s23mun");
+@import url("https://www.beethoven.ru/sites/all/themes/framework/css/jquery.fancybox.min.css?s23mun");
+</style>
+  
+  <!--script src="http://maps.google.com/maps/api/js?sensor=true" type="text/javascript"></script-->
+  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+  <script>
+		 (adsbygoogle = window.adsbygoogle || []).push({
+			  google_ad_client: "ca-pub-7162533980786398",
+			  enable_page_level_ads: true
+		 });
+  </script>
+  
+  <!-- Yandex.RTB -->
+  <script>window.yaContextCb=window.yaContextCb||[]</script>
+  <script src="https://yandex.ru/ads/system/context.js" async></script>
+  
+  <script type="text/javascript" src="https://www.beethoven.ru/sites/all/modules/jquery_update/replace/jquery/1.12/jquery.min.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/misc/jquery-extend-3.4.0.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.12.4"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/misc/drupal.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/misc/form-single-submit.js?v=7.98"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/default/files/languages/ru__mlgwzviy26O_YfKSWS9iDOAcD7vipzqw35SfHBWSOU.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/superfish.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/jquery.equalheights.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/jquery.mobilemenu.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/jquery.easing.1.3.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/tmStickUp.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/jquery.ui.totop.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/touchTouch.jquery.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/jquery.fancybox.min.js?s23mun"></script>
+<script type="text/javascript" src="https://www.beethoven.ru/sites/all/themes/framework/js/script.js?s23mun"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"framework","theme_token":"xnbOGr8QEgsNEuPj0OuVlT6ZAwtF5ialQCxVwHSsxqw","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.12\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"misc\/form-single-submit.js":1,"public:\/\/languages\/ru__mlgwzviy26O_YfKSWS9iDOAcD7vipzqw35SfHBWSOU.js":1,"sites\/all\/themes\/framework\/js\/superfish.js":1,"sites\/all\/themes\/framework\/js\/jquery.equalheights.js":1,"sites\/all\/themes\/framework\/js\/jquery.mobilemenu.js":1,"sites\/all\/themes\/framework\/js\/jquery.easing.1.3.js":1,"sites\/all\/themes\/framework\/js\/tmStickUp.js":1,"sites\/all\/themes\/framework\/js\/jquery.ui.totop.js":1,"sites\/all\/themes\/framework\/js\/touchTouch.jquery.js":1,"sites\/all\/themes\/framework\/js\/jquery.fancybox.min.js":1,"sites\/all\/themes\/framework\/js\/script.js":1},"css":{"modules\/system\/system.messages.css":1,"sites\/all\/modules\/footnotes\/footnotes.css":1,"sites\/all\/themes\/framework\/css\/bootstrap.min.css":1,"sites\/all\/themes\/framework\/css\/style.css":1,"sites\/all\/themes\/framework\/css\/stuck.css":1,"sites\/all\/themes\/framework\/css\/touchTouch.css":1,"sites\/all\/themes\/framework\/css\/ihover.css":1,"sites\/all\/themes\/framework\/css\/beethoven.css":1,"sites\/all\/themes\/framework\/css\/jquery.fancybox.min.css":1}},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+  
+  <script>
+	(function ($) {
+	 $(document).ready(function(){
+	  $().UItoTop({ easingType: 'easeOutQuart' });
+	  $('#stuck_container').tmStickUp({}); //верхнее меню
+	  $('.sf-menu').mobileMenu(); //верхнее меню
+	  $('.gall_item').touchTouch();
+	 });	 
+	}(jQuery));
+  </script>
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+	<!-- Put this script tag to the <head> of your page -->
+	<script type="text/javascript" src="https://vk.com/js/api/openapi.js?159"></script>
+	<script type="text/javascript">
+	  VK.init({apiId: 6722561, onlyWidgets: true});
+	</script>
+
+
+</head>
+
+<body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1 node-type-page i18n-ru" >
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter33235148 = new Ya.Metrika({
+						id:33235148,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/33235148" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+			<div class="caput"> 
+		<div class="container">
+		  <div class="row">
+			<div class="col-lg-12">				
+				<div class="region region-header">
+  <section id="block-locale-language" class="block block-locale">
+
+      
+  <div class="content">
+    <ul class="language-switcher-locale-url"><li class="en first"><a href="/en" class="language-link" xml:lang="en">English</a></li>
+<li class="ru last active"><a href="/" class="language-link active" xml:lang="ru">Русский</a></li>
+</ul>  </div>
+  
+</section> <!-- /.block -->
+<section id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><a href="/search/node"><img id="search-icon" src="/sites/all/themes/framework/images/lupa2.png" /></a>
+<div class="container-inline">
+  <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Поиск </label>
+ <input title="Введите ключевые слова для поиска." placeholder="Поиск" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Поиск" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-BmW-bXRnIDKhQBjacYU7f8w6o2MERNzEH0z7_sPmCXg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+			</div>
+		  </div>
+		</div>
+	</div>
+  
+	<header>
+	  <section id="stuck_container">
+		<div class="container">
+		  <div class="row">
+			<div class="col-lg-12">
+			  <div class="navigation">
+				<nav>				
+				  <ul class="sf-menu">
+<li class="first expanded"><a href="/" title="" class="active">Биография</a><ul>
+<li class="first leaf"><a href="/" title="" class="active">Краткая биография</a></li>
+<li class="leaf"><a href="/people" title="">Современники</a></li>
+<li class="leaf"><a href="/node/159">Основные даты жизни</a></li>
+<li class="leaf"><a href="/versions" title="">Загадки и версии</a></li>
+<li class="leaf"><a href="/anecdotes" title="">Анекдоты и высказывания о Бетховене</a></li>
+<li class="last leaf"><a href="/faq" title="">Часто задаваемые вопросы</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="/works">Сочинения</a><ul>
+<li class="first leaf"><a href="/works" title="">Каталог ( + аудио)</a></li>
+<li class="last leaf"><a href="/versions" title="">Находки и реконструкции</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="/letters" title="">Документы</a><ul>
+<li class="first leaf"><a href="/node/565">Портреты</a></li>
+<li class="leaf"><a href="/letters" title="">Письма</a></li>
+<li class="leaf"><a href="/" title="" class="active">Рукописи</a></li>
+<li class="last leaf"><a href="/node/274">Высказывания и афоризмы</a></li>
+</ul>
+</li>
+<li class="expanded"><a href="/articles" title="">Библиотека</a><ul>
+<li class="first leaf"><a href="/articles" title="">Статьи</a></li>
+<li class="leaf"><a href="/books" title="">Книги</a></li>
+<li class="last leaf"><a href="/books" title="">Фильмы</a></li>
+</ul>
+</li>
+<li class="last expanded"><a href="/beethoven-map">Места</a><ul>
+<li class="first last leaf"><a href="/" title="" class="active">Мехельн - город предков Бетховена</a></li>
+</ul>
+</li>
+</ul>
+				</nav>
+				<div class="clear"></div>
+			  </div>
+			</div>
+		  </div>
+		</div>
+	  </section>
+	</header> <!-- /#header -->
+
+	<!-- Content -->
+	
+	<section class="content">
+	  <div class="container">
+	  
+		<div class="row">
+			<div class="col-lg-9">
+			  
+								
+				<!-- Yandex.RTB R-A-1777492-5 -->
+				<div id="yandex_rtb_R-A-1777492-5"></div>
+				<script>window.yaContextCb.push(()=>{
+				  Ya.Context.AdvManager.render({
+					renderTo: 'yandex_rtb_R-A-1777492-5',
+					blockId: 'R-A-1777492-5'
+				  })
+				})</script>
+				
+				 
+				
+								
+								
+								
+				
+
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="antique">
+<div>
+<div>
+<div>
+<div>Людвиг ван Бетховен (1770 - 1827) - великий немецкий композитор и пианист, один из трех "венских классиков" (наряду с Гайдном и Моцартом). Ключевая фигура переходного периода от классицизма к романтической эпохе в европейской классической музыке, Бетховен и сегодня остается одним из самых известных и исполняемых композиторов в мире. Широкую известность приобрела не только его гениальная музыка, но и очень неординарная личность.</div>
+</div>
+</div>
+</div>
+</div>
+
+<h1>Людвиг ван Бетховен</h1>
+<h2>Краткая биография</h2>
+<!--(См. также <a href="/node/1187">Биографию Бетховена в картинках</a>)-->
+
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image gall_item" href="/img/Beethoven_house_of_birth_Bonn_2008.jpg"><img alt="Дом, в котором родился Бетховен, Bonngasse 20, сейчас это музей Beethoven-Haus" class="thumbimage" src="/img/170px-Beethoven_house_of_birth_Bonn_2008.jpg" style="height:281px; width:170px" /></a>
+<div class="thumbcaption">Дом, в котором родился Бетховен, Bonngasse 20, сейчас это музей Beethoven-Haus</div>
+</div>
+</div>
+
+<p>Людвиг ван Бетховен (Ludwig van Beethoven) родился в 1770 году в Бонне, резиденции Кёльнского курфюрста-архиепископа. Курфюршество Кёльнское входило в состав германо-австрийской Империи &mdash;  конфедеративного государства со столицей в Вене<a class="see-footnote" id="footnoteref1_749jx5t" title="С 1512 по 1806 год она носила официальное название «Священная Римская империя Германской нации» (Вольтер шутил по этому поводу, что она не была «священной», не была «римской» и не была «империей»). Неофициально государство называлось Германией (германские княжества составляли его основу) или просто Империей." href="#footnote1_749jx5t">1</a>. Основателем музыкальной династии был дед композитора Лодевик ван Бетховен (Lodewijk van Beethoven, 1712–1773), фламандский музыкант (бас), к концу жизни занимавший должность капельмейстера - руководителя придворной капеллы. Его единственным сыном был Иоганн ван Бетховен (Johann van Beethoven, 1740—1792) - отец Людвига, названного так в честь деда. Иоганн, как и его отец, служил в капелле в качестве вокалиста (тенора) и подрабатывал, давая уроки игры на скрипке и клавире. В 1767 году он женился на Марии-Магдалине Кеверих (Maria Magdalena Kewerich, 1748—1787), дочери придворного шеф-повара в Кобленце (резиденция Трирского архиепископа), а через три года родился Людвиг ван Бетховен. Ребенок был крещен по католическому обряду 17 декабря 1770 года, поэтому предположительно датой рождения считается 16 декабря. В то время детей крестили на следующий день после рождения, кроме того, известно, что и родные Бетховена, и один из его учителей Иоганн Альбрехтсбергер (Johann Albrechtsberger) отмечали день его рождения именно 16 декабря. Из семи детей Иоганна и Марии-Магдалины ван Бетховен выжили только трое - второй сын Людвиг и два его младших брата - Каспар Карл (Caspar Anton Carl, 1774 - 1815) и Николаус Иоганн (Nikolaus Johann, 1776 - 1848)</p>
+
+<p>Первым учителем музыки Бетховена был его отец. Традиционно считается, что он был весьма суров по отношению к маленькому Людвигу, который "за инструментом частенько бывал в слезах". Однако, например, авторитетный словарь Гроува (Grove Dictionary of Music and Musicians) утверждает, что для этого нет надежных документальных оснований, и что "спекуляции и мифотворчество сделали свое дело". Другими учителями Бетховена в этот период были: органист капеллы Жиль Ван ден Эден (Gilles van den Eeden, ум. 1782), Тобиас Фридрих Пфайфер (Tobias Friedrich Pfeiffer), друг семьи, который занимался с ним на клавире, и Франц Ровантини (Franz Rovantini) - скрипка и альт. Его музыкальный талант проявился рано, поэтому отец пытался сделать из него вундеркинда и второго маленького Моцарта. Так, например, на афише первого публичного выступления в марте 1778 года Людвиг был объявлен шестилетним ребенком, в то время, как ему уже шел восьмой год.</p>
+
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image gall_item" href="/img/483px-Thirteen-year-old_Beethoven.jpg"><img alt="Портрет Бетховена (?) в 13-летнем возрасте, неизвестный боннский мастер (предположительно 1783 год)" class="thumbimage" src="/img/170px-Thirteen-year-old_Beethoven.jpg" style="height:211px; width:170px" /></a>
+<div class="thumbcaption">
+<p>Портрет Бетховена (?) в 13-летнем возрасте, неизвестный боннский мастер (предположительно 1783 год)</p>
+</div>
+</div>
+</div>
+
+<p>Однако, наибольшее влияние на начальное музыкальное образование Бетховена оказал Кристиан Готлиб Нефе (Christian Gottlob Neefe), назначенный органистом придворной капеллы в 1779 году. Нефе занимался с маленьким Людвигом композицией, под его руководством было написано и издано в марте 1783 года первое опубликованное произведение Бетховена - <a href="/node/484">Вариации на тему марша Дресслера</a>. С Нефе Бетховен внимательно изучал «Хорошо темперированный клавир» И.С.Баха и произведения Генделя, знакомился с музыкой старших современников: Ф.Э.Баха, Гайдна и Моцарта. С 10 лет Бетховен уже работаел в качестве помошника органиста, сначала бесплатно, а с 1784 года - как штатный музыкант капеллы, которой в это время руководил капельмейстер Andrea Luchesi. В 1783 году были опубликованы <a href="/node/486">первые три фортепианные сонаты</a> Бетховена, посвященные тогдашнему курфюрсту Максимилиану Фридриху, и получившие общее название "Курфюрст". Максимилиан Фридрих, который умер в 1784 году, вскоре после назначения Бетховена помощником органиста, обратил внимание на одаренного юношу и субсидировал его музыкальные занятия.</p>
+
+<p>Новым курфюрстом стал Максимилиан Франц, младший сын австрийской императрицы Марии Терезии. Его правление отмечено модными в то время реформами в духе философии Просвещения, более широкой поддержкой образования и искусства. Юный Бетховен наверняка находился под впечатлением этих новых веяний, кроме того, на него могли повлиять идеи масонства, поскольку и Нефе, и многие из его окружения были членами местного отделения масонского ордена Иллюминатов.</p>
+
+<p>В марте 1787 Бетховен впервые посетил Вену (точно неизвестно, кто финансировал это путешествие), видимо, в надежде учиться у Моцарта. Неизвестно, встречались ли они на самом деле, однако легенда приписывает Моцарту слова, сказанные в адрес юного Бетховена: "Обратите внимание на него, он всех заставит говорить о себе". Спустя всего две недели Бетховен узнал, что его мать тяжело больна, и поспешил домой. Вскоре после этого Мария-Магдалина умерла от туберкулеза, а отец запил еще сильнее, так что Людвиг остался фактическим главой семьи, ответственным за судьбу двух младших братьев, и был вынужден провести еще около пяти лет в Бонне.</p>
+
+<p>В это время он знакомится с людьми, составившими его окружение на ближайшие годы. Франц Вегелер, молодой студент-медик, познакомил его с семьей фон Брёйнинг, где Бетховен часто бывал, и в качестве учителя музыки для детей, и в качестве друга. Возможно, здесь он находил ту атмосферу семейного тепла, которой ему так не хватало дома. Пребывание в интеллигентной среде стимулировало его интерес к немецкой и античной литературе, философии, так что Бетховен даже поступил в 1789 году вольнослушателем на философский факультет Боннского университета, правда, пребывание его там было недолгим. В это же время Бетховен познакомился с графом Фердинандом фон Вальдштейн (Ferdinand von Waldstein), который всю жизнь оставался его другом и меценатом.</p>
+
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image gall_item" href="/img/800px-Universitat_Bonn.jpg"><img alt="" class="thumbimage" src="/img/220px-Universitat_Bonn.jpg" style="height:79px; width:220px" /></a>
+<div class="thumbcaption">Дворец Кёльнского курфюрста в Бонне</div>
+</div>
+</div>
+
+<p>В 1789 году он получил судебное постановление, по которому половина заработной платы отца переходила непосредственно к нему на содержание семьи. Дополнительным источником дохода для него была служба в оркестре капеллы в качестве альтиста. Бетховен знакомится с итальянскими, французскими и немецкими операми, которые ставились при дворе в это время, среди них были и три оперы Моцарта. Здесь же он подружился со своим сверстником Антоном Рейха (Anton Reicha), флейтистом и скрипачом, а впоследствии известным композитором и теоретиком.</p>
+
+<div class="divider">&nbsp;</div>
+
+<p><a name="bio2"></a></p>
+
+<h2>Начало карьеры в Вене</h2>
+
+<p>В 1792 году с помощью курфюрста Бетховен снова приезжает в Вену. Вероятно, он уже был представлен Йозефу Гайдну в конце 1790, когда тот во время путешествия в Лондон остановился в Бонне на Рождество, и они точно встречались на обратном пути Гайдна из Лондона в Вену в июле 1792. Поэтому вполне вероятно, что тогда же появилась договоренность о том, что Бетховен будет учиться у прославленного мастера. За это время Бетховен написал значительное количество работ (ни одна из них не была тогда опубликована, и большинство не имеют опуса), которые демонстрируют растущее разнообразие и зрелость стиля. Так, в <a href="/node/487">цикле вариаций 1791 года</a> исследователи (Barry Cooper. Beethoven.) находят истоки тем его третьей "Героической" симфонии. В ноябре 1792, на фоне слухов о войне против Франции, Бетховен покидает Бонн и едет в Вену, а вскоре после прибытия узнает, что его отец умер. Граф Вальдштейн в своей прощальной записке Бетховену написал: "Благодаря непрерывному усердию, Вы обретете дух Моцарта из рук Гайдна". Впрочем, вероятно, Бетховен и сам разделял широко распространенное отношение к себе как к преемнику недавно умершего Моцарта, в течение ближайших нескольких лет изучая его работы, и придерживаясь в своем творчестве моцартовского стиля.</p>
+
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a class="image gall_item" href="/img/Beethoven_Riedel_1801.jpg"><img alt="" class="thumbimage" src="/img/170px-Beethoven_Riedel_1801.jpg" style="height:193px; width:170px" /></a>
+<div class="thumbcaption">
+<p>Портрет Бетховена, предположительно 1800 год</p>
+</div>
+</div>
+</div>
+
+<p>В Вене Бетховен далеко не сразу получил известность как композитор, несмотря на то, что он много времени уделял именно занятиям композицией. Под руководством Гайдна он стремился овладеть мастерством контрапункта. Кроме того, он брал уроки игры на скрипке у Игнаца Шуппанцига (Ignaz Schuppanzigh) и уроки итальянского вокального письма у Антонио Сальери. Занятия с Сальери продолжались, как минимум, до 1802, а возможно, и до 1809. После отъезда Гайдна в Англию в 1794, Бетховен должен был вернуться в Бонн, к курфюрсту. Но он предпочел остаться в Вене, продолжая обучение контрапункту у Иоганна Альбрехтсбергера. Он перестал получать стипендию от курфюрста, однако множество венских вельмож уже признали его талант и предложили финансовую поддержку. В их числе были князь Йозеф Франц Лобковиц (Joseph Franz Lobkowitz), князь Карл Лихновский (Karl Lichnowsky) и барон Готфрид ван Свитен (Gottfried van Swieten).</p>
+
+<p>К 1793 году Бетховен уже зарекомендовала себя как импровизатор в салонах знати, кроме того, известно, что он часто исполнял прелюдии и фуги из "Хорошо темперированного клавира" И.С.Баха. Его друг Николай Зимрок начал публиковать его сочинения, и первыми, как считается, были изданы <a href="/node/490">вариации для фортепиано на тему из оперы "Красная Шапочка" (Woo 66)</a>. Бетховен провел весь 1793 год и большую часть 1794 за сочинением, однако, видимо, воздерживался от "официальной" публикации своих работ.</p>
+
+<p>Первое публичное выступление Бетховена в Вене состоялось в марте 1795, где он дебютировал со своим фортепианным концертом. Точно не установлено, был ли это <a href="/node/72">первый</a>, или <a href="/node/73">второй концерт</a>, оба они находились в этот момент в состоянии, близком к завершению, и оба были закончены и опубликованы через несколько лет. Вскоре после этого выступления Бетховен опубликовал свой первый опус - <a href="/node/492">Фортепианные трио Opus 1</a>, с посвящением его тогдашнему покровителю князю Лихновскому. Издание имело финансовый успех, так что прибыли Бетховена было почти достаточно для покрытия его годовых расходов.</p>
+<p><a href="/node/560" class="button">Читать дальше →</a></p>
+
+<div class="divider">&nbsp;</div><!--a href="/node/1189">Лодевик ван Бетховен</a--> <!--(<a href="/node/1188">Фламандские предки Бетховена</a>, <a href="/node/1425">Происхождение фамилии Beethoven</a>, <a href="/node/1220">Памятник маленькому Людвигу и его деду в г. Мехельн</a>, <a href="/node/1230">Дом Михаэля ван Бетховен в Мехельне</a>, <a href="/node/1231">Бывшая школа церковных певцов в Мехельне</a>)-->
+
+
+
+
+<ul class="footnotes"><li class="footnote" id="footnote1_749jx5t"><a class="footnote-label" href="#footnoteref1_749jx5t">1.</a> С 1512 по 1806 год она носила официальное название «Священная Римская империя Германской нации» (Вольтер шутил по этому поводу, что она не была «священной», не была «римской» и не была «империей»). Неофициально государство называлось Германией (германские княжества составляли его основу) или просто Империей.</li>
+</ul>
+</div></div></div>  </div>
+
+      <footer>
+                </footer>
+  
+  
+<section id="block-menu-block-3" class="block block-menu-block">
+
+      
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-biography parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active menu-mlid-1134"><a href="/" title="" class="active">Детство и «боннский» период. Начало карьеры в Вене</a></li>
+<li class="leaf menu-mlid-1136"><a href="/node/560" title="">Музыкальная зрелость</a></li>
+<li class="leaf menu-mlid-1137"><a href="/node/561" title="">Преподавательская деятельность. Аристократические друзья и меценаты</a></li>
+<li class="leaf menu-mlid-1138"><a href="/node/562" title="">Потеря слуха</a></li>
+<li class="leaf menu-mlid-1139"><a href="/node/564" title="">«Героический» период</a></li>
+<li class="leaf menu-mlid-1140"><a href="/node/300" title="">Личные и семейные проблемы. Борьба за опеку</a></li>
+<li class="leaf menu-mlid-1141"><a href="/node/302" title="">Поздние произведения</a></li>
+<li class="leaf menu-mlid-1142"><a href="/node/303" title="">Болезнь и смерть</a></li>
+<li class="leaf menu-mlid-1143"><a href="/node/304" title="">Характер</a></li>
+<li class="leaf menu-mlid-1144"><a href="/node/305" title="">Религиозные взгляды</a></li>
+<li class="leaf menu-mlid-1145"><a href="/node/306" title="">Краткая характеристика музыкального стиля</a></li>
+<li class="leaf menu-mlid-1146"><a href="/node/307" title="">Периодизация творчества</a></li>
+<li class="last leaf menu-mlid-1147"><a href="/node/565" title="">Иконография</a></li>
+</ul></div>
+  </div>
+  
+</section> <!-- /.block -->
+				
+				<!-- Yandex Native Ads C-A-1777492-2 -->
+				<div id="id-C-A-1777492-2"></div>
+				<script>window.yaContextCb.push(()=>{
+				  Ya.Context.AdvManager.renderWidget({
+					renderTo: 'id-C-A-1777492-2',
+					blockId: 'C-A-1777492-2'
+				  })
+				})</script>
+	
+			</div> 	<!-- /#main -->
+			
+			<div class="col-lg-3"> <!-- Right col -->		
+								<aside id="sidebar-second" role="complementary" class="sidebar clearfix">				  
+					<div class="region region-sidebar-second">
+  <section id="block-views-afisha-block" class="block block-views">
+
+        <h2 class="block-title">Афиша</h2>
+    
+  <div class="content">
+    <div class="view view-afisha view-id-afisha view-display-id-block view-dom-id-d24842f6a6161294b7b9ff5e3330fe17">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+          <div class="img"><a href="/node/1663"><img src="https://www.beethoven.ru/sites/default/files/styles/large/public/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-11%20%D0%B2%2000.16.30.png?itok=KvOpwiFP" width="480" height="318" alt="" /></a></div>    
+          <div class="date-text">11 марта, «Чистая Классика – молодым талантам новых регионов»</div>    
+          <div class="snip-text"><a href="/node/1663">«Чистая Классика – молодым талантам новых регионов», пресс-конференция в ТАСС</a></div>    </div>
+  <div class="views-row views-row-2">
+      
+          <div class="img"><a href="/node/1662"><img src="https://www.beethoven.ru/sites/default/files/styles/large/public/IMG_9101.JPG?itok=ZuP5nqnE" width="480" height="320" alt="" /></a></div>    
+          <div class="date-text">19 февраля, Столичная галерея художников</div>    
+          <div class="snip-text"><a href="/node/1662">Искусство, наполненное энергией: в «Столичной галерее художников» пройдет эксклюзивная выставка Елены Карловой</a></div>    </div>
+  <div class="views-row views-row-3">
+      
+          <div class="img"><a href="/node/1661"><img src="https://www.beethoven.ru/sites/default/files/styles/large/public/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-21%20%D0%B2%2023.56.54.png?itok=NypBPsKv" width="480" height="478" alt="" /></a></div>    
+          <div class="date-text">29 января, Армянский музей &quot;Тапан&quot; </div>    
+          <div class="snip-text"><a href="/node/1661">«Недосказанное» в Москве: авторская выставка Арменака Анопьяна</a></div>    </div>
+  <div class="views-row views-row-4">
+      
+          <div class="img"><a href="/node/1660"><img src="https://www.beethoven.ru/sites/default/files/styles/large/public/WhatsApp%20Image%202025-01-18%20at%2012.44.26.jpeg?itok=QpKvbSMo" width="480" height="320" alt="" /></a></div>    
+          <div class="date-text">23 января, Третьяковская галерея </div>    
+          <div class="snip-text"><a href="/node/1660">Евгения Лясникова в Третьяковской галерее: открытие выставки «Искусство в глазах смотрящего» </a></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+  
+</section> <!-- /.block -->
+<section id="block-block-12" class="block block-block">
+
+        <h2 class="block-title">Все произведения</h2>
+    
+  <div class="content">
+    <ul>
+<li><a class="active-trail active" href="/works" title="">По жанрам</a></li>
+<li><a href="/catalog" title="">По № каталога</a></li>
+<li><a href="/works-by-date" title="">По дате написания</a></li>
+</ul>
+  </div>
+  
+</section> <!-- /.block -->
+<section id="block-block-15" class="block block-block">
+
+      
+  <div class="content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Right col -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7162533980786398"
+     data-ad-slot="9072764669"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  </div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-greatest-hits" class="block block-menu">
+
+        <h2 class="block-title">Популярные произведения</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/symphony-5" title="">Симфония №5</a></li>
+<li class="leaf"><a href="/mondscheinsonate" title="">Соната для фортепиано №14 &quot;Лунная&quot;</a></li>
+<li class="leaf"><a href="/node/42" title="">«Эгмонт»</a></li>
+<li class="leaf"><a href="/node/144" title="">К Элизе (&quot;Für Elise&quot;)</a></li>
+<li class="leaf"><a href="/marmotte" title="">Сурок (&quot;Marmotte&quot;)</a></li>
+<li class="leaf"><a href="/node/70" title="">Симфония №9</a></li>
+<li class="leaf"><a href="/node/35" title="">Концерт для фортепиано с оркестром №5 &quot;Император&quot;</a></li>
+<li class="leaf"><a href="/kreutzer-sonate" title="">Крейцерова соната</a></li>
+<li class="leaf"><a href="/node/348" title="">Рондо &quot;Ярость по поводу потерянного гроша&quot;</a></li>
+<li class="leaf"><a href="/node/32" title="">Скрипичный концерт D-dur</a></li>
+<li class="leaf"><a href="/node/16" title="">Соната для фортепиано №23 &quot;Appassionata&quot;</a></li>
+<li class="leaf"><a href="/node/211" title="">Соната для фортепиано №8 &quot;Патетическая&quot;</a></li>
+<li class="last leaf"><a href="/node/349" title="">&quot;Застольная&quot; (Come fill, fill, my good fellow!)</a></li>
+</ul>  </div>
+  
+</section> <!-- /.block -->
+<section id="block-menu-menu-rarities" class="block block-menu">
+
+        <h2 class="block-title">Кунсткамера</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/wellingtons-sieg" title="">Битва при Виттории (Победа Веллингтона)</a></li>
+<li class="leaf"><a href="/node/919" title="">Канон-загадка Ars Longa Vita Brevis</a></li>
+<li class="last leaf"><a href="/node/478" title="">5 пьес для механических часов</a></li>
+</ul>  </div>
+  
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+	
+
+					<!-- Yandex.RTB R-A-1777492-3 -->
+					<div id="yandex_rtb_R-A-1777492-3"></div>
+					<script>window.yaContextCb.push(()=>{
+					  Ya.Context.AdvManager.render({
+						renderTo: 'yandex_rtb_R-A-1777492-3',
+						blockId: 'R-A-1777492-3'
+					  })
+					})</script>	
+
+										
+					
+				</aside>  <!-- /#sidebar-second -->
+			  			
+			</div>
+		</div>
+	  </div>
+	</section> 
+
+ <footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        		<div class="copyright">
+			&copy; 2025		
+        </div>
+		<div class="counter">
+		<!--LiveInternet counter--><script type="text/javascript"><!--
+		document.write("<a href='//www.liveinternet.ru/click' "+
+		"target=_blank><img src='//counter.yadro.ru/hit?t14.1;r"+
+		escape(document.referrer)+((typeof(screen)=="undefined")?"":
+		";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+		screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+		";"+Math.random()+
+		"' alt='' title='LiveInternet: показано число просмотров за 24"+
+		" часа, посетителей за 24 часа и за сегодня' "+
+		"border='0' width='88' height='31'><\/a>")
+		//--></script><!--/LiveInternet-->
+		</div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /#footer -->		
+	
+	<!--script type="text/javascript">
+    var disqus_shortname = 'beethovenru';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script-->	
+	
+	<!--script>
+	var __REPLAIN_ = '6a0ce140-7573-4bb9-8387-de4a026045f4';
+	(function(u){var
+	s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;
+	var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
+	})('https://widget.replain.cc/dist/client.js');
+	</script-->
+</body>
+</html>

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="ru"><![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="ru"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="ru"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="ru"><![endif]-->
+<html lang="ru">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Виртуальный музей живописи Арт Планета Small Bay</title>
+<meta name="description" content="История искусства, живописи, скульптуры, архитектуры. Виртуальный художественно-исторический музей. Древние астрологические пророчества и магические рукописи.">
+<meta name="robots" content="index, all">
+<meta name="viewport" content="width=device-width, user-scalable=yes">
+<link rel="stylesheet" href="astyle.css">
+<link rel="stylesheet" href="amobile.css">
+<link rel="stylesheet" href="amedia.css">
+<link rel="image_src" href="https://smallbay.ru/logobay.jpg">
+<link rel="apple-touch-icon" sizes="57x57" href="https://smallbay.ru/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://smallbay.ru/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://smallbay.ru/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://smallbay.ru/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://smallbay.ru/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://smallbay.ru/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://smallbay.ru/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://smallbay.ru/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://smallbay.ru/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://smallbay.ru/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://smallbay.ru/favicon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://smallbay.ru/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://smallbay.ru/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://smallbay.ru/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://smallbay.ru/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://smallbay.ru/favicon-96x96.png">
+<link rel="icon" type="image/x-icon" sizes="48x48" href="https://smallbay.ru/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" sizes="16x16 32x32 48x48" href="https://smallbay.ru/favicon.ico">
+<link rel="manifest" href="https://smallbay.ru/manifest.json">
+<meta name="msapplication-config" content="https://smallbay.ru/browserconfig.xml">
+<meta name="msapplication-TileImage" content="https://smallbay.ru/ms-icon-144x144.png">
+<script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+<script>
+var adfoxBiddersMap = {"myTarget":"2824183"};
+var adUnits = [{"code":"adfox_170961636743918188","bids":[{"bidder":"myTarget","params":{"placementId":"1749382"}}]},{"code":"adfox_170478815011326982","bids":[{"bidder":"myTarget","params":{"placementId":"1307298"}}]}];
+var userTimeout = 500;
+window.YaHeaderBiddingSettings = {biddersMap:adfoxBiddersMap,adUnits:adUnits,timeout:userTimeout,};
+</script>
+<script>window.yaContextCb = window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script>
+var done=false;
+function launchViewer(filename,x,y)
+{
+if (!done)
+{
+window.imagex=x;
+window.imagey=y;
+window.imagename=filename;
+viewer=window.open('x.html','viewer','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=800,height=2560,left=60,top=20');
+viewer.opener=window;
+viewer.focus();
+}
+return done;
+}
+</script>
+<link rel="canonical" href="https://smallbay.ru/">
+</head>
+
+<body>
+<div class="fullbody mobile">
+<div class="grh"><a href="https://smallbay.ru/" title="Арт Планета Small Bay художественно-исторический музей"><img src="gr.jpg" style="border:0px" alt="Виртуальный музей Арт Планета Small Bay"></a></div>
+<div class="fullground mobile">
+<header>
+<div class="top"></div>
+<div class="fullheader mobile">
+<div class="row">
+<div id="menu">
+<nav>
+<div class="navi">
+<ul>
+<li><a href="https://smallbay.ru/grafica.html">Живопись</a></li><li><a href="https://smallbay.ru/artitaly/artabc.html">Италия</a></li><li><a href="https://smallbay.ru/artholland/">Голландия</a></li><li><a href="https://smallbay.ru/artfrance/">Франция</a></li><li><a href="https://smallbay.ru/artrussia/russian_artists.html">Россия</a></li><li><a href="https://smallbay.ru/article/history.html">История</a></li><li><a href="https://smallbay.ru/astrology.html">Астрология</a></li><li><a href="https://smallbay.ru/magic.html">Магия</a></li><li><a href="https://smallbay.ru/private/goetia1.html">Гоетия</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+
+<!--Container-->
+<div class="textcontainer mobile">
+<div id="content" class="col-3-4">
+<div class="basecontent">
+<div class="row type">
+<div class="title"><h1>Виртуальный музей живописи</h1></div>
+<div class="abcd"><a href="https://smallbay.ru/a-dictionary.html" class="word">А</a>
+<a href="https://smallbay.ru/b-dictionary.html" class="word">Б</a>
+<a href="https://smallbay.ru/v-dictionary.html" class="word">В</a>
+<a href="https://smallbay.ru/g-dictionary.html" class="word">Г</a>
+<a href="https://smallbay.ru/d-dictionary.html" class="word">Д</a>
+<a href="https://smallbay.ru/e-dictionary.html" class="word">Е</a>
+<a href="https://smallbay.ru/zh-dictionary.html" class="word">Ж</a>
+<a href="https://smallbay.ru/th-dictionary.html" class="word">З</a>
+<a href="https://smallbay.ru/i-dictionary.html" class="word">И</a>
+<a href="https://smallbay.ru/k-dictionary.html" class="word">К</a>
+<a href="https://smallbay.ru/l-dictionary.html" class="word">Л</a>
+<a href="https://smallbay.ru/m-dictionary.html" class="word">М</a>
+<a href="https://smallbay.ru/n-dictionary.html" class="word">Н</a>
+<a href="https://smallbay.ru/o-dictionary.html" class="word">О</a>
+<a href="https://smallbay.ru/p-dictionary.html" class="word">П</a>
+<a href="https://smallbay.ru/r-dictionary.html" class="word">Р</a>
+<a href="https://smallbay.ru/s-dictionary.html" class="word">С</a>
+<a href="https://smallbay.ru/t-dictionary.html" class="word">Т</a>
+<a href="https://smallbay.ru/u-dictionary.html" class="word">У</a>
+<a href="https://smallbay.ru/f-dictionary.html" class="word">Ф</a>
+<a href="https://smallbay.ru/h-dictionary.html" class="word">Х</a>
+<a href="https://smallbay.ru/z-dictionary.html" class="word">Ц</a>
+<a href="https://smallbay.ru/ch-dictionary.html" class="word">Ч</a>
+<a href="https://smallbay.ru/sh-dictionary.html" class="word">Ш</a>
+<a href="https://smallbay.ru/ye-dictionary.html" class="word">Э</a>
+<a href="https://smallbay.ru/yu-dictionary.html" class="word">Ю</a>
+<a href="https://smallbay.ru/ya-dictionary.html" class="word">Я</a></div>
+<div class="adoc"><p>Виртуальный художественно-исторический музей Арт Планета Small Bay в интернет-вселенной – уютная бухта для всех, кому интересна информация по вопросам истории искусства и культуры, живописи, скульптуры, архитектуры, фотоискусства, истории астрологии, магии и алхимии. 
+Географически Арт Планета Small Bay состоит из шести частей света – Живопись, Архитектура и Скульптура, Фотоискусство, Библиотека, Астрология, Магия. Собственно, самый крупный материк на этой планете – <span style="color:#800000">Виртуальный музей живописи</span>. Галерея живописи насчитывает 
+более двенадцати тысяч качественных электронных репродукций картин, гравюр и рисунков известных мастеров изобразительного искусства.</p>
+<div style="margin:2px 0px 12px 0px;display:table;text-align:left;"><div style="display:inline-block;min-width:300px;max-width:728px;width:100%;max-height:100px;"><div id="adfox_170961636743918188"></div><script>window.yaContextCb.push(()=>{Ya.adfoxCode.create({ownerId:284433,containerId:'adfox_170961636743918188',params:{pp:'g',ps:'hdkt',p2:'iwqu'}})})</script></div></div></div>
+<div class="pictures">
+<div class="row">
+<div class="col-1-2" style="display:inline-block;min-width:204px;max-width:276px;width:100%;height:auto;">
+<div style="margin:0px 2px 0px 4px;"><table style="width:204px"><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="gothic.html" class="sbti">Эпоха Готики</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="protorenessans.html" class="sbti">Проторенессанс</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="renessitaly.html" class="sbti">Возрождение</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="renessnord.html" class="sbti">Ренессанс</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="mannerism.html" class="sbti">Маньеризм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="baroc.html" class="sbti">Барокко</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="rocoko.html" class="sbti">Рококо</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="classic.html" class="sbti">Классицизм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="romantic.html" class="sbti">Романтизм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="modern.html" class="sbti">Модерн</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="video_pictures.html" class="sbti">Видео</a></td></tr></table></div>
+</div>
+<div class="col-1-2" style="display:inline-block;min-width:204px;max-width:276px;width:100%;height:auto;">
+<div style="margin:0px 2px 0px 4px;"><table style="width:204px"><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="arthistory.html" class="sbti">Историзм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="peredvign.html" class="sbti">Передвижники</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="impress.html" class="sbti">Импрессионизм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="express.html" class="sbti">Экспрессионизм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="surreal.html" class="sbti">Сюрреализм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="hyperrealism.html" class="sbti">Гиперреализм</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="studio.html" class="sbti">Современная<br>живопись</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="photo012.html" class="sbti">Постеры</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="fantasy1.html" class="sbti">Фэнтези</a></td></tr><tr>
+<td style="width:100%;height:28px;text-align:left;text-transform:uppercase"><a href="photo.html" class="sbti">Фото</a></td></tr></table></div>
+</div>
+</div>
+</div>
+<div class="adoc"><p><a href="rusart.html" title="Русская живопись картины художников России"><b>Русская живопись</b></a>. 
+Помимо мировых шедевров и произведений известных художников в музее в большом числе присутствуют картины русских живописцев – Айвазовского, Богаевского, Васнецова, Верещагина, Врубеля, Исачева, Куинджи, Кустодиева, Рериха, Федотова, Серова и других мастеров. 
+Картины художников-передвижников представлены полотнами Крамского, Маковского, Нестерова, Перова, Прянишникова, Репина, Сурикова.</p>
+<p>Наряду с репродукциями картин станковой живописи, в виртуальном музее Арт Планета Small Bay есть и работы великих живописцев в виде фрески, секко, а также картины прерафаэлитов. 
+В музее также представлена монументально-декоративная живопись (росписи Сикстинской капеллы, другие панно), иконопись, гравюры, портреты и рисунки, иллюстрации и плакаты. 
+Присутствует рубрика живописи мастеров <a href="fantasy_gurney.html">фэнтези</a>.</p>
+<p>Континент <a href="https://smallbay.ru/architec.html"><b>Архитектура и Скульптура</b></a> представляют шедевры зодчества от эпохи фараонов до архитектурных ансамблей современного постмодернизма. 
+Статьи о зодчестве – <a href="architec01.html" title="Архитектура и скульптура древнего мира">Древний Египет</a> и Месопотамия, <a href="architec02.html" title="Архитектура и скульптура Эллады и Рима">Антика</a>, Каролинги,
+<a href="architec03.html" title="Архитектура Византии и древней Руси">Византия</a>, Древняя Русь, <a href="architec041.html" title="Архитектура романского стиля">Романское искусство</a> и <a href="architec04.html" title="Архитектура и скульптура готики">Готика</a>, <a href="architec06.html" title="Архитектура и скульптура ренессанса барокко рококо">Ренессанс</a>, Барокко, 
+Рококо, <a href="architec07.html" title="Скульптура классицизма и ампира">Классицизм</a>, Ампир, Историзм, <a href="architec082.html" title="Скульптура стиля модерн">Модерн</a>, Деконструктивизм, <a href="architec09.html" title="Архитектура постмодернизма и деконструктивизма">Постмодернизм</a> и другие. Этот материк застроен зданиями почти всех архитектурных стилей и направлений. Присутствует также русское деревянное зодчество. 
+Скульптура представлена работами Гиберти, Микеланджело, Бернини, Канова, Джамболонья, Карпо, Родена, Майоля и других мастеров.</p>
+<div style="margin:2px 0px 12px 0px;display:table;text-align:left;"><div style="width:300px;max-height:300px;overflow:hidden;"><div id="adfox_170478815011326982"></div><script>window.yaContextCb.push(()=>{Ya.adfoxCode.create({ownerId:284433,containerId:'adfox_170478815011326982',params:{pp:'g',ps:'hdkt',p2:'itzm'}})})</script></div></div>
+<p>Часть света <b><span style="color:#800000">Фотоискусство</span></b> или Фото Арт посвящена информации о работах знаменитых мастеров классической фотографии, стиля 
+магического реализма и гламурного сюрреализма. Статьи о таких фотографах как: Ричард Аведон, Хейн Лэсс, Хельмут Ньютон, Ян Саудек, Дэвид Ла Шапель и других.
+Здесь же находятся страницы с фотоснимками НЛО, планет, монстров, волков, оборотней; <a href="photo04.html" title="История и альбомы великих групп хард-рока">история хард-рока</a>, 
+галерея и фото альбомов официальной дискографии знаменитых рок-групп; постеры, киноафиши  и <a href="alfred_hitchcock_posters.html">плакаты к фильмам</a>; забавная галерея – шаржи знаменитостей и карикатуры.</p>
+<p><b><span style="color:#800000">Библиотека</span></b> проекта представлена онлайн-публикациями и живописными книгами формата chm различных жанров – классическая проза, 
+приключения, <a href="https://smallbay.ru/private/" title="Валерий Хаагенти На линии Небес и Подземелья">фантастика</a>, мистика, исторические романы, старинные труды по теософии, биографии великих алхимиков, сочинения по истории колдовства и оккультизма (<a href="private/artdemons1.html" title="Искусство колдовства Поль Хассон">Искусство колдовства</a>), трактаты о символике живописи и <a href="private/chertovskaya-pravda-1.html" style="color:#000000">юмористические рассказы</a>.
+На сайте также размещена информация о музеях и галереях картин, скульптур, декора и т.п.</p>
+<p>На планете в рубриках <b><span style="color:#800000">Магия</span></b> и <b><span style="color:#800000">Астрология</span></b> собран довольно большой материал: <a href="lustrio.html" title="История астрологии">История астрологии</a>, <a href="alchemia.html" title="История алхимии и великие алхимики">История алхимии</a>, статьи о поисках эликсира <a href="magic1.html" title="История философского камня">История философского камня</a>, 
+историческое эссе <a href="magic3.html" title="Ведьмы и Инквизиция История ведьм">Ведьмы и Инквизиция</a>, пророк <a href="nostradamus1.html" title="Биография и пророчества астролога Мишеля Нострадамуса">Мишель Нострадамус</a>, 
+русский прорицатель монах <a href="avel1.html" title="Пророчества Авеля о русских царях и российском государстве">Авель Вещий</a>, 
+апокрифические евангелия и <a href="private/judas.html" title="Евангелие Иуды Искариота">Евангелие от Иуды Искариота</a>. 
+Также на сайте можно найти средневековые манускрипты о магии (Лемегетон Гоетия Магические ключи царя Соломона).</p>
+<p>Собственно, наш проект является двойной планетой. Рядом вращается Планета Gods Bay или <b><span style="color:#800000">Энциклопедия мифологии</span></b> древних цивилизаций, 
+которая иллюстрирована великолепными картинами известных художников, посвященными мифам, богам и героям древних миров. Красивая планета, но у нее только один материк – Мифология. 
+Авторы желают всем посетителям приятных путешествий по этим планетам!</p>
+</div>
+</div>
+</div>
+</div>
+<div id="sidebar" class="col-1-4">
+<div class="sb">
+<div class="sb250">
+<div style="margin:0px 2px 8px 8px;text-align:left;text-transform:uppercase"><a href="https://smallbay.ru/biblio.html" class="sbtt">Библиотека</a><br>
+<a href="https://smallbay.ru/gods/" class="sbtt">Мифология</a><br>
+<a href="https://smallbay.ru/autograf.html" class="sbtt">Контакты</a><br>
+<a href="https://smallbay.ru/default.html" class="sbtt">Карта</a></div>
+<div style="display:inline-block;min-width:154px;max-width:304px;width:100%;height:auto;text-align:center;">
+<div style="margin:0px 2px 20px 2px"><img src="logobay.jpg" style="max-width:300px;height:auto;border:0px" alt="Арт Планета Small Bay" title="Арт Планета Small Bay художественно-исторический музей"></div>
+<div style="margin:0px 2px 0px 2px"><iframe src="https://smallbay.ru/frame242.html" style="display:inline-block;min-width:160px;max-width:240px;width:100%;height:420px;border:none;" title="Artists Paintings Frame"></iframe></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="mobile">
+<div class="footfull">
+<div class="copyright"><p>Электронные репродукции картин и других графических произведений мастеров изобразительного искусства, а также электронные копии авторских фотографий 
+на сайте smallbay.ru предназначены для ознакомления в информационных, образовательных, учебных и культурных целях.</p>
+<p>О политике конфиденциальности. На этом сайте отключены комментарии, форма авторизации и, главное, мы не собираем данные о cookie-файлах посетителей. 
+Если обнаружите ошибку в статьях или дизайне сайта, просьба сообщить, контакты <script>
+post = "smallbay";
+town = "mail";
+domn = "ru";
+document.write('<a href=\"mailto:'+post+'@'+town+'.'+domn+'\">');
+document.write(post+'@'+town+'.'+domn+'<\/a>');</script></p>
+<p style="text-align:left">При использовании материалов упоминание сайта приветствуется!</p>
+<p style="text-align:left">Copyright © 2004-2025</p>
+<p style="text-align:left"><script>
+document.write('<a href="#top"><img src="https://counter.yadro.ru/hit?t39.16;r'+escape(document.referrer)+((typeof(screen)=='undefined')?'':';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+';h'+escape(document.title.substring(0,150))+';'+Math.random()+'" alt="LiveInternet" title="LiveInternet" style="width:31px;height:31px;border:0;"><\/a>')
+</script></p></div></div></div>
+</footer><div style="margin:0 auto;padding:0px;background:url(https://smallbay.ru/grandbottom.png);height:35px;"></div>
+<div style="max-height:120px;overflow-y:hidden;"><script>setTimeout(function() {window.yaContextCb.push(()=>{Ya.Context.AdvManager.render({"blockId":"R-A-236080-31","type":"floorAd","platform":"touch"})})},7000);</script></div></div>
+</body></html>
