@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поисковик по TF-IDF</title>
+    <style>
+        body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
+        input[type=text] { width: 60%; padding: 0.5rem; }
+        button { padding: 0.5rem 1rem; }
+        .result { margin-top: 2rem; }
+        .card { background: white; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .score { color: gray; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Поиск по корпусу (TF-IDF)</h1>
+    <form method="post">
+        <input type="text" name="query" placeholder="Введите запрос..." value="{{ query }}" required>
+        <button type="submit">Искать</button>
+    </form>
+
+    {% if results %}
+        <div class="result">
+            <h2>Результаты:</h2>
+            {% for r in results %}
+                <div class="card">
+                    <div><strong>{{ r.filename }}</strong></div>
+                    <div class="score">Релевантность: {{ r.score }}</div>
+                    <div><a href="{{ r.url }}" target="_blank">{{ r.url }}</a></div>
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+</body>
+</html>
